@@ -1,69 +1,52 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-
-<!-- <!DOCTYPE Tags SYSTEM "matroskatags.dtd"> -->
-
+﻿<?xml version="1.0"?>
+<!-- <!DOCTYPE Chapters SYSTEM "matroskachapters.dtd"> -->
 <Chapters>
   <EditionEntry>
-    <EditionUID>1365890963</EditionUID>
-    <EditionFlagHidden>0</EditionFlagHidden>
-    <EditionFlagDefault>0</EditionFlagDefault>
-    <EditionFlagOrdered>1</EditionFlagOrdered>
+    <EditionFlagDefault>1</EditionFlagDefault>
+    <EditionUID>763850040408693951</EditionUID>
     <ChapterAtom>
-      <ChapterUID>3069170062</ChapterUID>
+      <ChapterUID>17305907671890493454</ChapterUID>
       <ChapterTimeStart>00:00:00.000000000</ChapterTimeStart>
-      <ChapterTimeEnd>00:01:43.437000000</ChapterTimeEnd>
-      <ChapterFlagEnabled>1</ChapterFlagEnabled>
-      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterTimeEnd>00:01:42.102100000</ChapterTimeEnd>
       <ChapterDisplay>
-        <ChapterString>Opening</ChapterString>
-        <ChapterLanguage>eng</ChapterLanguage>
+        <ChapterString>OP</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
       </ChapterDisplay>
     </ChapterAtom>
     <ChapterAtom>
-      <ChapterUID>4125095100</ChapterUID>
-      <ChapterTimeStart>00:01:43.437000000</ChapterTimeStart>
-      <ChapterTimeEnd>00:09:49.005000000</ChapterTimeEnd>
-      <ChapterFlagEnabled>1</ChapterFlagEnabled>
-      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterUID>3225343465027968148</ChapterUID>
+      <ChapterTimeStart>00:01:42.102100000</ChapterTimeStart>
+      <ChapterTimeEnd>00:09:49.047000000</ChapterTimeEnd>
       <ChapterDisplay>
         <ChapterString>Part A</ChapterString>
-        <ChapterLanguage>eng</ChapterLanguage>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
       </ChapterDisplay>
     </ChapterAtom>
     <ChapterAtom>
-      <ChapterUID>465058201</ChapterUID>
-      <ChapterTimeStart>00:09:49.005000000</ChapterTimeStart>
-      <ChapterTimeEnd>00:21:44.011000000</ChapterTimeEnd>
-      <ChapterFlagEnabled>1</ChapterFlagEnabled>
-      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterUID>1986464118510894708</ChapterUID>
+      <ChapterTimeStart>00:09:49.047000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:21:44.553000000</ChapterTimeEnd>
       <ChapterDisplay>
         <ChapterString>Part B</ChapterString>
-        <ChapterLanguage>eng</ChapterLanguage>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
       </ChapterDisplay>
     </ChapterAtom>
     <ChapterAtom>
-      <ChapterUID>3732075396</ChapterUID>
-      <ChapterTimeStart>00:21:44.011000000</ChapterTimeStart>
-      <ChapterTimeEnd>00:23:13.601000000</ChapterTimeEnd>
-      <ChapterFlagEnabled>1</ChapterFlagEnabled>
-      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterUID>1014946658479873843</ChapterUID>
+      <ChapterTimeStart>00:21:44.553000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:23:15.093800000</ChapterTimeEnd>
       <ChapterDisplay>
-        <ChapterString>Ending</ChapterString>
-        <ChapterLanguage>eng</ChapterLanguage>
+        <ChapterString>ED</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
       </ChapterDisplay>
     </ChapterAtom>
     <ChapterAtom>
-      <ChapterUID>1991954358</ChapterUID>
-      <ChapterTimeStart>00:00:00.000000000</ChapterTimeStart>
-      <ChapterTimeEnd>00:00:14.973000000</ChapterTimeEnd>
-      <ChapterFlagEnabled>1</ChapterFlagEnabled>
-      <ChapterFlagHidden>0</ChapterFlagHidden>
-      <ChapterSegmentUID format="hex">
-        b3 30 b4 38 ab 6d 7b 07 96 5b 71 17 89 ba aa 77
-      </ChapterSegmentUID>
+      <ChapterUID>3664377771859199239</ChapterUID>
+      <ChapterTimeStart>00:23:14.977000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:23:31.836000000</ChapterTimeEnd>
       <ChapterDisplay>
-        <ChapterString>Chidori's Judgement - 02</ChapterString>
-        <ChapterLanguage>eng</ChapterLanguage>
+        <ChapterString>Chidori's Judgement</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
       </ChapterDisplay>
     </ChapterAtom>
   </EditionEntry>

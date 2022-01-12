@@ -2,47 +2,51 @@
 <!-- <!DOCTYPE Chapters SYSTEM "matroskachapters.dtd"> -->
 <Chapters>
   <EditionEntry>
-    <EditionFlagHidden>0</EditionFlagHidden>
-    <EditionFlagDefault>0</EditionFlagDefault>
-    <EditionUID>3424957826</EditionUID>
+    <EditionFlagDefault>1</EditionFlagDefault>
+    <EditionUID>7928594954377326814</EditionUID>
     <ChapterAtom>
-      <ChapterUID>3227866250</ChapterUID>
+      <ChapterUID>8141732626914739241</ChapterUID>
       <ChapterTimeStart>00:00:00.000000000</ChapterTimeStart>
-      <ChapterFlagHidden>0</ChapterFlagHidden>
-      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterTimeEnd>00:01:56.116233333</ChapterTimeEnd>
       <ChapterDisplay>
-        <ChapterString>Intro</ChapterString>
-        <ChapterLanguage>eng</ChapterLanguage>
+        <ChapterString>Avant</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
       </ChapterDisplay>
     </ChapterAtom>
     <ChapterAtom>
-      <ChapterUID>3601509267</ChapterUID>
-      <ChapterTimeStart>00:00:28.487000000</ChapterTimeStart>
-      <ChapterFlagHidden>0</ChapterFlagHidden>
-      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterUID>11912670131888062543</ChapterUID>
+      <ChapterTimeStart>00:01:56.116233333</ChapterTimeStart>
+      <ChapterTimeEnd>00:11:09.085000000</ChapterTimeEnd>
       <ChapterDisplay>
-        <ChapterString>Title</ChapterString>
-        <ChapterLanguage>eng</ChapterLanguage>
+        <ChapterString>Part A</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
       </ChapterDisplay>
     </ChapterAtom>
     <ChapterAtom>
-      <ChapterUID>547114420</ChapterUID>
-      <ChapterTimeStart>00:11:09.002000000</ChapterTimeStart>
-      <ChapterFlagHidden>0</ChapterFlagHidden>
-      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterUID>11236257024607798694</ChapterUID>
+      <ChapterTimeStart>00:11:09.085000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:21:44.303233333</ChapterTimeEnd>
       <ChapterDisplay>
         <ChapterString>Part B</ChapterString>
-        <ChapterLanguage>eng</ChapterLanguage>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
       </ChapterDisplay>
     </ChapterAtom>
     <ChapterAtom>
-      <ChapterUID>2580015002</ChapterUID>
-      <ChapterTimeStart>00:21:29.705000000</ChapterTimeStart>
-      <ChapterFlagHidden>0</ChapterFlagHidden>
-      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterUID>4500354617261075629</ChapterUID>
+      <ChapterTimeStart>00:21:44.303233333</ChapterTimeStart>
+      <ChapterTimeEnd>00:23:15.060000000</ChapterTimeEnd>
       <ChapterDisplay>
-        <ChapterString>Ending</ChapterString>
-        <ChapterLanguage>eng</ChapterLanguage>
+        <ChapterString>ED</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>9885850455647585728</ChapterUID>
+      <ChapterTimeStart>00:23:15.060000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:23:31.457000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>Chidori's Judgement</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
       </ChapterDisplay>
     </ChapterAtom>
   </EditionEntry>
