@@ -46,12 +46,12 @@ Comment: 0,0:08:15.30,0:08:17.39,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.8\c&H1C1C1
 Comment: 0,0:08:15.30,0:08:17.39,Signs,,0,0,0,,{\frz23\fax-0.07\blur0.8\c&H1C1C1C&\pos(383.596,200.134)}Age Fifteen to Marriage Age
 Comment: 0,0:08:19.01,0:08:19.85,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.8\c&H1C1C1C&\pos(294.445,101.856)\iclip(m 332.875 30.125 l 322.875 62.25 301.875 95.375 305.875 96.375 311.875 103.375 332.875 104.375 286.75 155.625 269.75 194.875 297.875 182.75 339 140.625 342 153.625 385.125 144.625 445.25 138.625 499.375 98.375 526.5 83.375 565.625 41.125 591.625 14 336 1)}Targets: Female Members
 Comment: 0,0:08:19.01,0:08:19.85,Signs,,0,0,0,,{\frz23\fax-0.07\blur0.8\c&H1C1C1C&\pos(383.594,200.137)\iclip(m 332.875 30.125 l 322.875 62.25 301.875 95.375 305.875 96.375 311.875 103.375 332.875 104.375 286.75 155.625 269.75 194.875 297.875 182.75 339 140.625 342 153.625 385.125 144.625 445.25 138.625 499.375 98.375 526.5 83.375 565.625 41.125 591.625 14 336 1)}Age Fifteen to Marriage Age
-Comment: 0,0:15:20.39,0:15:20.56,Signs,,0,0,0,,{\be1\fnComicCity\c&H14181B&\clip(-68,333,333,478)\pos(361.513,424.777)}"I don't need\Na big brother".
-Comment: 0,0:15:20.56,0:15:21.10,Signs,,0,0,0,,{\be1\fnComicCity\c&H14181B&\clip(-68,333,333,478)\pos(187.14,424.777)}"I don't need\Na big brother".
-Comment: 0,0:15:21.06,0:15:21.10,Signs,,0,0,0,,{\be1\fnComicCity\c&H14181B&\clip(-68,333,333,478)\pos(187.144,424.777)}"I don't need\Na big brother".
-Comment: 0,0:15:22.06,0:15:22.73,Signs,,0,0,0,,{\be1\fnComicCity\c&H14181B&\clip(-68,333,333,478)\pos(187.144,424.777)}"I don't need\Na big brother".
-Comment: 0,0:15:22.40,0:15:22.86,Signs,,0,0,0,,{\be1\fnComicCity\c&H14181B&\pos(205.576,424.777)\clip(-68,333,333,478)}The father's\Nfree translation.
-Comment: 0,0:15:26.98,0:15:27.36,Signs,,0,0,0,,{\be1\fnComicCity\c&H14181B&\t(21,396,\c&HB8C2C3&)\pos(185.52,424.777)}"I'm happy as long\Nas you're here, Dad".
+Comment: 0,0:15:20.39,0:15:20.56,Signs,,0,0,0,,{\be1\fnComicCity\c&H262C2E&\clip(-68,333,333,478)\pos(361.513,424.777)}"I don't need\Na big brother".
+Comment: 0,0:15:20.56,0:15:21.10,Signs,,0,0,0,,{\be1\fnComicCity\c&H262C2E&\clip(-68,333,333,478)\pos(187.14,424.777)}"I don't need\Na big brother".
+Comment: 0,0:15:21.06,0:15:21.10,Signs,,0,0,0,,{\be1\fnComicCity\c&H262C2E&\clip(-68,333,333,478)\pos(187.144,424.777)}"I don't need\Na big brother".
+Comment: 0,0:15:22.06,0:15:22.73,Signs,,0,0,0,,{\be1\fnComicCity\c&H262C2E&\clip(-68,333,333,478)\pos(187.144,424.777)}"I don't need\Na big brother".
+Comment: 0,0:15:22.40,0:15:22.86,Signs,,0,0,0,,{\be1\fnComicCity\c&H262C2E&\pos(205.576,424.777)\clip(-68,333,333,478)}The father's\Nfree translation.
+Comment: 0,0:15:26.98,0:15:27.36,Signs,,0,0,0,,{\be1\fnComicCity\c&H262C2E&\t(21,396,\c&HB8C2C3&)\pos(185.52,424.777)}"I'm happy as long\Nas you're here, Dad".
 Comment: 0,0:15:27.03,0:15:27.40,Signs,,0,0,0,,{\frz11\fs20.084\c&H3045AE&\pos(292.193,325.219)\t(21,396,\c&HB8C2C3&)\blur0.502}Zenzo
 Comment: 0,0:05:15.92,0:05:18.38,TL Note,,0,0,0,,soumen = cold white noodles, eaten during summer
 Comment: 0,0:08:07.50,0:08:10.09,TL Note,,0,0,0,,Tanabata = festival of the Weaver, celebrated on July 7th
@@ -247,69 +247,69 @@ Dialogue: 0,0:08:39.49,0:08:43.50,Signs,,0,0,0,,{\fs36.109\frz-4\c&H292A2E&\blur
 Dialogue: 0,0:08:39.49,0:08:43.50,Signs,,0,0,0,,{\fs36.109\frz-4\c&H292A2E&\blur0.8\fnBray Notes\pos(346.002,167.077)}younger
 Dialogue: 0,0:08:39.49,0:08:43.50,Signs,,0,0,0,,{\fs36.109\frz-4\blur0.8\c&H292A2E&\fnBray Notes\pos(335.533,191.766)}sister.
 Dialogue: 0,0:08:39.49,0:08:43.50,Signs,,0,0,0,,{\fs36.109\frz-5\c&H292A2E&\blur0.8\pos(317.666,334.153)\fnBray Notes}Odagiri
-Dialogue: 0,0:15:20.39,0:15:20.44,Signs,,0,0,0,,{\be1\fnComicCity\c&H14181B&\pos(382.231,424.777)\clip(m 286.75 367.5 l 331.875 367.5 342 407.75 b 329.875 426.75 323.875 451.875 318.875 467 l 286.75 476)}"I don't need\Na big brother".
-Dialogue: 0,0:15:20.44,0:15:20.48,Signs,,0,0,0,,{\be1\fnComicCity\c&H14181B&\pos(378.219,424.777)\clip(m 290.875 365.5 l 337 365.5 338 402.625 b 333.875 421.75 328.875 439.875 323.875 465 l 290.875 474)}"I don't need\Na big brother".
-Dialogue: 0,0:15:20.48,0:15:20.52,Signs,,0,0,0,,{\be1\fnComicCity\c&H14181B&\clip(m 291.875 365.5 l 337 365.5 347 405.75 b 337 424.75 331.875 442.875 323.875 465 l 291.875 474)\pos(370.799,424.777)}"I don't need\Na big brother".
-Dialogue: 0,0:15:20.52,0:15:20.56,Signs,,0,0,0,,{\be1\fnComicCity\c&H14181B&\clip(-68,333,333,478)\pos(361.513,424.777)}"I don't need\Na big brother".
+Dialogue: 0,0:15:20.39,0:15:20.44,Signs,,0,0,0,,{\be1\fnComicCity\c&H262C2E&\pos(382.231,424.777)\clip(m 286.75 367.5 l 331.875 367.5 342 407.75 b 329.875 426.75 323.875 451.875 318.875 467 l 286.75 476)}"I don't need\Na big brother".
+Dialogue: 0,0:15:20.44,0:15:20.48,Signs,,0,0,0,,{\be1\fnComicCity\c&H262C2E&\pos(378.219,424.777)\clip(m 290.875 365.5 l 337 365.5 338 402.625 b 333.875 421.75 328.875 439.875 323.875 465 l 290.875 474)}"I don't need\Na big brother".
+Dialogue: 0,0:15:20.48,0:15:20.52,Signs,,0,0,0,,{\be1\fnComicCity\c&H262C2E&\clip(m 291.875 365.5 l 337 365.5 347 405.75 b 337 424.75 331.875 442.875 323.875 465 l 291.875 474)\pos(370.799,424.777)}"I don't need\Na big brother".
+Dialogue: 0,0:15:20.52,0:15:20.56,Signs,,0,0,0,,{\be1\fnComicCity\c&H262C2E&\clip(-68,333,333,478)\pos(361.513,424.777)}"I don't need\Na big brother".
 Dialogue: 1,0:15:20.39,0:15:20.44,Signs,,0,0,0,,{\p1\blur5.021\c&HCBD1CF&\pos(334.24,435.824)\clip(m 286 367 l 331 367 342 407 b 334 431 323 451 318 467 l 286 476)}m 0 0 l 70.25 0 70.25 100.375 0 100.375
 Dialogue: 1,0:15:20.44,0:15:20.48,Signs,,0,0,0,,{\p1\blur5.021\c&HCBD1CF&\pos(334.24,435.824)\clip(m 291.875 365.5 l 337 365.5 347 405.75 b 337 424.75 331.875 442.875 323.875 465 l 291.875 474)}m 0 0 l 70.25 0 70.25 100.375 0 100.375
 Dialogue: 1,0:15:20.48,0:15:20.52,Signs,,0,0,0,,{\p1\blur5.021\c&HCBD1CF&\pos(334.24,435.824)\clip(m 295.875 365.5 l 341 365.5 351 405.75 b 341 424.75 336 442.875 327.875 465 l 295.875 474)}m 0 0 l 70.25 0 70.25 100.375 0 100.375
 Dialogue: 1,0:15:20.52,0:15:20.56,Signs,,0,0,0,,{\p1\blur5.021\c&HCBD1CF&\pos(334.24,435.824)\clip(m 286.75 367.5 l 331.875 367.5 342 407.75 b 328.875 425.75 321.875 451.875 318.875 467 l 286.75 476)}m 0 0 l 70.25 0 70.25 100.375 0 100.375
-Dialogue: 0,0:15:20.56,0:15:20.60,Signs,,0,0,0,,{\be1\fnComicCity\c&H14181B&\clip(-68,333,333,478)\pos(350.121,424.777)}"I don't need\Na big brother".
-Dialogue: 0,0:15:20.60,0:15:20.64,Signs,,0,0,0,,{\be1\fnComicCity\c&H14181B&\clip(-68,333,333,478)\pos(336.573,424.777)}"I don't need\Na big brother".
-Dialogue: 0,0:15:20.64,0:15:20.69,Signs,,0,0,0,,{\be1\fnComicCity\c&H14181B&\clip(-68,333,333,478)\pos(322.915,424.777)}"I don't need\Na big brother".
-Dialogue: 0,0:15:20.69,0:15:20.73,Signs,,0,0,0,,{\be1\fnComicCity\c&H14181B&\clip(-68,333,333,478)\pos(309.347,424.777)}"I don't need\Na big brother".
-Dialogue: 0,0:15:20.73,0:15:20.77,Signs,,0,0,0,,{\be1\fnComicCity\c&H14181B&\clip(-68,333,333,478)\pos(295.779,424.777)}"I don't need\Na big brother".
-Dialogue: 0,0:15:20.77,0:15:20.81,Signs,,0,0,0,,{\be1\fnComicCity\c&H14181B&\clip(-68,333,333,478)\pos(282.18,424.777)}"I don't need\Na big brother".
-Dialogue: 0,0:15:20.81,0:15:20.85,Signs,,0,0,0,,{\be1\fnComicCity\c&H14181B&\clip(-68,333,333,478)\pos(268.642,424.777)}"I don't need\Na big brother".
-Dialogue: 0,0:15:20.85,0:15:20.89,Signs,,0,0,0,,{\be1\fnComicCity\c&H14181B&\clip(-68,333,333,478)\pos(255.064,424.777)}"I don't need\Na big brother".
-Dialogue: 0,0:15:20.89,0:15:20.94,Signs,,0,0,0,,{\be1\fnComicCity\c&H14181B&\clip(-68,333,333,478)\pos(241.426,424.777)}"I don't need\Na big brother".
-Dialogue: 0,0:15:20.94,0:15:20.98,Signs,,0,0,0,,{\be1\fnComicCity\c&H14181B&\clip(-68,333,333,478)\pos(227.858,424.777)}"I don't need\Na big brother".
-Dialogue: 0,0:15:20.98,0:15:21.02,Signs,,0,0,0,,{\be1\fnComicCity\c&H14181B&\clip(-68,333,333,478)\pos(214.23,424.777)}"I don't need\Na big brother".
-Dialogue: 0,0:15:21.02,0:15:21.10,Signs,,0,0,0,,{\be1\fnComicCity\c&H14181B&\clip(-68,333,333,478)\pos(200.662,424.777)}"I don't need\Na big brother".
-Dialogue: 0,0:15:21.10,0:15:22.06,Signs,,0,0,0,,{\be1\fnComicCity\c&H14181B&\clip(-68,333,333,478)\pos(187.144,424.777)}"I don't need\Na big brother".
-Dialogue: 0,0:15:22.06,0:15:22.10,Signs,,0,0,0,,{\be1\fnComicCity\c&H14181B&\clip(-68,333,333,478)\pos(187.144,424.777)}"I don't need\Na big brother".
-Dialogue: 0,0:15:22.10,0:15:22.15,Signs,,0,0,0,,{\be1\fnComicCity\c&H14181B&\clip(-68,333,333,478)\pos(168.933,424.777)}"I don't need\Na big brother".
-Dialogue: 0,0:15:22.15,0:15:22.19,Signs,,0,0,0,,{\be1\fnComicCity\c&H14181B&\clip(-68,333,333,478)\pos(150.542,424.777)}"I don't need\Na big brother".
-Dialogue: 0,0:15:22.19,0:15:22.23,Signs,,0,0,0,,{\be1\fnComicCity\c&H14181B&\clip(-68,333,333,478)\pos(132.16,424.777)}"I don't need\Na big brother".
-Dialogue: 0,0:15:22.23,0:15:22.27,Signs,,0,0,0,,{\be1\fnComicCity\c&H14181B&\clip(-68,333,333,478)\pos(113.688,424.777)}"I don't need\Na big brother".
-Dialogue: 0,0:15:22.27,0:15:22.31,Signs,,0,0,0,,{\be1\fnComicCity\c&H14181B&\clip(-68,333,333,478)\pos(95.367,424.777)}"I don't need\Na big brother".
-Dialogue: 0,0:15:22.31,0:15:22.35,Signs,,0,0,0,,{\be1\fnComicCity\c&H14181B&\clip(-68,333,333,478)\pos(76.875,424.777)}"I don't need\Na big brother".
-Dialogue: 0,0:15:22.35,0:15:22.40,Signs,,0,0,0,,{\be1\fnComicCity\c&H14181B&\clip(-68,333,333,478)\pos(58.554,424.777)}"I don't need\Na big brother".
-Dialogue: 0,0:15:22.40,0:15:22.44,Signs,,0,0,0,,{\be1\fnComicCity\c&H14181B&\clip(-68,333,333,478)\pos(40.112,424.777)}"I don't need\Na big brother".
-Dialogue: 0,0:15:22.44,0:15:22.48,Signs,,0,0,0,,{\be1\fnComicCity\c&H14181B&\clip(-68,333,333,478)\pos(21.701,424.777)}"I don't need\Na big brother".
-Dialogue: 0,0:15:22.48,0:15:22.52,Signs,,0,0,0,,{\be1\fnComicCity\c&H14181B&\clip(-68,333,333,478)\pos(3.379,424.777)}"I don't need\Na big brother".
-Dialogue: 0,0:15:22.52,0:15:22.56,Signs,,0,0,0,,{\be1\fnComicCity\c&H14181B&\clip(-68,333,333,478)\pos(-15.082,424.777)}"I don't need\Na big brother".
-Dialogue: 0,0:15:22.56,0:15:22.60,Signs,,0,0,0,,{\be1\fnComicCity\c&H14181B&\clip(-68,333,333,478)\pos(-33.444,424.777)}"I don't need\Na big brother".
-Dialogue: 0,0:15:22.60,0:15:22.65,Signs,,0,0,0,,{\be1\fnComicCity\c&H14181B&\clip(-68,333,333,478)\pos(-51.855,424.777)}"I don't need\Na big brother".
-Dialogue: 0,0:15:22.65,0:15:22.69,Signs,,0,0,0,,{\be1\fnComicCity\c&H14181B&\clip(-68,333,333,478)\pos(-70.337,424.777)}"I don't need\Na big brother".
+Dialogue: 0,0:15:20.56,0:15:20.60,Signs,,0,0,0,,{\be1\fnComicCity\c&H262C2E&\clip(-68,333,333,478)\pos(350.121,424.777)}"I don't need\Na big brother".
+Dialogue: 0,0:15:20.60,0:15:20.64,Signs,,0,0,0,,{\be1\fnComicCity\c&H262C2E&\clip(-68,333,333,478)\pos(336.573,424.777)}"I don't need\Na big brother".
+Dialogue: 0,0:15:20.64,0:15:20.69,Signs,,0,0,0,,{\be1\fnComicCity\c&H262C2E&\clip(-68,333,333,478)\pos(322.915,424.777)}"I don't need\Na big brother".
+Dialogue: 0,0:15:20.69,0:15:20.73,Signs,,0,0,0,,{\be1\fnComicCity\c&H262C2E&\clip(-68,333,333,478)\pos(309.347,424.777)}"I don't need\Na big brother".
+Dialogue: 0,0:15:20.73,0:15:20.77,Signs,,0,0,0,,{\be1\fnComicCity\c&H262C2E&\clip(-68,333,333,478)\pos(295.779,424.777)}"I don't need\Na big brother".
+Dialogue: 0,0:15:20.77,0:15:20.81,Signs,,0,0,0,,{\be1\fnComicCity\c&H262C2E&\clip(-68,333,333,478)\pos(282.18,424.777)}"I don't need\Na big brother".
+Dialogue: 0,0:15:20.81,0:15:20.85,Signs,,0,0,0,,{\be1\fnComicCity\c&H262C2E&\clip(-68,333,333,478)\pos(268.642,424.777)}"I don't need\Na big brother".
+Dialogue: 0,0:15:20.85,0:15:20.89,Signs,,0,0,0,,{\be1\fnComicCity\c&H262C2E&\clip(-68,333,333,478)\pos(255.064,424.777)}"I don't need\Na big brother".
+Dialogue: 0,0:15:20.89,0:15:20.94,Signs,,0,0,0,,{\be1\fnComicCity\c&H262C2E&\clip(-68,333,333,478)\pos(241.426,424.777)}"I don't need\Na big brother".
+Dialogue: 0,0:15:20.94,0:15:20.98,Signs,,0,0,0,,{\be1\fnComicCity\c&H262C2E&\clip(-68,333,333,478)\pos(227.858,424.777)}"I don't need\Na big brother".
+Dialogue: 0,0:15:20.98,0:15:21.02,Signs,,0,0,0,,{\be1\fnComicCity\c&H262C2E&\clip(-68,333,333,478)\pos(214.23,424.777)}"I don't need\Na big brother".
+Dialogue: 0,0:15:21.02,0:15:21.10,Signs,,0,0,0,,{\be1\fnComicCity\c&H262C2E&\clip(-68,333,333,478)\pos(200.662,424.777)}"I don't need\Na big brother".
+Dialogue: 0,0:15:21.10,0:15:22.06,Signs,,0,0,0,,{\be1\fnComicCity\c&H262C2E&\clip(-68,333,333,478)\pos(187.144,424.777)}"I don't need\Na big brother".
+Dialogue: 0,0:15:22.06,0:15:22.10,Signs,,0,0,0,,{\be1\fnComicCity\c&H262C2E&\clip(-68,333,333,478)\pos(187.144,424.777)}"I don't need\Na big brother".
+Dialogue: 0,0:15:22.10,0:15:22.15,Signs,,0,0,0,,{\be1\fnComicCity\c&H262C2E&\clip(-68,333,333,478)\pos(168.933,424.777)}"I don't need\Na big brother".
+Dialogue: 0,0:15:22.15,0:15:22.19,Signs,,0,0,0,,{\be1\fnComicCity\c&H262C2E&\clip(-68,333,333,478)\pos(150.542,424.777)}"I don't need\Na big brother".
+Dialogue: 0,0:15:22.19,0:15:22.23,Signs,,0,0,0,,{\be1\fnComicCity\c&H262C2E&\clip(-68,333,333,478)\pos(132.16,424.777)}"I don't need\Na big brother".
+Dialogue: 0,0:15:22.23,0:15:22.27,Signs,,0,0,0,,{\be1\fnComicCity\c&H262C2E&\clip(-68,333,333,478)\pos(113.688,424.777)}"I don't need\Na big brother".
+Dialogue: 0,0:15:22.27,0:15:22.31,Signs,,0,0,0,,{\be1\fnComicCity\c&H262C2E&\clip(-68,333,333,478)\pos(95.367,424.777)}"I don't need\Na big brother".
+Dialogue: 0,0:15:22.31,0:15:22.35,Signs,,0,0,0,,{\be1\fnComicCity\c&H262C2E&\clip(-68,333,333,478)\pos(76.875,424.777)}"I don't need\Na big brother".
+Dialogue: 0,0:15:22.35,0:15:22.40,Signs,,0,0,0,,{\be1\fnComicCity\c&H262C2E&\clip(-68,333,333,478)\pos(58.554,424.777)}"I don't need\Na big brother".
+Dialogue: 0,0:15:22.40,0:15:22.44,Signs,,0,0,0,,{\be1\fnComicCity\c&H262C2E&\clip(-68,333,333,478)\pos(40.112,424.777)}"I don't need\Na big brother".
+Dialogue: 0,0:15:22.44,0:15:22.48,Signs,,0,0,0,,{\be1\fnComicCity\c&H262C2E&\clip(-68,333,333,478)\pos(21.701,424.777)}"I don't need\Na big brother".
+Dialogue: 0,0:15:22.48,0:15:22.52,Signs,,0,0,0,,{\be1\fnComicCity\c&H262C2E&\clip(-68,333,333,478)\pos(3.379,424.777)}"I don't need\Na big brother".
+Dialogue: 0,0:15:22.52,0:15:22.56,Signs,,0,0,0,,{\be1\fnComicCity\c&H262C2E&\clip(-68,333,333,478)\pos(-15.082,424.777)}"I don't need\Na big brother".
+Dialogue: 0,0:15:22.56,0:15:22.60,Signs,,0,0,0,,{\be1\fnComicCity\c&H262C2E&\clip(-68,333,333,478)\pos(-33.444,424.777)}"I don't need\Na big brother".
+Dialogue: 0,0:15:22.60,0:15:22.65,Signs,,0,0,0,,{\be1\fnComicCity\c&H262C2E&\clip(-68,333,333,478)\pos(-51.855,424.777)}"I don't need\Na big brother".
+Dialogue: 0,0:15:22.65,0:15:22.69,Signs,,0,0,0,,{\be1\fnComicCity\c&H262C2E&\clip(-68,333,333,478)\pos(-70.337,424.777)}"I don't need\Na big brother".
 Dialogue: 1,0:15:20.52,0:15:21.10,Signs,,0,0,0,,{\p1\blur5.021\c&HCBD1CF&\pos(334.24,435.824)\clip(288,370,333,478)}m 0 0 l 70.25 0 70.25 100.375 0 100.375
-Dialogue: 0,0:15:22.40,0:15:22.44,Signs,,0,0,0,,{\be1\fnComicCity\c&H14181B&\pos(389.611,424.777)\clip(-68,333,333,478)}The father's\Nfree translation.
-Dialogue: 0,0:15:22.44,0:15:22.48,Signs,,0,0,0,,{\be1\fnComicCity\c&H14181B&\pos(371.561,424.777)\clip(-68,333,333,478)}The father's\Nfree translation.
-Dialogue: 0,0:15:22.48,0:15:22.52,Signs,,0,0,0,,{\be1\fnComicCity\c&H14181B&\pos(353.039,424.777)\clip(-68,333,333,478)}The father's\Nfree translation.
-Dialogue: 0,0:15:22.52,0:15:22.56,Signs,,0,0,0,,{\be1\fnComicCity\c&H14181B&\pos(334.547,424.777)\clip(-68,333,333,478)}The father's\Nfree translation.
-Dialogue: 0,0:15:22.56,0:15:22.60,Signs,,0,0,0,,{\be1\fnComicCity\c&H14181B&\pos(316.045,424.777)\clip(-68,333,333,478)}The father's\Nfree translation.
-Dialogue: 0,0:15:22.60,0:15:22.65,Signs,,0,0,0,,{\be1\fnComicCity\c&H14181B&\pos(297.523,424.777)\clip(-68,333,333,478)}The father's\Nfree translation.
-Dialogue: 0,0:15:22.65,0:15:22.69,Signs,,0,0,0,,{\be1\fnComicCity\c&H14181B&\pos(279.142,424.777)\clip(-68,333,333,478)}The father's\Nfree translation.
-Dialogue: 0,0:15:22.69,0:15:22.73,Signs,,0,0,0,,{\be1\fnComicCity\c&H14181B&\pos(260.73,424.777)\clip(-68,333,333,478)}The father's\Nfree translation.
-Dialogue: 0,0:15:22.73,0:15:22.77,Signs,,0,0,0,,{\be1\fnComicCity\c&H14181B&\pos(242.329,424.777)\clip(-68,333,333,478)}The father's\Nfree translation.
-Dialogue: 0,0:15:22.77,0:15:22.81,Signs,,0,0,0,,{\be1\fnComicCity\c&H14181B&\pos(223.917,424.777)\clip(-68,333,333,478)}The father's\Nfree translation.
-Dialogue: 0,0:15:22.81,0:15:22.86,Signs,,0,0,0,,{\be1\fnComicCity\c&H14181B&\pos(205.576,424.777)\clip(-68,333,333,478)}The father's\Nfree translation.
-Dialogue: 0,0:15:22.86,0:15:23.77,Signs,,0,0,0,,{\be1\fnComicCity\c&H14181B&\pos(205.576,424.777)\clip(-68,333,333,478)}The father's\Nfree translation.
-Dialogue: 0,0:15:23.77,0:15:24.44,Signs,,0,0,0,,{\be1\fnComicCity\c&H14181B&\move(205.576,424.777,-55.877,424.777,30,655)\clip(-68,333,333,478)}The father's\Nfree translation.
+Dialogue: 0,0:15:22.40,0:15:22.44,Signs,,0,0,0,,{\be1\fnComicCity\c&H262C2E&\pos(389.611,424.777)\clip(-68,333,333,478)}The father's\Nfree translation.
+Dialogue: 0,0:15:22.44,0:15:22.48,Signs,,0,0,0,,{\be1\fnComicCity\c&H262C2E&\pos(371.561,424.777)\clip(-68,333,333,478)}The father's\Nfree translation.
+Dialogue: 0,0:15:22.48,0:15:22.52,Signs,,0,0,0,,{\be1\fnComicCity\c&H262C2E&\pos(353.039,424.777)\clip(-68,333,333,478)}The father's\Nfree translation.
+Dialogue: 0,0:15:22.52,0:15:22.56,Signs,,0,0,0,,{\be1\fnComicCity\c&H262C2E&\pos(334.547,424.777)\clip(-68,333,333,478)}The father's\Nfree translation.
+Dialogue: 0,0:15:22.56,0:15:22.60,Signs,,0,0,0,,{\be1\fnComicCity\c&H262C2E&\pos(316.045,424.777)\clip(-68,333,333,478)}The father's\Nfree translation.
+Dialogue: 0,0:15:22.60,0:15:22.65,Signs,,0,0,0,,{\be1\fnComicCity\c&H262C2E&\pos(297.523,424.777)\clip(-68,333,333,478)}The father's\Nfree translation.
+Dialogue: 0,0:15:22.65,0:15:22.69,Signs,,0,0,0,,{\be1\fnComicCity\c&H262C2E&\pos(279.142,424.777)\clip(-68,333,333,478)}The father's\Nfree translation.
+Dialogue: 0,0:15:22.69,0:15:22.73,Signs,,0,0,0,,{\be1\fnComicCity\c&H262C2E&\pos(260.73,424.777)\clip(-68,333,333,478)}The father's\Nfree translation.
+Dialogue: 0,0:15:22.73,0:15:22.77,Signs,,0,0,0,,{\be1\fnComicCity\c&H262C2E&\pos(242.329,424.777)\clip(-68,333,333,478)}The father's\Nfree translation.
+Dialogue: 0,0:15:22.77,0:15:22.81,Signs,,0,0,0,,{\be1\fnComicCity\c&H262C2E&\pos(223.917,424.777)\clip(-68,333,333,478)}The father's\Nfree translation.
+Dialogue: 0,0:15:22.81,0:15:22.86,Signs,,0,0,0,,{\be1\fnComicCity\c&H262C2E&\pos(205.576,424.777)\clip(-68,333,333,478)}The father's\Nfree translation.
+Dialogue: 0,0:15:22.86,0:15:23.77,Signs,,0,0,0,,{\be1\fnComicCity\c&H262C2E&\pos(205.576,424.777)\clip(-68,333,333,478)}The father's\Nfree translation.
+Dialogue: 0,0:15:23.77,0:15:24.44,Signs,,0,0,0,,{\be1\fnComicCity\c&H262C2E&\move(205.576,424.777,-55.877,424.777,30,655)\clip(-68,333,333,478)}The father's\Nfree translation.
 Dialogue: 1,0:15:22.40,0:15:22.86,Signs,,0,0,0,,{\p1\blur5.021\c&HCBD1CF&\pos(334.24,435.824)\clip(288,370,333,478)}m 0 0 l 70.25 0 70.25 100.375 0 100.375
-Dialogue: 0,0:15:23.98,0:15:24.57,Signs,,0,0,0,,{\be1\fnComicCity\c&H14181B&\clip(-68,333,333,478)\move(425.883,424.777,185,424.777,28,612)}"I'm happy as long\Nas you're here, Dad".
-Dialogue: 0,0:15:24.57,0:15:24.61,Signs,,0,0,0,,{\be1\fnComicCity\c&H14181B&\clip(-68,333,333,478)\pos(202.9,424.777)}"I'm happy as long\Nas you're here, Dad".
-Dialogue: 0,0:15:24.61,0:15:26.98,Signs,,0,0,0,,{\be1\fnComicCity\c&H14181B&\pos(185.52,424.777)}"I'm happy as long\Nas you're here, Dad".
-Dialogue: 0,0:15:26.98,0:15:27.07,Signs,,0,0,0,,{\fscx84\t(0,100,\fscx84)\fscy100\t(0,100,\fscy100)\be1\fnComicCity\c&H14181B&\pos(185.52,424.777)}"I'm happy as long\Nas you're here, Dad".
-Dialogue: 0,0:15:27.07,0:15:27.11,Signs,,0,0,0,,{\fscx86\t(-98,1,\fscx87)\fscy103\t(-56,43,\fscy104)\be1\fnComicCity\c&H14181B&\t(-21,354,\c&HB8C2C3&)\pos(171.761,428.302)}"I'm happy as long\Nas you're here, Dad".
-Dialogue: 0,0:15:27.11,0:15:27.15,Signs,,0,0,0,,{\fscx90\t(-79,20,\fscx91)\fscy108\t(-9,90,\fscy109)\be1\fnComicCity\c&H14181B&\t(-63,312,\c&HB8C2C3&)\pos(153.44,432.941)}"I'm happy as long\Nas you're here, Dad".
-Dialogue: 0,0:15:27.15,0:15:27.19,Signs,,0,0,0,,{\fscx95\t(-23,76,\fscx96)\fscy113\t(-37,62,\fscy114)\be1\fnComicCity\c&H14181B&\t(-105,270,\c&HB8C2C3&)\pos(132.06,438.424)}"I'm happy as long\Nas you're here, Dad".
-Dialogue: 0,0:15:27.19,0:15:27.23,Signs,,0,0,0,,{\fscx100\t(-4,95,\fscx101)\fscy119\t(-9,90,\fscy120)\be1\fnComicCity\c&H14181B&\t(-146,229,\c&HB8C2C3&)\pos(108.765,444.359)}"I'm happy as long\Nas you're here, Dad".
-Dialogue: 0,0:15:27.23,0:15:27.28,Signs,,0,0,0,,{\fscx105\t(-12,87,\fscx106)\fscy125\t(-15,84,\fscy126)\be1\fnComicCity\c&H14181B&\t(-188,187,\c&HB8C2C3&)\pos(83.965,450.646)}"I'm happy as long\Nas you're here, Dad".
-Dialogue: 0,0:15:27.28,0:15:27.32,Signs,,0,0,0,,{\fscx110\t(-25,75,\fscx111)\fscy131\t(-25,75,\fscy132)\be1\fnComicCity\c&H14181B&\t(-230,145,\c&HB8C2C3&)\pos(58.785,457.133)}"I'm happy as long\Nas you're here, Dad".
-Dialogue: 0,0:15:27.32,0:15:27.36,Signs,,0,0,0,,{\fscx114\t(-87,12,\fscx115)\fscy136\t(-75,24,\fscy137)\be1\fnComicCity\c&H14181B&\t(-271,104,\c&HB8C2C3&)\pos(34.106,463.298)}"I'm happy as long\Nas you're here, Dad".
-Dialogue: 0,0:15:27.36,0:15:27.40,Signs,,0,0,0,,{\fscx121\t(-43,56,\fscx122)\fscy144\t(-56,43,\fscy145)\be1\fnComicCity\c&H14181B&\t(-313,62,\c&HB8C2C3&)\pos(6.919,470.83)}"I'm happy as long\Nas you're here, Dad".
+Dialogue: 0,0:15:23.98,0:15:24.57,Signs,,0,0,0,,{\be1\fnComicCity\c&H262C2E&\clip(-68,333,333,478)\move(425.883,424.777,185,424.777,28,612)}"I'm happy as long\Nas you're here, Dad".
+Dialogue: 0,0:15:24.57,0:15:24.61,Signs,,0,0,0,,{\be1\fnComicCity\c&H262C2E&\clip(-68,333,333,478)\pos(202.9,424.777)}"I'm happy as long\Nas you're here, Dad".
+Dialogue: 0,0:15:24.61,0:15:26.98,Signs,,0,0,0,,{\be1\fnComicCity\c&H262C2E&\pos(185.52,424.777)}"I'm happy as long\Nas you're here, Dad".
+Dialogue: 0,0:15:26.98,0:15:27.07,Signs,,0,0,0,,{\fscx84\t(0,100,\fscx84)\fscy100\t(0,100,\fscy100)\be1\fnComicCity\c&H262C2E&\pos(185.52,424.777)}"I'm happy as long\Nas you're here, Dad".
+Dialogue: 0,0:15:27.07,0:15:27.11,Signs,,0,0,0,,{\fscx86\t(-98,1,\fscx87)\fscy103\t(-56,43,\fscy104)\be1\fnComicCity\c&H262C2E&\t(-21,354,\c&HB8C2C3&)\pos(171.761,428.302)}"I'm happy as long\Nas you're here, Dad".
+Dialogue: 0,0:15:27.11,0:15:27.15,Signs,,0,0,0,,{\fscx90\t(-79,20,\fscx91)\fscy108\t(-9,90,\fscy109)\be1\fnComicCity\c&H262C2E&\t(-63,312,\c&HB8C2C3&)\pos(153.44,432.941)}"I'm happy as long\Nas you're here, Dad".
+Dialogue: 0,0:15:27.15,0:15:27.19,Signs,,0,0,0,,{\fscx95\t(-23,76,\fscx96)\fscy113\t(-37,62,\fscy114)\be1\fnComicCity\c&H262C2E&\t(-105,270,\c&HB8C2C3&)\pos(132.06,438.424)}"I'm happy as long\Nas you're here, Dad".
+Dialogue: 0,0:15:27.19,0:15:27.23,Signs,,0,0,0,,{\fscx100\t(-4,95,\fscx101)\fscy119\t(-9,90,\fscy120)\be1\fnComicCity\c&H262C2E&\t(-146,229,\c&HB8C2C3&)\pos(108.765,444.359)}"I'm happy as long\Nas you're here, Dad".
+Dialogue: 0,0:15:27.23,0:15:27.28,Signs,,0,0,0,,{\fscx105\t(-12,87,\fscx106)\fscy125\t(-15,84,\fscy126)\be1\fnComicCity\c&H262C2E&\t(-188,187,\c&HB8C2C3&)\pos(83.965,450.646)}"I'm happy as long\Nas you're here, Dad".
+Dialogue: 0,0:15:27.28,0:15:27.32,Signs,,0,0,0,,{\fscx110\t(-25,75,\fscx111)\fscy131\t(-25,75,\fscy132)\be1\fnComicCity\c&H262C2E&\t(-230,145,\c&HB8C2C3&)\pos(58.785,457.133)}"I'm happy as long\Nas you're here, Dad".
+Dialogue: 0,0:15:27.32,0:15:27.36,Signs,,0,0,0,,{\fscx114\t(-87,12,\fscx115)\fscy136\t(-75,24,\fscy137)\be1\fnComicCity\c&H262C2E&\t(-271,104,\c&HB8C2C3&)\pos(34.106,463.298)}"I'm happy as long\Nas you're here, Dad".
+Dialogue: 0,0:15:27.36,0:15:27.40,Signs,,0,0,0,,{\fscx121\t(-43,56,\fscx122)\fscy144\t(-56,43,\fscy145)\be1\fnComicCity\c&H262C2E&\t(-313,62,\c&HB8C2C3&)\pos(6.919,470.83)}"I'm happy as long\Nas you're here, Dad".
 Dialogue: 1,0:15:23.98,0:15:24.61,Signs,,0,0,0,,{\p1\blur5.021\c&HCBD1CF&\pos(334.24,435.824)\clip(288,370,333,478)}m 0 0 l 70.25 0 70.25 100.375 0 100.375
 Dialogue: 0,0:15:25.44,0:15:27.03,Signs,,0,0,0,,{\frz11\fs20.084\c&H3045AE&\pos(292.193,325.219)\blur0.5}Zenzo
 Dialogue: 0,0:15:27.03,0:15:27.07,Signs,,0,0,0,,{\fscx84\t(0,100,\fscx84)\fscy100\t(0,100,\fscy100)\frz11\fs20.084\c&H3045AE&\pos(292.198,325.221)\t(21,396,\c&HB8C2C3&)\blur0.502}Zenzo

@@ -16,11 +16,14 @@ YCbCr Matrix: TV.601
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: ../../../../media/wyse/Media III/[WSE] Koi Kaze [raws]/09.mkv
-Video File: ../../../../media/wyse/Media III/[WSE] Koi Kaze [raws]/09.mkv
+Audio File: ../../../../../../media/wyse/Media III/[WSE] Koi Kaze/[WSE] Koi Kaze - 09 [DVD x264 478p 10bit FLAC-AC3][Dual Audio][684198E5] (1).mkv
+Video File: ../../../../../../media/wyse/Media III/[WSE] Koi Kaze/[WSE] Koi Kaze - 09 [DVD x264 478p 10bit FLAC-AC3][Dual Audio][684198E5] (1).mkv
 Video AR Mode: 4
-Video AR Value: 1.770339
-Video Zoom Percent: 2.066946
+Video AR Value: 1.765380
+Video Zoom Percent: 2.780335
+Scroll Position: 86
+Active Line: 104
+Video Position: 31696
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -36,6 +39,8 @@ Style: Next EP - Rotating Text,teen spirit,20,&H0000FFFF,&H0000FFFF,&H0056465B,&
 Style: Next EP - Static Text,Balsoon,40,&H00070606,&H000019FF,&H00FFFEFE,&HBE000000,0,0,0,0,100,100,0,0,1,1.7,0,2,0,0,0,1
 Style: TL Note,LTFinnegan Medium,28,&H00D8D4C7,&H000019FF,&H00101010,&HBE000000,0,-1,0,0,84,100,0,0,1,1.4,0.7,8,32,32,23,1
 Style: Signs - Letter,Shadows Into Light,29,&H00000000,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
+Style: Signs - Lamp - Glow,Itim,40,&H96FFFFFF,&H000000FF,&H96FFFFFF,&H00000000,-1,0,0,0,84,100,0,0,1,3,0,5,10,10,10,1
+Style: Signs - Lamp - Main,Itim,40,&H32516B9F,&H000000FF,&H96FFFFFF,&H00000000,-1,0,0,0,84,100,0,0,1,0,0,5,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -66,6 +71,22 @@ Dialogue: 0,0:07:25.50,0:07:28.53,Signs - Letter,,0,0,0,,{\frz-7\fax-0.35\blur0.
 Dialogue: 0,0:07:25.50,0:07:28.53,Signs - Letter,,0,0,0,,{\frz-7\fax-0.35\blur0.8\c&H434C50&\pos(213.672,352.43)}pack in the freezer.
 Dialogue: 0,0:07:25.50,0:07:28.53,Signs - Letter,,0,0,0,,{\frz-7\fax-0.35\blur0.8\c&H434C50&\pos(201.84,373.965)}Heat it up and eat it.
 Dialogue: 0,0:07:25.50,0:07:28.53,Signs - Letter,,0,0,0,,{\fax-0.27\frz352.9\blur0.8\c&H434C50&\pos(299.619,397.692)}Dad
+Dialogue: 1,0:17:27.48,0:17:30.48,Signs - Lamp - Glow,,0,0,0,,{\pos(273,49)\frz-15\blur0.8}{43}K
+Dialogue: 1,0:17:27.48,0:17:30.48,Signs - Lamp - Glow,,0,0,0,,{\pos(293,55)\frz-18\blur0.8}{43}u
+Dialogue: 1,0:17:27.48,0:17:30.48,Signs - Lamp - Glow,,0,0,0,,{\pos(310,62)\frz-21\blur0.8}{43}r
+Dialogue: 1,0:17:27.48,0:17:30.48,Signs - Lamp - Glow,,0,0,0,,{\pos(327,69)\frz-24\blur0.8}{43}o
+Dialogue: 1,0:17:27.48,0:17:30.48,Signs - Lamp - Glow,,0,0,0,,{\pos(345,78)\frz337.6\blur0.8}{43}k
+Dialogue: 1,0:17:27.48,0:17:30.48,Signs - Lamp - Glow,,0,0,0,,{\pos(357,85)\fs38\frz338.8\blur0.8}{43}i
+Dialogue: 1,0:17:27.48,0:17:30.48,Signs - Lamp - Glow,,0,0,0,,{\pos(369,93)\fs37\frz333\blur0.8}{43}y
+Dialogue: 1,0:17:27.48,0:17:30.48,Signs - Lamp - Glow,,0,0,0,,{\pos(382,103)\fs36\frz327.9\blur0.8}{43}a
+Dialogue: 1,0:17:27.48,0:17:30.48,Signs - Lamp - Main,,0,0,0,,{\pos(273,49)\frz-15\blur0.8}{43}K
+Dialogue: 1,0:17:27.48,0:17:30.48,Signs - Lamp - Main,,0,0,0,,{\pos(293,55)\frz-18\blur0.8}{43}u
+Dialogue: 1,0:17:27.48,0:17:30.48,Signs - Lamp - Main,,0,0,0,,{\pos(310,62)\frz-21\blur0.8}{43}r
+Dialogue: 1,0:17:27.48,0:17:30.48,Signs - Lamp - Main,,0,0,0,,{\pos(327,69)\frz-24\blur0.8}{43}o
+Dialogue: 1,0:17:27.48,0:17:30.48,Signs - Lamp - Main,,0,0,0,,{\pos(345,78)\frz337.6\blur0.8}{43}k
+Dialogue: 1,0:17:27.48,0:17:30.48,Signs - Lamp - Main,,0,0,0,,{\pos(357,85)\fs38\frz338.8\blur0.8}{43}i
+Dialogue: 1,0:17:27.48,0:17:30.48,Signs - Lamp - Main,,0,0,0,,{\pos(369,93)\fs37\frz333\blur0.8}{43}y
+Dialogue: 1,0:17:27.48,0:17:30.48,Signs - Lamp - Main,,0,0,0,,{\pos(382,103)\fs36\frz327.9\blur0.8}{43}a
 Dialogue: 0,0:23:16.04,0:23:17.62,Next EP - Static Text,,0,0,0,,{\blur0.6\pos(500,90)\c&HF5FCFC&}{\blur0.4}AN EPIC SERIES PREVIEW
 Dialogue: 1,0:23:16.04,0:23:17.62,Next EP - Static Text,,0,0,0,,{\bord0\blur0.6\pos(500,90)\4a&HFF&}{\blur0.4}AN EPIC SERIES PREVIEW
 Dialogue: 0,0:23:16.45,0:23:17.62,Next EP - Rotating Text,,0,0,0,,{\blur0.6\pos(360,485)\fs60\bord3\3c&HFFFEFE&\c&HFFFEFE&\frx25}{\t(0,620,\frx0)}{\blur0.7}CHIDORI'S JUDGEMENT
@@ -120,35 +141,35 @@ Dialogue: 0,0:01:08.88,0:01:13.98,OP - Eng,,0,0,0,,{\fad(300,200)\blur0.75}My he
 Dialogue: 0,0:01:13.98,0:01:19.30,OP - Eng,,0,0,0,,{\fad(300,200)\blur0.75}puts on the brakes.
 Dialogue: 0,0:01:19.66,0:01:24.36,OP - Eng,,0,0,0,,{\fad(300,200)\blur0.75}It’s so painful,
 Dialogue: 0,0:01:25.02,0:01:34.13,OP - Eng,,0,0,0,,{\fad(300,200)\blur0.75}I can’t breathe.
-Dialogue: 1,0:21:53.52,0:21:58.36,ED - Romaji,,0,0,0,,{\fad(300,200)\blur0.75}{\k108}ya{\k38}sa{\k33}shi{\k38}i {\k33}yu{\k17}me {\k117}ga
-Dialogue: 1,0:21:58.82,0:22:04.36,ED - Romaji,,0,0,0,,{\fad(300,200)\blur0.75}{\k17}so{\k13}t{\k46}to {\k58}{\k21}mu{\k21}ne {\k29}no {\k33}{\k38}ha{\k33}ru {\k33}wo {\k17}yo{\k96}bi
-Dialogue: 1,0:22:04.70,0:22:09.72,ED - Romaji,,0,0,0,,{\fad(300,200)\blur0.75}{\k96}ya{\k33}sa{\k33}shi{\k29}i {\k33}ka{\k38}ze {\k71}ni {\k75}na{\k54}ri
-Dialogue: 1,0:22:09.72,0:22:15.50,ED - Romaji,,0,0,0,,{\fad(300,200)\blur0.75}{\k21}ki{\k21}mi {\k46}ni {\k54}{\k21}fu{\k17}re{\k38}te {\k33}{\k29}sa{\k38}t{\k33}te {\k21}yu{\k104}ku
-Dialogue: 1,0:22:15.50,0:22:17.73,ED - Romaji,,0,0,0,,{\fad(300,200)\blur0.75}{\k38}chii{\k17}sa{\k17}na {\k33}pot{\k17}to {\k17}ni {\k33}wa
-Dialogue: 1,0:22:18.42,0:22:20.09,ED - Romaji,,0,0,0,,{\fad(300,200)\blur0.75}{\k32}dai{\k17}su{\k17}ki {\k33}na {\k21}ki{\k17}mo{\k42}chi
-Dialogue: 1,0:22:20.40,0:22:22.53,ED - Romaji,,0,0,0,,{\fad(300,200)\blur0.75}{\k33}yu{\k29}ra{\k33}yu{\k21}ra {\k79}to
-Dialogue: 1,0:22:23.86,0:22:25.97,ED - Romaji,,0,0,0,,{\fad(300,200)\blur0.75}{\k33}ii {\k17}ka{\k17}o{\k29}ri {\k21}no{\k21}se{\k58}te
-Dialogue: 1,0:22:26.69,0:22:28.33,ED - Romaji,,0,0,0,,{\fad(300,200)\blur0.75}{\k29}i{\k17}tsu{\k13}mo {\k38}mat{\k21}te{\k13}i{\k33}ta
-Dialogue: 1,0:22:28.72,0:22:35.64,ED - Romaji,,0,0,0,,{\fad(300,200)\blur0.75}{\k33}ko{\k33}no {\k71}to{\k29}ki {\k67}wo {\k54}{\k33}a{\k29}ta{\k71}ta{\k25}me{\k242}te
-Dialogue: 1,0:22:37.71,0:22:42.55,ED - Romaji,,0,0,0,,{\fad(300,200)\blur0.75}{\k100}fu{\k29}ta{\k33}ri {\k29}da{\k38}ka{\k33}ra {\k38}wa{\k33}ka{\k38}ru {\k21}ko{\k71}to
-Dialogue: 1,0:22:43.24,0:22:47.30,ED - Romaji,,0,0,0,,{\fad(300,200)\blur0.75}{\k71}ko{\k33}to{\k33}ba {\k50}ja {\k21}{\k33}na{\k33}ku{\k117}te
-Dialogue: 1,0:22:48.83,0:22:53.53,ED - Romaji,,0,0,0,,{\fad(300,200)\blur0.75}{\k100}ho{\k33}ho{\k33}e{\k29}mu {\k38}da{\k29}ke {\k38}ne{\k38}ga{\k38}u {\k21}da{\k67}ke
-Dialogue: 1,0:22:54.29,0:22:58.65,ED - Romaji,,0,0,0,,{\fad(300,200)\blur0.75}{\k33}shi{\k33}zu{\k29}ka {\k42}na {\k33}so{\k104}ra {\k158}he
-Dialogue: 1,0:22:59.81,0:23:05.80,ED - Romaji,,0,0,0,,{\fad(300,200)\blur0.75}{\k98}a{\k38}shi{\k33}ta {\k29}mo {\k33}ma{\k38}ta {\k38}a{\k33}e{\k38}ru {\k25}yo {\k158}ne
-Dialogue: 1,0:23:07.55,0:23:13.69,ED - Romaji,,0,0,0,,{\fad(300,200)\blur0.75}{\k38}shi{\k38}zu{\k38}ka {\k33}na {\k42}so{\k133}ra {\k296}de
-Dialogue: 0,0:21:53.52,0:21:58.36,ED - Eng,,0,0,0,,{\fad(300,200)\blur0.75}A gentle dream
-Dialogue: 0,0:21:58.82,0:22:04.36,ED - Eng,,0,0,0,,{\fad(300,200)\blur0.75}calls the spring in my heart
-Dialogue: 0,0:22:04.70,0:22:09.72,ED - Eng,,0,0,0,,{\fad(300,200)\blur0.75}and becomes a Dew frost
-Dialogue: 0,0:22:09.72,0:22:15.50,ED - Eng,,0,0,0,,{\fad(300,200)\blur0.75}that touches you, then leaves.
-Dialogue: 0,0:22:15.50,0:22:17.73,ED - Eng,,0,0,0,,{\fad(300,200)\blur0.75}In the small pot
-Dialogue: 0,0:22:18.42,0:22:20.09,ED - Eng,,0,0,0,,{\fad(300,200)\blur0.75}are feelings of love
-Dialogue: 0,0:22:20.40,0:22:22.53,ED - Eng,,0,0,0,,{\fad(300,200)\blur0.75}swaying softly.{dancing}
-Dialogue: 0,0:22:23.86,0:22:25.97,ED - Eng,,0,0,0,,{\fad(300,200)\blur0.75}They carry a sweet scent,
-Dialogue: 0,0:22:26.69,0:22:28.33,ED - Eng,,0,0,0,,{\fad(300,200)\blur0.75}always waiting,
-Dialogue: 0,0:22:28.72,0:22:35.64,ED - Eng,,0,0,0,,{\fad(300,200)\blur0.75}warming up this moment.
-Dialogue: 0,0:22:37.71,0:22:42.55,ED - Eng,,0,0,0,,{\fad(300,200)\blur0.75}We understand each other
-Dialogue: 0,0:22:43.24,0:22:47.30,ED - Eng,,0,0,0,,{\fad(300,200)\blur0.75}without words.{longer lines perhaps?}
-Dialogue: 0,0:22:48.83,0:22:53.53,ED - Eng,,0,0,0,,{\fad(300,200)\blur0.75}We just smile and hope
-Dialogue: 0,0:22:54.29,0:22:58.65,ED - Eng,,0,0,0,,{\fad(300,200)\blur0.75}to the peaceful sky.
-Dialogue: 0,0:22:59.81,0:23:05.80,ED - Eng,,0,0,0,,{\fad(300,200)\blur0.75}Hope that we’ll see each other again tomorrow
-Dialogue: 0,0:23:07.55,0:23:13.69,ED - Eng,,0,0,0,,{\fad(300,200)\blur0.75}to the peaceful sky.
+Dialogue: 1,0:21:52.49,0:21:57.37,ED - Romaji,,0,0,0,,{\fad(300,200)\blur0.75}{\k108}ya{\k38}sa{\k33}shi{\k38}i {\k33}yu{\k17}me {\k117}ga
+Dialogue: 1,0:21:57.83,0:22:03.34,ED - Romaji,,0,0,0,,{\fad(300,200)\blur0.75}{\k17}so{\k13}t{\k46}to {\k58}{\k21}mu{\k21}ne {\k29}no {\k33}{\k38}ha{\k33}ru {\k33}wo {\k17}yo{\k96}bi
+Dialogue: 1,0:22:03.71,0:22:08.72,ED - Romaji,,0,0,0,,{\fad(300,200)\blur0.75}{\k96}ya{\k33}sa{\k33}shi{\k29}i {\k33}ka{\k38}ze {\k71}ni {\k75}na{\k54}ri
+Dialogue: 1,0:22:08.72,0:22:14.47,ED - Romaji,,0,0,0,,{\fad(300,200)\blur0.75}{\k21}ki{\k21}mi {\k46}ni {\k54}{\k21}fu{\k17}re{\k38}te {\k33}{\k29}sa{\k38}t{\k33}te {\k21}yu{\k104}ku
+Dialogue: 1,0:22:14.47,0:22:16.73,ED - Romaji,,0,0,0,,{\fad(300,200)\blur0.75}{\k38}chii{\k17}sa{\k17}na {\k33}pot{\k17}to {\k17}ni {\k33}wa
+Dialogue: 1,0:22:17.39,0:22:19.10,ED - Romaji,,0,0,0,,{\fad(300,200)\blur0.75}{\k32}dai{\k17}su{\k17}ki {\k33}na {\k21}ki{\k17}mo{\k42}chi
+Dialogue: 1,0:22:19.40,0:22:21.52,ED - Romaji,,0,0,0,,{\fad(300,200)\blur0.75}{\k33}yu{\k29}ra{\k33}yu{\k21}ra {\k79}to
+Dialogue: 1,0:22:22.86,0:22:24.94,ED - Romaji,,0,0,0,,{\fad(300,200)\blur0.75}{\k33}ii {\k17}ka{\k17}o{\k29}ri {\k21}no{\k21}se{\k58}te
+Dialogue: 1,0:22:25.69,0:22:27.32,ED - Romaji,,0,0,0,,{\fad(300,200)\blur0.75}{\k29}i{\k17}tsu{\k13}mo {\k38}mat{\k21}te{\k13}i{\k33}ta
+Dialogue: 1,0:22:27.70,0:22:34.62,ED - Romaji,,0,0,0,,{\fad(300,200)\blur0.75}{\k33}ko{\k33}no {\k71}to{\k29}ki {\k67}wo {\k54}{\k33}a{\k29}ta{\k71}ta{\k25}me{\k242}te
+Dialogue: 1,0:22:36.71,0:22:41.54,ED - Romaji,,0,0,0,,{\fad(300,200)\blur0.75}{\k100}fu{\k29}ta{\k33}ri {\k29}da{\k38}ka{\k33}ra {\k38}wa{\k33}ka{\k38}ru {\k21}ko{\k71}to
+Dialogue: 1,0:22:42.25,0:22:46.30,ED - Romaji,,0,0,0,,{\fad(300,200)\blur0.75}{\k71}ko{\k33}to{\k33}ba {\k50}ja {\k21}{\k33}na{\k33}ku{\k117}te
+Dialogue: 1,0:22:47.84,0:22:52.51,ED - Romaji,,0,0,0,,{\fad(300,200)\blur0.75}{\k100}ho{\k33}ho{\k33}e{\k29}mu {\k38}da{\k29}ke {\k38}ne{\k38}ga{\k38}u {\k21}da{\k67}ke
+Dialogue: 1,0:22:53.26,0:22:57.64,ED - Romaji,,0,0,0,,{\fad(300,200)\blur0.75}{\k33}shi{\k33}zu{\k29}ka {\k42}na {\k33}so{\k104}ra {\k158}he
+Dialogue: 1,0:22:58.81,0:23:04.77,ED - Romaji,,0,0,0,,{\fad(300,200)\blur0.75}{\k98}a{\k38}shi{\k33}ta {\k29}mo {\k33}ma{\k38}ta {\k38}a{\k33}e{\k38}ru {\k25}yo {\k158}ne
+Dialogue: 1,0:23:06.53,0:23:12.70,ED - Romaji,,0,0,0,,{\fad(300,200)\blur0.75}{\k38}shi{\k38}zu{\k38}ka {\k33}na {\k42}so{\k133}ra {\k296}de
+Dialogue: 0,0:21:52.49,0:21:57.37,ED - Eng,,0,0,0,,{\fad(300,200)\blur0.75}A gentle dream
+Dialogue: 0,0:21:57.83,0:22:03.34,ED - Eng,,0,0,0,,{\fad(300,200)\blur0.75}calls the spring in my heart
+Dialogue: 0,0:22:03.71,0:22:08.72,ED - Eng,,0,0,0,,{\fad(300,200)\blur0.75}and becomes a gentle breeze
+Dialogue: 0,0:22:08.72,0:22:14.47,ED - Eng,,0,0,0,,{\fad(300,200)\blur0.75}that touches you, then leaves.
+Dialogue: 0,0:22:14.47,0:22:16.73,ED - Eng,,0,0,0,,{\fad(300,200)\blur0.75}In the small pot
+Dialogue: 0,0:22:17.39,0:22:19.10,ED - Eng,,0,0,0,,{\fad(300,200)\blur0.75}are feelings of love
+Dialogue: 0,0:22:19.40,0:22:21.52,ED - Eng,,0,0,0,,{\fad(300,200)\blur0.75}swaying softly.{dancing}
+Dialogue: 0,0:22:22.86,0:22:24.94,ED - Eng,,0,0,0,,{\fad(300,200)\blur0.75}They carry a sweet scent,
+Dialogue: 0,0:22:25.69,0:22:27.32,ED - Eng,,0,0,0,,{\fad(300,200)\blur0.75}always waiting,
+Dialogue: 0,0:22:27.70,0:22:34.62,ED - Eng,,0,0,0,,{\fad(300,200)\blur0.75}warming up this moment.
+Dialogue: 0,0:22:36.71,0:22:41.54,ED - Eng,,0,0,0,,{\fad(300,200)\blur0.75}We understand each other
+Dialogue: 0,0:22:42.25,0:22:46.30,ED - Eng,,0,0,0,,{\fad(300,200)\blur0.75}without words.{longer lines perhaps?}
+Dialogue: 0,0:22:47.84,0:22:52.51,ED - Eng,,0,0,0,,{\fad(300,200)\blur0.75}We just smile and hope
+Dialogue: 0,0:22:53.26,0:22:57.64,ED - Eng,,0,0,0,,{\fad(300,200)\blur0.75}to the peaceful sky.
+Dialogue: 0,0:22:58.81,0:23:04.77,ED - Eng,,0,0,0,,{\fad(300,200)\blur0.75}Hope that we’ll see each other again tomorrow
+Dialogue: 0,0:23:06.53,0:23:12.70,ED - Eng,,0,0,0,,{\fad(300,200)\blur0.75}to the peaceful sky.

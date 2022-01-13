@@ -42,6 +42,8 @@ Style: Next EP - Rotating Text,teen spirit,20,&H0000FFFF,&H0000FFFF,&H0056465B,&
 Style: Next EP - Static Text,Balsoon,40,&H00070606,&H000019FF,&H00FFFEFE,&HBE000000,0,0,0,0,100,100,0,0,1,1.7,0,2,0,0,0,1
 Style: TL Note,LTFinnegan Medium,28,&H00D8D4C7,&H000019FF,&H00101010,&HBE000000,0,-1,0,0,84,100,0,0,1,1.4,0.7,8,32,32,23,1
 Style: Signs - Letter,Shadows Into Light,29,&H00000000,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
+Style: Signs - Lamp - Glow,Itim,40,&H96FFFFFF,&H000000FF,&H96FFFFFF,&H00000000,-1,0,0,0,84,100,0,0,1,3,0,5,10,10,10,1
+Style: Signs - Lamp - Main,Itim,40,&H32516B9F,&H000000FF,&H96FFFFFF,&H00000000,-1,0,0,0,84,100,0,0,1,0,0,5,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -72,6 +74,22 @@ Dialogue: 0,0:07:25.50,0:07:28.53,Signs - Letter,,0,0,0,,{\frz-7\fax-0.35\blur0.
 Dialogue: 0,0:07:25.50,0:07:28.53,Signs - Letter,,0,0,0,,{\frz-7\fax-0.35\blur0.8\c&H434C50&\pos(213.672,352.43)}pack in the freezer.
 Dialogue: 0,0:07:25.50,0:07:28.53,Signs - Letter,,0,0,0,,{\frz-7\fax-0.35\blur0.8\c&H434C50&\pos(201.84,373.965)}Heat it up and eat it.
 Dialogue: 0,0:07:25.50,0:07:28.53,Signs - Letter,,0,0,0,,{\fax-0.27\frz352.9\blur0.8\c&H434C50&\pos(299.619,397.692)}Dad
+Dialogue: 1,0:17:27.48,0:17:30.48,Signs - Lamp - Glow,,0,0,0,,{\pos(273,49)\frz-15\blur0.8}{43}K
+Dialogue: 1,0:17:27.48,0:17:30.48,Signs - Lamp - Glow,,0,0,0,,{\pos(293,55)\frz-18\blur0.8}{43}u
+Dialogue: 1,0:17:27.48,0:17:30.48,Signs - Lamp - Glow,,0,0,0,,{\pos(310,62)\frz-21\blur0.8}{43}r
+Dialogue: 1,0:17:27.48,0:17:30.48,Signs - Lamp - Glow,,0,0,0,,{\pos(327,69)\frz-24\blur0.8}{43}o
+Dialogue: 1,0:17:27.48,0:17:30.48,Signs - Lamp - Glow,,0,0,0,,{\pos(345,78)\frz337.6\blur0.8}{43}k
+Dialogue: 1,0:17:27.48,0:17:30.48,Signs - Lamp - Glow,,0,0,0,,{\pos(357,85)\fs38\frz338.8\blur0.8}{43}i
+Dialogue: 1,0:17:27.48,0:17:30.48,Signs - Lamp - Glow,,0,0,0,,{\pos(369,93)\fs37\frz333\blur0.8}{43}y
+Dialogue: 1,0:17:27.48,0:17:30.48,Signs - Lamp - Glow,,0,0,0,,{\pos(382,103)\fs36\frz327.9\blur0.8}{43}a
+Dialogue: 1,0:17:27.48,0:17:30.48,Signs - Lamp - Main,,0,0,0,,{\pos(273,49)\frz-15\blur0.8}{43}K
+Dialogue: 1,0:17:27.48,0:17:30.48,Signs - Lamp - Main,,0,0,0,,{\pos(293,55)\frz-18\blur0.8}{43}u
+Dialogue: 1,0:17:27.48,0:17:30.48,Signs - Lamp - Main,,0,0,0,,{\pos(310,62)\frz-21\blur0.8}{43}r
+Dialogue: 1,0:17:27.48,0:17:30.48,Signs - Lamp - Main,,0,0,0,,{\pos(327,69)\frz-24\blur0.8}{43}o
+Dialogue: 1,0:17:27.48,0:17:30.48,Signs - Lamp - Main,,0,0,0,,{\pos(345,78)\frz337.6\blur0.8}{43}k
+Dialogue: 1,0:17:27.48,0:17:30.48,Signs - Lamp - Main,,0,0,0,,{\pos(357,85)\fs38\frz338.8\blur0.8}{43}i
+Dialogue: 1,0:17:27.48,0:17:30.48,Signs - Lamp - Main,,0,0,0,,{\pos(369,93)\fs37\frz333\blur0.8}{43}y
+Dialogue: 1,0:17:27.48,0:17:30.48,Signs - Lamp - Main,,0,0,0,,{\pos(382,103)\fs36\frz327.9\blur0.8}{43}a
 Dialogue: 0,0:01:51.48,0:01:52.98,Dialogue - Italic,,0,0,0,,I thought about moving out of the house.
 Dialogue: 0,0:01:55.58,0:01:58.78,Dialogue - Italic,,0,0,0,,I love you, Onii-chan.
 Dialogue: 0,0:02:08.98,0:02:10.58,Dialogue - Italic,,0,0,0,,She's cute.
@@ -383,7 +401,7 @@ Dialogue: 1,0:22:59.81,0:23:05.80,ED - Romaji,,0,0,0,,{\fad(300,200)\blur0.75}{\
 Dialogue: 1,0:23:07.55,0:23:13.69,ED - Romaji,,0,0,0,,{\fad(300,200)\blur0.75}{\k38}shi{\k38}zu{\k38}ka {\k33}na {\k42}so{\k133}ra {\k296}de
 Dialogue: 0,0:21:53.52,0:21:58.36,ED - Eng,,0,0,0,,{\fad(300,200)\blur0.75}A gentle dream
 Dialogue: 0,0:21:58.82,0:22:04.36,ED - Eng,,0,0,0,,{\fad(300,200)\blur0.75}calls the spring in my heart
-Dialogue: 0,0:22:04.70,0:22:09.72,ED - Eng,,0,0,0,,{\fad(300,200)\blur0.75}and becomes a Dew frost
+Dialogue: 0,0:22:04.70,0:22:09.72,ED - Eng,,0,0,0,,{\fad(300,200)\blur0.75}and becomes a gentle breeze
 Dialogue: 0,0:22:09.72,0:22:15.50,ED - Eng,,0,0,0,,{\fad(300,200)\blur0.75}that touches you, then leaves.
 Dialogue: 0,0:22:15.50,0:22:17.73,ED - Eng,,0,0,0,,{\fad(300,200)\blur0.75}In the small pot
 Dialogue: 0,0:22:18.42,0:22:20.09,ED - Eng,,0,0,0,,{\fad(300,200)\blur0.75}are feelings of love

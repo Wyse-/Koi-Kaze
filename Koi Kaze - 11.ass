@@ -20,10 +20,10 @@ Audio File: ../../../../media/wyse/Media III/[WSE] Koi Kaze [raws]/11.mkv
 Video File: ../../../../media/wyse/Media III/[WSE] Koi Kaze [raws]/11.mkv
 Video AR Mode: 4
 Video AR Value: 1.770339
-Video Zoom Percent: 2.066946
-Scroll Position: 15
-Active Line: 25
-Video Position: 2511
+Video Zoom Percent: 2.780335
+Scroll Position: 220
+Active Line: 233
+Video Position: 33527
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -277,12 +277,12 @@ Dialogue: 0,0:23:16.54,0:23:16.58,Next EP - Static Text,,0,0,0,,{\blur0.6\pos(50
 Dialogue: 1,0:23:16.54,0:23:16.58,Next EP - Static Text,,0,0,0,,{\bord0\blur0.6\pos(500,90)\4a&HFF&\iclip(m 545 92 b 526 77 507 76 489 86 l 482 159 b 479 130 484 92 466 81 453 69 421 78 413 132 l 403 132 b 405 63 339 87 322 78 l 387 67 b 406 47 398 16 388 10 l 631 12 632 144 545 155)}{\blur0.4}AN EPIC SERIES PREVIEW
 Dialogue: 0,0:23:16.54,0:23:16.58,Next EP - Rotating Text,,0,0,0,,{\blur0.6\pos(360,485)\fs60\bord3\3c&HFFFEFE&\c&HFFFEFE&}{\blur0.7\clip(m 336 472 l 336 414 b 342 377 404 387 413 417 l 416 471 m 529 474 l 528 378 596 375 601 474)}{\blur0.7\clip(m 334 472 l 334 414 b 342 377 404 387 412 416 l 416 471 m 529 474 l 528 378 596 375 601 474)}CHIDORI'S JUDGEMENT
 Dialogue: 1,0:23:16.54,0:23:16.58,Next EP - Rotating Text,,0,0,0,,{\blur0.6\pos(360,485)\fs60\bord0\c&H00000000&\4a&HFF&\clip(m 336 472 l 336 414 b 342 377 404 387 413 417 l 416 471 m 529 474 l 528 378 596 375 601 474)}{\blur0.7\clip(m 334 472 l 334 414 b 342 377 404 387 412 416 l 416 471 m 529 474 l 528 378 596 375 601 474)}CHIDORI'S JUDGEMENT
-Dialogue: 0,0:23:16.58,0:23:17.12,Next EP - Static Text,,0,0,0,,{\blur0.6\pos(500,90)\c&HF5FCFC&}{\blur0.4}AN EPIC SERIES PREVIEW
-Dialogue: 1,0:23:16.58,0:23:17.12,Next EP - Static Text,,0,0,0,,{\bord0\blur0.6\pos(500,90)\4a&HFF&}{\blur0.4}AN EPIC SERIES PREVIEW
+Dialogue: 0,0:23:16.58,0:23:17.16,Next EP - Static Text,,0,0,0,,{\blur0.6\pos(500,90)\c&HF5FCFC&}{\blur0.4}AN EPIC SERIES PREVIEW
+Dialogue: 1,0:23:16.58,0:23:17.16,Next EP - Static Text,,0,0,0,,{\bord0\blur0.6\pos(500,90)\4a&HFF&}{\blur0.4}AN EPIC SERIES PREVIEW
 Dialogue: 0,0:23:16.58,0:23:16.62,Next EP - Rotating Text,,0,0,0,,{\blur0.6\pos(360,485)\fs60\bord3\3c&HFFFEFE&\c&HFFFEFE&}{\blur0.7\iclip(m 349 387 l 350 475 626 474 621 381 m 497 405 l 533 401 b 537 419 538 454 536 471 l 501 470)}CHIDORI'S JUDGEMENT
 Dialogue: 1,0:23:16.58,0:23:16.62,Next EP - Rotating Text,,0,0,0,,{\blur0.6\pos(360,485)\fs60\bord0\c&H00000000&\4a&HFF&}{\blur0.7\iclip(m 349 387 l 350 475 626 474 621 381 m 497 405 l 533 401 b 537 419 538 454 536 471 l 501 470)}CHIDORI'S JUDGEMENT
-Dialogue: 0,0:23:16.62,0:23:17.12,Next EP - Rotating Text,,0,0,0,,{\blur0.6\pos(360,485)\fs60\bord3\3c&HFFFEFE&\c&HFFFEFE&}{\blur0.7}CHIDORI'S JUDGEMENT
-Dialogue: 1,0:23:16.62,0:23:17.12,Next EP - Rotating Text,,0,0,0,,{\blur0.6\pos(360,485)\fs60\bord0\c&H00000000&\4a&HFF&}{\blur0.7}CHIDORI'S JUDGEMENT
+Dialogue: 0,0:23:16.62,0:23:17.16,Next EP - Rotating Text,,0,0,0,,{\blur0.6\pos(360,485)\fs60\bord3\3c&HFFFEFE&\c&HFFFEFE&}{\blur0.7}CHIDORI'S JUDGEMENT
+Dialogue: 1,0:23:16.62,0:23:17.16,Next EP - Rotating Text,,0,0,0,,{\blur0.6\pos(360,485)\fs60\bord0\c&H00000000&\4a&HFF&}{\blur0.7}CHIDORI'S JUDGEMENT
 Dialogue: 0,0:23:17.69,0:23:19.39,Dialogue,,0,0,0,,I'm sorry I broke the promise.
 Dialogue: 0,0:23:19.45,0:23:21.68,Dialogue,,0,0,0,,I was worried if my brother was doing well.
 Dialogue: 0,0:23:21.79,0:23:22.92,Dialogue,,0,0,0,,Punishment of fighting spirit!
@@ -351,7 +351,7 @@ Dialogue: 1,0:22:55.14,0:23:01.10,ED - Romaji,,0,0,0,,{\fad(300,200)\blur0.75}{\
 Dialogue: 1,0:23:02.86,0:23:09.03,ED - Romaji,,0,0,0,,{\fad(300,200)\blur0.75}{\k38}shi{\k38}zu{\k38}ka {\k33}na {\k42}so{\k133}ra {\k296}de
 Dialogue: 0,0:21:48.82,0:21:53.70,ED - Eng,,0,0,0,,{\fad(300,200)\blur0.75}A gentle dream
 Dialogue: 0,0:21:54.16,0:21:59.67,ED - Eng,,0,0,0,,{\fad(300,200)\blur0.75}calls the spring in my heart
-Dialogue: 0,0:22:00.04,0:22:05.05,ED - Eng,,0,0,0,,{\fad(300,200)\blur0.75}and becomes a Dew frost
+Dialogue: 0,0:22:00.04,0:22:05.05,ED - Eng,,0,0,0,,{\fad(300,200)\blur0.75}and becomes a gentle breeze
 Dialogue: 0,0:22:05.05,0:22:10.80,ED - Eng,,0,0,0,,{\fad(300,200)\blur0.75}that touches you, then leaves.
 Dialogue: 0,0:22:10.80,0:22:13.06,ED - Eng,,0,0,0,,{\fad(300,200)\blur0.75}In the small pot
 Dialogue: 0,0:22:13.72,0:22:15.43,ED - Eng,,0,0,0,,{\fad(300,200)\blur0.75}are feelings of love

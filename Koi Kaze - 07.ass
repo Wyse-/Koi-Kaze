@@ -17,14 +17,14 @@ Video Aspect Ratio: c1.78151
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: ../../../../media/wyse/Media III/[WSE] Koi Kaze [raws]/07_v2.mkv
-Video File: ../../../../media/wyse/Media III/[WSE] Koi Kaze [raws]/07_v2.mkv
+Audio File: ../../../../../media/wyse/Media III/[WSE] Koi Kaze/[WSE] Koi Kaze - 07 [DVD x264 478p 10bit FLAC-AC3][Dual Audio][F26D71E8].mkv
+Video File: ../../../../../media/wyse/Media III/[WSE] Koi Kaze/[WSE] Koi Kaze - 07 [DVD x264 478p 10bit FLAC-AC3][Dual Audio][F26D71E8].mkv
 Video AR Mode: 4
-Video AR Value: 1.770339
-Video Zoom Percent: 2.066946
-Scroll Position: 350
-Active Line: 369
-Video Position: 33765
+Video AR Value: 1.765380
+Video Zoom Percent: 2.780335
+Scroll Position: 33
+Active Line: 40
+Video Position: 11664
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -42,7 +42,7 @@ Style: Next EP - Scrolling Text,Patrick Hand,35,&H00DC1DE8,&H000019FF,&H00FBFDF8
 Style: Next EP - Rotating Text,teen spirit,20,&H0000FFFF,&H0000FFFF,&H0056465B,&H0056465B,-1,-1,0,0,100,100,0,0,1,2,0,2,5,5,5,0
 Style: Next EP - Static Text,Balsoon,40,&H00070606,&H000019FF,&H00FFFEFE,&HBE000000,0,0,0,0,100,100,0,0,1,1.7,0,2,0,0,0,1
 Style: TL Note,LTFinnegan Medium,28,&H00D8D4C7,&H000019FF,&H00101010,&HBE000000,0,-1,0,0,84,100,0,0,1,1.4,0.7,8,32,32,23,1
-Style: Signs - Handwriting,Desyrel,35,&H00929595,&H000000FF,&H00000000,&H00000000,0,0,0,0,84,100,0,0,1,0,0,5,10,10,10,1
+Style: Signs - Handwriting,Desyrel,35,&H007D8683,&H000000FF,&H00000000,&H00000000,0,0,0,0,84,100,0,0,1,0,0,5,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
