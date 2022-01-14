@@ -335,8 +335,8 @@ Dialogue: 0,0:18:29.04,0:18:30.54,Signs,,0,0,0,,{\frz-5\fax0.15\c&H282B26&\pos(3
 Dialogue: 0,0:21:10.91,0:21:13.41,Signs,,0,0,0,,{\fax-0.2\frz4\c&H968887&\blur1.004\frx25\pos(606.116,84.131)}Shop
 Dialogue: 0,0:21:10.91,0:21:13.41,Signs,,0,0,0,,{\frz2\fax-0.1\c&H968887&\blur1.004\pos(631.118,61.553)\frx25}Yamazato{Not “Yamazato Shop”?}
 Dialogue: 0,0:01:49.33,0:01:52.80,Dialogue,,0,0,0,,Hey, Daddy, will there be a panda? A panda?
-Dialogue: 0,0:01:50.04,0:01:51.92,Dialogue - Alt,,0,0,0,,{\c&HC1C1C1&}Hey, Dad, did you bring the camera?
-Dialogue: 0,0:01:51.92,0:01:52.80,Dialogue - Alt,,0,0,0,,{\c&HC1C1C1&}I sure did!
+Dialogue: 0,0:01:50.04,0:01:51.92,Dialogue,,0,0,0,,{\c&HC1C1C1&}Hey, Dad, did you bring the camera?
+Dialogue: 0,0:01:51.92,0:01:52.80,Dialogue,,0,0,0,,{\c&HC1C1C1&}I sure did!
 Dialogue: 0,0:01:52.80,0:01:54.01,Dialogue,,0,0,0,,What? A panda?
 Dialogue: 0,0:01:58.93,0:02:00.68,Dialogue,,0,0,0,,Okay, I’ll be back soon.
 Dialogue: 0,0:02:43.68,0:02:45.01,Dialogue,,0,0,0,,Unbelievable.
