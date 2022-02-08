@@ -21,10 +21,10 @@ Last Style Storage: Default
 Video File: ../../../../../media/wyse/Media III/[WSE] Koi Kaze [raws v2]/ep2.vpy.mkv
 Video AR Mode: 4
 Video AR Value: 1.779167
-Video Zoom Percent: 2.793750
+Video Zoom Percent: 2.768750
 Scroll Position: 759
 Active Line: 788
-Video Position: 33815
+Video Position: 33816
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -823,17 +823,17 @@ Dialogue: 0,0:23:16.58,0:23:16.62,Next EP - Rotating Text,,0,0,0,,{\blur0.603\po
 Dialogue: 1,0:23:16.58,0:23:16.62,Next EP - Rotating Text,,0,0,0,,{\blur0.603\pos(430.588,487.029)\fs60.251\bord0\c&H00000000&\4a&HFF&}{\blur0.703\iclip(m 417.375 388.625 l 418.625 477 748.75 476 742.75 382.625 m 594.5 406.75 l 637.5 402.625 b 642.25 420.75 643.5 455.875 641.125 473 l 599.25 472)}CHIDORI'S JUDGEMENT
 Dialogue: 0,0:23:16.62,0:23:17.12,Next EP - Rotating Text,,0,0,0,,{\blur0.603\pos(430.588,487.029)\fs60.251\bord3.013\3c&HFFFEFE&\c&HFFFEFE&}{\blur0.703}CHIDORI'S JUDGEMENT
 Dialogue: 1,0:23:16.62,0:23:17.12,Next EP - Rotating Text,,0,0,0,,{\blur0.603\pos(430.588,487.029)\fs60.251\bord0\c&H00000000&\4a&HFF&}{\blur0.703}CHIDORI'S JUDGEMENT
-Dialogue: 0,0:23:18.50,0:23:22.01,Next EP - Scrolling Text,,0,0,0,,{\move(926.961,386.611,-105.255,386.611)\q2\blur0.703\c&HFBFDF8&}Next episode:
-Dialogue: 1,0:23:18.50,0:23:22.01,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(926.961,386.611,-105.255,386.611)\q2\blur0.703\4a&HFF&}Next episode:
-Dialogue: 0,0:23:18.50,0:23:22.01,Next EP - Scrolling Text,,0,0,0,,{\move(926.961,456.904,-105.255,456.904)\q2\blur0.703\c&HFBFDF8&}Gentle Breeze
-Dialogue: 1,0:23:18.50,0:23:22.01,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(926.961,456.904,-105.255,456.904)\q2\blur0.703\4a&HFF&}Gentle Breeze
-Dialogue: 0,0:23:19.24,0:23:25.52,Next EP - Scrolling Text,,0,0,0,,{\move(1133.882,386.611,-714.059,386.611)\q2\blur0.703\c&HFBFDF8&}They exchange teddy bears. Getting in a good mood.
-Dialogue: 1,0:23:19.24,0:23:25.52,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(1133.882,386.611,-714.059,386.611)\q2\blur0.703\4a&HFF&}They exchange teddy bears. Getting in a good mood.
-Dialogue: 0,0:23:19.28,0:23:25.67,Next EP - Scrolling Text,,0,0,0,,{\move(1543.539,456.904,-339.088,456.904)\q2\blur0.703\c&HFBFDF8&}But, Nanoka is acting strange, and it makes Koshiro nervous.
-Dialogue: 1,0:23:19.28,0:23:25.67,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(1543.539,456.904,-339.088,456.904)\q2\blur0.703\4a&HFF&}But, Nanoka is acting strange, and it makes Koshiro nervous.
+Dialogue: 0,0:23:18.46,0:23:21.96,Next EP - Scrolling Text,,0,0,0,,{\move(926.961,386.611,-105.255,386.611)\q2\blur0.703\c&HFBFDF8&}Next episode:
+Dialogue: 1,0:23:18.46,0:23:21.96,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(926.961,386.611,-105.255,386.611)\q2\blur0.703\4a&HFF&}Next episode:
+Dialogue: 0,0:23:18.46,0:23:21.96,Next EP - Scrolling Text,,0,0,0,,{\move(926.961,456.904,-105.255,456.904)\q2\blur0.703\c&HFBFDF8&}Gentle Breeze
+Dialogue: 1,0:23:18.46,0:23:21.96,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(926.961,456.904,-105.255,456.904)\q2\blur0.703\4a&HFF&}Gentle Breeze
+Dialogue: 0,0:23:19.21,0:23:25.46,Next EP - Scrolling Text,,0,0,0,,{\move(1133.882,386.611,-714.059,386.611)\q2\blur0.703\c&HFBFDF8&}They exchange teddy bears. Getting in a good mood.
+Dialogue: 1,0:23:19.21,0:23:25.46,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(1133.882,386.611,-714.059,386.611)\q2\blur0.703\4a&HFF&}They exchange teddy bears. Getting in a good mood.
+Dialogue: 0,0:23:19.25,0:23:25.63,Next EP - Scrolling Text,,0,0,0,,{\move(1543.539,456.904,-339.088,456.904)\q2\blur0.703\c&HFBFDF8&}But, Nanoka is acting strange, and it makes Koshiro nervous.
+Dialogue: 1,0:23:19.25,0:23:25.63,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(1543.539,456.904,-339.088,456.904)\q2\blur0.703\4a&HFF&}But, Nanoka is acting strange, and it makes Koshiro nervous.
 Dialogue: 0,0:23:17.60,0:23:21.00,Dialogue - Alt,,0,0,0,,I do not intend to abuse my\Nposition as a marriage consultant!
 Dialogue: 0,0:23:21.00,0:23:26.92,Dialogue - Alt,,0,0,0,,I just want to honestly and legally get to know some high school girls!
-Dialogue: 0,0:23:27.40,0:23:29.10,Dialogue,,0,0,0,,Hide his glasses as punishment!
+Dialogue: 0,0:23:27.40,0:23:28.47,Dialogue,,0,0,0,,Hide his glasses as punishment!
 Dialogue: 1,0:23:27.13,0:23:28.47,Next EP - Verdict,,0,0,0,,{\pos(671,41.172)\bord1.004\blur0.502\bord0\c&H00000000&\4a&HFF&\fs36.151\iclip(579,-1,797,45)\t(27,900,\iclip(797,-1,797,45))}Hide his glasses
 Dialogue: 0,0:23:27.13,0:23:28.47,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\c&HFFFFFF&\pos(673.392,45.188)\fs36.151\\iclip(579,-1,797,45)\t(27,900,\iclip(797,-1,797,45))}Hide his glasses
-Dialogue: 0,0:23:29.10,0:23:30.10,Dialogue,,0,0,0,,Glasses!
+Dialogue: 0,0:23:29.10,0:23:29.97,Dialogue,,0,0,0,,Glasses!

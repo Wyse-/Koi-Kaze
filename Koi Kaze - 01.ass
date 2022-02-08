@@ -24,9 +24,9 @@ Video File: ../../../../../media/wyse/Media III/[WSE] Koi Kaze [raws v2]/ep1.vpy
 Video AR Mode: 4
 Video AR Value: 1.779167
 Video Zoom Percent: 2.768750
-Scroll Position: 595
-Active Line: 620
-Video Position: 33671
+Scroll Position: 592
+Active Line: 606
+Video Position: 33800
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -646,14 +646,14 @@ Dialogue: 0,0:22:46.58,0:22:51.28,ED - Eng,,0,0,0,,{\fad(300,200)\blur0.753}We j
 Dialogue: 0,0:22:52.04,0:22:56.40,ED - Eng,,0,0,0,,{\fad(300,200)\blur0.753}to the peaceful sky.
 Dialogue: 0,0:22:57.56,0:23:03.55,ED - Eng,,0,0,0,,{\fad(300,200)\blur0.753}Hope that we’ll see each other again tomorrow
 Dialogue: 0,0:23:05.30,0:23:11.44,ED - Eng,,0,0,0,,{\fad(300,200)\blur0.753}to the peaceful sky.
-Dialogue: 0,0:23:18.71,0:23:22.21,Next EP - Scrolling Text,,0,0,0,,{\move(926.961,386.611,-77.745,386.611)\q2\blur0.703\c&HFBFDF8&}Next episode:
-Dialogue: 1,0:23:18.71,0:23:22.21,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(926.961,386.611,-77.745,386.611)\q2\blur0.703\4a&HFF&}Next episode:
-Dialogue: 0,0:23:18.71,0:23:22.21,Next EP - Scrolling Text,,0,0,0,,{\move(926.961,456.904,-77.745,456.904)\q2\blur0.703\c&HFBFDF8&}Spring Blues
-Dialogue: 1,0:23:18.71,0:23:22.21,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(926.961,456.904,-77.745,456.904)\q2\blur0.703\4a&HFF&}Spring Blues
-Dialogue: 0,0:23:19.48,0:23:25.75,Next EP - Scrolling Text,,0,0,0,,{\move(1148.235,386.611,-651.863,386.611)\q2\blur0.703\c&HFBFDF8&}Nanoka, who is Koshiro's sister, starts to live with him.
-Dialogue: 1,0:23:19.48,0:23:25.75,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(1148.235,386.611,-651.863,386.611)\q2\blur0.703\4a&HFF&}Nanoka, who is Koshiro's sister, starts to live with him.
-Dialogue: 0,0:23:19.48,0:23:25.75,Next EP - Scrolling Text,,0,0,0,,{\move(1444.265,456.904,-355.833,456.904)\q2\blur0.703\c&HFBFDF8&}Nanoka calls him "big brother", and Koshiro gets into a quandary.
-Dialogue: 1,0:23:19.48,0:23:25.75,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(1444.265,456.904,-355.833,456.904)\q2\blur0.703\4a&HFF&}Nanoka calls him "big brother", and Koshiro gets into a quandary.
+Dialogue: 0,0:23:18.71,0:23:22.21,Next EP - Scrolling Text,,0,0,0,,{\move(916.96,386.61,-87.74,386.61)\q2\blur0.703\c&HFBFDF8&}Next episode:
+Dialogue: 1,0:23:18.71,0:23:22.21,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(916.96,386.61,-87.74,386.61)\q2\blur0.703\4a&HFF&}Next episode:
+Dialogue: 0,0:23:18.71,0:23:22.21,Next EP - Scrolling Text,,0,0,0,,{\move(916.96,456.9,-87.74,456.9)\q2\blur0.703\c&HFBFDF8&}Spring Blues
+Dialogue: 1,0:23:18.71,0:23:22.21,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(916.96,456.9,-87.74,456.9)\q2\blur0.703\4a&HFF&}Spring Blues
+Dialogue: 0,0:23:19.48,0:23:25.75,Next EP - Scrolling Text,,0,0,0,,{\move(1138.23,386.61,-661.86,386.61)\q2\blur0.703\c&HFBFDF8&}Nanoka, who is Koshiro's sister, starts to live with him.
+Dialogue: 1,0:23:19.48,0:23:25.75,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(1138.23,386.61,-661.86,386.61)\q2\blur0.703\4a&HFF&}Nanoka, who is Koshiro's sister, starts to live with him.
+Dialogue: 0,0:23:19.48,0:23:25.75,Next EP - Scrolling Text,,0,0,0,,{\move(1434.27,456.9,-365.83,456.9)\q2\blur0.703\c&HFBFDF8&}Nanoka calls him "big brother", and Koshiro gets into a quandary.
+Dialogue: 1,0:23:19.48,0:23:25.75,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(1434.27,456.9,-365.83,456.9)\q2\blur0.703\4a&HFF&}Nanoka calls him "big brother", and Koshiro gets into a quandary.
 Dialogue: 0,0:23:14.97,0:23:16.54,Next EP - Static Text,,0,0,0,,{\blur0.603\pos(598.039,90.377)\c&HF5FCFC&}{\blur0.402}AN EPIC SERIES PREVIEW
 Dialogue: 1,0:23:14.97,0:23:16.54,Next EP - Static Text,,0,0,0,,{\bord0\blur0.603\pos(598.039,90.377)\4a&HFF&}{\blur0.402}AN EPIC SERIES PREVIEW
 Dialogue: 0,0:23:15.37,0:23:16.54,Next EP - Rotating Text,,0,0,0,,{\blur0.603\pos(430.588,487.029)\fs60.251\bord3.013\3c&HFFFEFE&\c&HFFFEFE&\frx25}{\t(0,620,\frx0)}{\blur0.703}CHIDORI'S JUDGEMENT
