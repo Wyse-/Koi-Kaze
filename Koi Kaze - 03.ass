@@ -22,9 +22,9 @@ Video File: ../../../../../media/wyse/Media III/[WSE] Koi Kaze [raws v2]/ep3.vpy
 Video AR Mode: 4
 Video AR Value: 1.779167
 Video Zoom Percent: 2.768750
-Scroll Position: 305
+Scroll Position: 228
 Active Line: 244
-Video Position: 31005
+Video Position: 31030
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -107,7 +107,7 @@ Dialogue: 0,0:04:09.15,0:04:13.16,Dialogue - Italic,,0,0,0,,We’ll call the bus
 Dialogue: 0,0:04:23.11,0:04:25.24,Dialogue - Italic,,0,0,0,,My poor boy...{urgh}
 Dialogue: 0,0:04:26.85,0:04:30.12,Dialogue - Italic,,0,0,0,,Just like Mom did for me back then,
 Dialogue: 0,0:04:31.45,0:04:34.62,Dialogue - Italic,,0,0,0,,I should do something nice for her.
-Dialogue: 0,0:04:35.71,0:04:38.50,Dialogue - Italic,,0,0,0,,Maybe then this strange feeling will go away.
+Dialogue: 0,0:04:35.71,0:04:38.46,Dialogue - Italic,,0,0,0,,Maybe then this strange feeling will go away.
 Dialogue: 0,0:04:39.85,0:04:41.51,Dialogue - Italic,,0,0,0,,That’s what I found myself thinking.{Editor’s note: this line seems to be the result of zealous editing? I don’t speak no nihongo but the r1 has a drastically different translation here. I like the flow of this better though. FUCK ACCURATE TRANSLATION}
 Dialogue: 0,0:04:44.75,0:04:47.46,Dialogue - Italic,,0,0,0,,Am I really that childish?
 Dialogue: 0,0:05:06.35,0:05:09.80,Dialogue - Italic,,0,0,0,,Perhaps her innocence is what makes her seem childlike?{he uses こども both times so I’m inclined to make sure they’re translated the same way... but innocence would make her childlike, not childish. Or at least I think that’d be the case. cf. "Childlike - Like a child; (of qualities, actions, etc.) like those of a child, characteristic of a child. Almost always in a good sense, with reference to the innocence, meekness, etc., of children; opposed to childish, which is generally used in a bad sense." (oed.com)}
@@ -129,7 +129,7 @@ Dialogue: 0,0:05:56.95,0:05:57.85,Dialogue,,0,0,0,,But...
 Dialogue: 0,0:05:58.58,0:06:01.17,Dialogue,,0,0,0,,My mom made it for me when I was a kid.
 Dialogue: 0,0:06:01.17,0:06:03.13,Dialogue,,0,0,0,,It doesn’t really matter to me if you take it.
 Dialogue: 0,0:06:03.13,0:06:04.09,Dialogue,,0,0,0,,I’ll give it to you.
-Dialogue: 0,0:06:09.95,0:06:11.60,Dialogue,,0,0,0,,Wait a second!
+Dialogue: 0,0:06:09.95,0:06:11.64,Dialogue,,0,0,0,,Wait a second!
 Dialogue: 0,0:06:20.65,0:06:21.86,Dialogue,,0,0,0,,Here!
 Dialogue: 0,0:06:22.95,0:06:24.41,Dialogue,,0,0,0,,This one’s mine.
 Dialogue: 0,0:06:24.41,0:06:26.94,Dialogue,,0,0,0,,Mom made one for me too.
@@ -195,7 +195,7 @@ Dialogue: 0,0:10:43.55,0:10:46.14,Dialogue,,0,0,0,,That cute guy you were talkin
 Dialogue: 0,0:10:46.14,0:10:47.72,Dialogue,,0,0,0,,which school does he go to?
 Dialogue: 0,0:10:48.95,0:10:51.35,Dialogue,,0,0,0,,I wish I could’ve found that out...
 Dialogue: 0,0:10:51.35,0:10:53.60,Dialogue,,0,0,0,,I’ve never seen his uniform before.
-Dialogue: 0,0:10:54.04,0:10:57.03,Dialogue,,0,0,0,,Maybe it’s the all-boys school that started up last year.
+Dialogue: 0,0:10:54.00,0:10:57.03,Dialogue,,0,0,0,,Maybe it’s the all-boys school that started up last year.
 Dialogue: 0,0:10:57.03,0:10:59.89,Dialogue,,0,0,0,,But if he was on the same train as you today,
 Dialogue: 0,0:10:59.89,0:11:02.03,Dialogue,,0,0,0,,there’s a chance you’ll see him again, right?
 Dialogue: 0,0:11:03.35,0:11:06.50,Dialogue,,0,0,0,,I want to see what he looks like too!
@@ -215,7 +215,7 @@ Dialogue: 0,0:12:31.36,0:12:33.94,Dialogue,,0,0,0,,That was Tamaki, right? He wa
 Dialogue: 0,0:12:34.75,0:12:35.81,Dialogue,,0,0,0,,Y-Yeah.
 Dialogue: 0,0:12:35.81,0:12:38.64,Dialogue,,0,0,0,,That girl! She said she wasn’t interested!
 Dialogue: 0,0:12:38.64,0:12:41.01,Dialogue,,0,0,0,,I’ll make her spill it all out tomorrow!
-Dialogue: 0,0:12:51.60,0:12:52.50,Dialogue,,0,0,0,,I’m home.
+Dialogue: 0,0:12:51.60,0:12:52.54,Dialogue,,0,0,0,,I’m home.
 Dialogue: 0,0:13:03.90,0:13:04.94,Dialogue,,0,0,0,,You...
 Dialogue: 0,0:13:07.43,0:13:09.47,Dialogue,,0,0,0,,Welcome home. You’re early today.
 Dialogue: 0,0:13:14.50,0:13:15.66,Dialogue,,0,0,0,,What’s wrong?
@@ -238,7 +238,7 @@ Dialogue: 0,0:15:18.35,0:15:19.84,Dialogue - Italic,,0,0,0,,and in the afternoon
 Dialogue: 0,0:15:20.61,0:15:22.58,Dialogue,,0,0,0,,Aren’t you hungry?
 Dialogue: 0,0:15:34.60,0:15:36.87,Dialogue,,0,0,0,,Where are you going at this hour?
 Dialogue: 0,0:15:38.70,0:15:39.91,Dialogue,,0,0,0,,A walk.
-Dialogue: 0,0:15:39.91,0:15:42.29,Dialogue,,0,0,0,,What are you saying?\NYou’re not feeling well, right?
+Dialogue: 0,0:15:39.91,0:15:42.25,Dialogue,,0,0,0,,What are you saying?\NYou’re not feeling well, right?
 Dialogue: 0,0:15:46.30,0:15:48.44,Dialogue,,0,0,0,,I’m just having really bad menstrual cramps.{ｗｗ}
 Dialogue: 0,0:15:57.10,0:15:59.10,Dialogue,,0,0,0,,It’s the first time in three months?
 Dialogue: 0,0:15:59.10,0:16:01.06,Dialogue,,0,0,0,,Are you all right?
