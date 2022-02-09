@@ -22,9 +22,9 @@ Video File: ../../../../../media/wyse/Media III/[WSE] Koi Kaze [raws v2]/ep2.vpy
 Video AR Mode: 4
 Video AR Value: 1.779167
 Video Zoom Percent: 2.768750
-Scroll Position: 759
-Active Line: 788
-Video Position: 33816
+Scroll Position: 677
+Active Line: 700
+Video Position: 31022
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -560,7 +560,7 @@ Dialogue: 0,0:02:17.74,0:02:19.78,Dialogue - Italic,,0,0,0,,but they’re alread
 Dialogue: 0,0:02:29.17,0:02:30.71,Dialogue,,0,0,0,,Good morning, Onii-chan!
 Dialogue: 0,0:02:42.35,0:02:43.55,Dialogue,,0,0,0,,Onii-chan!
 Dialogue: 0,0:02:46.27,0:02:48.48,Dialogue,,0,0,0,,Onii-chan, wait up!
-Dialogue: 0,0:02:51.85,0:02:53.11,Dialogue,,0,0,0,,I’m home.
+Dialogue: 0,0:02:51.85,0:02:53.06,Dialogue,,0,0,0,,I’m home.
 Dialogue: 0,0:02:55.15,0:02:57.07,Dialogue,,0,0,0,,Welcome back, Onii-chan.
 Dialogue: 0,0:03:04.83,0:03:06.83,Dialogue,,0,0,0,,Isn’t this stew delicious?
 Dialogue: 0,0:03:06.99,0:03:07.91,Dialogue,,0,0,0,,Yeah.
@@ -610,7 +610,7 @@ Dialogue: 0,0:06:40.37,0:06:43.38,Dialogue,,0,0,0,,Um, I’m not interested.
 Dialogue: 0,0:06:54.14,0:06:55.68,Dialogue,,0,0,0,,You are...
 Dialogue: 0,0:07:00.73,0:07:01.69,Dialogue,,0,0,0,,Glasses...
 Dialogue: 0,0:07:01.69,0:07:02.73,Dialogue,,0,0,0,,Glasses...?
-Dialogue: 0,0:07:08.78,0:07:10.15,Dialogue,,0,0,0,,Onii-chan!
+Dialogue: 0,0:07:08.74,0:07:10.15,Dialogue,,0,0,0,,Onii-chan!
 Dialogue: 0,0:07:13.32,0:07:14.45,Dialogue,,0,0,0,,You!
 Dialogue: 0,0:07:15.74,0:07:16.83,Dialogue,,0,0,0,,I came to visit.
 Dialogue: 0,0:07:16.83,0:07:18.00,Dialogue,,0,0,0,,So she says.{It seems so.}
@@ -642,11 +642,11 @@ Dialogue: 0,0:10:22.68,0:10:25.22,Dialogue,,0,0,0,,Aren’t most siblings like t
 Dialogue: 0,0:10:25.22,0:10:27.35,Dialogue,,0,0,0,,All I do is fight with my older sister.
 Dialogue: 0,0:10:28.14,0:10:30.56,Dialogue,,0,0,0,,I didn’t expect him to be so mean!
 Dialogue: 0,0:10:30.94,0:10:34.44,Dialogue,,0,0,0,,I’m never going to call my brother “Onii-chan” again!
-Dialogue: 0,0:10:34.44,0:10:35.32,Dialogue,,0,0,0,,Now, now.
+Dialogue: 0,0:10:34.44,0:10:35.36,Dialogue,,0,0,0,,Now, now.
 Dialogue: 0,0:10:37.78,0:10:42.58,Dialogue,,0,0,0,,Hey, why don’t we go have some fun after school,{this comma is actually inappropriate because the next clause is not independent}
 Dialogue: 0,0:10:42.58,0:10:44.41,Dialogue,,0,0,0,,and really let out our feelings!{to help let the stress off}{ugh.}
 Dialogue: 0,0:10:44.41,0:10:45.08,Dialogue,,0,0,0,,Okay?
-Dialogue: 0,0:10:45.54,0:10:46.45,Dialogue,,0,0,0,,Yeah!
+Dialogue: 0,0:10:45.58,0:10:46.45,Dialogue,,0,0,0,,Yeah!
 Dialogue: 0,0:10:51.96,0:10:53.71,Dialogue,,0,0,0,,Poor girl.
 Dialogue: 0,0:10:57.97,0:11:01.72,Dialogue,,0,0,0,,She visited you because she wanted to spend time with you.{I hate “get closer to”}
 Dialogue: 0,0:11:05.14,0:11:07.85,Dialogue,,0,0,0,,Your behavior was uncalled-for, wasn’t it?
@@ -667,14 +667,14 @@ Dialogue: 0,0:12:23.13,0:12:24.89,Dialogue,,0,0,0,,This is so good!
 Dialogue: 0,0:12:25.14,0:12:26.10,Dialogue,,0,0,0,,Isn’t it, isn’t it?{I KNOW RIGHT}
 Dialogue: 0,0:12:26.10,0:12:29.10,Dialogue,,0,0,0,,Chocolate caramel ice cream is definitely the best!
 Dialogue: 0,0:12:29.10,0:12:30.02,Dialogue,,0,0,0,,Yeah!
-Dialogue: 0,0:12:30.93,0:12:35.40,Dialogue,,0,0,0,,Nanoka, you don’t really know the shops in this area yet, do you?{possible setup for her not knowing the area and ending up in Rapeville, Back Alley Japland later?}
+Dialogue: 0,0:12:30.89,0:12:35.40,Dialogue,,0,0,0,,Nanoka, you don’t really know the shops in this area yet, do you?{possible setup for her not knowing the area and ending up in Rapeville, Back Alley Japland later?}
 Dialogue: 0,0:12:35.40,0:12:36.90,Dialogue,,0,0,0,,Let’s go shopping together next time.
 Dialogue: 0,0:12:37.31,0:12:39.19,Dialogue,,0,0,0,,I’ll show you around!
 Dialogue: 0,0:12:39.19,0:12:39.98,Dialogue,,0,0,0,,Yeah!
 Dialogue: 0,0:12:39.98,0:12:41.36,Dialogue,,0,0,0,,Hey, Futaba-chan!{alternately, HEY 2CH}
 Dialogue: 0,0:12:41.86,0:12:43.57,Dialogue,,0,0,0,,What’s up?
 Dialogue: 0,0:12:43.57,0:12:45.45,Dialogue,,0,0,0,,You’re eating here again?{how do you keep that figure when you’re consuming 5000 Calories a day in ice cream alone}
-Dialogue: 0,0:12:45.45,0:12:47.45,Dialogue,,0,0,0,,You sure love the ice cream here.{double “here”, not sure if want}
+Dialogue: 0,0:12:45.45,0:12:47.49,Dialogue,,0,0,0,,You sure love the ice cream here.{double “here”, not sure if want}
 Dialogue: 0,0:12:48.03,0:12:50.62,Dialogue,,0,0,0,,She went to the same junior high as me.
 Dialogue: 0,0:12:51.33,0:12:53.83,Dialogue,,0,0,0,,I’m Tamaki Youko from class four. Nice to meet you.{this is awkwardly stacked. A forced linebreak would be worse, and splitting it into two lines is unwarranted}
 Dialogue: 0,0:12:54.33,0:12:57.00,Dialogue,,0,0,0,,I’m Kohinata Nanoka. Nice to meet you, too.
@@ -698,7 +698,7 @@ Dialogue: 0,0:14:15.58,0:14:16.79,Dialogue,,0,0,0,,I know, right?
 Dialogue: 0,0:14:23.46,0:14:25.80,Dialogue,,0,0,0,,It’s gotten kind of late, huh?
 Dialogue: 0,0:14:25.80,0:14:27.72,Dialogue,,0,0,0,,Will you be okay, Nanoka?
 Dialogue: 0,0:14:27.72,0:14:29.51,Dialogue,,0,0,0,,I called home just in case.
-Dialogue: 0,0:14:30.34,0:14:31.51,Dialogue,,0,0,0,,Let’s do this again some time!
+Dialogue: 0,0:14:30.30,0:14:31.51,Dialogue,,0,0,0,,Let’s do this again some time!
 Dialogue: 0,0:14:31.93,0:14:32.93,Dialogue,,0,0,0,,Yeah!
 Dialogue: 0,0:14:33.76,0:14:34.89,Dialogue,,0,0,0,,I’ll see you tomorrow, then.
 Dialogue: 0,0:14:34.89,0:14:36.68,Dialogue,,0,0,0,,See you! Bye!
@@ -745,7 +745,7 @@ Dialogue: 0,0:21:12.33,0:21:14.08,Dialogue - Italic,,0,0,0,,As for me,
 Dialogue: 0,0:21:15.17,0:21:20.21,Dialogue - Italic,,0,0,0,,I was getting irritated from still feeling uncomfortable.
 Dialogue: 0,0:21:23.47,0:21:25.05,Dialogue - Italic,,0,0,0,,She’s my younger sister.
 Dialogue: 0,0:21:25.76,0:21:28.14,Dialogue - Italic,,0,0,0,,So this is fine.
-Dialogue: 0,0:21:29.14,0:21:32.85,Dialogue - Italic,,0,0,0,,This is normal, and ordinary.
+Dialogue: 0,0:21:29.14,0:21:32.77,Dialogue - Italic,,0,0,0,,This is normal, and ordinary.
 Dialogue: 0,0:21:34.06,0:21:39.56,Dialogue - Italic,,0,0,0,,I continued pedaling as I tried to convince myself of that.
 Dialogue: 0,0:00:11.63,0:00:15.81,OP - Romaji,,0,0,0,fx,{\fad(300,200)\blur0.753}{\k39}ha{\k28}ji{\k31}me{\k30}te {\k31}no {\k95}ki{\k93}mo{\k51}chi
 Dialogue: 0,0:00:16.40,0:00:20.77,OP - Romaji,,0,0,0,fx,{\fad(300,200)\blur0.753}{\k42}sho{\k29}n{\k32}bo{\k32}ri {\k26}no {\k93}mu{\k98}ne {\k47}ni
