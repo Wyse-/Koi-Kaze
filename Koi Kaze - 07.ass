@@ -20,9 +20,10 @@ Last Style Storage: Default
 Video File: ../../../../../media/wyse/Media III/[WSE] Koi Kaze [raws v2]/ep7.vpy.mkv
 Video AR Mode: 4
 Video AR Value: 1.779167
-Video Zoom Percent: 2.780335
-Scroll Position: 33
-Active Line: 51
+Video Zoom Percent: 2.768750
+Scroll Position: 296
+Active Line: 340
+Video Position: 29841
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -246,7 +247,7 @@ Dialogue: 0,0:06:04.46,0:06:06.87,Dialogue,,0,0,0,,You should walk around the fe
 Dialogue: 0,0:06:07.37,0:06:08.24,Dialogue,,0,0,0,,But...
 Dialogue: 0,0:06:08.24,0:06:12.89,Dialogue,,0,0,0,,Try going out with him once, and decide if you want to go out with him for real later.
 Dialogue: 0,0:06:13.13,0:06:18.85,Dialogue,,0,0,0,,But, but what do you do when you “go out” with someone?
-Dialogue: 0,0:06:19.56,0:06:21.49,Dialogue,,0,0,0,,Well, you can do a whole bunch of things!
+Dialogue: 0,0:06:19.52,0:06:21.49,Dialogue,,0,0,0,,Well, you can do a whole bunch of things!
 Dialogue: 0,0:06:21.49,0:06:25.81,Dialogue,,0,0,0,,Like walk home together, visit his house, or take a walk in the park.
 Dialogue: 0,0:06:26.43,0:06:27.82,Dialogue,,0,0,0,,A park?
 Dialogue: 0,0:06:37.62,0:06:40.45,Dialogue,,0,0,0,,Maybe if you get a boyfriend, you’ll be able to grow out of your brother complex.
@@ -267,7 +268,7 @@ Dialogue: 0,0:08:47.44,0:08:50.55,Dialogue,,0,0,0,,That’s why he wants to spen
 Dialogue: 0,0:08:52.57,0:08:54.98,Dialogue,,0,0,0,,Futaba-chan said the same thing.
 Dialogue: 0,0:08:54.98,0:08:59.30,Dialogue,,0,0,0,,Anyway, don’t show me letters like this.
 Dialogue: 0,0:08:59.87,0:09:04.17,Dialogue,,0,0,0,,Even if the letter was written casually, he might be serious.
-Dialogue: 0,0:09:04.91,0:09:10.27,Dialogue,,0,0,0,,I don’t think you should show important letters like this to anyone.
+Dialogue: 0,0:09:04.91,0:09:10.32,Dialogue,,0,0,0,,I don’t think you should show important letters like this to anyone.
 Dialogue: 0,0:09:11.41,0:09:13.95,Dialogue,,0,0,0,,I was just trying to get your advice
 Dialogue: 0,0:09:13.95,0:09:16.36,Dialogue,,0,0,0,,because I don’t know what to do!
 Dialogue: 0,0:09:16.36,0:09:19.05,Dialogue,,0,0,0,,I said, if you don’t think he’s a bad guy,
@@ -356,7 +357,7 @@ Dialogue: 0,0:17:31.69,0:17:34.86,Dialogue - Italic,,0,0,0,,but on the other han
 Dialogue: 0,0:17:36.70,0:17:37.89,Dialogue - Italic,,0,0,0,,And it surprises me.
 Dialogue: 0,0:18:29.50,0:18:31.52,Dialogue,,0,0,0,,Hey! Be careful!
 Dialogue: 0,0:18:34.34,0:18:35.90,Dialogue,,0,0,0,,Here.
-Dialogue: 0,0:18:36.81,0:18:37.97,Dialogue,,0,0,0,,I’m sorry.
+Dialogue: 0,0:18:36.81,0:18:38.01,Dialogue,,0,0,0,,I’m sorry.
 Dialogue: 0,0:18:42.80,0:18:43.80,Dialogue,,0,0,0,,Hey, so...
 Dialogue: 0,0:18:46.16,0:18:50.57,Dialogue,,0,0,0,,How’d it go with the guy who wrote you that letter?
 Dialogue: 0,0:18:51.47,0:18:53.68,Dialogue,,0,0,0,,Did you have fun at the culture festival?
@@ -368,8 +369,8 @@ Dialogue: 0,0:19:18.04,0:19:21.67,Dialogue,,0,0,0,,Oh, you did?
 Dialogue: 0,0:19:22.27,0:19:23.10,Dialogue,,0,0,0,,Yeah.
 Dialogue: 0,0:19:27.63,0:19:30.85,Dialogue,,0,0,0,,What? Were you worried about me?
 Dialogue: 0,0:19:30.85,0:19:32.38,Dialogue,,0,0,0,,Not really.
-Dialogue: 0,0:19:33.30,0:19:35.05,Dialogue,,0,0,0,,You were, admit it!
-Dialogue: 0,0:19:35.05,0:19:36.34,Dialogue,,0,0,0,,I said I wasn’t!
+Dialogue: 0,0:19:33.30,0:19:35.02,Dialogue,,0,0,0,,You were, admit it!
+Dialogue: 0,0:19:35.02,0:19:36.34,Dialogue,,0,0,0,,I said I wasn’t!
 Dialogue: 0,0:19:36.34,0:19:40.32,Dialogue,,0,0,0,,Besides, it’s 10 years too early for you to have a boyfriend.{cliché, much?}
 Dialogue: 0,0:19:40.81,0:19:42.98,Dialogue,,0,0,0,,You said you’d stop treating me like a kid.
 Dialogue: 0,0:19:42.98,0:19:46.03,Dialogue,,0,0,0,,What kind of adult would swing a grocery bag around like that?
@@ -384,7 +385,7 @@ Dialogue: 0,0:20:26.54,0:20:29.48,Dialogue,,0,0,0,,R-Really?
 Dialogue: 0,0:20:29.48,0:20:34.03,Dialogue,,0,0,0,,Yes! You always call me, “you” so arrogantly!{clearly we should have a tl note about “omae” here}
 Dialogue: 0,0:20:34.03,0:20:36.13,Dialogue,,0,0,0,,I’m not trying to be arrogant.
 Dialogue: 0,0:20:39.66,0:20:43.88,Dialogue,,0,0,0,,You always surprise me like this.
-Dialogue: 0,0:20:44.66,0:20:45.59,Dialogue,,0,0,0,,It isn’t fair.
+Dialogue: 0,0:20:44.66,0:20:45.55,Dialogue,,0,0,0,,It isn’t fair.
 Dialogue: 0,0:20:46.71,0:20:49.04,Dialogue,,0,0,0,,I don’t know what you’re saying.
 Dialogue: 0,0:20:49.96,0:20:50.90,Dialogue,,0,0,0,,I...
 Dialogue: 0,0:20:56.01,0:20:57.42,Dialogue,,0,0,0,,I like you, Onii-chan.{she didn’t say DIE-SKI, so obviously she doesn’t mean LOVEYDOVEY}

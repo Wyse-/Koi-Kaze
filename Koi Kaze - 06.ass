@@ -19,9 +19,10 @@ Last Style Storage: Default
 Video File: ../../../../../media/wyse/Media III/[WSE] Koi Kaze [raws v2]/ep6.vpy.mkv
 Video AR Mode: 4
 Video AR Value: 1.779167
-Video Zoom Percent: 2.066946
-Scroll Position: 50
-Active Line: 69
+Video Zoom Percent: 2.768750
+Scroll Position: 146
+Active Line: 190
+Video Position: 13328
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -145,8 +146,8 @@ Dialogue: 1,0:17:06.54,0:17:08.54,Signs - Lamp - Main,,0,0,0,,{\pos(441.353,93.3
 Dialogue: 1,0:17:06.54,0:17:08.54,Signs - Lamp - Main,,0,0,0,,{\pos(456.902,103.431)\fs36.151\frz327.9\blur0.803}{43}a
 Dialogue: 0,0:01:52.17,0:01:54.31,Dialogue - Italic,,0,0,0,,We still have some eggs left,
 Dialogue: 0,0:01:54.31,0:01:56.49,Dialogue - Italic,,0,0,0,,so all we need is crab meat and {\i0}mitsuba{\i1}.{https://en.wikipedia.org/wiki/Cryptotaenia}
-Dialogue: 0,0:01:57.80,0:02:03.01,Dialogue - Italic,,0,0,0,,Yesterday I made rice with green peas for dinner, thinking it would be good dish for autumn,
-Dialogue: 0,0:02:03.01,0:02:07.11,Dialogue - Italic,,0,0,0,,but Onii-chan said it tasted like a school cafeteria lunch.
+Dialogue: 0,0:01:57.80,0:02:03.06,Dialogue - Italic,,0,0,0,,Yesterday I made rice with green peas for dinner, thinking it would be good dish for autumn,
+Dialogue: 0,0:02:03.06,0:02:07.11,Dialogue - Italic,,0,0,0,,but Onii-chan said it tasted like a school cafeteria lunch.
 Dialogue: 0,0:02:07.11,0:02:09.67,Dialogue - Italic,,0,0,0,,That’s why I’m going to make crab porridge for dinner tonight.
 Dialogue: 0,0:02:11.34,0:02:13.78,Dialogue - Italic,,0,0,0,,I’ve never seen it served in a cafeteria.
 Dialogue: 0,0:02:14.48,0:02:16.78,Dialogue - Italic,,0,0,0,,I’m sure Dad will enjoy it,
@@ -208,9 +209,9 @@ Dialogue: 0,0:06:26.24,0:06:27.45,Dialogue,,0,0,0,,Oh, really?
 Dialogue: 0,0:06:35.11,0:06:40.88,Dialogue,,0,0,0,,But isn’t it kind of pathetic for her to be going on a “date” with her brother?{that’s no life for a young girl}
 Dialogue: 0,0:06:41.21,0:06:43.22,Dialogue,,0,0,0,,Do you know if she has a boyfriend?
 Dialogue: 0,0:06:43.22,0:06:46.61,Dialogue,,0,0,0,,She’s so childish there’s no way she would.
-Dialogue: 0,0:06:46.61,0:06:49.93,Dialogue,,0,0,0,,Maybe you’re the only one who thinks that.
+Dialogue: 0,0:06:46.61,0:06:49.88,Dialogue,,0,0,0,,Maybe you’re the only one who thinks that.
 Dialogue: 0,0:06:52.74,0:06:54.68,Dialogue - Italic,,0,0,0,,A boyfriend...
-Dialogue: 0,0:07:30.44,0:07:33.51,Dialogue - Italic,,0,0,0,,“Onii-chan”...
+Dialogue: 0,0:07:30.44,0:07:33.55,Dialogue - Italic,,0,0,0,,“Onii-chan”...
 Dialogue: 0,0:07:39.36,0:07:41.66,Dialogue - Italic,,0,0,0,,She won’t cling on to me for much longer.{idfk}
 Dialogue: 0,0:07:45.63,0:07:46.76,Dialogue,,0,0,0,,Oh, really?
 Dialogue: 0,0:07:48.19,0:07:53.76,Dialogue,,0,0,0,,Yeah. That’s why my brother’s last name is Saeki, but mine is Kohinata.
@@ -234,7 +235,7 @@ Dialogue: 0,0:08:55.79,0:08:58.78,Dialogue,,0,0,0,,Onii-chan, it was rude of you
 Dialogue: 0,0:08:58.78,0:08:59.30,Dialogue,,0,0,0,,Ouch!
 Dialogue: 0,0:08:59.39,0:09:02.66,Dialogue,,0,0,0,,Onii-chan, that hurts! You’re hurting me!
 Dialogue: 0,0:09:10.27,0:09:13.83,Dialogue,,0,0,0,,Hey! Onii-chan! What’s your problem?
-Dialogue: 0,0:09:13.83,0:09:15.91,Dialogue,,0,0,0,,“Preparing for the Culture Festival”, my ass!
+Dialogue: 0,0:09:13.83,0:09:15.86,Dialogue,,0,0,0,,“Preparing for the Culture Festival”, my ass!
 Dialogue: 0,0:09:17.19,0:09:20.24,Dialogue,,0,0,0,,It’s ten years too early for you to be going out with a guy!{tvtropes etc}
 Dialogue: 0,0:09:20.24,0:09:23.10,Dialogue,,0,0,0,,Until you’re old enough to take responsibility for yourself,{condoms}
 Dialogue: 0,0:09:23.10,0:09:24.61,Dialogue,,0,0,0,,I won’t allow it!

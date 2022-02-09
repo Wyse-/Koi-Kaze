@@ -20,9 +20,10 @@ Last Style Storage: Default
 Video File: ../../../../../media/wyse/Media III/[WSE] Koi Kaze [raws v2]/ep8.vpy.mkv
 Video AR Mode: 4
 Video AR Value: 1.779167
-Video Zoom Percent: 2.066946
-Scroll Position: 5
-Active Line: 28
+Video Zoom Percent: 2.768750
+Scroll Position: 221
+Active Line: 231
+Video Position: 31234
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -112,14 +113,14 @@ Dialogue: 0,0:05:32.01,0:05:34.32,Dialogue,,0,0,0,,Ugh... Not again.
 Dialogue: 0,0:05:35.18,0:05:38.44,Dialogue,,0,0,0,,Now, now, don't cry, don't cry.
 Dialogue: 0,0:05:39.35,0:05:42.11,Dialogue,,0,0,0,,It's not my fault!
 Dialogue: 0,0:06:07.97,0:06:09.10,Dialogue,,0,0,0,,Here.
-Dialogue: 0,0:06:16.35,0:06:18.48,Dialogue,,0,0,0,,Which is it?!
+Dialogue: 0,0:06:16.35,0:06:18.44,Dialogue,,0,0,0,,Which is it?!
 Dialogue: 0,0:06:19.62,0:06:23.84,Dialogue,,0,0,0,,You aren't bullying her while we're out, are you?
 Dialogue: 0,0:06:23.84,0:06:27.03,Dialogue,,0,0,0,,Nanoka seems to be afraid of you!
 Dialogue: 0,0:06:27.03,0:06:28.42,Dialogue,,0,0,0,,Who cares!
 Dialogue: 0,0:06:39.67,0:06:42.31,Dialogue,,0,0,0,,You're so helpless.
 Dialogue: 0,0:06:54.48,0:06:55.86,Dialogue,,0,0,0,,It wasn't me!
 Dialogue: 0,0:06:55.86,0:06:57.43,Dialogue,,0,0,0,,That's not it.
-Dialogue: 0,0:06:58.67,0:07:01.06,Dialogue,,0,0,0,,Will you come to the other room?
+Dialogue: 0,0:06:58.67,0:07:01.02,Dialogue,,0,0,0,,Will you come to the other room?
 Dialogue: 0,0:07:14.25,0:07:17.78,Dialogue,,0,0,0,,It's not that we're quarreling with each other,
 Dialogue: 0,0:07:17.78,0:07:19.62,Dialogue,,0,0,0,,or we got into a big fight or anything.
 Dialogue: 0,0:07:19.62,0:07:21.21,Dialogue,,0,0,0,,It's just...
@@ -152,7 +153,7 @@ Dialogue: 0,0:09:33.01,0:09:36.10,Dialogue - Italic,,0,0,0,,I love you, Onii-cha
 Dialogue: 0,0:09:49.68,0:09:54.79,Dialogue - Italic,,0,0,0,,Why is it that I even headed there?
 Dialogue: 0,0:10:02.95,0:10:05.50,Dialogue - Italic,,0,0,0,,Without even understanding it myself,
 Dialogue: 0,0:10:06.15,0:10:11.98,Dialogue - Italic,,0,0,0,,I was walking in the town that she grew up in without me knowing.
-Dialogue: 0,0:10:15.05,0:10:16.47,Dialogue,,0,0,0,,My!
+Dialogue: 0,0:10:15.05,0:10:16.42,Dialogue,,0,0,0,,My!
 Dialogue: 0,0:10:20.45,0:10:22.99,Dialogue,,0,0,0,,So you finally came to my house.
 Dialogue: 0,0:10:32.77,0:10:34.53,Dialogue,,0,0,0,,How did you know?
 Dialogue: 0,0:10:34.53,0:10:36.69,Dialogue,,0,0,0,,Of course I'd know!
@@ -181,7 +182,7 @@ Dialogue: 0,0:12:19.63,0:12:21.26,Dialogue,,0,0,0,,Are you serious?
 Dialogue: 0,0:12:21.26,0:12:25.41,Dialogue,,0,0,0,,I'd feel bad if she had to commute two hours each way every day.
 Dialogue: 0,0:12:26.90,0:12:29.61,Dialogue,,0,0,0,,What? What's the matter?
 Dialogue: 0,0:12:29.61,0:12:31.09,Dialogue,,0,0,0,,It's nothing.
-Dialogue: 0,0:12:34.57,0:12:39.29,Dialogue,,0,0,0,,What? did you come all the way over just to sulk?
+Dialogue: 0,0:12:34.57,0:12:39.29,Dialogue,,0,0,0,,What? Did you come all the way over just to sulk?
 Dialogue: 0,0:12:39.29,0:12:40.44,Dialogue,,0,0,0,,What are you doing?
 Dialogue: 0,0:12:40.44,0:12:42.31,Dialogue,,0,0,0,,Here, come with me.
 Dialogue: 0,0:12:42.31,0:12:43.36,Dialogue,,0,0,0,,What is it?
@@ -196,7 +197,7 @@ Dialogue: 0,0:13:21.32,0:13:24.46,Dialogue,,0,0,0,,Saying, Onii-chan, Onii-chan,
 Dialogue: 0,0:13:25.14,0:13:26.90,Dialogue,,0,0,0,,How do you know?
 Dialogue: 0,0:13:28.23,0:13:30.08,Dialogue,,0,0,0,,Well, you see...
 Dialogue: 0,0:13:31.59,0:13:34.62,Dialogue - Italic,,0,0,0,,I wonder what Onii-chan is like?
-Dialogue: 0,0:13:34.41,0:13:36.27,Dialogue - Italic,,0,0,0,,I want to meet him soon.
+Dialogue: 0,0:13:34.62,0:13:36.27,Dialogue - Italic,,0,0,0,,I want to meet him soon.
 Dialogue: 0,0:13:37.73,0:13:40.35,Dialogue - Italic,,0,0,0,,I wonder if he'll help me with studying.
 Dialogue: 0,0:13:42.85,0:13:45.65,Dialogue - Italic,,0,0,0,,Oh, nothing, nothing at all.
 Dialogue: 0,0:13:45.65,0:13:48.74,Dialogue - Italic,,0,0,0,,He will help you, I'm sure, with your studies.
@@ -216,7 +217,7 @@ Dialogue: 0,0:14:40.96,0:14:41.90,Dialogue,,0,0,0,,what would you do?
 Dialogue: 0,0:14:44.57,0:14:45.90,Dialogue,,0,0,0,,If such a thing happened,
 Dialogue: 0,0:14:51.70,0:14:53.47,Dialogue,,0,0,0,,I wouldn't let you get away with it.
 Dialogue: 0,0:14:59.80,0:15:01.28,Dialogue,,0,0,0,,Of course.
-Dialogue: 0,0:15:03.57,0:15:05.30,Dialogue,,0,0,0,,Weird kid.
+Dialogue: 0,0:15:03.57,0:15:05.34,Dialogue,,0,0,0,,Weird kid.
 Dialogue: 0,0:15:07.97,0:15:11.00,Dialogue,,0,0,0,,You still don't seem to be very honest with yourself.
 Dialogue: 0,0:15:11.00,0:15:12.05,Dialogue,,0,0,0,,Really?
 Dialogue: 0,0:15:12.05,0:15:15.84,Dialogue,,0,0,0,,It means you haven't grown up at all.
@@ -232,8 +233,8 @@ Dialogue: 0,0:15:36.56,0:15:40.53,Dialogue,,0,0,0,,Oh yes. Nanoka's flavoring is
 Dialogue: 0,0:15:40.53,0:15:41.53,Dialogue,,0,0,0,,so tell her to be careful.
 Dialogue: 0,0:15:41.53,0:15:42.46,Dialogue,,0,0,0,,Yeah, I got it.
 Dialogue: 0,0:15:42.46,0:15:46.00,Dialogue,,0,0,0,,And don't give her too much allowance.
-Dialogue: 0,0:15:46.00,0:15:47.67,Dialogue,,0,0,0,,I wouldn't give her any even if she begged.
-Dialogue: 0,0:15:47.33,0:15:50.10,Dialogue,,0,0,0,,And tell her not to stay up too late.
+Dialogue: 0,0:15:46.00,0:15:47.63,Dialogue,,0,0,0,,I wouldn't give her any even if she begged.
+Dialogue: 0,0:15:47.63,0:15:50.10,Dialogue,,0,0,0,,And tell her not to stay up too late.
 Dialogue: 0,0:15:50.10,0:15:52.62,Dialogue,,0,0,0,,I got it already. I'll be late for my train.
 Dialogue: 0,0:15:52.62,0:15:53.60,Dialogue,,0,0,0,,But...
 Dialogue: 0,0:15:53.60,0:15:55.08,Dialogue,,0,0,0,,I know.
@@ -243,7 +244,7 @@ Dialogue: 0,0:16:04.77,0:16:07.93,Dialogue,,0,0,0,,Okay, bye.
 Dialogue: 0,0:16:08.41,0:16:10.79,Dialogue,,0,0,0,,Get along with her, okay?
 Dialogue: 0,0:16:11.73,0:16:12.70,Dialogue,,0,0,0,,Yeah.
 Dialogue: 0,0:19:03.57,0:19:04.70,Dialogue,,0,0,0,,I'm back.
-Dialogue: 0,0:19:05.05,0:19:07.20,Dialogue,,0,0,0,,Welcome home, Onii-chan.
+Dialogue: 0,0:19:05.05,0:19:07.25,Dialogue,,0,0,0,,Welcome home, Onii-chan.
 Dialogue: 0,0:19:08.53,0:19:10.71,Dialogue,,0,0,0,,I'm... home.
 Dialogue: 0,0:20:00.19,0:20:01.16,Dialogue,,0,0,0,,Want some?
 Dialogue: 0,0:20:01.55,0:20:02.47,Dialogue,,0,0,0,,Okay.
@@ -266,8 +267,8 @@ Dialogue: 0,0:20:58.77,0:20:59.96,Dialogue - Italic,,0,0,0,,So...
 Dialogue: 0,0:21:01.24,0:21:03.31,Dialogue,,0,0,0,,Don't you have to get up early tomorrow?
 Dialogue: 0,0:21:03.84,0:21:04.64,Dialogue,,0,0,0,,Yeah.
 Dialogue: 0,0:21:05.17,0:21:06.50,Dialogue,,0,0,0,,But you too, Onii-chan.
-Dialogue: 0,0:21:06.50,0:21:08.99,Dialogue,,0,0,0,,I'll take a smoke and then go to sleep.
-Dialogue: 0,0:21:08.99,0:21:10.06,Dialogue,,0,0,0,,So go to sleep.
+Dialogue: 0,0:21:06.50,0:21:08.95,Dialogue,,0,0,0,,I'll take a smoke and then go to sleep.
+Dialogue: 0,0:21:08.95,0:21:10.06,Dialogue,,0,0,0,,So go to sleep.
 Dialogue: 0,0:21:10.85,0:21:11.76,Dialogue,,0,0,0,,Okay.
 Dialogue: 0,0:21:12.89,0:21:14.08,Dialogue,,0,0,0,,I'll do it.
 Dialogue: 0,0:21:16.75,0:21:18.42,Dialogue,,0,0,0,,Good night then.

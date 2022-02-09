@@ -21,8 +21,10 @@ Last Style Storage: Default
 Video File: ../../../../../media/wyse/Media III/[WSE] Koi Kaze [raws v2]/ep4.vpy.mkv
 Video AR Mode: 4
 Video AR Value: 1.779167
-Video Zoom Percent: 2.066946
-Active Line: 9
+Video Zoom Percent: 2.768750
+Scroll Position: 332
+Active Line: 249
+Video Position: 30960
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -145,8 +147,8 @@ Dialogue: 0,0:03:29.67,0:03:33.20,Dialogue,,0,0,0,,So, are you going to attend t
 Dialogue: 0,0:03:33.20,0:03:34.97,Dialogue,,0,0,0,,The chief said he’ll treat us.
 Dialogue: 0,0:03:34.97,0:03:36.80,Dialogue,,0,0,0,,Really? Yes!
 Dialogue: 0,0:03:36.80,0:03:38.49,Dialogue,,0,0,0,,Of course I’m in!
-Dialogue: 0,0:03:38.49,0:03:41.24,Dialogue,,0,0,0,,I already have plans, so I can’t go.{overly mutilated?}
-Dialogue: 0,0:03:41.24,0:03:42.61,Dialogue,,0,0,0,,Plans?{oh man all those people who know ten japanese words will be rly mad at me now!}
+Dialogue: 0,0:03:38.49,0:03:41.20,Dialogue,,0,0,0,,I already have plans, so I can’t go.{overly mutilated?}
+Dialogue: 0,0:03:41.20,0:03:42.57,Dialogue,,0,0,0,,Plans?{oh man all those people who know ten japanese words will be rly mad at me now!}
 Dialogue: 0,0:03:43.54,0:03:45.59,Dialogue,,0,0,0,,A movie. I’m just watching a movie.
 Dialogue: 0,0:03:45.98,0:03:48.49,Dialogue,,0,0,0,,Are you going with Nanoka?
 Dialogue: 0,0:03:49.53,0:03:52.26,Dialogue,,0,0,0,,What’s your point?
@@ -181,7 +183,7 @@ Dialogue: 0,0:05:53.69,0:05:55.11,Dialogue,,0,0,0,,Hey, this movie is...{ellipsi
 Dialogue: 0,0:05:55.69,0:05:57.68,Dialogue,,0,0,0,,Don’t get so close to me!{I don’t fucking get it. HUEG PERSONAL BUBBLE or what}
 Dialogue: 0,0:06:18.18,0:06:19.77,Dialogue,,0,0,0,,Thank you very much.
 Dialogue: 0,0:06:19.77,0:06:20.79,Dialogue,,0,0,0,,You’re welcome.
-Dialogue: 0,0:06:24.78,0:06:26.85,Dialogue,,0,0,0,,Why are you spacing out?{because prepositions is bad}
+Dialogue: 0,0:06:24.73,0:06:26.85,Dialogue,,0,0,0,,Why are you spacing out?{because prepositions is bad}
 Dialogue: 0,0:06:28.49,0:06:29.65,Dialogue,,0,0,0,,No reason.
 Dialogue: 0,0:06:32.98,0:06:34.21,Dialogue,,0,0,0,,Give me your student ID.{herpaderpa}
 Dialogue: 0,0:06:35.26,0:06:36.40,Dialogue,,0,0,0,,Oh, right.
@@ -203,7 +205,7 @@ Dialogue: 0,0:08:17.14,0:08:20.22,Dialogue,,0,0,0,,I don’t think I ever told y
 Dialogue: 0,0:08:20.22,0:08:22.94,Dialogue,,0,0,0,,I have a younger sister, and we were living separately.
 Dialogue: 0,0:08:24.82,0:08:27.54,Dialogue,,0,0,0,,You know my parents are divorced, right?
 Dialogue: 0,0:08:27.54,0:08:30.65,Dialogue,,0,0,0,,She’s been with my mom the whole time.
-Dialogue: 0,0:08:30.65,0:08:33.90,Dialogue,,0,0,0,,We started living together this spring because her high school is nearby.
+Dialogue: 0,0:08:30.65,0:08:33.95,Dialogue,,0,0,0,,We started living together this spring because her high school is nearby.
 Dialogue: 0,0:08:41.82,0:08:43.04,Dialogue,,0,0,0,,That’s it?
 Dialogue: 0,0:08:45.83,0:08:47.13,Dialogue,,0,0,0,,Is that really all?
 Dialogue: 0,0:08:48.77,0:08:49.46,Dialogue,,0,0,0,,Yeah.
@@ -212,7 +214,7 @@ Dialogue: 0,0:08:58.09,0:09:02.10,Dialogue,,0,0,0,,You said you had something to
 Dialogue: 0,0:09:02.51,0:09:04.28,Dialogue,,0,0,0,,It’s not a laughing matter!
 Dialogue: 0,0:09:04.28,0:09:08.98,Dialogue,,0,0,0,,I didn’t want you to think I started going after high school girls since getting dumped.
 Dialogue: 0,0:09:08.98,0:09:10.74,Dialogue,,0,0,0,,I was worried for nothing.
-Dialogue: 0,0:09:13.07,0:09:18.99,Dialogue,,0,0,0,,It’s just so like you, to be worried about appearances while dating high school girls.{idk if im doin it rite}
+Dialogue: 0,0:09:13.03,0:09:18.99,Dialogue,,0,0,0,,It’s just so like you, to be worried about appearances while dating high school girls.{idk if im doin it rite}
 Dialogue: 0,0:09:21.64,0:09:23.08,Dialogue,,0,0,0,,Well, I’m sorry.
 Dialogue: 0,0:09:23.08,0:09:25.17,Dialogue,,0,0,0,,I’ll never come see you again.
 Dialogue: 0,0:09:34.48,0:09:35.65,Dialogue,,0,0,0,,Dinner?
@@ -225,23 +227,23 @@ Dialogue: 0,0:10:52.00,0:10:55.09,Dialogue - Italic,,0,0,0,,It is! You can drink
 Dialogue: 0,0:10:55.47,0:10:56.42,Dialogue - Italic,,0,0,0,,I don’t think so.{sou ka na?}
 Dialogue: 0,0:10:56.42,0:10:57.63,Dialogue,,0,0,0,,Isn’t it good?
 Dialogue: 0,0:10:57.63,0:10:59.02,Dialogue,,0,0,0,,This place is a hidden gem.{other phrasing for “good but unknown”? 穴場 【あなば】 (n) little-known good place; good out-of-the-way place; well-kept-secret place <-- these are all hella clunk}
-Dialogue: 0,0:10:59.02,0:11:00.05,Dialogue,,0,0,0,,Yeah.
+Dialogue: 0,0:10:59.02,0:11:00.09,Dialogue,,0,0,0,,Yeah.
 Dialogue: 0,0:11:03.33,0:11:04.85,Dialogue,,0,0,0,,I come here often by myself.
 Dialogue: 0,0:11:19.95,0:11:22.00,Dialogue - Italic,,0,0,0,,What are you saying, stupid?
 Dialogue: 0,0:11:22.00,0:11:24.85,Dialogue - Italic,,0,0,0,,I’m not stupid. I’m serious.
-Dialogue: 0,0:11:24.85,0:11:25.74,Dialogue - Italic,,0,0,0,,I don’t believe you!
-Dialogue: 0,0:11:25.74,0:11:28.82,Dialogue - Italic,,0,0,0,,There’s no way I’d joke about that!
+Dialogue: 0,0:11:24.85,0:11:25.70,Dialogue - Italic,,0,0,0,,I don’t believe you!
+Dialogue: 0,0:11:25.70,0:11:28.82,Dialogue - Italic,,0,0,0,,There’s no way I’d joke about that!
 Dialogue: 0,0:11:28.82,0:11:30.62,Dialogue - Italic,,0,0,0,,What about Sachiko?
 Dialogue: 0,0:11:30.62,0:11:33.63,Dialogue - Italic,,0,0,0,,She’s just a friend.
 Dialogue: 0,0:11:33.63,0:11:34.77,Dialogue - Italic,,0,0,0,,Liar!
-Dialogue: 0,0:11:34.77,0:11:35.75,Dialogue - Italic,,0,0,0,,I’m serious!
+Dialogue: 0,0:11:34.77,0:11:35.71,Dialogue - Italic,,0,0,0,,I’m serious!
 Dialogue: 0,0:11:36.18,0:11:37.28,Dialogue - Italic,,0,0,0,,You’re the only person...
 Dialogue: 0,0:11:37.30,0:11:39.06,Dialogue,,0,0,0,,Hey...{ellipsis-abuse-raeg}
 Dialogue: 0,0:11:39.75,0:11:42.01,Dialogue,,0,0,0,,How’s work been lately?
 Dialogue: 0,0:11:42.01,0:11:43.02,Dialogue,,0,0,0,,Why?
-Dialogue: 0,0:11:43.02,0:11:45.76,Dialogue,,0,0,0,,You used to always tell me that you wanted to quit.
-Dialogue: 0,0:11:46.13,0:11:47.77,Dialogue,,0,0,0,,You still remember?
-Dialogue: 0,0:11:47.77,0:11:50.50,Dialogue,,0,0,0,,Who could forget, after listening to you complain so much?
+Dialogue: 0,0:11:43.02,0:11:45.72,Dialogue,,0,0,0,,You used to always tell me that you wanted to quit.
+Dialogue: 0,0:11:46.13,0:11:47.72,Dialogue,,0,0,0,,You still remember?
+Dialogue: 0,0:11:47.72,0:11:50.50,Dialogue,,0,0,0,,Who could forget, after listening to you complain so much?
 Dialogue: 0,0:11:54.43,0:11:57.85,Dialogue,,0,0,0,,Going by your half-hearted replies, I thought you weren’t listening.{I thought you weren’t listening with your half-hearted replies.}{Of course not. He was listening with his ears.}{rim shot}
 Dialogue: 0,0:11:57.85,0:11:59.94,Dialogue,,0,0,0,,That’s not true.
 Dialogue: 0,0:11:59.94,0:12:02.63,Dialogue,,0,0,0,,So, how’s your job?
@@ -285,8 +287,8 @@ Dialogue: 0,0:17:42.19,0:17:44.07,Dialogue,,0,0,0,,That idiot!
 Dialogue: 0,0:18:37.40,0:18:38.30,Dialogue,,0,0,0,,Onii-chan?
 Dialogue: 0,0:18:40.51,0:18:42.07,Dialogue,,0,0,0,,Sorry!
 Dialogue: 0,0:20:49.13,0:20:50.22,Dialogue,,0,0,0,,Good morning.
-Dialogue: 0,0:20:53.59,0:20:54.81,Dialogue,,0,0,0,,I’m sorry about last night,
-Dialogue: 0,0:20:54.81,0:20:56.56,Dialogue,,0,0,0,,for suddenly barging in on you.
+Dialogue: 0,0:20:53.59,0:20:54.85,Dialogue,,0,0,0,,I’m sorry about last night,
+Dialogue: 0,0:20:54.85,0:20:56.56,Dialogue,,0,0,0,,for suddenly barging in on you.
 Dialogue: 0,0:20:58.57,0:21:00.38,Dialogue,,0,0,0,,I’ll be careful next time.
 Dialogue: 0,0:21:03.13,0:21:04.18,Dialogue,,0,0,0,,The movie—
 Dialogue: 0,0:21:05.63,0:21:07.57,Dialogue,,0,0,0,,let’s go see another one.
