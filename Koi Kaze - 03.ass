@@ -22,8 +22,8 @@ Video File: ../../../../../media/wyse/Media III/[WSE] Koi Kaze [raws v2]/ep3.vpy
 Video AR Mode: 4
 Video AR Value: 1.779167
 Video Zoom Percent: 2.768750
-Scroll Position: 228
-Active Line: 244
+Scroll Position: 295
+Active Line: 325
 Video Position: 31030
 
 [V4+ Styles]
@@ -369,8 +369,8 @@ Dialogue: 1,0:23:16.62,0:23:17.12,Next EP - Rotating Text,,0,0,0,,{\blur0.603\po
 Dialogue: 0,0:23:17.20,0:23:19.50,Dialogue - Alt,,0,0,0,,Our client’s scheduled marriage meeting completely slipped my mind.
 Dialogue: 0,0:23:19.50,0:23:21.50,Dialogue - Alt,,0,0,0,,I bullied a teddy bear by giving it a noogie.
 Dialogue: 0,0:23:21.70,0:23:23.70,Dialogue - Alt,,0,0,0,,I ogled her underwear that was hung out to dry.
-Dialogue: 0,0:23:23.97,0:23:25.05,Dialogue - Alt,,0,0,0,,I can't help it!
-Dialogue: 0,0:23:25.09,0:23:26.84,Dialogue - Alt,,0,0,0,,It's only natural if you're a man!
+Dialogue: 0,0:23:23.97,0:23:25.05,Dialogue - Alt,,0,0,0,,I can’t help it!
+Dialogue: 0,0:23:25.09,0:23:26.84,Dialogue - Alt,,0,0,0,,It’s only natural if you’re a man!
 Dialogue: 0,0:23:27.09,0:23:28.42,Dialogue,,0,0,0,,Innocent. No punishment.
 Dialogue: 1,0:23:27.01,0:23:28.42,Next EP - Verdict,,0,0,0,,{\an5\bord0\blur0.502\fs48.201\pos(655.451,30.126)\iclip(560,5,748,47)\t(-50,730,\iclip(748,5,748,47))}Innocent
 Dialogue: 0,0:23:27.01,0:23:28.42,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\c&HFFFFFF&\pos(655.451,24.1)\fsp1.305\an5\fs48.201\iclip(560,5,748,47)\t(-50,730,\iclip(748,5,748,47))}Innocent
