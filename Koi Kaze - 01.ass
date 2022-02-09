@@ -23,10 +23,10 @@ Last Style Storage: Default
 Video File: ../../../../../media/wyse/Media III/[WSE] Koi Kaze [raws v2]/ep1.vpy.mkv
 Video AR Mode: 4
 Video AR Value: 1.779167
-Video Zoom Percent: 2.768750
-Scroll Position: 592
-Active Line: 606
-Video Position: 33800
+Video Zoom Percent: 1.000000
+Scroll Position: 604
+Active Line: 537
+Video Position: 31121
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -672,7 +672,7 @@ Dialogue: 0,0:23:18.11,0:23:20.49,Dialogue - Alt,,0,0,0,,The girl who dumped me 
 Dialogue: 0,0:23:20.52,0:23:22.58,Dialogue - Alt,,0,0,0,,I went on a date with a girl, not knowing she was my younger sister.
 Dialogue: 0,0:23:22.61,0:23:25.27,Dialogue - Alt,,0,0,0,,Even though I’m this old, I cried in front of a high school student.
 Dialogue: 0,0:23:25.53,0:23:26.63,Dialogue - Alt,,0,0,0,,Is that enough?!
-Dialogue: 0,0:23:26.92,0:23:28.26,Dialogue,,0,0,0,,Wrap him up and throw him in the river as punishment!{すまき流し}
-Dialogue: 1,0:23:26.84,0:23:28.34,Next EP - Verdict,,0,0,0,,{\pos(425.804,46.192)\bord1.004\blur0.502\bord0\c&H00000000&\4a&HFF&\fs36.151\iclip(175,3,709,52)\t(27,1020,\iclip(708,3,709,52))}Wrap him up and throw him in the river
-Dialogue: 0,0:23:26.84,0:23:28.34,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\c&HFFFFFF&\pos(428.196,50.209)\fs36.151\iclip(175,3,709,52)\t(27,1020,\iclip(708,3,709,52))}Wrap him up and throw him in the river
-Dialogue: 0,0:23:28.35,0:23:29.77,Dialogue,,0,0,0,,Why?!
+Dialogue: 0,0:23:26.92,0:23:28.30,Dialogue,,0,0,0,,Wrap him up and throw him in the river as punishment!{すまき流し}
+Dialogue: 1,0:23:26.84,0:23:28.30,Next EP - Verdict,,0,0,0,,{\pos(425.804,46.192)\bord1.004\blur0.502\bord0\c&H00000000&\4a&HFF&\fs36.151\iclip(175,3,709,52)\t(27,1020,\iclip(708,3,709,52))}Wrap him up and throw him in the river
+Dialogue: 0,0:23:26.84,0:23:28.30,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\c&HFFFFFF&\pos(428.196,50.209)\fs36.151\iclip(175,3,709,52)\t(27,1020,\iclip(708,3,709,52))}Wrap him up and throw him in the river
+Dialogue: 0,0:23:28.30,0:23:29.77,Dialogue,,0,0,0,,Why?!
