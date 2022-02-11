@@ -16,12 +16,14 @@ YCbCr Matrix: TV.601
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
+Audio File: ../../../../../media/wyse/Media III/[WSE] Koi Kaze [DVD x264 478p 10bit FLAC-AC3][Dual Audio]/[WSE] Koi Kaze - 12 [DVD x264 478p 10bit FLAC-AC3][Dual Audio][7B2DF783]_JPN_Audio01.flac
 Video File: ../../../../../media/wyse/Media III/[WSE] Koi Kaze [raws v2]/ep12.vpy.mkv
 Video AR Mode: 4
 Video AR Value: 1.779167
-Video Zoom Percent: 2.066946
-Scroll Position: 210
-Active Line: 26
+Video Zoom Percent: 2.768750
+Scroll Position: 217
+Active Line: 247
+Video Position: 30719
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -68,229 +70,229 @@ Dialogue: 0,0:01:56.59,0:02:02.01,Title,,0,0,0,,{\c&H70B9E0&\clip(m 179.875 403.
 Dialogue: 0,0:01:56.59,0:02:02.01,Title,,0,0,0,,{\c&H6AB7DF&\clip(m 181 406.5 l 456.875 298.625 461.625 306.625 185.875 414.5)\pos(299.821,317.724)\blur0.803\t(3487,5660,0.7,\blur10.084)\1a&HFF&\t(5,607,\1a&H00)\fad(0,550)}Spring thunder
 Dialogue: 0,0:01:56.59,0:02:02.01,Title,,0,0,0,,{\c&H65B5DF&\clip(m 183.5 410.5 l 459.25 302.625 462.875 309.625 187 417.625)\pos(299.821,317.724)\blur0.803\t(3487,5660,0.7,\blur10.084)\1a&HFF&\t(5,607,\1a&H00)\fad(0,550)}Spring thunder
 Dialogue: 0,0:01:56.59,0:02:02.01,Title,,0,0,0,,{\c&H5FB2DE&\clip(m 185.875 414.5 l 461.625 306.625 465.25 313.625 189.375 421.625)\pos(299.821,317.724)\blur0.803\t(3487,5660,0.7,\blur10.084)\1a&HFF&\t(5,607,\1a&H00)\fad(0,550)}Spring thunder
-Dialogue: 0,0:01:05.30,0:01:06.20,Dialogue,,0,0,0,,Ah, I’m sorry. Ow...
-Dialogue: 0,0:01:08.50,0:01:11.00,Dialogue,,0,0,0,,A-are you all right?
-Dialogue: 0,0:01:11.00,0:01:14.20,Dialogue,,0,0,0,,Yeah, I just scraped my knee a little.
-Dialogue: 0,0:01:14.20,0:01:14.80,Dialogue,,0,0,0,,Okay?
-Dialogue: 0,0:01:24.10,0:01:26.10,Dialogue,,0,0,0,,J-just wait here a bit.
-Dialogue: 0,0:01:44.50,0:01:45.80,Dialogue,,0,0,0,,Thank you.
-Dialogue: 0,0:01:45.80,0:01:47.30,Dialogue,,0,0,0,,S-sure.
-Dialogue: 0,0:02:07.25,0:02:09.25,Dialogue,,0,0,0,,Is this for me?
-Dialogue: 0,0:02:09.45,0:02:10.75,Dialogue,,0,0,0,,Yeah.
-Dialogue: 0,0:02:11.05,0:02:17.35,Dialogue,,0,0,0,,I thought your diet might be unbalanced from eating out too much.
-Dialogue: 0,0:02:17.75,0:02:18.95,Dialogue,,0,0,0,,I see.
-Dialogue: 0,0:02:20.85,0:02:22.15,Dialogue,,0,0,0,,Thanks.
-Dialogue: 0,0:02:24.45,0:02:25.35,Dialogue,,0,0,0,,Sure.
-Dialogue: 0,0:02:26.45,0:02:27.65,Dialogue,,0,0,0,,I’ll...
-Dialogue: 0,0:02:27.65,0:02:29.05,Dialogue,,0,0,0,,It’s fine, just sit down.
-Dialogue: 0,0:02:47.65,0:02:48.75,Dialogue,,0,0,0,,Onii-chan...
-Dialogue: 0,0:02:49.85,0:02:52.25,Dialogue,,0,0,0,,Did it bother you?
-Dialogue: 0,0:02:56.55,0:02:57.55,Dialogue,,0,0,0,,The letter...
-Dialogue: 0,0:03:02.45,0:03:04.45,Dialogue,,0,0,0,,That’s not it! This is...
-Dialogue: 0,0:03:04.65,0:03:06.95,Dialogue,,0,0,0,,I’m sorry, I broke the promise.
-Dialogue: 0,0:03:06.95,0:03:08.75,Dialogue,,0,0,0,,No, that’s not it!
-Dialogue: 0,0:03:09.55,0:03:11.55,Dialogue,,0,0,0,,I won’t ever come again.
-Dialogue: 0,0:03:23.35,0:03:25.05,Dialogue,,0,0,0,,That’s not it.
-Dialogue: 0,0:03:28.05,0:03:32.35,Dialogue,,0,0,0,,This isn’t what you think it is.
-Dialogue: 0,0:03:36.65,0:03:39.35,Dialogue,,0,0,0,,So, please stay here.
-Dialogue: 0,0:03:43.65,0:03:46.35,Dialogue,,0,0,0,,Onii-chan, you’re hurting me.
-Dialogue: 0,0:03:50.25,0:03:51.75,Dialogue,,0,0,0,,S-sorry.
-Dialogue: 0,0:03:54.45,0:03:56.25,Dialogue,,0,0,0,,I read your letter.
-Dialogue: 0,0:04:02.95,0:04:03.95,Dialogue,,0,0,0,,Yeah.
-Dialogue: 0,0:04:07.15,0:04:08.65,Dialogue,,0,0,0,,Try it on.
-Dialogue: 0,0:04:10.75,0:04:12.45,Dialogue,,0,0,0,,Come on, try it on for me.
-Dialogue: 0,0:04:42.55,0:04:43.95,Dialogue,,0,0,0,,Futaba.
-Dialogue: 0,0:04:45.65,0:04:46.85,Dialogue,,0,0,0,,Hey Futaba!
-Dialogue: 0,0:04:48.35,0:04:50.35,Dialogue,,0,0,0,,Why are you so out of it?
+Dialogue: 0,0:01:05.15,0:01:06.20,Dialogue,,0,0,0,,Ah, I’m sorry. Ow...
+Dialogue: 0,0:01:08.35,0:01:11.05,Dialogue,,0,0,0,,A-are you all right?
+Dialogue: 0,0:01:11.06,0:01:14.06,Dialogue,,0,0,0,,Yeah, I just scraped my knee a little.
+Dialogue: 0,0:01:14.05,0:01:14.72,Dialogue,,0,0,0,,Okay?
+Dialogue: 0,0:01:24.04,0:01:26.10,Dialogue,,0,0,0,,J-just wait here a bit.
+Dialogue: 0,0:01:44.31,0:01:45.66,Dialogue,,0,0,0,,Thank you.
+Dialogue: 0,0:01:45.66,0:01:47.30,Dialogue,,0,0,0,,S-sure.
+Dialogue: 0,0:02:07.02,0:02:09.25,Dialogue,,0,0,0,,Is this for me?
+Dialogue: 0,0:02:09.60,0:02:10.31,Dialogue,,0,0,0,,Yeah.
+Dialogue: 0,0:02:11.00,0:02:17.29,Dialogue,,0,0,0,,I thought your diet might be unbalanced from eating out too much.
+Dialogue: 0,0:02:17.66,0:02:19.07,Dialogue,,0,0,0,,I see.
+Dialogue: 0,0:02:20.79,0:02:22.15,Dialogue,,0,0,0,,Thanks.
+Dialogue: 0,0:02:24.36,0:02:25.35,Dialogue,,0,0,0,,Sure.
+Dialogue: 0,0:02:26.30,0:02:27.44,Dialogue,,0,0,0,,I’ll...
+Dialogue: 0,0:02:27.46,0:02:29.20,Dialogue,,0,0,0,,It’s fine, just sit down.
+Dialogue: 0,0:02:47.54,0:02:48.65,Dialogue,,0,0,0,,Onii-chan...
+Dialogue: 0,0:02:49.80,0:02:52.25,Dialogue,,0,0,0,,Did it bother you?
+Dialogue: 0,0:02:56.46,0:02:57.55,Dialogue,,0,0,0,,The letter...
+Dialogue: 0,0:03:02.49,0:03:04.53,Dialogue,,0,0,0,,That’s not it! This is...
+Dialogue: 0,0:03:04.54,0:03:06.95,Dialogue,,0,0,0,,I’m sorry, I broke the promise.
+Dialogue: 0,0:03:06.95,0:03:09.12,Dialogue,,0,0,0,,No, that’s not it!
+Dialogue: 0,0:03:09.35,0:03:11.55,Dialogue,,0,0,0,,I won’t ever come again.
+Dialogue: 0,0:03:23.31,0:03:25.05,Dialogue,,0,0,0,,That’s not it.
+Dialogue: 0,0:03:27.95,0:03:32.35,Dialogue,,0,0,0,,This isn’t what you think it is.
+Dialogue: 0,0:03:36.50,0:03:39.35,Dialogue,,0,0,0,,So, please stay here.
+Dialogue: 0,0:03:43.65,0:03:46.14,Dialogue,,0,0,0,,Onii-chan, you’re hurting me.
+Dialogue: 0,0:03:49.92,0:03:51.91,Dialogue,,0,0,0,,S-sorry.
+Dialogue: 0,0:03:54.30,0:03:56.25,Dialogue,,0,0,0,,I read your letter.
+Dialogue: 0,0:04:02.80,0:04:03.95,Dialogue,,0,0,0,,Yeah.
+Dialogue: 0,0:04:07.04,0:04:08.65,Dialogue,,0,0,0,,Try it on.
+Dialogue: 0,0:04:10.70,0:04:12.45,Dialogue,,0,0,0,,Come on, try it on for me.
+Dialogue: 0,0:04:42.57,0:04:43.95,Dialogue,,0,0,0,,Futaba.
+Dialogue: 0,0:04:45.68,0:04:47.14,Dialogue,,0,0,0,,Hey Futaba!
+Dialogue: 0,0:04:48.30,0:04:50.35,Dialogue,,0,0,0,,Why are you so out of it?
 Dialogue: 0,0:04:50.35,0:04:52.05,Dialogue,,0,0,0,,You’re the one who invited us.
-Dialogue: 0,0:04:52.75,0:04:53.95,Dialogue,,0,0,0,,Oh yeah!
-Dialogue: 0,0:04:53.95,0:04:55.95,Dialogue,,0,0,0,,He’s so cute!
-Dialogue: 0,0:04:56.45,0:04:57.85,Dialogue,,0,0,0,,You have bad taste.
-Dialogue: 0,0:04:57.85,0:04:59.05,Dialogue,,0,0,0,,No way...
-Dialogue: 0,0:05:07.75,0:05:11.05,Dialogue,,0,0,0,,Damn, he’s such a handful.
-Dialogue: 0,0:05:18.15,0:05:22.55,Dialogue,,0,0,0,,Why am I the only one who has to work in this dim room?
-Dialogue: 0,0:05:22.55,0:05:24.95,Dialogue,,0,0,0,,If only Koshiro-san didn’t take the day off.
+Dialogue: 0,0:04:52.68,0:04:53.83,Dialogue,,0,0,0,,Oh yeah!
+Dialogue: 0,0:04:53.81,0:04:56.23,Dialogue,,0,0,0,,He’s so cute!
+Dialogue: 0,0:04:56.24,0:04:57.90,Dialogue,,0,0,0,,You have bad taste.
+Dialogue: 0,0:04:57.90,0:04:58.98,Dialogue,,0,0,0,,No way...
+Dialogue: 0,0:05:07.72,0:05:10.99,Dialogue,,0,0,0,,Damn, he’s such a handful.
+Dialogue: 0,0:05:18.06,0:05:22.55,Dialogue,,0,0,0,,Why am I the only one who has to work in this dim room?
+Dialogue: 0,0:05:22.55,0:05:24.91,Dialogue,,0,0,0,,If only Koshiro-san didn’t take the day off.
 Dialogue: 0,0:05:24.95,0:05:26.75,Dialogue,,0,0,0,,If only he didn’t take the day off.
-Dialogue: 0,0:05:27.55,0:05:29.25,Dialogue,,0,0,0,,Th-this is...!
-Dialogue: 0,0:05:35.65,0:05:37.15,Dialogue,,0,0,0,,So close.
-Dialogue: 0,0:05:55.05,0:05:56.55,Dialogue,,0,0,0,,Yes?
-Dialogue: 0,0:06:03.35,0:06:04.55,Dialogue,,0,0,0,,Thank goodness.
-Dialogue: 0,0:06:05.65,0:06:07.65,Dialogue,,0,0,0,,Thanks.
-Dialogue: 0,0:06:08.25,0:06:10.25,Dialogue,,0,0,0,,You want something to drink?
-Dialogue: 0,0:06:10.35,0:06:12.15,Dialogue,,0,0,0,,W-wait a second.
-Dialogue: 0,0:06:14.75,0:06:15.65,Dialogue,,0,0,0,,Ah...
-Dialogue: 0,0:06:23.55,0:06:25.35,Dialogue,,0,0,0,,I’ll go buy something!
-Dialogue: 0,0:06:25.35,0:06:26.65,Dialogue,,0,0,0,,J-just wait a little bit.
-Dialogue: 0,0:06:30.05,0:06:31.25,Dialogue,,0,0,0,,Onii-chan?
-Dialogue: 0,0:06:32.45,0:06:34.15,Dialogue,,0,0,0,,Do you want me to make you something?
-Dialogue: 0,0:06:34.55,0:06:35.35,Dialogue,,0,0,0,,Eh?
-Dialogue: 0,0:06:36.25,0:06:37.45,Dialogue,,0,0,0,,For dinner.
-Dialogue: 0,0:06:37.45,0:06:41.25,Dialogue,,0,0,0,,If you keep eating things like this, you’ll really get sick.
-Dialogue: 0,0:06:41.25,0:06:42.25,Dialogue,,0,0,0,,But...
-Dialogue: 0,0:06:42.25,0:06:43.35,Dialogue,,0,0,0,,Let’s go together!
-Dialogue: 0,0:06:45.35,0:06:46.95,Dialogue,,0,0,0,,I said don’t move!
-Dialogue: 0,0:06:47.85,0:06:50.45,Dialogue,,0,0,0,,I’ll go buy it, so write it down for me.
-Dialogue: 0,0:06:52.95,0:06:54.45,Dialogue,,0,0,0,,What do you want to eat?
+Dialogue: 0,0:05:27.51,0:05:29.22,Dialogue,,0,0,0,,Th-this is...!
+Dialogue: 0,0:05:35.65,0:05:37.73,Dialogue,,0,0,0,,So close.
+Dialogue: 0,0:05:54.75,0:05:56.55,Dialogue,,0,0,0,,Yes?
+Dialogue: 0,0:06:03.05,0:06:05.05,Dialogue,,0,0,0,,Thank goodness.
+Dialogue: 0,0:06:05.50,0:06:07.60,Dialogue,,0,0,0,,Thanks.
+Dialogue: 0,0:06:08.15,0:06:10.30,Dialogue,,0,0,0,,You want something to drink?
+Dialogue: 0,0:06:10.30,0:06:12.15,Dialogue,,0,0,0,,W-wait a second.
+Dialogue: 0,0:06:14.69,0:06:15.43,Dialogue,,0,0,0,,Ah...
+Dialogue: 0,0:06:23.44,0:06:25.30,Dialogue,,0,0,0,,I’ll go buy something!
+Dialogue: 0,0:06:25.28,0:06:26.65,Dialogue,,0,0,0,,J-just wait a little bit.
+Dialogue: 0,0:06:30.00,0:06:31.07,Dialogue,,0,0,0,,Onii-chan?
+Dialogue: 0,0:06:32.35,0:06:34.20,Dialogue,,0,0,0,,Do you want me to make you something?
+Dialogue: 0,0:06:34.20,0:06:35.24,Dialogue,,0,0,0,,Eh?
+Dialogue: 0,0:06:36.10,0:06:37.57,Dialogue,,0,0,0,,For dinner.
+Dialogue: 0,0:06:37.57,0:06:41.21,Dialogue,,0,0,0,,If you keep eating things like this, you’ll really get sick.
+Dialogue: 0,0:06:41.21,0:06:42.25,Dialogue,,0,0,0,,But...
+Dialogue: 0,0:06:42.25,0:06:43.40,Dialogue,,0,0,0,,Let’s go together!
+Dialogue: 0,0:06:45.30,0:06:46.95,Dialogue,,0,0,0,,I said don’t move!
+Dialogue: 0,0:06:47.82,0:06:50.41,Dialogue,,0,0,0,,I’ll go buy it, so write it down for me.
+Dialogue: 0,0:06:52.90,0:06:54.45,Dialogue,,0,0,0,,What do you want to eat?
 Dialogue: 0,0:06:54.45,0:06:56.85,Dialogue,,0,0,0,,Anything’s fine.
-Dialogue: 0,0:07:00.05,0:07:01.45,Dialogue,,0,0,0,,How about seasoned rice?
-Dialogue: 0,0:07:02.15,0:07:06.55,Dialogue,,0,0,0,,Uh... Yeah, but...
-Dialogue: 0,0:07:07.65,0:07:09.45,Dialogue,,0,0,0,,I don’t have a rice cooker...
+Dialogue: 0,0:06:59.94,0:07:01.69,Dialogue,,0,0,0,,How about seasoned rice?
+Dialogue: 0,0:07:02.11,0:07:06.55,Dialogue,,0,0,0,,Uh... Yeah, but...
+Dialogue: 0,0:07:07.50,0:07:09.45,Dialogue,,0,0,0,,I don’t have a rice cooker...
 Dialogue: 0,0:07:09.45,0:07:13.65,Dialogue,,0,0,0,,Eh? Then you really don’t cook at all by yourself?
-Dialogue: 0,0:07:13.65,0:07:15.65,Dialogue,,0,0,0,,I was thinking of buying one someday.
-Dialogue: 0,0:07:21.55,0:07:23.25,Dialogue,,0,0,0,,You have a frying pan, right?
-Dialogue: 0,0:07:24.05,0:07:25.25,Dialogue,,0,0,0,,Yeah.
-Dialogue: 0,0:07:25.55,0:07:26.75,Dialogue,,0,0,0,,Then...
-Dialogue: 0,0:07:32.85,0:07:36.65,Dialogue - Italic,,0,0,0,,What on earth am I doing?
-Dialogue: 0,0:08:03.55,0:08:07.85,Dialogue - Italic,,0,0,0,,Until a moment ago I was so depressed,
-Dialogue: 0,0:08:08.65,0:08:11.45,Dialogue - Italic,,0,0,0,,but now I’m all happy...
-Dialogue: 0,0:08:38.75,0:08:42.65,Dialogue - Italic,,0,0,0,,What did I even leave the house for?
-Dialogue: 0,0:08:48.85,0:08:52.45,Dialogue - Italic,,0,0,0,,What was the past month for?
-Dialogue: 0,0:09:12.25,0:09:17.45,Dialogue,,0,0,0,,H-hi! Long time no see, Nanoka-chan.
-Dialogue: 0,0:09:20.55,0:09:21.85,Dialogue,,0,0,0,,H-hello.
-Dialogue: 0,0:09:21.85,0:09:23.35,Dialogue,,0,0,0,,Where’s Koshiro?
-Dialogue: 0,0:09:23.35,0:09:25.35,Dialogue,,0,0,0,,He’s out shopping right now.
-Dialogue: 0,0:09:27.65,0:09:29.05,Dialogue,,0,0,0,,I see.
-Dialogue: 0,0:09:29.05,0:09:31.35,Dialogue,,0,0,0,,Umm... Do you need something?
-Dialogue: 0,0:09:31.35,0:09:36.15,Dialogue,,0,0,0,,Oh yeah, I left my pass here, when I slept over the other day.
-Dialogue: 0,0:09:39.55,0:09:43.25,Dialogue,,0,0,0,,Oh, don’t mind me. I know where it is.
-Dialogue: 0,0:09:43.25,0:09:44.95,Dialogue,,0,0,0,,Are you going out with him?
-Dialogue: 0,0:09:50.45,0:09:54.75,Dialogue,,0,0,0,,Are you... going out with my brother?
-Dialogue: 0,0:10:07.15,0:10:10.25,Dialogue,,0,0,0,,That’s right. You didn’t know?
-Dialogue: 0,0:10:10.25,0:10:14.15,Dialogue,,0,0,0,,I guess he doesn’t tell you about these things.
-Dialogue: 0,0:10:17.35,0:10:18.75,Dialogue,,0,0,0,,Is there something wrong with that?
-Dialogue: 0,0:10:19.75,0:10:20.85,Dialogue,,0,0,0,,I...
-Dialogue: 0,0:10:20.85,0:10:21.85,Dialogue,,0,0,0,,Sorry.
-Dialogue: 0,0:10:29.15,0:10:32.15,Dialogue,,0,0,0,,Kazuyoshi! You shouldn’t stare at people like that!
-Dialogue: 0,0:11:00.15,0:11:02.15,Dialogue - Italic,,0,0,0,,I’ve fallen off...
-Dialogue: 0,0:11:02.85,0:11:06.65,Dialogue - Italic,,0,0,0,,I’ve totally fallen off...
-Dialogue: 0,0:11:16.10,0:11:18.60,Dialogue,,0,0,0,,What did Koshiro go to buy?
+Dialogue: 0,0:07:13.65,0:07:15.70,Dialogue,,0,0,0,,I was thinking of buying one someday.
+Dialogue: 0,0:07:21.35,0:07:23.46,Dialogue,,0,0,0,,You have a frying pan, right?
+Dialogue: 0,0:07:23.96,0:07:25.21,Dialogue,,0,0,0,,Yeah.
+Dialogue: 0,0:07:25.21,0:07:26.90,Dialogue,,0,0,0,,Then...
+Dialogue: 0,0:07:32.80,0:07:36.65,Dialogue - Italic,,0,0,0,,What on earth am I doing?
+Dialogue: 0,0:08:03.51,0:08:07.13,Dialogue - Italic,,0,0,0,,Until a moment ago I was so depressed,
+Dialogue: 0,0:08:08.56,0:08:11.63,Dialogue - Italic,,0,0,0,,but now I’m all happy...
+Dialogue: 0,0:08:38.67,0:08:42.62,Dialogue - Italic,,0,0,0,,What did I even leave the house for?
+Dialogue: 0,0:08:48.80,0:08:52.55,Dialogue - Italic,,0,0,0,,What was the past month for?
+Dialogue: 0,0:09:13.45,0:09:17.16,Dialogue,,0,0,0,,H-hi! Long time no see, Nanoka-chan.
+Dialogue: 0,0:09:19.01,0:09:21.66,Dialogue,,0,0,0,,H-hello.
+Dialogue: 0,0:09:21.66,0:09:23.25,Dialogue,,0,0,0,,Where’s Koshiro?
+Dialogue: 0,0:09:23.24,0:09:25.35,Dialogue,,0,0,0,,He’s out shopping right now.
+Dialogue: 0,0:09:27.67,0:09:29.05,Dialogue,,0,0,0,,I see.
+Dialogue: 0,0:09:29.05,0:09:31.25,Dialogue,,0,0,0,,Umm... Do you need something?
+Dialogue: 0,0:09:31.24,0:09:36.18,Dialogue,,0,0,0,,Oh yeah, I left my pass here, when I slept over the other day.
+Dialogue: 0,0:09:39.43,0:09:43.14,Dialogue,,0,0,0,,Oh, don’t mind me. I know where it is.
+Dialogue: 0,0:09:43.16,0:09:45.02,Dialogue,,0,0,0,,Are you going out with him?
+Dialogue: 0,0:09:50.40,0:09:54.75,Dialogue,,0,0,0,,Are you... going out with my brother?
+Dialogue: 0,0:10:07.14,0:10:10.25,Dialogue,,0,0,0,,That’s right. You didn’t know?
+Dialogue: 0,0:10:10.25,0:10:14.42,Dialogue,,0,0,0,,I guess he doesn’t tell you about these things.
+Dialogue: 0,0:10:16.92,0:10:19.01,Dialogue,,0,0,0,,Is there something wrong with that?
+Dialogue: 0,0:10:19.00,0:10:20.76,Dialogue,,0,0,0,,I...
+Dialogue: 0,0:10:20.76,0:10:22.01,Dialogue,,0,0,0,,Sorry.
+Dialogue: 0,0:10:29.06,0:10:31.69,Dialogue,,0,0,0,,Kazuyoshi! You shouldn’t stare at people like that!
+Dialogue: 0,0:10:59.97,0:11:02.76,Dialogue - Italic,,0,0,0,,I’ve fallen off...
+Dialogue: 0,0:11:02.76,0:11:06.81,Dialogue - Italic,,0,0,0,,I’ve totally fallen off...
+Dialogue: 0,0:11:16.10,0:11:18.69,Dialogue,,0,0,0,,What did Koshiro go to buy?
 Dialogue: 0,0:11:20.30,0:11:23.10,Dialogue,,0,0,0,,Ingredients for dinner.
-Dialogue: 0,0:11:23.10,0:11:25.70,Dialogue,,0,0,0,,Oh, are you going to make it, Nanoka-chan?
-Dialogue: 0,0:11:26.00,0:11:27.00,Dialogue,,0,0,0,,Yes.
-Dialogue: 0,0:11:27.00,0:11:29.00,Dialogue,,0,0,0,,I might stay for dinner too then.
+Dialogue: 0,0:11:23.10,0:11:25.95,Dialogue,,0,0,0,,Oh, are you going to make it, Nanoka-chan?
+Dialogue: 0,0:11:25.95,0:11:27.00,Dialogue,,0,0,0,,Yes.
+Dialogue: 0,0:11:27.00,0:11:29.20,Dialogue,,0,0,0,,I might stay for dinner too then.
 Dialogue: 0,0:11:29.20,0:11:30.30,Dialogue,,0,0,0,,Why is that?
-Dialogue: 0,0:11:30.90,0:11:35.80,Dialogue,,0,0,0,,Koshiro only offers me things he has on hand, so at least sometime...
-Dialogue: 0,0:11:41.30,0:11:42.40,Dialogue,,0,0,0,,Found it.
-Dialogue: 0,0:11:44.30,0:11:46.30,Dialogue,,0,0,0,,What’s the meaning of this?
-Dialogue: 0,0:11:47.70,0:11:49.30,Dialogue,,0,0,0,,Please go home.
-Dialogue: 0,0:11:49.30,0:11:50.00,Dialogue,,0,0,0,,Eh?
-Dialogue: 0,0:11:50.00,0:11:51.00,Dialogue,,0,0,0,,Please go home!
-Dialogue: 0,0:11:55.50,0:11:56.70,Dialogue,,0,0,0,,Why?
+Dialogue: 0,0:11:30.87,0:11:36.10,Dialogue,,0,0,0,,Koshiro only offers me things he has on hand, so at least sometime...
+Dialogue: 0,0:11:41.15,0:11:42.40,Dialogue,,0,0,0,,Found it.
+Dialogue: 0,0:11:44.15,0:11:46.39,Dialogue,,0,0,0,,What’s the meaning of this?
+Dialogue: 0,0:11:47.39,0:11:49.10,Dialogue,,0,0,0,,Please go home.
+Dialogue: 0,0:11:49.10,0:11:50.00,Dialogue,,0,0,0,,Eh?
+Dialogue: 0,0:11:50.00,0:11:51.37,Dialogue,,0,0,0,,Please go home!
+Dialogue: 0,0:11:55.35,0:11:56.70,Dialogue,,0,0,0,,Why?
 Dialogue: 0,0:11:56.70,0:11:58.00,Dialogue,,0,0,0,,Because you’re in the way.
-Dialogue: 0,0:11:58.00,0:11:59.30,Dialogue,,0,0,0,,In the way?
-Dialogue: 0,0:11:59.30,0:12:00.70,Dialogue,,0,0,0,,I want to spend today with just my brother...
+Dialogue: 0,0:11:58.00,0:11:59.24,Dialogue,,0,0,0,,In the way?
+Dialogue: 0,0:11:59.24,0:12:00.70,Dialogue,,0,0,0,,I want to spend today with just my brother...
 Dialogue: 0,0:12:00.70,0:12:01.80,Dialogue,,0,0,0,,You know what?
-Dialogue: 0,0:12:02.50,0:12:05.00,Dialogue,,0,0,0,,Why do I have to hear this from you of all people?
+Dialogue: 0,0:12:02.35,0:12:05.00,Dialogue,,0,0,0,,Why do I have to hear this from you of all people?
 Dialogue: 0,0:12:05.00,0:12:07.00,Dialogue,,0,0,0,,You’re just his sister.
-Dialogue: 0,0:12:13.10,0:12:15.40,Dialogue,,0,0,0,,I won’t lose.
-Dialogue: 0,0:12:18.10,0:12:21.40,Dialogue,,0,0,0,,I won’t lose to anyone over my feelings towards my brother!
-Dialogue: 0,0:12:24.50,0:12:27.50,Dialogue,,0,0,0,,Siblings can’t fall in love with each other.
-Dialogue: 0,0:12:27.50,0:12:29.40,Dialogue,,0,0,0,,They can’t even get married!
+Dialogue: 0,0:12:13.01,0:12:15.33,Dialogue,,0,0,0,,I won’t lose.
+Dialogue: 0,0:12:18.00,0:12:21.34,Dialogue,,0,0,0,,I won’t lose to anyone over my feelings towards my brother!
+Dialogue: 0,0:12:24.59,0:12:27.35,Dialogue,,0,0,0,,Siblings can’t fall in love with each other.
+Dialogue: 0,0:12:27.35,0:12:29.40,Dialogue,,0,0,0,,They can’t even get married!
 Dialogue: 0,0:12:29.40,0:12:30.80,Dialogue,,0,0,0,,Do you understand that?
-Dialogue: 0,0:12:31.30,0:12:32.30,Dialogue,,0,0,0,,It’s just temporary.
-Dialogue: 0,0:12:32.70,0:12:36.50,Dialogue,,0,0,0,,You’re not able to see straight because there’s too much blood rushing to your head.
-Dialogue: 0,0:12:36.50,0:12:39.90,Dialogue,,0,0,0,,You’re probably only able to see your brother who is right in front of you.
-Dialogue: 0,0:12:39.90,0:12:42.60,Dialogue,,0,0,0,,But, I don’t think such things will last very long.
-Dialogue: 0,0:12:43.20,0:12:47.10,Dialogue,,0,0,0,,Isn’t it painful? It’ll hurt when your feelings disappear.
-Dialogue: 0,0:12:47.10,0:12:48.40,Dialogue,,0,0,0,,He’s your big brother!
-Dialogue: 0,0:12:51.30,0:12:54.40,Dialogue,,0,0,0,,I’ll think about him for the rest of my life.
-Dialogue: 0,0:12:55.40,0:12:58.00,Dialogue,,0,0,0,,There is such a love, where you can think that.
-Dialogue: 0,0:13:00.70,0:13:02.00,Dialogue,,0,0,0,,The rest of your life?
-Dialogue: 0,0:13:06.90,0:13:10.60,Dialogue,,0,0,0,,So naive! Naive! The rest of your life, you say?
-Dialogue: 0,0:13:11.00,0:13:15.50,Dialogue,,0,0,0,,You can say it so easily. That’s why you’re called a child.
-Dialogue: 0,0:13:15.50,0:13:16.20,Dialogue,,0,0,0,,Old woman.
-Dialogue: 0,0:13:19.60,0:13:22.00,Dialogue,,0,0,0,,What do you think everyone else will say?
-Dialogue: 0,0:13:22.00,0:13:24.00,Dialogue,,0,0,0,,That won’t matter.
-Dialogue: 0,0:13:24.10,0:13:25.30,Dialogue,,0,0,0,,It will matter.
-Dialogue: 0,0:13:25.30,0:13:26.30,Dialogue,,0,0,0,,Please go home!
-Dialogue: 0,0:13:26.30,0:13:27.10,Dialogue,,0,0,0,,You...
-Dialogue: 0,0:13:27.10,0:13:28.20,Dialogue,,0,0,0,,Go home!
-Dialogue: 0,0:13:48.50,0:13:51.70,Dialogue,,0,0,0,,Your parents will be saddened.
-Dialogue: 0,0:14:17.70,0:14:19.70,Dialogue,,0,0,0,,Your face looks horrible.
-Dialogue: 0,0:14:19.70,0:14:21.70,Dialogue,,0,0,0,,And your clothes do too.
-Dialogue: 0,0:14:25.10,0:14:28.80,Dialogue,,0,0,0,,I visit, worried about you and you’re out shopping happily.
-Dialogue: 0,0:14:30.00,0:14:31.20,Dialogue,,0,0,0,,What the hell are you doing?
+Dialogue: 0,0:12:31.26,0:12:32.27,Dialogue,,0,0,0,,It’s just temporary.
+Dialogue: 0,0:12:32.64,0:12:36.50,Dialogue,,0,0,0,,You’re not able to see straight because there’s too much blood rushing to your head.
+Dialogue: 0,0:12:36.50,0:12:39.82,Dialogue,,0,0,0,,You’re probably only able to see your brother who is right in front of you.
+Dialogue: 0,0:12:39.82,0:12:42.53,Dialogue,,0,0,0,,But, I don’t think such things will last very long.
+Dialogue: 0,0:12:43.00,0:12:47.03,Dialogue,,0,0,0,,Isn’t it painful? It’ll hurt when your feelings disappear.
+Dialogue: 0,0:12:47.03,0:12:48.40,Dialogue,,0,0,0,,He’s your big brother!
+Dialogue: 0,0:12:51.15,0:12:55.37,Dialogue,,0,0,0,,I’ll think about him for the rest of my life.
+Dialogue: 0,0:12:55.37,0:12:58.29,Dialogue,,0,0,0,,There is such a love, where you can think that.
+Dialogue: 0,0:13:00.55,0:13:02.00,Dialogue,,0,0,0,,The rest of your life?
+Dialogue: 0,0:13:06.96,0:13:10.91,Dialogue,,0,0,0,,So naive! Naive! The rest of your life, you say?
+Dialogue: 0,0:13:10.89,0:13:15.39,Dialogue,,0,0,0,,You can say it so easily. That’s why you’re called a child.
+Dialogue: 0,0:13:15.39,0:13:16.10,Dialogue,,0,0,0,,Old woman.
+Dialogue: 0,0:13:19.50,0:13:22.00,Dialogue,,0,0,0,,What do you think everyone else will say?
+Dialogue: 0,0:13:22.00,0:13:24.15,Dialogue,,0,0,0,,That won’t matter.
+Dialogue: 0,0:13:24.15,0:13:25.22,Dialogue,,0,0,0,,It will matter.
+Dialogue: 0,0:13:25.20,0:13:26.11,Dialogue,,0,0,0,,Please go home!
+Dialogue: 0,0:13:26.11,0:13:26.74,Dialogue,,0,0,0,,You...
+Dialogue: 0,0:13:26.74,0:13:28.24,Dialogue,,0,0,0,,Go home!
+Dialogue: 0,0:13:48.51,0:13:51.70,Dialogue,,0,0,0,,Your parents will be saddened.
+Dialogue: 0,0:14:17.66,0:14:19.54,Dialogue,,0,0,0,,Your face looks horrible.
+Dialogue: 0,0:14:19.80,0:14:21.70,Dialogue,,0,0,0,,And your clothes do too.
+Dialogue: 0,0:14:25.13,0:14:29.10,Dialogue,,0,0,0,,I visit, worried about you and you’re out shopping happily.
+Dialogue: 0,0:14:29.93,0:14:31.20,Dialogue,,0,0,0,,What the hell are you doing?
 Dialogue: 0,0:14:31.20,0:14:33.20,Dialogue,,0,0,0,,Why did you let her into your aparment?
-Dialogue: 0,0:14:34.60,0:14:36.20,Dialogue,,0,0,0,,You saw her?
-Dialogue: 0,0:14:36.50,0:14:37.60,Dialogue,,0,0,0,,I did.
-Dialogue: 0,0:14:38.70,0:14:42.60,Dialogue,,0,0,0,,I tried to make her leave by telling her we were going out,
-Dialogue: 0,0:14:42.60,0:14:44.60,Dialogue,,0,0,0,,but she chased me out instead.
-Dialogue: 0,0:14:48.80,0:14:51.80,Dialogue,,0,0,0,,What were you planning on doing after this?
-Dialogue: 0,0:14:51.80,0:14:53.20,Dialogue,,0,0,0,,Why didn’t you push her away?
-Dialogue: 0,0:14:53.50,0:14:56.70,Dialogue,,0,0,0,,What are you going to do now that you’ve got her hopes up?
-Dialogue: 0,0:15:01.80,0:15:04.90,Dialogue,,0,0,0,,I don’t understand what you want to do at all, Koshiro.
-Dialogue: 0,0:15:04.90,0:15:07.90,Dialogue,,0,0,0,,I see that Nanoka-chan is also serious.
-Dialogue: 0,0:15:07.90,0:15:12.20,Dialogue,,0,0,0,,I’m sorry I made it sound like you were the only one at fault.
-Dialogue: 0,0:15:12.20,0:15:16.70,Dialogue,,0,0,0,,But if that’s the case, then it’s more important for you to be firm!
-Dialogue: 0,0:15:17.20,0:15:18.50,Dialogue,,0,0,0,,I know...
-Dialogue: 0,0:15:18.50,0:15:20.00,Dialogue,,0,0,0,,You obviously don’t!
-Dialogue: 0,0:15:20.00,0:15:21.80,Dialogue,,0,0,0,,It’s fine already.
-Dialogue: 0,0:15:21.80,0:15:23.80,Dialogue,,0,0,0,,Wait! What’s fine?
-Dialogue: 0,0:15:24.20,0:15:25.30,Dialogue,,0,0,0,,It’s fine.
+Dialogue: 0,0:14:34.56,0:14:36.20,Dialogue,,0,0,0,,You saw her?
+Dialogue: 0,0:14:36.18,0:14:37.60,Dialogue,,0,0,0,,I did.
+Dialogue: 0,0:14:38.69,0:14:42.69,Dialogue,,0,0,0,,I tried to make her leave by telling her we were going out,
+Dialogue: 0,0:14:42.69,0:14:44.60,Dialogue,,0,0,0,,but she chased me out instead.
+Dialogue: 0,0:14:48.95,0:14:51.76,Dialogue,,0,0,0,,What were you planning on doing after this?
+Dialogue: 0,0:14:51.74,0:14:53.20,Dialogue,,0,0,0,,Why didn’t you push her away?
+Dialogue: 0,0:14:53.20,0:14:56.70,Dialogue,,0,0,0,,What are you going to do now that you’ve got her hopes up?
+Dialogue: 0,0:15:01.83,0:15:04.96,Dialogue,,0,0,0,,I don’t understand what you want to do at all, Koshiro.
+Dialogue: 0,0:15:04.96,0:15:07.84,Dialogue,,0,0,0,,I see that Nanoka-chan is also serious.
+Dialogue: 0,0:15:07.84,0:15:12.39,Dialogue,,0,0,0,,I’m sorry I made it sound like you were the only one at fault.
+Dialogue: 0,0:15:12.39,0:15:16.72,Dialogue,,0,0,0,,But if that’s the case, then it’s more important for you to be firm!
+Dialogue: 0,0:15:17.26,0:15:18.50,Dialogue,,0,0,0,,I know...
+Dialogue: 0,0:15:18.50,0:15:20.06,Dialogue,,0,0,0,,You obviously don’t!
+Dialogue: 0,0:15:20.08,0:15:21.73,Dialogue,,0,0,0,,It’s fine already.
+Dialogue: 0,0:15:21.73,0:15:23.94,Dialogue,,0,0,0,,Wait! What’s fine?
+Dialogue: 0,0:15:23.94,0:15:25.30,Dialogue,,0,0,0,,It’s fine.
 Dialogue: 0,0:15:25.30,0:15:27.60,Dialogue,,0,0,0,,Have you thought about the future?
-Dialogue: 0,0:15:27.60,0:15:29.40,Dialogue,,0,0,0,,It doesn’t matter to you!
-Dialogue: 0,0:15:29.40,0:15:30.80,Dialogue,,0,0,0,,Whether it matters is not the point!
-Dialogue: 0,0:15:30.80,0:15:34.70,Dialogue,,0,0,0,,How can I leave someone alone who is about to become knee-deep in misery?!
-Dialogue: 0,0:15:39.50,0:15:43.40,Dialogue,,0,0,0,,Don’t judge who is miserable and who is not.
-Dialogue: 0,0:15:54.90,0:15:58.50,Dialogue,,0,0,0,,I won’t ever involve myself in your affairs again.
-Dialogue: 0,0:15:59.10,0:16:01.50,Dialogue,,0,0,0,,I’m sorry I was so nosy from the beginning.
-Dialogue: 0,0:16:07.30,0:16:09.10,Dialogue - Italic,,0,0,0,,This is how it is.
-Dialogue: 0,0:16:10.70,0:16:13.80,Dialogue - Italic,,0,0,0,,Even though she seriously faced me like that,
-Dialogue: 0,0:16:14.40,0:16:17.20,Dialogue - Italic,,0,0,0,,I’ve finally lost her.
-Dialogue: 0,0:16:21.60,0:16:22.60,Dialogue,,0,0,0,,Welcome home!
-Dialogue: 0,0:16:25.80,0:16:27.80,Dialogue - Italic,,0,0,0,,I can still go back.
-Dialogue: 0,0:16:29.20,0:16:30.20,Dialogue,,0,0,0,,I’m home.
-Dialogue: 0,0:16:35.40,0:16:38.80,Dialogue - Italic,,0,0,0,,If she really is precious to me,
-Dialogue: 0,0:16:40.30,0:16:43.00,Dialogue,,0,0,0,,You’re still soaking wet!
-Dialogue: 0,0:16:41.00,0:16:43.00,Dialogue - Italic,,0,0,0,,there is only one thing I can do...
-Dialogue: 0,0:16:46.50,0:16:48.00,Dialogue - Italic,,0,0,0,,Just say it to her...
-Dialogue: 0,0:16:48.00,0:16:51.60,Dialogue - Italic,,0,0,0,,That even if she does things like this for me it’s only a nuisance.
-Dialogue: 0,0:16:54.10,0:16:56.10,Dialogue - Italic,,0,0,0,,Hurry up and understand.
-Dialogue: 0,0:16:57.70,0:17:03.00,Dialogue - Italic,,0,0,0,,It’s no use telling her you don’t need anything else.
-Dialogue: 0,0:17:17.20,0:17:20.70,Dialogue,,0,0,0,,Should we live together somewhere far away?
-Dialogue: 0,0:17:22.00,0:17:23.00,Dialogue,,0,0,0,,Eh?
-Dialogue: 0,0:17:23.60,0:17:30.00,Dialogue,,0,0,0,,Someplace where nobody knows us, so we can live as more than siblings?
-Dialogue: 0,0:17:30.00,0:17:31.20,Dialogue,,0,0,0,,Throw everything away...
-Dialogue: 0,0:17:38.00,0:17:40.60,Dialogue,,0,0,0,,That’s impossible for you, isn’t it?
-Dialogue: 0,0:17:47.40,0:17:51.60,Dialogue,,0,0,0,,I love you more! More than Chidori-san.
-Dialogue: 0,0:17:51.60,0:17:55.90,Dialogue,,0,0,0,,I love you way more, Onii-chan!
-Dialogue: 0,0:17:56.80,0:18:05.10,Dialogue,,0,0,0,,Sorry...But... if you’re going out with Chidori-san and you hate me,
-Dialogue: 0,0:18:05.60,0:18:08.70,Dialogue,,0,0,0,,I want you to tell me clearly.
-Dialogue: 0,0:18:12.60,0:18:14.00,Dialogue,,0,0,0,,Chidori and I are...
-Dialogue: 0,0:18:14.50,0:18:17.30,Dialogue - Italic,,0,0,0,,Tell her that’s exactly right.
-Dialogue: 0,0:18:17.30,0:18:19.30,Dialogue - Italic,,0,0,0,,if I do that, everything will end.
-Dialogue: 0,0:18:21.40,0:18:23.30,Dialogue - Italic,,0,0,0,,That’s exactly right.
-Dialogue: 0,0:18:25.70,0:18:27.40,Dialogue,,0,0,0,,Chidori and I are...
-Dialogue: 0,0:18:30.30,0:18:31.80,Dialogue,,0,0,0,,not going out.
-Dialogue: 0,0:18:36.90,0:18:41.80,Dialogue,,0,0,0,,She was just worried
-Dialogue: 0,0:18:42.70,0:18:44.70,Dialogue,,0,0,0,,about us siblings.
-Dialogue: 0,0:18:55.70,0:19:00.70,Dialogue,,0,0,0,,W-why can’t siblings fall in love with each other?
-Dialogue: 0,0:19:09.80,0:19:12.30,Dialogue,,0,0,0,,I don’t want to give up!
-Dialogue: 0,0:19:14.90,0:19:16.10,Dialogue - Italic,,0,0,0,,Stop it.
-Dialogue: 0,0:19:16.60,0:19:17.70,Dialogue - Italic,,0,0,0,,Don’t say it.
-Dialogue: 0,0:19:17.70,0:19:19.70,Dialogue - Italic,,0,0,0,,That’s just glossing over the problem.
-Dialogue: 0,0:19:22.20,0:19:23.20,Dialogue,,0,0,0,,I...
-Dialogue: 0,0:19:28.00,0:19:29.90,Dialogue,,0,0,0,,don’t need anything else.
-Dialogue: 0,0:19:34.60,0:19:37.20,Dialogue,,0,0,0,,As long as I have you, I don’t need anything else.
-Dialogue: 0,0:20:00.50,0:20:02.10,Dialogue,,0,0,0,,You understand, right?
+Dialogue: 0,0:15:27.60,0:15:29.32,Dialogue,,0,0,0,,It doesn’t matter to you!
+Dialogue: 0,0:15:29.32,0:15:30.82,Dialogue,,0,0,0,,Whether it matters is not the point!
+Dialogue: 0,0:15:30.82,0:15:34.53,Dialogue,,0,0,0,,How can I leave someone alone who is about to become knee-deep in misery?!
+Dialogue: 0,0:15:39.62,0:15:43.61,Dialogue,,0,0,0,,Don’t judge who is miserable and who is not.
+Dialogue: 0,0:15:54.75,0:15:59.02,Dialogue,,0,0,0,,I won’t ever involve myself in your affairs again.
+Dialogue: 0,0:15:59.02,0:16:01.64,Dialogue,,0,0,0,,I’m sorry I was so nosy from the beginning.
+Dialogue: 0,0:16:07.22,0:16:09.10,Dialogue - Italic,,0,0,0,,This is how it is.
+Dialogue: 0,0:16:10.49,0:16:13.80,Dialogue - Italic,,0,0,0,,Even though she seriously faced me like that,
+Dialogue: 0,0:16:14.44,0:16:17.49,Dialogue - Italic,,0,0,0,,I’ve finally lost her.
+Dialogue: 0,0:16:21.83,0:16:23.33,Dialogue,,0,0,0,,Welcome home!
+Dialogue: 0,0:16:25.70,0:16:27.80,Dialogue - Italic,,0,0,0,,I can still go back.
+Dialogue: 0,0:16:29.20,0:16:30.38,Dialogue,,0,0,0,,I’m home.
+Dialogue: 0,0:16:35.31,0:16:39.10,Dialogue - Italic,,0,0,0,,If she really is precious to me,
+Dialogue: 0,0:16:40.15,0:16:43.00,Dialogue,,0,0,0,,You’re still soaking wet!
+Dialogue: 0,0:16:40.81,0:16:43.00,Dialogue - Italic,,0,0,0,,there is only one thing I can do...
+Dialogue: 0,0:16:46.35,0:16:48.00,Dialogue - Italic,,0,0,0,,Just say it to her...
+Dialogue: 0,0:16:48.00,0:16:52.61,Dialogue - Italic,,0,0,0,,That even if she does things like this for me it’s only a nuisance.
+Dialogue: 0,0:16:53.95,0:16:56.10,Dialogue - Italic,,0,0,0,,Hurry up and understand.
+Dialogue: 0,0:16:57.60,0:17:03.00,Dialogue - Italic,,0,0,0,,It’s no use telling her you don’t need anything else.
+Dialogue: 0,0:17:17.05,0:17:20.70,Dialogue,,0,0,0,,Should we live together somewhere far away?
+Dialogue: 0,0:17:22.00,0:17:23.14,Dialogue,,0,0,0,,Eh?
+Dialogue: 0,0:17:23.39,0:17:30.07,Dialogue,,0,0,0,,Someplace where nobody knows us, so we can live as more than siblings?
+Dialogue: 0,0:17:30.06,0:17:31.15,Dialogue,,0,0,0,,Throw everything away...
+Dialogue: 0,0:17:37.85,0:17:41.16,Dialogue,,0,0,0,,That’s impossible for you, isn’t it?
+Dialogue: 0,0:17:47.25,0:17:51.60,Dialogue,,0,0,0,,I love you more! More than Chidori-san.
+Dialogue: 0,0:17:51.60,0:17:56.43,Dialogue,,0,0,0,,I love you way more, Onii-chan!
+Dialogue: 0,0:17:56.43,0:18:05.48,Dialogue,,0,0,0,,Sorry...But... if you’re going out with Chidori-san and you hate me,
+Dialogue: 0,0:18:05.50,0:18:08.46,Dialogue,,0,0,0,,I want you to tell me clearly.
+Dialogue: 0,0:18:12.40,0:18:14.48,Dialogue,,0,0,0,,Chidori and I are...
+Dialogue: 0,0:18:14.50,0:18:16.90,Dialogue - Italic,,0,0,0,,Tell her that’s exactly right.
+Dialogue: 0,0:18:16.90,0:18:19.51,Dialogue - Italic,,0,0,0,,if I do that, everything will end.
+Dialogue: 0,0:18:21.41,0:18:23.79,Dialogue - Italic,,0,0,0,,That’s exactly right.
+Dialogue: 0,0:18:25.66,0:18:28.42,Dialogue,,0,0,0,,Chidori and I are...
+Dialogue: 0,0:18:30.20,0:18:31.92,Dialogue,,0,0,0,,not going out.
+Dialogue: 0,0:18:36.75,0:18:42.05,Dialogue,,0,0,0,,She was just worried
+Dialogue: 0,0:18:42.60,0:18:44.70,Dialogue,,0,0,0,,about us siblings.
+Dialogue: 0,0:18:55.65,0:19:00.82,Dialogue,,0,0,0,,W-why can’t siblings fall in love with each other?
+Dialogue: 0,0:19:09.46,0:19:12.33,Dialogue,,0,0,0,,I don’t want to give up!
+Dialogue: 0,0:19:14.96,0:19:16.34,Dialogue - Italic,,0,0,0,,Stop it.
+Dialogue: 0,0:19:16.34,0:19:17.70,Dialogue - Italic,,0,0,0,,Don’t say it.
+Dialogue: 0,0:19:17.70,0:19:20.34,Dialogue - Italic,,0,0,0,,That’s just glossing over the problem.
+Dialogue: 0,0:19:22.30,0:19:23.40,Dialogue,,0,0,0,,I...
+Dialogue: 0,0:19:27.90,0:19:30.11,Dialogue,,0,0,0,,don’t need anything else.
+Dialogue: 0,0:19:34.52,0:19:37.86,Dialogue,,0,0,0,,As long as I have you, I don’t need anything else.
+Dialogue: 0,0:20:00.45,0:20:02.10,Dialogue,,0,0,0,,You understand, right?
 Dialogue: 0,0:20:02.80,0:20:05.90,Dialogue,,0,0,0,,It won’t be the same anymore.
-Dialogue: 0,0:20:07.10,0:20:08.00,Dialogue,,0,0,0,,Yeah.
-Dialogue: 0,0:20:08.60,0:20:10.00,Dialogue,,0,0,0,,Are you really okay with that?
+Dialogue: 0,0:20:07.00,0:20:08.00,Dialogue,,0,0,0,,Yeah.
+Dialogue: 0,0:20:08.51,0:20:10.50,Dialogue,,0,0,0,,Are you really okay with that?
 Dialogue: 0,0:20:11.70,0:20:12.70,Dialogue,,0,0,0,,Yeah.
-Dialogue: 0,0:20:14.70,0:20:18.00,Dialogue,,0,0,0,,If you’re fine with it, then I’m fine with it too.
+Dialogue: 0,0:20:14.66,0:20:18.20,Dialogue,,0,0,0,,If you’re fine with it, then I’m fine with it too.
 Dialogue: 0,0:20:29.50,0:20:35.80,Dialogue,,0,0,0,,I’m sorry... I’m sorry I fell in love with you.
-Dialogue: 0,0:20:37.30,0:20:40.30,Dialogue,,0,0,0,,That goes for the both of us.
-Dialogue: 0,0:20:41.70,0:20:46.00,Dialogue,,0,0,0,,Though there are other people we should apologize to.
-Dialogue: 0,0:20:47.50,0:20:49.00,Dialogue,,0,0,0,,We can’t apologize, can we?
-Dialogue: 0,0:20:50.00,0:20:51.00,Dialogue,,0,0,0,,Yeah.
+Dialogue: 0,0:20:37.42,0:20:40.60,Dialogue,,0,0,0,,That goes for the both of us.
+Dialogue: 0,0:20:41.55,0:20:46.47,Dialogue,,0,0,0,,Though there are other people we should apologize to.
+Dialogue: 0,0:20:47.30,0:20:49.41,Dialogue,,0,0,0,,We can’t apologize, can we?
+Dialogue: 0,0:20:50.10,0:20:51.30,Dialogue,,0,0,0,,Yeah.
 Dialogue: 0,0:20:58.60,0:21:00.10,Dialogue - Italic,,0,0,0,,Hello? Is this Nanoka?
-Dialogue: 0,0:21:00.40,0:21:02.40,Dialogue,,0,0,0,,No, it’s me.
-Dialogue: 0,0:21:05.90,0:21:08.40,Dialogue,,0,0,0,,It’s already late. I’ll let her stay at my place.
-Dialogue: 0,0:21:09.50,0:21:12.10,Dialogue,,0,0,0,,Yeah, it’s fine.
-Dialogue: 0,0:21:12.60,0:21:14.60,Dialogue,,0,0,0,,She doesn’t have school tomorrow.
-Dialogue: 0,0:21:15.50,0:21:16.50,Dialogue,,0,0,0,,Yeah.
-Dialogue: 0,0:21:17.30,0:21:21.10,Dialogue,,0,0,0,,Okay, don’t worry about it.
-Dialogue: 0,0:21:21.10,0:21:22.40,Dialogue,,0,0,0,,Bye.
+Dialogue: 0,0:21:00.11,0:21:02.40,Dialogue,,0,0,0,,No, it’s me.
+Dialogue: 0,0:21:05.86,0:21:08.40,Dialogue,,0,0,0,,It’s already late. I’ll let her stay at my place.
+Dialogue: 0,0:21:09.45,0:21:12.10,Dialogue,,0,0,0,,Yeah, it’s fine.
+Dialogue: 0,0:21:12.58,0:21:14.70,Dialogue,,0,0,0,,She doesn’t have school tomorrow.
+Dialogue: 0,0:21:15.56,0:21:16.50,Dialogue,,0,0,0,,Yeah.
+Dialogue: 0,0:21:17.30,0:21:21.25,Dialogue,,0,0,0,,Okay, don’t worry about it.
+Dialogue: 0,0:21:21.24,0:21:22.40,Dialogue,,0,0,0,,Bye.
 Dialogue: 0,0:23:15.04,0:23:16.62,Next EP - Static Text,,0,0,0,,{\blur0.603\pos(598.039,90.377)\c&HF5FCFC&}{\blur0.402}AN EPIC SERIES PREVIEW
 Dialogue: 1,0:23:15.04,0:23:16.62,Next EP - Static Text,,0,0,0,,{\bord0\blur0.603\pos(598.039,90.377)\4a&HFF&}{\blur0.402}AN EPIC SERIES PREVIEW
 Dialogue: 0,0:23:15.45,0:23:16.62,Next EP - Rotating Text,,0,0,0,,{\blur0.603\pos(430.588,487.029)\fs60.251\bord3.013\3c&HFFFEFE&\c&HFFFEFE&\frx25}{\t(0,620,\frx0)}{\blur0.703}CHIDORI'S JUDGEMENT
@@ -305,8 +307,8 @@ Dialogue: 0,0:23:16.66,0:23:16.70,Next EP - Rotating Text,,0,0,0,,{\blur0.603\po
 Dialogue: 1,0:23:16.66,0:23:16.70,Next EP - Rotating Text,,0,0,0,,{\blur0.603\pos(430.588,487.029)\fs60.251\bord0\c&H00000000&\4a&HFF&}{\blur0.703\iclip(m 417.375 388.625 l 418.625 477 748.75 476 742.75 382.625 m 594.5 406.75 l 637.5 402.625 b 642.25 420.75 643.5 455.875 641.125 473 l 599.25 472)}CHIDORI'S JUDGEMENT
 Dialogue: 0,0:23:16.70,0:23:17.20,Next EP - Rotating Text,,0,0,0,,{\blur0.603\pos(430.588,487.029)\fs60.251\bord3.013\3c&HFFFEFE&\c&HFFFEFE&}{\blur0.703}CHIDORI'S JUDGEMENT
 Dialogue: 1,0:23:16.70,0:23:17.20,Next EP - Rotating Text,,0,0,0,,{\blur0.603\pos(430.588,487.029)\fs60.251\bord0\c&H00000000&\4a&HFF&}{\blur0.703}CHIDORI'S JUDGEMENT
-Dialogue: 0,0:23:17.25,0:23:21.43,Dialogue - Alt,,0,0,0,,With Koshiro-san gone, having Chidori-san harass me feels nice.
-Dialogue: 0,0:23:21.70,0:23:25.49,Dialogue - Alt,,0,0,0,,But I want to stick to teenagers! This is my goal!
+Dialogue: 0,0:23:17.20,0:23:21.43,Dialogue - Alt,,0,0,0,,With Koshiro-san gone, having Chidori-san harass me feels nice.
+Dialogue: 0,0:23:21.55,0:23:25.49,Dialogue - Alt,,0,0,0,,But I want to stick to teenagers! This is my goal!
 Dialogue: 0,0:23:18.20,0:23:21.25,Next EP - Scrolling Text,,0,0,0,,{\move(930.549,386.611,-76.549,386.611)\q2\blur0.703\c&HFBFDF8&}Next episode:
 Dialogue: 1,0:23:18.20,0:23:21.25,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(930.549,386.611,-76.549,386.611)\q2\blur0.703\4a&HFF&}Next episode:
 Dialogue: 0,0:23:18.20,0:23:21.25,Next EP - Scrolling Text,,0,0,0,,{\move(930.549,456.904,-76.549,456.904)\q2\blur0.703\c&HFBFDF8&}Heat haze
@@ -315,10 +317,10 @@ Dialogue: 0,0:23:18.78,0:23:24.85,Next EP - Scrolling Text,,0,0,0,,{\move(1387.4
 Dialogue: 1,0:23:18.78,0:23:24.85,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(1387.451,386.611,-618.373,386.611)\q2\blur0.703\4a&HFF&}Koshiro took the wrong path. He lost so many things because of it and is greatly distressed.
 Dialogue: 0,0:23:19.41,0:23:25.63,Next EP - Scrolling Text,,0,0,0,,{\move(1387.451,456.904,-660.235,456.904)\q2\blur0.703\c&HFBFDF8&}But, he has genuine feelings for her, for the first time in his life. Koshiro is happy.
 Dialogue: 1,0:23:19.41,0:23:25.63,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(1387.451,456.904,-660.235,456.904)\q2\blur0.703\4a&HFF&}But, he has genuine feelings for her, for the first time in his life. Koshiro is happy.
-Dialogue: 0,0:23:25.55,0:23:27.21,Dialogue,,0,0,0,,Punishment: No role in the next episode!
+Dialogue: 0,0:23:25.49,0:23:27.17,Dialogue,,0,0,0,,Punishment: No role in the next episode!
 Dialogue: 1,0:23:26.38,0:23:27.21,Next EP - Verdict,,0,0,0,,{\pos(621.961,46.192)\bord1.004\blur0.502\bord0\c&H00000000&\4a&HFF&\fs36.151\fad(234,0)}Goodbye pervert
 Dialogue: 0,0:23:26.38,0:23:27.21,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\c&HFFFFFF&\pos(621.961,50.209)\fs36.151\fad(234,0)}Goodbye pervert
-Dialogue: 0,0:23:27.23,0:23:28.76,Dialogue,,0,0,0,,Oh, please at least one scene.
+Dialogue: 0,0:23:27.17,0:23:28.76,Dialogue,,0,0,0,,Oh, please at least one scene.
 Dialogue: 1,0:21:48.66,0:21:53.54,ED - Romaji,,0,0,0,,{\fad(300,200)\blur0.753}{\k108}ya{\k38}sa{\k33}shi{\k38}i {\k33}yu{\k17}me {\k117}ga
 Dialogue: 1,0:21:54.00,0:21:59.50,ED - Romaji,,0,0,0,,{\fad(300,200)\blur0.753}{\k17}so{\k13}t{\k46}to {\k58}{\k21}mu{\k21}ne {\k29}no {\k33}{\k38}ha{\k33}ru {\k33}wo {\k17}yo{\k96}bi
 Dialogue: 1,0:21:59.88,0:22:04.88,ED - Romaji,,0,0,0,,{\fad(300,200)\blur0.753}{\k96}ya{\k33}sa{\k33}shi{\k29}i {\k33}ka{\k38}ze {\k71}ni {\k75}na{\k54}ri
