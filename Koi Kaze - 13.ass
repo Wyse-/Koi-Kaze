@@ -16,12 +16,14 @@ YCbCr Matrix: TV.601
 
 [Aegisub Project Garbage]
 Last Style Storage: Koi Kaze L
+Audio File: ../../../../../media/wyse/Media III/[WSE] Koi Kaze [DVD x264 478p 10bit FLAC-AC3][Dual Audio]/[WSE] Koi Kaze - 13 [DVD x264 478p 10bit FLAC-AC3][Dual Audio][16DC7E1E]_JPN_Audio01.flac
 Video File: ../../../../../media/wyse/Media III/[WSE] Koi Kaze [raws v2]/ep13.vpy.mkv
 Video AR Mode: 4
 Video AR Value: 1.779167
-Video Zoom Percent: 2.066946
-Scroll Position: 77
-Active Line: 105
+Video Zoom Percent: 2.768750
+Scroll Position: 217
+Active Line: 247
+Video Position: 34459
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -84,213 +86,212 @@ Dialogue: 0,0:22:56.43,0:22:56.56,Signs,,0,0,0,,{\frz10\c&HA0A0A0\fnKrazy Nights
 Dialogue: 0,0:22:56.43,0:22:56.56,Signs,,0,0,0,,{\frz10\c&HA0A0A0\fnKrazy Nights\fs37.155\c&H393F43&\pos(444.936,169.616)\clip(m 403.125 159.625 l 405.5 185.75 450.875 184.75 453.375 172.75 456.875 158.625)\blur0.803}Saeki
 Dialogue: 0,0:22:56.56,0:22:58.41,Signs,,0,0,0,,{\frz10\c&HA0A0A0\fnKrazy Nights\fs37.155\c&H8D9698&\pos(446.305,171.073)\blur0.803}Saeki
 Dialogue: 0,0:22:56.56,0:22:58.41,Signs,,0,0,0,,{\frz10\c&HA0A0A0\fnKrazy Nights\fs37.155\c&H393F43&\pos(444.936,169.616)\blur0.803}Saeki
-Dialogue: 0,0:02:26.00,0:02:27.40,Dialogue,,0,0,0,,That was my middle school.
-Dialogue: 0,0:02:28.20,0:02:29.30,Dialogue,,0,0,0,,Let’s go see.
-Dialogue: 0,0:02:30.20,0:02:31.50,Dialogue,,0,0,0,,Okay.
-Dialogue: 0,0:02:33.80,0:02:35.40,Dialogue,,0,0,0,,You used to wear those too?
-Dialogue: 0,0:02:36.00,0:02:36.90,Dialogue,,0,0,0,,Yeah.
-Dialogue: 0,0:02:36.90,0:02:39.50,Dialogue,,0,0,0,,Looks like middle schoolers from the country.
-Dialogue: 0,0:02:39.50,0:02:40.70,Dialogue,,0,0,0,,Jeez.
-Dialogue: 0,0:02:57.30,0:02:58.50,Dialogue,,0,0,0,,Hello.
-Dialogue: 0,0:02:59.00,0:03:00.20,Dialogue,,0,0,0,,Hello.
-Dialogue: 0,0:03:01.10,0:03:02.60,Dialogue,,0,0,0,,He owns a tea shop in the neighborhood.
-Dialogue: 0,0:03:03.10,0:03:04.20,Dialogue,,0,0,0,,I see.
-Dialogue: 0,0:03:08.50,0:03:10.30,Dialogue,,0,0,0,,It sure is cold today.
-Dialogue: 0,0:03:10.30,0:03:13.80,Dialogue,,0,0,0,,You’re right. It looks like it might snow.
-Dialogue: 0,0:03:16.50,0:03:18.10,Dialogue,,0,0,0,,My...
-Dialogue: 0,0:03:21.20,0:03:25.90,Dialogue,,0,0,0,,You must have left home very early to get here this early.
-Dialogue: 0,0:03:25.90,0:03:30.00,Dialogue,,0,0,0,,Sorry. We just suddenly decided to come.
-Dialogue: 0,0:03:30.00,0:03:31.80,Dialogue,,0,0,0,,That’s right
-Dialogue: 0,0:03:31.80,0:03:35.60,Dialogue,,0,0,0,,I slept over at Onii-chan’s house last night.
-Dialogue: 0,0:03:36.90,0:03:40.50,Dialogue,,0,0,0,,I see. You guys must get along very well.
-Dialogue: 0,0:03:40.50,0:03:44.40,Dialogue,,0,0,0,,Oh yeah. What’s that?
-Dialogue: 0,0:03:44.40,0:03:45.50,Dialogue,,0,0,0,,Oh, that?
-Dialogue: 0,0:03:45.50,0:03:48.90,Dialogue,,0,0,0,,That’s just for a little change of mood.
+Dialogue: 0,0:02:25.90,0:02:27.40,Dialogue,,0,0,0,,That was my middle school.
+Dialogue: 0,0:02:28.05,0:02:29.67,Dialogue,,0,0,0,,Let’s go see.
+Dialogue: 0,0:02:30.24,0:02:31.20,Dialogue,,0,0,0,,Okay.
+Dialogue: 0,0:02:33.81,0:02:35.42,Dialogue,,0,0,0,,You used to wear those too?
+Dialogue: 0,0:02:35.79,0:02:37.09,Dialogue,,0,0,0,,Yeah.
+Dialogue: 0,0:02:37.10,0:02:39.51,Dialogue,,0,0,0,,Looks like middle schoolers from the country.
+Dialogue: 0,0:02:39.51,0:02:40.93,Dialogue,,0,0,0,,Jeez.
+Dialogue: 0,0:02:57.44,0:02:58.27,Dialogue,,0,0,0,,Hello.
+Dialogue: 0,0:02:58.92,0:03:00.20,Dialogue,,0,0,0,,Hello.
+Dialogue: 0,0:03:01.09,0:03:03.07,Dialogue,,0,0,0,,He owns a tea shop in the neighborhood.
+Dialogue: 0,0:03:03.07,0:03:04.11,Dialogue,,0,0,0,,I see.
+Dialogue: 0,0:03:08.44,0:03:10.42,Dialogue,,0,0,0,,It sure is cold today.
+Dialogue: 0,0:03:10.42,0:03:14.14,Dialogue,,0,0,0,,You’re right. It looks like it might snow.
+Dialogue: 0,0:03:16.92,0:03:18.10,Dialogue,,0,0,0,,My...
+Dialogue: 0,0:03:21.11,0:03:25.56,Dialogue,,0,0,0,,You must have left home very early to get here this early.
+Dialogue: 0,0:03:26.06,0:03:30.06,Dialogue,,0,0,0,,Sorry. We just suddenly decided to come.
+Dialogue: 0,0:03:30.06,0:03:31.80,Dialogue,,0,0,0,,That’s right
+Dialogue: 0,0:03:31.80,0:03:35.65,Dialogue,,0,0,0,,I slept over at Onii-chan’s house last night.
+Dialogue: 0,0:03:36.96,0:03:40.45,Dialogue,,0,0,0,,I see. You guys must get along very well.
+Dialogue: 0,0:03:40.45,0:03:44.40,Dialogue,,0,0,0,,Oh yeah. What’s that?
+Dialogue: 0,0:03:44.40,0:03:45.53,Dialogue,,0,0,0,,Oh, that?
+Dialogue: 0,0:03:46.01,0:03:48.90,Dialogue,,0,0,0,,That’s just for a little change of mood.
 Dialogue: 0,0:03:48.90,0:03:50.30,Dialogue,,0,0,0,,Oh.
-Dialogue: 0,0:03:53.20,0:03:55.00,Dialogue,,0,0,0,,Well, take your time.
-Dialogue: 0,0:03:56.10,0:03:57.30,Dialogue,,0,0,0,,Yeah.
-Dialogue: 0,0:03:57.60,0:04:01.20,Dialogue,,0,0,0,,Yes? Welcome. The usual?
-Dialogue: 0,0:04:01.20,0:04:06.90,Dialogue,,0,0,0,,Yes, please. Oh yes, the shampoo you gave me last week, it’s so good...
-Dialogue: 0,0:04:56.20,0:04:57.80,Dialogue,,0,0,0,,Koshiro?
-Dialogue: 0,0:04:58.40,0:04:59.90,Dialogue,,0,0,0,,Yeah?
-Dialogue: 0,0:05:01.10,0:05:02.40,Dialogue,,0,0,0,,Do be careful.
-Dialogue: 0,0:05:02.40,0:05:06.30,Dialogue,,0,0,0,,I’m not a pro, so I’m not sure if I can fix it.
-Dialogue: 0,0:05:06.30,0:05:09.30,Dialogue,,0,0,0,,I think it’s because a tile is cracked.
+Dialogue: 0,0:03:53.21,0:03:55.04,Dialogue,,0,0,0,,Well, take your time.
+Dialogue: 0,0:03:56.13,0:03:57.46,Dialogue,,0,0,0,,Yeah.
+Dialogue: 0,0:03:57.46,0:04:00.91,Dialogue,,0,0,0,,Yes? Welcome. The usual?
+Dialogue: 0,0:04:00.92,0:04:07.10,Dialogue,,0,0,0,,Yes, please. Oh yes, the shampoo you gave me last week, it’s so good...
+Dialogue: 0,0:04:56.08,0:04:57.80,Dialogue,,0,0,0,,Koshiro?
+Dialogue: 0,0:04:58.42,0:04:59.98,Dialogue,,0,0,0,,Yeah?
+Dialogue: 0,0:05:00.86,0:05:02.49,Dialogue,,0,0,0,,Do be careful.
+Dialogue: 0,0:05:02.99,0:05:06.36,Dialogue,,0,0,0,,I’m not a pro, so I’m not sure if I can fix it.
+Dialogue: 0,0:05:06.36,0:05:09.30,Dialogue,,0,0,0,,I think it’s because a tile is cracked.
 Dialogue: 0,0:05:09.30,0:05:11.00,Dialogue,,0,0,0,,Could you at least try?
-Dialogue: 0,0:05:11.00,0:05:13.70,Dialogue,,0,0,0,,The leak is terrible.
-Dialogue: 0,0:05:14.20,0:05:16.10,Dialogue,,0,0,0,,I guess it can’t be helped.
-Dialogue: 0,0:05:36.20,0:05:39.50,Dialogue,,0,0,0,,Man, it’s freezing.
-Dialogue: 0,0:05:39.50,0:05:41.20,Dialogue,,0,0,0,,Is it fixed?
-Dialogue: 0,0:05:41.80,0:05:45.40,Dialogue,,0,0,0,,Probably... Actually, I don’t know.
-Dialogue: 0,0:05:58.50,0:06:00.50,Dialogue,,0,0,0,,Eh, what? Which one?
-Dialogue: 0,0:06:00.60,0:06:02.60,Dialogue,,0,0,0,,That’s because the kid next door...
-Dialogue: 0,0:06:02.60,0:06:05.40,Dialogue,,0,0,0,,Even so, this is so bad.
-Dialogue: 0,0:06:05.80,0:06:08.10,Dialogue,,0,0,0,,Ah! Don’t look!
-Dialogue: 0,0:06:08.10,0:06:10.70,Dialogue,,0,0,0,,You really do look like a middle schooler from the country.
-Dialogue: 0,0:06:10.70,0:06:13.80,Dialogue,,0,0,0,,Just because there aren’t many photos of you, Onii-chan. It’s not fair!
-Dialogue: 0,0:06:15.10,0:06:16.40,Dialogue,,0,0,0,,Jeez...
-Dialogue: 0,0:06:21.20,0:06:24.40,Dialogue,,0,0,0,,Oh, yeah. I found these too.
-Dialogue: 0,0:06:26.80,0:06:30.60,Dialogue,,0,0,0,,Your collection of compositions from elementary school.
-Dialogue: 0,0:06:30.60,0:06:34.00,Dialogue,,0,0,0,,Ah, mom, not that.
+Dialogue: 0,0:05:11.00,0:05:14.00,Dialogue,,0,0,0,,The leak is terrible.
+Dialogue: 0,0:05:14.00,0:05:16.17,Dialogue,,0,0,0,,I guess it can’t be helped.
+Dialogue: 0,0:05:36.35,0:05:39.56,Dialogue,,0,0,0,,Man, it’s freezing.
+Dialogue: 0,0:05:39.56,0:05:41.20,Dialogue,,0,0,0,,Is it fixed?
+Dialogue: 0,0:05:41.60,0:05:45.50,Dialogue,,0,0,0,,Probably... Actually, I don’t know.
+Dialogue: 0,0:05:58.51,0:06:00.67,Dialogue,,0,0,0,,Eh, what? Which one?
+Dialogue: 0,0:06:00.67,0:06:02.44,Dialogue,,0,0,0,,That’s because the kid next door...
+Dialogue: 0,0:06:02.42,0:06:05.41,Dialogue,,0,0,0,,Even so, this is so bad.
+Dialogue: 0,0:06:05.67,0:06:08.10,Dialogue,,0,0,0,,Ah! Don’t look!
+Dialogue: 0,0:06:08.10,0:06:10.72,Dialogue,,0,0,0,,You really do look like a middle schooler from the country.
+Dialogue: 0,0:06:10.72,0:06:13.95,Dialogue,,0,0,0,,Just because there aren’t many photos of you, Onii-chan. It’s not fair!
+Dialogue: 0,0:06:15.16,0:06:16.43,Dialogue,,0,0,0,,Jeez...
+Dialogue: 0,0:06:21.19,0:06:24.40,Dialogue,,0,0,0,,Oh, yeah. I found these too.
+Dialogue: 0,0:06:26.74,0:06:30.99,Dialogue,,0,0,0,,Your collection of compositions from elementary school.
+Dialogue: 0,0:06:30.99,0:06:34.00,Dialogue,,0,0,0,,Ah, mom, not that.
 Dialogue: 0,0:06:34.00,0:06:37.10,Dialogue,,0,0,0,,“My dream is to become a beautician.”
-Dialogue: 0,0:06:37.10,0:06:37.90,Dialogue,,0,0,0,,Jeez...
-Dialogue: 0,0:06:37.90,0:06:42.40,Dialogue,,0,0,0,,“That is because my mother is a beautician, so I want to take after her.”
-Dialogue: 0,0:06:43.70,0:06:47.30,Dialogue,,0,0,0,,“I will also get married. I want lots of children.”
+Dialogue: 0,0:06:37.10,0:06:37.96,Dialogue,,0,0,0,,Jeez...
+Dialogue: 0,0:06:37.96,0:06:42.17,Dialogue,,0,0,0,,“That is because my mother is a beautician, so I want to take after her.”
+Dialogue: 0,0:06:43.67,0:06:47.30,Dialogue,,0,0,0,,“I will also get married. I want lots of children.”
 Dialogue: 0,0:06:47.30,0:06:52.40,Dialogue,,0,0,0,,“I will call my mother, father and brother and we’ll all live together.”
-Dialogue: 0,0:06:52.40,0:06:55.20,Dialogue,,0,0,0,,“Then I think it will be a lot of fun.”
-Dialogue: 0,0:06:55.60,0:06:56.80,Dialogue,,0,0,0,,So she said.
-Dialogue: 0,0:06:56.80,0:06:59.50,Dialogue,,0,0,0,,It does seem like a lot of fun, though.
-Dialogue: 0,0:07:01.30,0:07:04.40,Dialogue,,0,0,0,,Your husband is going to have a tough time.
-Dialogue: 0,0:07:19.40,0:07:20.20,Dialogue,,0,0,0,,Umm...
-Dialogue: 0,0:07:22.40,0:07:26.00,Dialogue,,0,0,0,,Sorry for dropping in all of a sudden.
-Dialogue: 0,0:07:26.00,0:07:28.00,Dialogue,,0,0,0,,Umm... I’m sorry.
-Dialogue: 0,0:07:34.80,0:07:36.70,Dialogue,,0,0,0,,What are you saying?
-Dialogue: 0,0:07:36.70,0:07:39.40,Dialogue,,0,0,0,,You actually helped me out a lot.
-Dialogue: 0,0:07:39.79,0:07:42.50,Dialogue,,0,0,0,,At this rate, I would like you to come everyday.
-Dialogue: 0,0:07:43.50,0:07:44.50,Dialogue,,0,0,0,,Bye then...
-Dialogue: 0,0:07:44.90,0:07:46.30,Dialogue,,0,0,0,,Good night.
-Dialogue: 0,0:07:48.00,0:07:49.30,Dialogue,,0,0,0,,Be careful on your way back.
-Dialogue: 0,0:09:16.20,0:09:18.00,Dialogue,,0,0,0,,Should we commit lover’s suicide?
-Dialogue: 0,0:09:28.50,0:09:30.80,Dialogue,,0,0,0,,I don’t mind either way.
-Dialogue: 0,0:09:32.80,0:09:36.20,Dialogue,,0,0,0,,If you’re okay with it, then I don’t care which.
-Dialogue: 0,0:09:39.20,0:09:40.80,Dialogue,,0,0,0,,Don’t say things like that.
-Dialogue: 0,0:09:44.10,0:09:49.10,Dialogue,,0,0,0,,I can’t decide which...
-Dialogue: 0,0:09:51.70,0:10:00.30,Dialogue,,0,0,0,,I don’t know... what to do... so easily...
-Dialogue: 0,0:10:05.00,0:10:06.20,Dialogue,,0,0,0,,Let’s go home.
-Dialogue: 0,0:10:09.00,0:10:11.70,Dialogue,,0,0,0,,If you’re not sure, then let’s just go home for now.
-Dialogue: 0,0:10:12.80,0:10:17.70,Dialogue,,0,0,0,,I think it’s fine to go home and then think it over.
-Dialogue: 0,0:10:20.20,0:10:22.70,Dialogue,,0,0,0,,Are you okay with that?
-Dialogue: 0,0:10:24.80,0:10:25.90,Dialogue,,0,0,0,,I’m fine.
-Dialogue: 0,0:10:28.11,0:10:32.90,Dialogue,,0,0,0,,That’s why I said that I’m fine as long as I’m with you, Onii-chan.
-Dialogue: 0,0:10:55.58,0:11:02.08,Dialogue - Italic,,0,0,0,,And in the end, we’re still alive.
-Dialogue: 0,0:11:12.08,0:11:14.48,Dialogue - Italic,,0,0,0,,Unable to find the answer to...
-Dialogue: 0,0:11:17.48,0:11:20.18,Dialogue - Italic,,0,0,0,,What the right thing to do is...
-Dialogue: 0,0:11:29.68,0:11:30.08,Dialogue,,0,0,0,,Yo!
-Dialogue: 0,0:11:30.58,0:11:32.08,Dialogue,,0,0,0,,Hey.
-Dialogue: 0,0:11:32.08,0:11:34.48,Dialogue,,0,0,0,,You really did quit?
-Dialogue: 0,0:11:34.48,0:11:35.68,Dialogue,,0,0,0,,Yeah.
-Dialogue: 0,0:11:35.68,0:11:37.38,Dialogue,,0,0,0,,I really did quit.
-Dialogue: 0,0:11:37.38,0:11:39.38,Dialogue,,0,0,0,,What are you going to do from now on?
-Dialogue: 0,0:11:39.48,0:11:41.08,Dialogue,,0,0,0,,I haven’t decided yet.
-Dialogue: 0,0:11:42.08,0:11:45.58,Dialogue,,0,0,0,,You sure do have absolutely no direction in your life.
-Dialogue: 0,0:11:48.18,0:11:52.08,Dialogue,,0,0,0,,If you’re not able to do anything anymore, then you should just come back.
-Dialogue: 0,0:11:52.08,0:11:55.08,Dialogue,,0,0,0,,If I’m not able to do anything?
-Dialogue: 0,0:11:55.08,0:11:57.08,Dialogue,,0,0,0,,Do you really think it’ll solve itself?
-Dialogue: 0,0:12:00.88,0:12:04.48,Dialogue,,0,0,0,,Sorry. I said that I wouldn’t say anything anymore, didn’t I?
-Dialogue: 0,0:12:06.78,0:12:10.08,Dialogue,,0,0,0,,Whatever happens... I can’t wish you good luck, but...
-Dialogue: 0,0:12:10.98,0:12:12.08,Dialogue,,0,0,0,,Stay well.
-Dialogue: 0,0:12:14.18,0:12:15.78,Dialogue,,0,0,0,,Bye, now.
-Dialogue: 0,0:12:36.98,0:12:38.48,Dialogue,,0,0,0,,Let’s go home, Nanoka!
-Dialogue: 0,0:12:38.98,0:12:40.98,Dialogue,,0,0,0,,Do you want to do some karaoke on the way?
-Dialogue: 0,0:12:40.98,0:12:44.88,Dialogue,,0,0,0,,Sorry, but there’s somewhere I have to go.
-Dialogue: 0,0:12:45.58,0:12:46.78,Dialogue,,0,0,0,,Next time.
-Dialogue: 0,0:12:48.08,0:12:51.48,Dialogue,,0,0,0,,She doesn’t hang out with us much anymore.
-Dialogue: 0,0:12:52.18,0:12:53.68,Dialogue,,0,0,0,,Yeah.
-Dialogue: 0,0:12:54.08,0:12:55.48,Dialogue,,0,0,0,,I bet it’s a boyfriend.
-Dialogue: 0,0:12:56.08,0:12:57.38,Dialogue,,0,0,0,,I wonder.
-Dialogue: 0,0:12:57.38,0:12:59.88,Dialogue,,0,0,0,,Probably, most likely.
-Dialogue: 0,0:13:00.58,0:13:01.38,Dialogue,,0,0,0,,Yeah.
-Dialogue: 0,0:13:02.18,0:13:03.88,Dialogue,,0,0,0,,Do you want to follow her?
-Dialogue: 0,0:13:05.08,0:13:06.58,Dialogue,,0,0,0,,Let’s follow her!
-Dialogue: 0,0:13:06.58,0:13:07.88,Dialogue,,0,0,0,,I want to see what kind of guy he is!
-Dialogue: 0,0:13:07.88,0:13:09.88,Dialogue,,0,0,0,,Nanoka’s boyfriend!
-Dialogue: 0,0:13:10.48,0:13:11.58,Dialogue,,0,0,0,,But...
-Dialogue: 0,0:13:12.78,0:13:15.58,Dialogue,,0,0,0,,You guys peeped at my date!
-Dialogue: 0,0:13:15.58,0:13:16.68,Dialogue,,0,0,0,,Let’s go!
-Dialogue: 0,0:13:20.88,0:13:22.18,Dialogue,,0,0,0,,What’s wrong?
-Dialogue: 0,0:13:23.08,0:13:24.48,Dialogue,,0,0,0,,Let’s not.
-Dialogue: 0,0:13:27.28,0:13:30.08,Dialogue,,0,0,0,,I’m kind of scared.
-Dialogue: 0,0:14:03.68,0:14:04.78,Dialogue,,0,0,0,,I’m sorry...
-Dialogue: 0,0:14:08.98,0:14:09.98,Dialogue,,0,0,0,,I’m sorry.
-Dialogue: 0,0:14:32.28,0:14:35.48,Dialogue - Italic,,0,0,0,,The one thing I do know is...
-Dialogue: 0,0:14:44.98,0:14:45.68,Dialogue,,0,0,0,,I’m home.
-Dialogue: 0,0:14:45.68,0:14:47.68,Dialogue,,0,0,0,,Welcome home.
-Dialogue: 0,0:14:49.28,0:14:50.38,Dialogue,,0,0,0,,I’m home.
-Dialogue: 0,0:14:53.68,0:14:54.68,Dialogue,,0,0,0,,Let’s eat.
-Dialogue: 0,0:14:54.68,0:14:55.98,Dialogue - Italic,,0,0,0,,This moment...
-Dialogue: 0,0:14:55.98,0:14:57.18,Dialogue,,0,0,0,,Itadakimasu.
-Dialogue: 0,0:15:01.28,0:15:03.18,Dialogue - Italic,,0,0,0,,...is something that I don’t want to let go of.
-Dialogue: 0,0:15:07.28,0:15:08.88,Dialogue,,0,0,0,,Do you have everything?
-Dialogue: 0,0:15:08.88,0:15:10.58,Dialogue,,0,0,0,,Yeah, I’m fine.
-Dialogue: 0,0:15:29.08,0:15:33.68,Dialogue,,0,0,0,,Suburban shopping malls are the trend of life.
-Dialogue: 0,0:15:34.28,0:15:39.18,Dialogue,,0,0,0,,But if this place is gone, then I think that many people will be sad.
-Dialogue: 0,0:15:39.18,0:15:44.18,Dialogue,,0,0,0,,Actually, there are more people in favor than in opposition.
-Dialogue: 0,0:15:44.38,0:15:47.04,Dialogue,,0,0,0,,There isn’t that kind of an institution around here, so...
-Dialogue: 0,0:15:47.12,0:15:50.17,Dialogue,,0,0,0,,I think many of the residents felt that it was inconvenient.
-Dialogue: 0,0:15:50.26,0:15:52.39,Dialogue,,0,0,0,,Ah, is that so?
-Dialogue: 0,0:15:53.98,0:15:57.58,Dialogue,,0,0,0,,I feel that destroying the row of trees would be wasteful.
-Dialogue: 0,0:15:58.58,0:16:04.08,Dialogue,,0,0,0,,But I guess you can’t do business with just sentiment.
-Dialogue: 0,0:16:55.58,0:17:00.78,Dialogue,,0,0,0,,Sorry, but you...
-Dialogue: 0,0:17:05.98,0:17:06.97,Dialogue,,0,0,0,,Why, you!
+Dialogue: 0,0:06:52.40,0:06:55.08,Dialogue,,0,0,0,,“Then I think it will be a lot of fun.”
+Dialogue: 0,0:06:55.62,0:06:56.85,Dialogue,,0,0,0,,So she said.
+Dialogue: 0,0:06:57.27,0:06:59.56,Dialogue,,0,0,0,,It does seem like a lot of fun, though.
+Dialogue: 0,0:07:01.27,0:07:04.40,Dialogue,,0,0,0,,Your husband is going to have a tough time.
+Dialogue: 0,0:07:19.37,0:07:20.41,Dialogue,,0,0,0,,Umm...
+Dialogue: 0,0:07:22.31,0:07:26.00,Dialogue,,0,0,0,,Sorry for dropping in all of a sudden.
+Dialogue: 0,0:07:26.00,0:07:28.13,Dialogue,,0,0,0,,Umm... I’m sorry.
+Dialogue: 0,0:07:34.93,0:07:36.81,Dialogue,,0,0,0,,What are you saying?
+Dialogue: 0,0:07:36.80,0:07:39.43,Dialogue,,0,0,0,,You actually helped me out a lot.
+Dialogue: 0,0:07:39.74,0:07:42.60,Dialogue,,0,0,0,,At this rate, I would like you to come everyday.
+Dialogue: 0,0:07:43.55,0:07:44.81,Dialogue,,0,0,0,,Bye then...
+Dialogue: 0,0:07:44.81,0:07:46.30,Dialogue,,0,0,0,,Good night.
+Dialogue: 0,0:07:47.86,0:07:49.30,Dialogue,,0,0,0,,Be careful on your way back.
+Dialogue: 0,0:09:16.05,0:09:18.31,Dialogue,,0,0,0,,Should we commit lover’s suicide?
+Dialogue: 0,0:09:28.45,0:09:30.80,Dialogue,,0,0,0,,I don’t mind either way.
+Dialogue: 0,0:09:32.75,0:09:36.20,Dialogue,,0,0,0,,If you’re okay with it, then I don’t care which.
+Dialogue: 0,0:09:39.16,0:09:41.00,Dialogue,,0,0,0,,Don’t say things like that.
+Dialogue: 0,0:09:44.01,0:09:49.00,Dialogue,,0,0,0,,I can’t decide which...
+Dialogue: 0,0:09:51.68,0:10:00.30,Dialogue,,0,0,0,,I don’t know... what to do... so easily...
+Dialogue: 0,0:10:05.02,0:10:06.31,Dialogue,,0,0,0,,Let’s go home.
+Dialogue: 0,0:10:08.92,0:10:12.17,Dialogue,,0,0,0,,If you’re not sure, then let’s just go home for now.
+Dialogue: 0,0:10:12.70,0:10:17.81,Dialogue,,0,0,0,,I think it’s fine to go home and then think it over.
+Dialogue: 0,0:10:20.18,0:10:22.70,Dialogue,,0,0,0,,Are you okay with that?
+Dialogue: 0,0:10:24.65,0:10:25.90,Dialogue,,0,0,0,,I’m fine.
+Dialogue: 0,0:10:27.96,0:10:33.20,Dialogue,,0,0,0,,That’s why I said that I’m fine as long as I’m with you, Onii-chan.
+Dialogue: 0,0:10:55.43,0:11:02.18,Dialogue - Italic,,0,0,0,,And in the end, we’re still alive.
+Dialogue: 0,0:11:12.16,0:11:14.52,Dialogue - Italic,,0,0,0,,Unable to find the answer to...
+Dialogue: 0,0:11:17.81,0:11:20.18,Dialogue - Italic,,0,0,0,,What the right thing to do is...
+Dialogue: 0,0:11:29.53,0:11:30.21,Dialogue,,0,0,0,,Yo!
+Dialogue: 0,0:11:30.54,0:11:31.51,Dialogue,,0,0,0,,Hey.
+Dialogue: 0,0:11:32.47,0:11:34.34,Dialogue,,0,0,0,,You really did quit?
+Dialogue: 0,0:11:34.34,0:11:35.68,Dialogue,,0,0,0,,Yeah.
+Dialogue: 0,0:11:35.68,0:11:37.34,Dialogue,,0,0,0,,I really did quit.
+Dialogue: 0,0:11:37.34,0:11:39.42,Dialogue,,0,0,0,,What are you going to do from now on?
+Dialogue: 0,0:11:39.42,0:11:41.08,Dialogue,,0,0,0,,I haven’t decided yet.
+Dialogue: 0,0:11:42.18,0:11:45.58,Dialogue,,0,0,0,,You sure do have absolutely no direction in your life.
+Dialogue: 0,0:11:47.97,0:11:52.08,Dialogue,,0,0,0,,If you’re not able to do anything anymore, then you should just come back.
+Dialogue: 0,0:11:52.08,0:11:54.81,Dialogue,,0,0,0,,If I’m not able to do anything?
+Dialogue: 0,0:11:54.81,0:11:57.39,Dialogue,,0,0,0,,Do you really think it’ll solve itself?
+Dialogue: 0,0:12:00.78,0:12:04.37,Dialogue,,0,0,0,,Sorry. I said that I wouldn’t say anything anymore, didn’t I?
+Dialogue: 0,0:12:06.63,0:12:10.83,Dialogue,,0,0,0,,Whatever happens... I can’t wish you good luck, but...
+Dialogue: 0,0:12:10.83,0:12:12.20,Dialogue,,0,0,0,,Stay well.
+Dialogue: 0,0:12:14.46,0:12:15.90,Dialogue,,0,0,0,,Bye, now.
+Dialogue: 0,0:12:36.83,0:12:38.86,Dialogue,,0,0,0,,Let’s go home, Nanoka!
+Dialogue: 0,0:12:38.86,0:12:40.90,Dialogue,,0,0,0,,Do you want to do some karaoke on the way?
+Dialogue: 0,0:12:40.90,0:12:44.60,Dialogue,,0,0,0,,Sorry, but there’s somewhere I have to go.
+Dialogue: 0,0:12:45.50,0:12:46.99,Dialogue,,0,0,0,,Next time.
+Dialogue: 0,0:12:48.40,0:12:51.48,Dialogue,,0,0,0,,She doesn’t hang out with us much anymore.
+Dialogue: 0,0:12:52.37,0:12:53.75,Dialogue,,0,0,0,,Yeah.
+Dialogue: 0,0:12:53.75,0:12:55.87,Dialogue,,0,0,0,,I bet it’s a boyfriend.
+Dialogue: 0,0:12:55.87,0:12:57.25,Dialogue,,0,0,0,,I wonder.
+Dialogue: 0,0:12:57.25,0:12:59.88,Dialogue,,0,0,0,,Probably, most likely.
+Dialogue: 0,0:13:00.25,0:13:01.26,Dialogue,,0,0,0,,Yeah.
+Dialogue: 0,0:13:02.22,0:13:03.97,Dialogue,,0,0,0,,Do you want to follow her?
+Dialogue: 0,0:13:04.96,0:13:06.46,Dialogue,,0,0,0,,Let’s follow her!
+Dialogue: 0,0:13:06.47,0:13:07.76,Dialogue,,0,0,0,,I want to see what kind of guy he is!
+Dialogue: 0,0:13:07.76,0:13:09.88,Dialogue,,0,0,0,,Nanoka’s boyfriend!
+Dialogue: 0,0:13:10.60,0:13:11.58,Dialogue,,0,0,0,,But...
+Dialogue: 0,0:13:12.60,0:13:15.58,Dialogue,,0,0,0,,You guys peeped at my date!
+Dialogue: 0,0:13:15.58,0:13:16.60,Dialogue,,0,0,0,,Let’s go!
+Dialogue: 0,0:13:20.77,0:13:22.18,Dialogue,,0,0,0,,What’s wrong?
+Dialogue: 0,0:13:22.93,0:13:24.40,Dialogue,,0,0,0,,Let’s not.
+Dialogue: 0,0:13:27.16,0:13:30.33,Dialogue,,0,0,0,,I’m kind of scared.
+Dialogue: 0,0:14:03.44,0:14:04.82,Dialogue,,0,0,0,,I’m sorry...
+Dialogue: 0,0:14:08.92,0:14:10.10,Dialogue,,0,0,0,,I’m sorry.
+Dialogue: 0,0:14:31.95,0:14:35.48,Dialogue - Italic,,0,0,0,,The one thing I do know is...
+Dialogue: 0,0:14:44.83,0:14:45.61,Dialogue,,0,0,0,,I’m home.
+Dialogue: 0,0:14:45.61,0:14:47.65,Dialogue,,0,0,0,,Welcome home.
+Dialogue: 0,0:14:49.13,0:14:50.32,Dialogue,,0,0,0,,I’m home.
+Dialogue: 0,0:14:53.53,0:14:54.38,Dialogue,,0,0,0,,Let’s eat.
+Dialogue: 0,0:14:54.37,0:14:55.58,Dialogue - Italic,,0,0,0,,This moment...
+Dialogue: 0,0:14:55.58,0:14:57.08,Dialogue,,0,0,0,,Thanks for the meal.
+Dialogue: 0,0:15:01.04,0:15:03.90,Dialogue - Italic,,0,0,0,,...is something that I don’t want to let go of.
+Dialogue: 0,0:15:07.13,0:15:08.88,Dialogue,,0,0,0,,Do you have everything?
+Dialogue: 0,0:15:08.88,0:15:10.45,Dialogue,,0,0,0,,Yeah, I’m fine.
+Dialogue: 0,0:15:28.93,0:15:34.12,Dialogue,,0,0,0,,Suburban shopping malls are the trend of life.
+Dialogue: 0,0:15:34.13,0:15:39.12,Dialogue,,0,0,0,,But if this place is gone, then I think that many people will be sad.
+Dialogue: 0,0:15:39.12,0:15:44.13,Dialogue,,0,0,0,,Actually, there are more people in favor than in opposition.
+Dialogue: 0,0:15:44.13,0:15:47.04,Dialogue,,0,0,0,,There isn’t that kind of an institution around here, so...
+Dialogue: 0,0:15:47.04,0:15:50.17,Dialogue,,0,0,0,,I think many of the residents felt that it was inconvenient.
+Dialogue: 0,0:15:50.17,0:15:52.39,Dialogue,,0,0,0,,Ah, is that so?
+Dialogue: 0,0:15:53.83,0:15:57.69,Dialogue,,0,0,0,,I feel that destroying the row of trees would be wasteful.
+Dialogue: 0,0:15:58.43,0:16:04.08,Dialogue,,0,0,0,,But I guess you can’t do business with just sentiment.
+Dialogue: 0,0:16:55.53,0:17:00.04,Dialogue,,0,0,0,,Sorry, but you...
+Dialogue: 0,0:17:05.83,0:17:06.97,Dialogue,,0,0,0,,Why, you!
 Dialogue: 0,0:17:06.96,0:17:07.62,Dialogue,,0,0,0,,No!
-Dialogue: 0,0:17:10.08,0:17:11.38,Dialogue,,0,0,0,,Come here, you...
-Dialogue: 0,0:17:10.59,0:17:11.14,Dialogue,,0,0,0,,Stop it.
-Dialogue: 0,0:17:14.71,0:17:15.75,Dialogue,,0,0,0,,You little!
-Dialogue: 0,0:17:50.98,0:17:52.88,Dialogue,,0,0,0,,I’ll go clean myself.
-Dialogue: 0,0:17:53.48,0:17:54.09,Dialogue,,0,0,0,,Yeah.
-Dialogue: 0,0:18:04.20,0:18:04.83,Dialogue,,0,0,0,,Here!
-Dialogue: 0,0:18:05.11,0:18:06.01,Dialogue,,0,0,0,,For me?
-Dialogue: 0,0:18:27.95,0:18:28.73,Dialogue,,0,0,0,,Thank you.
-Dialogue: 0,0:18:32.13,0:18:33.21,Dialogue,,0,0,0,,What are you doing?
-Dialogue: 0,0:18:34.00,0:18:35.25,Dialogue,,0,0,0,,Come here.
-Dialogue: 0,0:18:53.88,0:18:54.88,Dialogue,,0,0,0,,Hey...
-Dialogue: 0,0:19:19.38,0:19:21.38,Dialogue,,0,0,0,,Hurry, Onii-chan!
-Dialogue: 0,0:19:23.98,0:19:25.08,Dialogue,,0,0,0,,Amusement parks are...
-Dialogue: 0,0:19:25.08,0:19:26.38,Dialogue,,0,0,0,,Hmm?
-Dialogue: 0,0:19:27.18,0:19:29.58,Dialogue,,0,0,0,,...fun even if they aren’t moving.
-Dialogue: 0,0:19:30.21,0:19:31.91,Dialogue,,0,0,0,,Is that so?
-Dialogue: 0,0:19:37.78,0:19:39.18,Dialogue,,0,0,0,,Wow!
-Dialogue: 0,0:19:50.80,0:19:51.88,Dialogue,,0,0,0,,How disappointing...
-Dialogue: 0,0:19:54.09,0:19:55.21,Dialogue,,0,0,0,,That it doesn’t move.
-Dialogue: 0,0:19:55.99,0:19:58.92,Dialogue,,0,0,0,,I thought you said that it was fun even if it wasn’t moving?
-Dialogue: 0,0:19:59.30,0:20:01.30,Dialogue,,0,0,0,,The ferris wheel is different.
-Dialogue: 0,0:20:02.54,0:20:04.05,Dialogue,,0,0,0,,You sure are hard to please.
-Dialogue: 0,0:20:04.68,0:20:06.68,Dialogue,,0,0,0,,But... it’s better if it moves.
-Dialogue: 0,0:20:09.18,0:20:11.58,Dialogue,,0,0,0,,I bet it would be beautiful.
-Dialogue: 0,0:20:11.58,0:20:12.88,Dialogue,,0,0,0,,The town.
-Dialogue: 0,0:20:13.88,0:20:14.98,Dialogue,,0,0,0,,Yeah.
-Dialogue: 0,0:20:20.90,0:20:22.29,Dialogue,,0,0,0,,I wonder if we can’t move it.
-Dialogue: 0,0:20:24.29,0:20:27.52,Dialogue,,0,0,0,,I was wondering if we can move it somehow.
-Dialogue: 0,0:20:28.17,0:20:29.08,Dialogue,,0,0,0,,How?
-Dialogue: 0,0:20:29.42,0:20:31.02,Dialogue,,0,0,0,,By praying.
-Dialogue: 0,0:20:31.82,0:20:33.62,Dialogue,,0,0,0,,Ehh...
-Dialogue: 0,0:20:33.62,0:20:35.32,Dialogue,,0,0,0,,You don’t know unless you try.
-Dialogue: 0,0:20:35.72,0:20:36.85,Dialogue,,0,0,0,,But...
-Dialogue: 0,0:20:36.91,0:20:40.22,Dialogue,,0,0,0,,Come on, you try praying too.
-Dialogue: 0,0:20:47.88,0:20:49.55,Dialogue,,0,0,0,,It’s impossible!
-Dialogue: 0,0:20:49.67,0:20:52.12,Dialogue,,0,0,0,,Don’t give up so easily.
-Dialogue: 0,0:20:52.62,0:20:54.12,Dialogue,,0,0,0,,Come on, once more.
-Dialogue: 0,0:20:55.22,0:20:56.72,Dialogue,,0,0,0,,Ready...
-Dialogue: 0,0:21:19.73,0:21:20.69,Dialogue,,0,0,0,,We did it!
-Dialogue: 0,0:21:21.55,0:21:22.95,Dialogue,,0,0,0,,We did...
-Dialogue: 0,0:21:22.95,0:21:24.85,Dialogue,,0,0,0,,I can’t believe it!
+Dialogue: 0,0:17:09.26,0:17:10.46,Dialogue,,0,0,0,,Come here, you...
+Dialogue: 0,0:17:10.46,0:17:11.27,Dialogue,,0,0,0,,Stop it.
+Dialogue: 0,0:17:14.66,0:17:15.70,Dialogue,,0,0,0,,You little!
+Dialogue: 0,0:17:51.23,0:17:53.34,Dialogue,,0,0,0,,I’ll go clean myself.
+Dialogue: 0,0:17:53.33,0:17:54.20,Dialogue,,0,0,0,,Yeah.
+Dialogue: 0,0:18:04.05,0:18:04.85,Dialogue,,0,0,0,,Here!
+Dialogue: 0,0:18:04.85,0:18:06.44,Dialogue,,0,0,0,,For me?
+Dialogue: 0,0:18:27.80,0:18:28.67,Dialogue,,0,0,0,,Thank you.
+Dialogue: 0,0:18:32.04,0:18:33.67,Dialogue,,0,0,0,,What are you doing?
+Dialogue: 0,0:18:33.67,0:18:35.30,Dialogue,,0,0,0,,Come here.
+Dialogue: 0,0:18:53.73,0:18:54.98,Dialogue,,0,0,0,,Hey...
+Dialogue: 0,0:19:19.26,0:19:21.38,Dialogue,,0,0,0,,Hurry, Onii-chan!
+Dialogue: 0,0:19:23.83,0:19:25.01,Dialogue,,0,0,0,,Amusement parks are...
+Dialogue: 0,0:19:25.01,0:19:26.10,Dialogue,,0,0,0,,Hmm?
+Dialogue: 0,0:19:27.03,0:19:29.30,Dialogue,,0,0,0,,...fun even if they aren’t moving.
+Dialogue: 0,0:19:30.17,0:19:31.91,Dialogue,,0,0,0,,Is that so?
+Dialogue: 0,0:19:37.63,0:19:38.94,Dialogue,,0,0,0,,Wow!
+Dialogue: 0,0:19:50.65,0:19:52.20,Dialogue,,0,0,0,,How disappointing...
+Dialogue: 0,0:19:54.06,0:19:55.21,Dialogue,,0,0,0,,That it doesn’t move.
+Dialogue: 0,0:19:56.01,0:19:59.01,Dialogue,,0,0,0,,I thought you said that it was fun even if it wasn’t moving?
+Dialogue: 0,0:19:59.38,0:20:01.40,Dialogue,,0,0,0,,The ferris wheel is different.
+Dialogue: 0,0:20:02.34,0:20:04.05,Dialogue,,0,0,0,,You sure are hard to please.
+Dialogue: 0,0:20:04.64,0:20:06.60,Dialogue,,0,0,0,,But... it’s better if it moves.
+Dialogue: 0,0:20:09.60,0:20:11.60,Dialogue,,0,0,0,,I bet it would be beautiful.
+Dialogue: 0,0:20:11.60,0:20:12.85,Dialogue,,0,0,0,,The town.
+Dialogue: 0,0:20:13.65,0:20:14.81,Dialogue,,0,0,0,,Yeah.
+Dialogue: 0,0:20:20.79,0:20:22.50,Dialogue,,0,0,0,,I wonder if we can’t move it.
+Dialogue: 0,0:20:24.24,0:20:27.52,Dialogue,,0,0,0,,I was wondering if we can move it somehow.
+Dialogue: 0,0:20:28.10,0:20:29.37,Dialogue,,0,0,0,,How?
+Dialogue: 0,0:20:29.37,0:20:30.87,Dialogue,,0,0,0,,By praying.
+Dialogue: 0,0:20:31.51,0:20:33.58,Dialogue,,0,0,0,,Ehh...
+Dialogue: 0,0:20:33.58,0:20:35.54,Dialogue,,0,0,0,,You don’t know unless you try.
+Dialogue: 0,0:20:35.56,0:20:36.96,Dialogue,,0,0,0,,But...
+Dialogue: 0,0:20:36.96,0:20:40.22,Dialogue,,0,0,0,,Come on, you try praying too.
+Dialogue: 0,0:20:47.80,0:20:49.60,Dialogue,,0,0,0,,It’s impossible!
+Dialogue: 0,0:20:49.60,0:20:52.48,Dialogue,,0,0,0,,Don’t give up so easily.
+Dialogue: 0,0:20:52.48,0:20:54.12,Dialogue,,0,0,0,,Come on, once more.
+Dialogue: 0,0:20:55.05,0:20:56.69,Dialogue,,0,0,0,,Ready...
+Dialogue: 0,0:21:19.63,0:21:20.69,Dialogue,,0,0,0,,We did it!
+Dialogue: 0,0:21:21.40,0:21:22.84,Dialogue,,0,0,0,,We did...
+Dialogue: 0,0:21:22.84,0:21:24.85,Dialogue,,0,0,0,,I can’t believe it!
 Dialogue: 0,0:21:24.85,0:21:26.55,Dialogue,,0,0,0,,Once more, again!
 Dialogue: 0,0:21:26.55,0:21:28.55,Dialogue,,0,0,0,,Yeah...
-Dialogue: 0,0:21:29.65,0:21:32.75,Dialogue,,0,0,0,,Aren’t we doing something stupid?
-Dialogue: 0,0:21:32.75,0:21:34.55,Dialogue,,0,0,0,,You’re the one who started it!
-Dialogue: 0,0:21:34.55,0:21:36.00,Dialogue,,0,0,0,,Don’t say that!
-Dialogue: 0,0:21:36.37,0:21:38.90,Dialogue,,0,0,0,,Ready? One... two...
-Dialogue: 0,0:22:07.41,0:22:12.85,Dialogue,,0,0,0,,Really... what are we doing?
-Dialogue: 0,0:22:48.76,0:22:49.52,Dialogue,,0,0,0,,Here.
-Dialogue: 0,0:22:53.45,0:22:55.45,Dialogue,,0,0,0,,
-Dialogue: 0,0:23:01.76,0:23:02.85,Dialogue,,0,0,0,,Let’s come again!
-Dialogue: 0,0:23:03.19,0:23:04.02,Dialogue,,0,0,0,,Sure.
-Dialogue: 0,0:23:04.22,0:23:06.14,Dialogue,,0,0,0,,Every year, in the spring.
-Dialogue: 0,0:23:07.10,0:23:07.88,Dialogue,,0,0,0,,Yeah.
-Dialogue: 0,0:23:09.18,0:23:10.11,Dialogue,,0,0,0,,It’s a promise!
-Dialogue: 0,0:23:10.79,0:23:11.41,Dialogue,,0,0,0,,Yeah.
-Dialogue: 0,0:23:12.19,0:23:14.19,Dialogue,,0,0,0,,I’m going home then.
-Dialogue: 0,0:23:15.29,0:23:17.29,Dialogue,,0,0,0,,Do you want to take a bath at my place first?
-Dialogue: 0,0:23:17.89,0:23:19.69,Dialogue,,0,0,0,,I’m fine like this.
-Dialogue: 0,0:23:20.59,0:23:21.59,Dialogue,,0,0,0,,I see...
-Dialogue: 0,0:23:22.17,0:23:22.95,Dialogue,,0,0,0,,Bye!
-Dialogue: 0,0:23:23.75,0:23:24.29,Dialogue,,0,0,0,,Ah!
-Dialogue: 0,0:23:26.02,0:23:28.59,Dialogue,,0,0,0,,Ah, no... It’s nothing.
-Dialogue: 0,0:23:28.89,0:23:29.89,Dialogue,,0,0,0,,What?
-Dialogue: 0,0:23:30.49,0:23:32.09,Dialogue,,0,0,0,,It’s nothing.
-Dialogue: 0,0:23:32.89,0:23:33.99,Dialogue,,0,0,0,,Later.
-Dialogue: 0,0:23:48.63,0:23:49.99,Dialogue,,0,0,0,,I love you.
-Dialogue: 0,0:23:55.87,0:23:56.99,Dialogue,,0,0,0,,I love you!
+Dialogue: 0,0:21:29.39,0:21:32.60,Dialogue,,0,0,0,,Aren’t we doing something stupid?
+Dialogue: 0,0:21:32.60,0:21:34.43,Dialogue,,0,0,0,,You’re the one who started it!
+Dialogue: 0,0:21:34.43,0:21:36.23,Dialogue,,0,0,0,,Don’t say that!
+Dialogue: 0,0:21:36.22,0:21:38.86,Dialogue,,0,0,0,,Ready? One... two...
+Dialogue: 0,0:22:07.13,0:22:12.72,Dialogue,,0,0,0,,Really... what are we doing?
+Dialogue: 0,0:22:48.80,0:22:49.93,Dialogue,,0,0,0,,Here.
+Dialogue: 0,0:23:01.52,0:23:02.90,Dialogue,,0,0,0,,Let’s come again!
+Dialogue: 0,0:23:02.90,0:23:04.15,Dialogue,,0,0,0,,Sure.
+Dialogue: 0,0:23:04.15,0:23:06.40,Dialogue,,0,0,0,,Every year, in the spring.
+Dialogue: 0,0:23:06.99,0:23:08.15,Dialogue,,0,0,0,,Yeah.
+Dialogue: 0,0:23:08.95,0:23:10.41,Dialogue,,0,0,0,,It’s a promise!
+Dialogue: 0,0:23:10.74,0:23:11.66,Dialogue,,0,0,0,,Yeah.
+Dialogue: 0,0:23:12.26,0:23:13.78,Dialogue,,0,0,0,,I’m going home then.
+Dialogue: 0,0:23:15.34,0:23:17.91,Dialogue,,0,0,0,,Do you want to take a bath at my place first?
+Dialogue: 0,0:23:17.91,0:23:19.79,Dialogue,,0,0,0,,I’m fine like this.
+Dialogue: 0,0:23:20.50,0:23:21.79,Dialogue,,0,0,0,,I see...
+Dialogue: 0,0:23:21.79,0:23:23.59,Dialogue,,0,0,0,,Bye!
+Dialogue: 0,0:23:23.60,0:23:24.63,Dialogue,,0,0,0,,Ah!
+Dialogue: 0,0:23:25.84,0:23:28.63,Dialogue,,0,0,0,,Ah, no... It’s nothing.
+Dialogue: 0,0:23:28.63,0:23:30.01,Dialogue,,0,0,0,,What?
+Dialogue: 0,0:23:30.51,0:23:32.89,Dialogue,,0,0,0,,It’s nothing.
+Dialogue: 0,0:23:32.89,0:23:34.14,Dialogue,,0,0,0,,Later.
+Dialogue: 0,0:23:48.53,0:23:50.11,Dialogue,,0,0,0,,I love you.
+Dialogue: 0,0:23:55.72,0:23:57.24,Dialogue,,0,0,0,,I love you!
 Dialogue: 0,0:00:11.63,0:00:15.81,OP - Romaji,,0,0,0,fx,{\fad(300,200)\blur0.753}{\k39}ha{\k28}ji{\k31}me{\k30}te {\k31}no {\k95}ki{\k93}mo{\k51}chi
 Dialogue: 0,0:00:16.40,0:00:20.77,OP - Romaji,,0,0,0,fx,{\fad(300,200)\blur0.753}{\k42}sho{\k29}n{\k32}bo{\k32}ri {\k26}no {\k93}mu{\k98}ne {\k47}ni
 Dialogue: 0,0:00:20.77,0:00:29.87,OP - Romaji,,0,0,0,fx,{\fad(300,200)\blur0.753}{\k94}sot{\k85}to {\k71}na{\k94}ge{\k94}ra{\k62}re{\k154}ta {\k32}hi{\k33}da{\k32}ma{\k95}ri{\k49} ne
