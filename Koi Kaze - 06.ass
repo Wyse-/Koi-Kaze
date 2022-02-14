@@ -16,13 +16,14 @@ Video Aspect Ratio: c1.78151
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
+Audio File: ../../../../../media/wyse/Media III/[WSE] Koi Kaze [DVD x264 478p 10bit FLAC-AC3][Dual Audio]/[WSE] Koi Kaze - 06 [DVD x264 478p 10bit FLAC-AC3][Dual Audio][D3AB7C0A]_JPN_Audio01.flac
 Video File: ../../../../../media/wyse/Media III/[WSE] Koi Kaze [raws v2]/ep6.vpy.mkv
 Video AR Mode: 4
 Video AR Value: 1.779167
 Video Zoom Percent: 2.768750
-Scroll Position: 146
-Active Line: 190
-Video Position: 13328
+Scroll Position: 293
+Active Line: 324
+Video Position: 33750
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -357,10 +358,10 @@ Dialogue: 0,0:23:16.66,0:23:16.70,Next EP - Rotating Text,,0,0,0,,{\blur0.603\po
 Dialogue: 1,0:23:16.66,0:23:16.70,Next EP - Rotating Text,,0,0,0,,{\blur0.603\pos(430.588,487.029)\fs60.251\bord0\c&H00000000&\4a&HFF&}{\blur0.703\iclip(m 417.375 388.625 l 418.625 477 748.75 476 742.75 382.625 m 594.5 406.75 l 637.5 402.625 b 642.25 420.75 643.5 455.875 641.125 473 l 599.25 472)}CHIDORI'S JUDGEMENT
 Dialogue: 0,0:23:16.70,0:23:17.20,Next EP - Rotating Text,,0,0,0,,{\blur0.603\pos(430.588,487.029)\fs60.251\bord3.013\3c&HFFFEFE&\c&HFFFEFE&}{\blur0.703}CHIDORI'S JUDGEMENT
 Dialogue: 1,0:23:16.70,0:23:17.20,Next EP - Rotating Text,,0,0,0,,{\blur0.603\pos(430.588,487.029)\fs60.251\bord0\c&H00000000&\4a&HFF&}{\blur0.703}CHIDORI'S JUDGEMENT
-Dialogue: 0,0:23:17.54,0:23:18.63,Dialogue - Alt,,0,0,0,,I’m so sorry.
-Dialogue: 0,0:23:18.63,0:23:21.49,Dialogue - Alt,,0,0,0,,I couldn’t touch her because she was always with her big boyfriend.
-Dialogue: 0,0:23:21.49,0:23:24.42,Dialogue - Alt,,0,0,0,,She was alone today, so I tried to console her...
-Dialogue: 0,0:23:24.59,0:23:26.04,Dialogue - Alt,,0,0,0,,And I touched her!{something tells me he isn’t talking about his dakimakura =O}{but maybe he is!}
+Dialogue: 0,0:23:17.41,0:23:18.58,Dialogue - Alt,,0,0,0,,I’m so sorry.
+Dialogue: 0,0:23:18.58,0:23:21.46,Dialogue - Alt,,0,0,0,,I couldn’t touch her because she was always with her big boyfriend.
+Dialogue: 0,0:23:21.46,0:23:24.59,Dialogue - Alt,,0,0,0,,She was alone today, so I tried to console her...
+Dialogue: 0,0:23:24.59,0:23:26.00,Dialogue - Alt,,0,0,0,,And I touched her!{something tells me he isn’t talking about his dakimakura =O}{but maybe he is!}
 Dialogue: 0,0:23:18.16,0:23:21.51,Next EP - Scrolling Text,,0,0,0,,{\move(948.49,386.611,-70.569,386.611)\q2\blur0.703\c&HFBFDF8&}Next episode:
 Dialogue: 1,0:23:18.16,0:23:21.51,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(948.49,386.611,-70.569,386.611)\q2\blur0.703\4a&HFF&}Next episode:
 Dialogue: 0,0:23:18.16,0:23:21.51,Next EP - Scrolling Text,,0,0,0,,{\move(948.49,456.904,-70.569,456.904)\q2\blur0.703\c&HFBFDF8&}First Storm
@@ -369,7 +370,7 @@ Dialogue: 0,0:23:18.91,0:23:25.46,Next EP - Scrolling Text,,0,0,0,,{\move(1176.9
 Dialogue: 1,0:23:18.91,0:23:25.46,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(1176.941,386.611,-807.353,386.611)\q2\blur0.703\4a&HFF&}Nanoka gets a love letter. Koshiro is extremely worried...
 Dialogue: 0,0:23:19.44,0:23:26.13,Next EP - Scrolling Text,,0,0,0,,{\move(1444.863,456.904,-595.647,456.904)\q2\blur0.703\c&HFBFDF8&}but pretends he's not affected, and gives her some mature advice. Koshiro walks with heavy feet.
 Dialogue: 1,0:23:19.44,0:23:26.13,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(1444.863,456.904,-595.647,456.904)\q2\blur0.703\4a&HFF&}but pretends he's not affected, and gives her some mature advice. Koshiro walks with heavy feet.
-Dialogue: 0,0:23:26.04,0:23:27.75,Dialogue,,0,0,0,,Go to hell!
+Dialogue: 0,0:23:26.00,0:23:27.67,Dialogue,,0,0,0,,Go to hell!
 Dialogue: 0,0:00:11.63,0:00:15.81,OP - Romaji,,0,0,0,fx,{\fad(300,200)\blur0.753}{\k39}ha{\k28}ji{\k31}me{\k30}te {\k31}no {\k95}ki{\k93}mo{\k51}chi
 Dialogue: 0,0:00:16.40,0:00:20.77,OP - Romaji,,0,0,0,fx,{\fad(300,200)\blur0.753}{\k42}sho{\k29}n{\k32}bo{\k32}ri {\k26}no {\k93}mu{\k98}ne {\k47}ni
 Dialogue: 0,0:00:20.77,0:00:29.87,OP - Romaji,,0,0,0,fx,{\fad(300,200)\blur0.753}{\k94}sot{\k85}to {\k71}na{\k94}ge{\k94}ra{\k62}re{\k154}ta {\k32}hi{\k33}da{\k32}ma{\k95}ri{\k49} ne

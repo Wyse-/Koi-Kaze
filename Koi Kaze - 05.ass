@@ -17,13 +17,14 @@ Video Aspect Ratio: c1.78151
 
 [Aegisub Project Garbage]
 Last Style Storage: Koi Kaze
+Audio File: ../../../../../media/wyse/Media III/[WSE] Koi Kaze [DVD x264 478p 10bit FLAC-AC3][Dual Audio]/[WSE] Koi Kaze - 05 [DVD x264 478p 10bit FLAC-AC3][Dual Audio][EE27B255]_JPN_Audio01.flac
 Video File: ../../../../../media/wyse/Media III/[WSE] Koi Kaze [raws v2]/ep5.vpy.mkv
 Video AR Mode: 4
 Video AR Value: 1.779167
 Video Zoom Percent: 2.768750
-Scroll Position: 387
-Active Line: 431
-Video Position: 29277
+Scroll Position: 438
+Active Line: 463
+Video Position: 33726
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -502,12 +503,12 @@ Dialogue: 0,0:23:16.70,0:23:17.20,Next EP - Rotating Text,,0,0,0,,{\blur0.603\po
 Dialogue: 1,0:23:16.70,0:23:17.20,Next EP - Rotating Text,,0,0,0,,{\blur0.603\pos(430.588,487.029)\fs60.251\bord0\c&H00000000&\4a&HFF&}{\blur0.703}CHIDORI'S JUDGEMENT
 Dialogue: 1,0:23:26.88,0:23:28.51,Next EP - Verdict,,0,0,0,,{\pos(533.75,95.798)\bord1.004\blur0.502\bord0\c&H00000000&\4a&HFF&\fs70.293\iclip(425,15,646,85)\t(27,1178,\iclip(658,5,646,85))}Flog Him
 Dialogue: 0,0:23:26.88,0:23:28.51,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\c&HFFFFFF&\fs70.293\\iclip(304,3,551,50)\iclip(425,15,646,85)\t(27,1178,\iclip(658,15,646,85))\pos(536.171,100.135)}Flog Him
-Dialogue: 0,0:23:17.91,0:23:19.03,Dialogue - Alt,,0,0,0,,I’ll say it over and over again!
-Dialogue: 0,0:23:19.03,0:23:21.54,Dialogue - Alt,,0,0,0,,I innocently want to have a teenage sister.
-Dialogue: 0,0:23:21.54,0:23:22.62,Dialogue - Alt,,0,0,0,,Is that a crime?
+Dialogue: 0,0:23:17.79,0:23:18.92,Dialogue - Alt,,0,0,0,,I’ll say it over and over again!
+Dialogue: 0,0:23:18.91,0:23:21.44,Dialogue - Alt,,0,0,0,,I innocently want to have a teenage sister.
+Dialogue: 0,0:23:21.42,0:23:22.62,Dialogue - Alt,,0,0,0,,Is that a crime?
 Dialogue: 0,0:23:22.62,0:23:23.95,Dialogue - Alt,,0,0,0,,Is that something to be ashamed of?
-Dialogue: 0,0:23:23.95,0:23:26.71,Dialogue - Alt,,0,0,0,,Then, as we’re fighting over TV channels, we’ll start to fall in love...
-Dialogue: 0,0:23:27.01,0:23:28.30,Dialogue,,0,0,0,,Sentenced to a flogging!
+Dialogue: 0,0:23:23.95,0:23:26.63,Dialogue - Alt,,0,0,0,,Then, as we’re fighting over TV channels, we’ll start to fall in love...
+Dialogue: 0,0:23:26.63,0:23:28.51,Dialogue,,0,0,0,,Sentenced to a flogging!
 Dialogue: 0,0:23:18.16,0:23:21.48,Next EP - Scrolling Text,,0,0,0,,{\move(948.49,386.611,-72.961,386.611)\q2\blur0.703\c&HFBFDF8&}Next episode:
 Dialogue: 1,0:23:18.16,0:23:21.48,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(948.49,386.611,-72.961,386.611)\q2\blur0.703\4a&HFF&}Next episode:
 Dialogue: 0,0:23:18.08,0:23:21.58,Next EP - Scrolling Text,,0,0,0,,{\move(973.608,456.904,-101.667,456.904)\q2\blur0.703\c&HFBFDF8&}Autumn Melancholy

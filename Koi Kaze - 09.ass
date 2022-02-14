@@ -21,9 +21,9 @@ Video File: ../../../../../media/wyse/Media III/[WSE] Koi Kaze [raws v2]/ep9.vpy
 Video AR Mode: 4
 Video AR Value: 1.779167
 Video Zoom Percent: 2.768750
-Scroll Position: 247
-Active Line: 271
-Video Position: 29967
+Scroll Position: 270
+Active Line: 294
+Video Position: 33692
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -341,7 +341,7 @@ Dialogue: 0,0:23:17.70,0:23:18.20,Next EP - Rotating Text,,0,0,0,,{\blur0.603\po
 Dialogue: 1,0:23:17.70,0:23:18.20,Next EP - Rotating Text,,0,0,0,,{\blur0.603\pos(430.588,487.029)\fs60.251\bord0\c&H00000000&\4a&HFF&}{\blur0.703}CHIDORI'S JUDGEMENT
 Dialogue: 0,0:23:18.37,0:23:21.36,Dialogue - Alt,,0,0,0,,Dearest, it seems that Nanoka is in her rebellious phase, and I am all alone.
 Dialogue: 0,0:23:21.36,0:23:25.20,Dialogue - Alt,,0,0,0,,I don’t care about Koshiro, but I definitely want to at least secure my daughter’s heart.
-Dialogue: 0,0:23:25.33,0:23:27.55,Dialogue - Alt,,0,0,0,,That is what I, Zenzou, am feeling in the Autumn of my 51st year.
+Dialogue: 0,0:23:25.21,0:23:27.55,Dialogue - Alt,,0,0,0,,That is what I, Zenzou, am feeling in the Autumn of my 51st year.
 Dialogue: 0,0:23:27.55,0:23:29.05,Dialogue,,0,0,0,,Punishment of the Human Rocket!
 Dialogue: 1,0:23:27.01,0:23:29.05,Next EP - Verdict,,0,0,0,,{\pos(621.961,46.192)\bord1.004\blur0.502\bord0\c&H00000000&\4a&HFF&\fs42.176\iclip(389,3,748,50)\t(27,1850,\iclip(748,3,748,50))}Human Rocket
 Dialogue: 0,0:23:27.01,0:23:29.05,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\c&HFFFFFF&\pos(621.961,50.209)\fs42.176\\iclip(389,3,748,50)\t(27,1850,\iclip(748,3,748,50))}Human Rocket

@@ -20,13 +20,14 @@ YCbCr Matrix: TV.601
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
+Audio File: ../../../../../media/wyse/Media III/[WSE] Koi Kaze [DVD x264 478p 10bit FLAC-AC3][Dual Audio]/[WSE] Koi Kaze - 01 [DVD x264 478p 10bit FLAC-AC3][Dual Audio][766DA213]_JPN_Audio01.flac
 Video File: ../../../../../media/wyse/Media III/[WSE] Koi Kaze [raws v2]/ep1.vpy.mkv
 Video AR Mode: 4
 Video AR Value: 1.779167
-Video Zoom Percent: 1.000000
-Scroll Position: 604
-Active Line: 537
-Video Position: 31121
+Video Zoom Percent: 2.768750
+Scroll Position: 607
+Active Line: 628
+Video Position: 33805
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -668,11 +669,11 @@ Dialogue: 0,0:23:16.58,0:23:16.62,Next EP - Rotating Text,,0,0,0,,{\blur0.603\po
 Dialogue: 1,0:23:16.58,0:23:16.62,Next EP - Rotating Text,,0,0,0,,{\blur0.603\pos(430.588,487.029)\fs60.251\bord0\c&H00000000&\4a&HFF&}{\blur0.703\iclip(m 417.375 388.625 l 418.625 477 748.75 476 742.75 382.625 m 594.5 406.75 l 637.5 402.625 b 642.25 420.75 643.5 455.875 641.125 473 l 599.25 472)}CHIDORI'S JUDGEMENT
 Dialogue: 0,0:23:16.62,0:23:17.12,Next EP - Rotating Text,,0,0,0,,{\blur0.603\pos(430.588,487.029)\fs60.251\bord3.013\3c&HFFFEFE&\c&HFFFEFE&}{\blur0.703}CHIDORI'S JUDGEMENT
 Dialogue: 1,0:23:16.62,0:23:17.12,Next EP - Rotating Text,,0,0,0,,{\blur0.603\pos(430.588,487.029)\fs60.251\bord0\c&H00000000&\4a&HFF&}{\blur0.703}CHIDORI'S JUDGEMENT
-Dialogue: 0,0:23:18.11,0:23:20.49,Dialogue - Alt,,0,0,0,,The girl who dumped me came to my office, so I was kind of apprehensive.
-Dialogue: 0,0:23:20.52,0:23:22.58,Dialogue - Alt,,0,0,0,,I went on a date with a girl, not knowing she was my younger sister.
-Dialogue: 0,0:23:22.61,0:23:25.27,Dialogue - Alt,,0,0,0,,Even though I’m this old, I cried in front of a high school student.
+Dialogue: 0,0:23:18.00,0:23:20.46,Dialogue - Alt,,0,0,0,,The girl who dumped me came to my office, so I was kind of apprehensive.
+Dialogue: 0,0:23:20.46,0:23:22.58,Dialogue - Alt,,0,0,0,,I went on a date with a girl, not knowing she was my younger sister.
+Dialogue: 0,0:23:22.58,0:23:25.27,Dialogue - Alt,,0,0,0,,Even though I’m this old, I cried in front of a high school student.
 Dialogue: 0,0:23:25.53,0:23:26.63,Dialogue - Alt,,0,0,0,,Is that enough?!
-Dialogue: 0,0:23:26.92,0:23:28.30,Dialogue,,0,0,0,,Wrap him up and throw him in the river as punishment!{すまき流し}
+Dialogue: 0,0:23:26.63,0:23:28.30,Dialogue,,0,0,0,,Wrap him up and throw him in the river as punishment!{すまき流し}
 Dialogue: 1,0:23:26.84,0:23:28.30,Next EP - Verdict,,0,0,0,,{\pos(425.804,46.192)\bord1.004\blur0.502\bord0\c&H00000000&\4a&HFF&\fs36.151\iclip(175,3,709,52)\t(27,1020,\iclip(708,3,709,52))}Wrap him up and throw him in the river
 Dialogue: 0,0:23:26.84,0:23:28.30,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\c&HFFFFFF&\pos(428.196,50.209)\fs36.151\iclip(175,3,709,52)\t(27,1020,\iclip(708,3,709,52))}Wrap him up and throw him in the river
-Dialogue: 0,0:23:28.30,0:23:29.77,Dialogue,,0,0,0,,Why?!
+Dialogue: 0,0:23:28.30,0:23:29.97,Dialogue,,0,0,0,,Why?!

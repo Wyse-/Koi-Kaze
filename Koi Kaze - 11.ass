@@ -21,9 +21,9 @@ Video File: ../../../../../media/wyse/Media III/[WSE] Koi Kaze [raws v2]/ep11.vp
 Video AR Mode: 4
 Video AR Value: 1.779167
 Video Zoom Percent: 2.768750
-Scroll Position: 203
-Active Line: 223
-Video Position: 29512
+Scroll Position: 239
+Active Line: 238
+Video Position: 33486
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -283,8 +283,8 @@ Dialogue: 0,0:23:16.58,0:23:16.62,Next EP - Rotating Text,,0,0,0,,{\blur0.603\po
 Dialogue: 1,0:23:16.58,0:23:16.62,Next EP - Rotating Text,,0,0,0,,{\blur0.603\pos(430.588,487.029)\fs60.251\bord0\c&H00000000&\4a&HFF&}{\blur0.703\iclip(m 417.375 388.625 l 418.625 477 748.75 476 742.75 382.625 m 594.5 406.75 l 637.5 402.625 b 642.25 420.75 643.5 455.875 641.125 473 l 599.25 472)}CHIDORI'S JUDGEMENT
 Dialogue: 0,0:23:16.62,0:23:17.16,Next EP - Rotating Text,,0,0,0,,{\blur0.603\pos(430.588,487.029)\fs60.251\bord3.013\3c&HFFFEFE&\c&HFFFEFE&}{\blur0.703}CHIDORI'S JUDGEMENT
 Dialogue: 1,0:23:16.62,0:23:17.16,Next EP - Rotating Text,,0,0,0,,{\blur0.603\pos(430.588,487.029)\fs60.251\bord0\c&H00000000&\4a&HFF&}{\blur0.703}CHIDORI'S JUDGEMENT
-Dialogue: 0,0:23:17.54,0:23:19.39,Dialogue,,0,0,0,,I’m sorry I broke the promise.
-Dialogue: 0,0:23:19.39,0:23:21.68,Dialogue,,0,0,0,,I was worried if my brother was doing well.
+Dialogue: 0,0:23:17.54,0:23:19.33,Dialogue,,0,0,0,,I’m sorry I broke the promise.
+Dialogue: 0,0:23:19.33,0:23:21.68,Dialogue,,0,0,0,,I was worried if my brother was doing well.
 Dialogue: 0,0:23:21.68,0:23:22.92,Dialogue,,0,0,0,,Punishment of fighting spirit!
 Dialogue: 1,0:23:21.92,0:23:21.96,Next EP - Verdict,,0,0,0,,{\bord1.004\blur0.803\bord0\c&H00000000&\4a&HFF&\fs36.151\fnGochi Hand\pos(564.377,417.852)}Punishment of fighting spirit
 Dialogue: 0,0:23:21.92,0:23:21.96,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\c&H1319DB&\fs36.854\\fnGochi Hand\pos(565.573,418.857)}Punishment of fighting spirit
@@ -292,7 +292,7 @@ Dialogue: 1,0:23:21.96,0:23:22.00,Next EP - Verdict,,0,0,0,,{\bord1.004\blur0.80
 Dialogue: 0,0:23:21.96,0:23:22.00,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\c&H1319DB&\fs33.841\\fnGochi Hand\pos(552.397,401.691)}Punishment of fighting spirit
 Dialogue: 1,0:23:22.00,0:23:22.92,Next EP - Verdict,,0,0,0,,{\bord1.004\blur0.803\bord0\c&H00000000&\4a&HFF&\fs38.159\fnGochi Hand\pos(571.697,426.11)}Punishment of fighting spirit
 Dialogue: 0,0:23:22.00,0:23:22.92,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\c&H1319DB&\fs38.862\\fnGochi Hand\pos(572.893,427.116)}Punishment of fighting spirit
-Dialogue: 0,0:23:23.12,0:23:25.08,Dialogue - Alt,,0,0,0,,Brother, how are you doing?
+Dialogue: 0,0:23:23.20,0:23:25.08,Dialogue - Alt,,0,0,0,,Brother, how are you doing?
 Dialogue: 0,0:23:25.09,0:23:26.96,Dialogue - Alt,,0,0,0,,If you have energy, you can do anything!
 Dialogue: 0,0:23:26.96,0:23:28.89,Dialogue - Alt,,0,0,0,,1, 2, 3, go!
 Dialogue: 0,0:23:23.04,0:23:26.18,Next EP - Scrolling Text,,0,0,0,,{\move(937.725,386.611,-505.941,386.611)\q2\blur0.703\c&HFBFDF8&}Next episode:

@@ -17,13 +17,14 @@ Video Aspect Ratio: c1.78151
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
+Audio File: ../../../../../media/wyse/Media III/[WSE] Koi Kaze [DVD x264 478p 10bit FLAC-AC3][Dual Audio]/[WSE] Koi Kaze - 07 [DVD x264 478p 10bit FLAC-AC3][Dual Audio][3E0EBB0B]_JPN_Audio01.flac
 Video File: ../../../../../media/wyse/Media III/[WSE] Koi Kaze [raws v2]/ep7.vpy.mkv
 Video AR Mode: 4
 Video AR Value: 1.779167
 Video Zoom Percent: 2.768750
-Scroll Position: 296
-Active Line: 340
-Video Position: 29841
+Scroll Position: 356
+Active Line: 375
+Video Position: 33806
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -416,11 +417,11 @@ Dialogue: 0,0:23:25.38,0:23:27.46,Next EP - Verdict,,0,0,0,,{\fs55.23\bord3.026\
 Dialogue: 1,0:23:25.38,0:23:27.46,Next EP - Verdict,,0,0,0,,{\fs55.23\bord0\blur0.502\c&H494949&\pos(574.118,58.243)\clip(359,0,419,54)\t(23,540,\clip(359,0,801,68))}Brother Complex
 Dialogue: 0,0:23:26.67,0:23:27.46,Next EP - Verdict,,0,0,0,,{\fs55.23\bord3.026\blur3.026\c&HFFFFFF&\pos(777.451,58.243)\clip(718,0,762,54)\t(0,850,\clip(718,0,837,68))}??
 Dialogue: 1,0:23:26.67,0:23:27.46,Next EP - Verdict,,0,0,0,,{\fs55.23\bord0\blur0.502\c&H494949&\pos(777.451,58.243)\clip(718,0,762,54)\t(0,850,\clip(718,0,837,68))}??
-Dialogue: 0,0:23:18.11,0:23:20.65,Dialogue - Alt,,0,0,0,,I don’t think I have a brother complex.
-Dialogue: 0,0:23:20.82,0:23:23.05,Dialogue - Alt,,0,0,0,,I just asked him for advice when I got a love letter from this guy.
-Dialogue: 0,0:23:23.61,0:23:25.05,Dialogue - Alt,,0,0,0,,Do I really have a brother complex?
-Dialogue: 0,0:23:25.59,0:23:26.85,Dialogue,,0,0,0,,Sentenced to a brother complex!
-Dialogue: 0,0:23:28.23,0:23:29.52,Dialogue,,0,0,0,,W-What’s going on?
+Dialogue: 0,0:23:17.91,0:23:20.71,Dialogue - Alt,,0,0,0,,I don’t think I have a brother complex.
+Dialogue: 0,0:23:20.71,0:23:23.46,Dialogue - Alt,,0,0,0,,I just asked him for advice when I got a love letter from this guy.
+Dialogue: 0,0:23:23.48,0:23:25.17,Dialogue - Alt,,0,0,0,,Do I really have a brother complex?
+Dialogue: 0,0:23:25.39,0:23:27.42,Dialogue,,0,0,0,,Sentenced to a brother complex!
+Dialogue: 0,0:23:28.09,0:23:30.01,Dialogue,,0,0,0,,W-What’s going on?
 Dialogue: 0,0:23:18.16,0:23:21.48,Next EP - Scrolling Text,,0,0,0,,{\move(936.529,386.611,-211.706,386.611)\q2\blur0.703\c&HFBFDF8&}Next episode:
 Dialogue: 1,0:23:18.16,0:23:21.48,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(936.529,386.611,-211.706,386.611)\q2\blur0.703\4a&HFF&}Next episode:
 Dialogue: 0,0:23:18.16,0:23:21.48,Next EP - Scrolling Text,,0,0,0,,{\move(936.529,456.904,-211.706,456.904)\q2\blur0.703\c&HFBFDF8&}Dew frost
