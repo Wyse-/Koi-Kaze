@@ -24,8 +24,8 @@ Video AR Mode: 4
 Video AR Value: 1.779167
 Video Zoom Percent: 2.768750
 Scroll Position: 307
-Active Line: 326
-Video Position: 33731
+Active Line: 336
+Video Position: 33537
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -381,5 +381,5 @@ Dialogue: 0,0:23:17.58,0:23:20.92,Next EP - Scrolling Text,,0,0,0,,{\move(942.51
 Dialogue: 1,0:23:17.58,0:23:20.92,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(942.51,456.904,-71.765,456.904)\q2\blur0.703\4a&HFF&}Evening Shower
 Dialogue: 0,0:23:18.33,0:23:24.67,Next EP - Scrolling Text,,0,0,0,,{\move(1285.784,386.611,-645.882,386.611)\q2\blur0.703\c&HFBFDF8&}Koshiro's ex-girlfriend sees him with Nanoka... so he meets with her to explain.
 Dialogue: 1,0:23:18.33,0:23:24.67,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(1285.784,386.611,-645.882,386.611)\q2\blur0.703\4a&HFF&}Koshiro's ex-girlfriend sees him with Nanoka... so he meets with her to explain.
-Dialogue: 0,0:23:18.75,0:23:24.67,Next EP - Scrolling Text,,0,0,0,,{\move(1332.431,456.904,-470.059,456.904)\q2\blur0.703\c&HFBFDF8&}But Koshiro gets very nervous about having a date... with his ex after such a long time.
-Dialogue: 1,0:23:18.75,0:23:24.67,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(1332.431,456.904,-470.059,456.904)\q2\blur0.703\4a&HFF&}But Koshiro gets very nervous about having a date... with his ex after such a long time.
+Dialogue: 0,0:23:18.75,0:23:24.67,Next EP - Scrolling Text,,0,0,0,,{\move(1332.431,456.904,-475.059,456.904)\q2\blur0.703\c&HFBFDF8&}But Koshiro gets very nervous about having a date... with his ex after such a long time.
+Dialogue: 1,0:23:18.75,0:23:24.67,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(1332.431,456.904,-475.059,456.904)\q2\blur0.703\4a&HFF&}But Koshiro gets very nervous about having a date... with his ex after such a long time.
