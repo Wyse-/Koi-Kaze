@@ -23,9 +23,9 @@ Video File: ../../../../../media/wyse/Media III/[WSE] Koi Kaze [raws v2]/ep4.vpy
 Video AR Mode: 4
 Video AR Value: 1.779167
 Video Zoom Percent: 2.768750
-Scroll Position: 314
-Active Line: 331
-Video Position: 33805
+Scroll Position: 36
+Active Line: 51
+Video Position: 3903
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -95,31 +95,31 @@ Dialogue: 32,0:01:43.58,0:01:48.96,Title,,0,0,0,,{\c&HBE4C94&\clip(m 181 421.5 l
 Dialogue: 33,0:01:43.58,0:01:48.96,Title,,0,0,0,,{\c&HBD4993&\clip(m 183.5 425.5 l 459.25 316.75 462.875 324.75 187 432.5)\pos(291.425,317.644)\blur0.803\t(3444,4990,0.7,\blur7.058)\1a&HFF&\t(-5,607,\1a&H00)\fad(0,1500)}Evening Shower
 Dialogue: 34,0:01:43.58,0:01:48.96,Title,,0,0,0,,{\c&HBC4691&\clip(m 184.625 428.5 l 460.5 320.75 465.25 327.75 189.375 435.75)\pos(291.425,317.644)\blur0.803\t(3444,4990,0.7,\blur7.058)\1a&HFF&\t(-5,607,\1a&H00)\fad(0,1500)}Evening Shower
 Dialogue: 35,0:01:43.58,0:01:48.96,Title,,0,0,0,,{\c&HBA4290&\clip(m 187 432.5 l 462.875 324.75 466.5 331.75 191.875 439.75)\pos(291.425,317.644)\blur0.803\t(3444,4990,0.7,\blur7.058)\1a&HFF&\t(-5,607,\1a&H00)\fad(0,1500)}Evening Shower
-Dialogue: 1,0:02:42.76,0:02:47.77,Signs,,0,0,0,,{\c&H585C62&\bord0\t(3031,4949,\alpha&HFF&)\4a&HFF&\frz349.8\move(612.906,79.999,810.432,134.458,0,4824)}{\blur1.004\fs20.084\fax0.25\b1}Party Meeting Room{出会いパーティー会場}
-Dialogue: 1,0:02:42.76,0:02:47.77,Signs,,0,0,0,,{\c&H585C62&\bord0\t(3031,4949,\alpha&HFF&)\4a&HFF&\frz349.8\move(612.906,79.999,810.432,134.458,0,4824)}{\blur1.004\fs20.084\fax0.25\b1}Party Meeting Room{出会いパーティー会場}
-Dialogue: 1,0:02:42.76,0:02:47.77,Signs,,0,0,0,,{\c&H585C62&\bord0\t(3031,4949,\alpha&HFF&)\4a&HFF&\move(651.635,426.986,855.196,484.017,0,4949)\frz355.8}{\blur0.904\fs19.079\b1\fax0.15}Machida\NMarriage\NConsulting
-Dialogue: 1,0:16:52.99,0:16:56.49,Signs,,0,0,0,,{\frz25\fs40.336\blur1.008\c&H464D4E&\xshad3.026\yshad1.008\4c&HACB1B3&\pos(189.99,213.204)}U
-Dialogue: 1,0:16:52.99,0:16:56.49,Signs,,0,0,0,,{\frz24\fs40.336\blur1.008\c&H464D4E&\xshad3.026\yshad1.008\4c&HACB1B3&\pos(210.157,202.977)}n
-Dialogue: 1,0:16:52.99,0:16:56.49,Signs,,0,0,0,,{\frz24\fs40.336\blur1.008\c&H464D4E&\xshad3.026\yshad1.008\4c&HACB1B3&\pos(226.434,195.774)}f
-Dialogue: 1,0:16:52.99,0:16:56.49,Signs,,0,0,0,,{\frz24\fs40.336\blur1.008\c&H464D4E&\xshad3.026\yshad1.008\4c&HACB1B3&\pos(241.706,188.859)}o
-Dialogue: 1,0:16:52.99,0:16:56.49,Signs,,0,0,0,,{\frz24\fs40.336\blur1.008\c&H464D4E&\xshad3.026\yshad1.008\4c&HACB1B3&\pos(260.722,180.503)}r
-Dialogue: 1,0:16:52.99,0:16:56.49,Signs,,0,0,0,,{\frz23\fs40.336\blur1.008\c&H464D4E&\xshad3.026\yshad1.008\4c&HACB1B3&\pos(277.575,173.445)}g
-Dialogue: 1,0:16:52.99,0:16:56.49,Signs,,0,0,0,,{\frz23\fs40.336\blur1.008\c&H464D4E&\xshad3.026\yshad1.008\4c&HACB1B3&\pos(296.446,166.243)}e
-Dialogue: 1,0:16:52.99,0:16:56.49,Signs,,0,0,0,,{\frz22\fs40.336\blur1.008\c&H464D4E&\xshad3.026\yshad1.008\4c&HACB1B3&\pos(311.856,160.48)}t
-Dialogue: 1,0:16:52.99,0:16:56.49,Signs,,0,0,0,,{\frz22\fs40.336\blur1.008\c&H464D4E&\xshad3.026\yshad1.008\4c&HACB1B3&\pos(326.263,155.438)}t
-Dialogue: 1,0:16:52.99,0:16:56.49,Signs,,0,0,0,,{\frz20\fs40.336\blur1.008\c&H464D4E&\xshad3.026\yshad1.008\4c&HACB1B3&\pos(341.485,149.82)}a
-Dialogue: 1,0:16:52.99,0:16:56.49,Signs,,0,0,0,,{\frz19\fs40.336\blur1.008\c&H464D4E&\xshad3.026\yshad1.008\4c&HACB1B3&\pos(361.531,144.056)}b
-Dialogue: 1,0:16:52.99,0:16:56.49,Signs,,0,0,0,,{\frz19\fs40.336\blur1.008\c&H464D4E&\xshad3.026\yshad1.008\4c&HACB1B3&\pos(377.656,138.872)}l
-Dialogue: 1,0:16:52.99,0:16:56.49,Signs,,0,0,0,,{\frz18\fs40.336\blur1.008\c&H464D4E&\xshad3.026\yshad1.008\4c&HACB1B3&\pos(392.052,134.838)}e
-Dialogue: 1,0:16:52.99,0:16:56.49,Signs,,0,0,0,,{\frz17\fs40.336\blur1.008\c&H464D4E&\xshad3.026\yshad1.008\4c&HACB1B3&\pos(425.561,126.194)}L
-Dialogue: 1,0:16:52.99,0:16:56.49,Signs,,0,0,0,,{\frz17\fs40.336\blur1.008\c&H464D4E&\xshad3.026\yshad1.008\4c&HACB1B3&\pos(444.564,122.736)}o
-Dialogue: 1,0:16:52.99,0:16:56.49,Signs,,0,0,0,,{\frz16\fs40.336\blur1.008\c&H464D4E&\xshad3.026\yshad1.008\4c&HACB1B3&\pos(460.689,118.704)}v
-Dialogue: 1,0:16:52.99,0:16:56.49,Signs,,0,0,0,,{\frz16\fs40.336\blur1.008\c&H464D4E&\xshad3.026\yshad1.008\4c&HACB1B3&\pos(480.269,116.398)}e
-Dialogue: 1,0:16:52.99,0:16:56.49,Signs,,0,0,0,,{\frz10\fs40.336\blur1.008\c&H464D4E&\xshad3.026\yshad1.008\4c&HACB1B3&\pos(513.091,111.212)}S
-Dialogue: 1,0:16:52.99,0:16:56.49,Signs,,0,0,0,,{\frz9\fs40.336\blur1.008\c&H464D4E&\xshad3.026\yshad1.008\4c&HACB1B3&\pos(530.942,108.33)}c
-Dialogue: 1,0:16:52.99,0:16:56.49,Signs,,0,0,0,,{\frz8\fs40.336\blur1.008\c&H464D4E&\xshad3.026\yshad1.008\4c&HACB1B3&\pos(549.946,106.602)}e
-Dialogue: 1,0:16:52.99,0:16:56.49,Signs,,0,0,0,,{\frz7\fs40.336\blur1.008\c&H464D4E&\xshad3.026\yshad1.008\4c&HACB1B3&\pos(569.526,104.874)}n
-Dialogue: 1,0:16:52.99,0:16:56.49,Signs,,0,0,0,,{\frz6\fs40.336\blur1.008\c&H464D4E&\xshad3.026\yshad1.008\4c&HACB1B3&\pos(591.983,103.145)}e
+Dialogue: 1,0:02:42.76,0:02:47.77,Signs,,0,0,0,,{\c&H585C62&\bord0\t(3031,4949,\alpha&HFF&)\4a&HFF&\frz351\move(612.906,79.999,820.432,136.458,0,4991)}{\blur1.004\fs20.084\fax0.18\b1}Party Meeting Room{出会いパーティー会場}
+Dialogue: 1,0:02:42.76,0:02:47.77,Signs,,0,0,0,,{\c&H585C62&\bord0\t(3031,4949,\alpha&HFF&)\4a&HFF&\frz351\move(612.906,79.999,820.432,136.458,0,4991)}{\blur1.004\fs20.084\fax0.18\b1}Party Meeting Room{出会いパーティー会場}
+Dialogue: 1,0:02:42.76,0:02:47.77,Signs,,0,0,0,,{\c&H585C62&\bord0\t(3031,4949,\alpha&HFF&)\4a&HFF&\move(651.635,426.986,855.196,484.017,0,4949)\frz356.8}{\blur0.904\fs19.079\b1\fax0.11.5}Machida\NMarriage\NConsulting
+Dialogue: 1,0:16:52.99,0:16:56.49,Signs,,0,0,0,,{\frz25\fs40.336\blur1.008\c&H464D4E&\xshad3.026\yshad1.008\4c&HACB1B3&\pos(189.99,220.2)}U
+Dialogue: 1,0:16:52.99,0:16:56.49,Signs,,0,0,0,,{\frz24\fs40.336\blur1.008\c&H464D4E&\xshad3.026\yshad1.008\4c&HACB1B3&\pos(210.16,209.98)}n
+Dialogue: 1,0:16:52.99,0:16:56.49,Signs,,0,0,0,,{\frz24\fs40.336\blur1.008\c&H464D4E&\xshad3.026\yshad1.008\4c&HACB1B3&\pos(226.43,202.77)}f
+Dialogue: 1,0:16:52.99,0:16:56.49,Signs,,0,0,0,,{\frz24\fs40.336\blur1.008\c&H464D4E&\xshad3.026\yshad1.008\4c&HACB1B3&\pos(241.71,195.86)}o
+Dialogue: 1,0:16:52.99,0:16:56.49,Signs,,0,0,0,,{\frz24\fs40.336\blur1.008\c&H464D4E&\xshad3.026\yshad1.008\4c&HACB1B3&\pos(260.72,187.5)}r
+Dialogue: 1,0:16:52.99,0:16:56.49,Signs,,0,0,0,,{\frz23\fs40.336\blur1.008\c&H464D4E&\xshad3.026\yshad1.008\4c&HACB1B3&\pos(277.58,180.45)}g
+Dialogue: 1,0:16:52.99,0:16:56.49,Signs,,0,0,0,,{\frz23\fs40.336\blur1.008\c&H464D4E&\xshad3.026\yshad1.008\4c&HACB1B3&\pos(296.45,173.24)}e
+Dialogue: 1,0:16:52.99,0:16:56.49,Signs,,0,0,0,,{\frz22\fs40.336\blur1.008\c&H464D4E&\xshad3.026\yshad1.008\4c&HACB1B3&\pos(311.86,167.48)}t
+Dialogue: 1,0:16:52.99,0:16:56.49,Signs,,0,0,0,,{\frz22\fs40.336\blur1.008\c&H464D4E&\xshad3.026\yshad1.008\4c&HACB1B3&\pos(326.26,162.44)}t
+Dialogue: 1,0:16:52.99,0:16:56.49,Signs,,0,0,0,,{\frz20\fs40.336\blur1.008\c&H464D4E&\xshad3.026\yshad1.008\4c&HACB1B3&\pos(341.49,156.82)}a
+Dialogue: 1,0:16:52.99,0:16:56.49,Signs,,0,0,0,,{\frz19\fs40.336\blur1.008\c&H464D4E&\xshad3.026\yshad1.008\4c&HACB1B3&\pos(361.53,151.06)}b
+Dialogue: 1,0:16:52.99,0:16:56.49,Signs,,0,0,0,,{\frz19\fs40.336\blur1.008\c&H464D4E&\xshad3.026\yshad1.008\4c&HACB1B3&\pos(377.66,145.87)}l
+Dialogue: 1,0:16:52.99,0:16:56.49,Signs,,0,0,0,,{\frz18\fs40.336\blur1.008\c&H464D4E&\xshad3.026\yshad1.008\4c&HACB1B3&\pos(392.05,141.84)}e
+Dialogue: 1,0:16:52.99,0:16:56.49,Signs,,0,0,0,,{\frz17\fs40.336\blur1.008\c&H464D4E&\xshad3.026\yshad1.008\4c&HACB1B3&\pos(425.56,133.19)}L
+Dialogue: 1,0:16:52.99,0:16:56.49,Signs,,0,0,0,,{\frz17\fs40.336\blur1.008\c&H464D4E&\xshad3.026\yshad1.008\4c&HACB1B3&\pos(444.56,129.74)}o
+Dialogue: 1,0:16:52.99,0:16:56.49,Signs,,0,0,0,,{\frz16\fs40.336\blur1.008\c&H464D4E&\xshad3.026\yshad1.008\4c&HACB1B3&\pos(460.69,125.7)}v
+Dialogue: 1,0:16:52.99,0:16:56.49,Signs,,0,0,0,,{\frz16\fs40.336\blur1.008\c&H464D4E&\xshad3.026\yshad1.008\4c&HACB1B3&\pos(480.27,123.4)}e
+Dialogue: 1,0:16:52.99,0:16:56.49,Signs,,0,0,0,,{\frz10\fs40.336\blur1.008\c&H464D4E&\xshad3.026\yshad1.008\4c&HACB1B3&\pos(513.09,118.21)}S
+Dialogue: 1,0:16:52.99,0:16:56.49,Signs,,0,0,0,,{\frz9\fs40.336\blur1.008\c&H464D4E&\xshad3.026\yshad1.008\4c&HACB1B3&\pos(530.94,115.33)}c
+Dialogue: 1,0:16:52.99,0:16:56.49,Signs,,0,0,0,,{\frz8\fs40.336\blur1.008\c&H464D4E&\xshad3.026\yshad1.008\4c&HACB1B3&\pos(549.95,113.6)}e
+Dialogue: 1,0:16:52.99,0:16:56.49,Signs,,0,0,0,,{\frz7\fs40.336\blur1.008\c&H464D4E&\xshad3.026\yshad1.008\4c&HACB1B3&\pos(569.53,111.87)}n
+Dialogue: 1,0:16:52.99,0:16:56.49,Signs,,0,0,0,,{\frz6\fs40.336\blur1.008\c&H464D4E&\xshad3.026\yshad1.008\4c&HACB1B3&\pos(591.98,110.15)}e
 Dialogue: 0,0:01:55.98,0:01:57.01,Dialogue,,0,0,0,,Hey.
 Dialogue: 0,0:02:00.08,0:02:01.78,Dialogue,,0,0,0,,Are you all right?
 Dialogue: 0,0:02:01.78,0:02:02.90,Dialogue,,0,0,0,,Why?
@@ -378,37 +378,37 @@ Dialogue: 0,0:23:24.63,0:23:26.17,Dialogue - Alt,,0,0,0,,I’m sorry I sniffed t
 Dialogue: 0,0:23:26.17,0:23:27.17,Dialogue,,0,0,0,,Innocent?!
 Dialogue: 0,0:23:27.17,0:23:28.47,Dialogue,,0,0,0,,Like hell!
 Dialogue: 0,0:23:28.48,0:23:29.97,Dialogue,,0,0,0,,I’m so sorry.
-Dialogue: 1,0:23:26.38,0:23:27.46,Next EP - Verdict,,0,0,0,,{\an5\bord0\blur0.502\fs48.201\pos(625.549,25.105)\iclip(526,0,718,42)\t(-50,487,\iclip(718,0,718,42))}Innocent
-Dialogue: 0,0:23:26.38,0:23:27.46,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\c&HFFFFFF&\pos(625.549,19.079)\fsp1.305\an5\fs48.201\iclip(526,0,718,42)\t(-50,487,\iclip(718,0,718,42))}Innocent
-Dialogue: 1,0:23:27.46,0:23:27.51,Next EP - Verdict,,0,0,0,,{\an5\bord0\blur0.502\fs48.201\pos(625.549,25.105)}Innocent
-Dialogue: 1,0:23:27.51,0:23:27.55,Next EP - Verdict,,0,0,0,,{\an5\bord0\blur0.502\fs48.201\pos(625.549,126.356)}Innocent
-Dialogue: 1,0:23:27.55,0:23:27.59,Next EP - Verdict,,0,0,0,,{\an5\bord0\blur0.502\fs48.201\pos(625.549,225.55)}Innocent
-Dialogue: 1,0:23:27.59,0:23:27.63,Next EP - Verdict,,0,0,0,,{\an5\bord0\blur0.502\fs48.201\pos(625.549,326.782)}Innocent
-Dialogue: 0,0:23:27.46,0:23:27.51,Next EP - Verdict,,0,0,0,,{\bord0\blur0.502\c&HFFFFFF&\pos(625.549,19.079)\fsp1.305\an5\fs48.201}Innocent
-Dialogue: 0,0:23:27.51,0:23:27.55,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\c&HFFFFFF&\pos(625.549,120.331)\fsp1.305\an5\fs48.201}Innocent
-Dialogue: 0,0:23:27.55,0:23:27.59,Next EP - Verdict,,0,0,0,,{\bord0\blur0.502\c&HFFFFFF&\pos(625.549,219.525)\fsp1.305\an5\fs48.201}Innocent
-Dialogue: 0,0:23:27.59,0:23:27.63,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\c&HFFFFFF&\pos(625.549,320.756)\fsp1.305\an5\fs48.201}Innocent
-Dialogue: 1,0:23:27.63,0:23:27.67,Next EP - Verdict,,0,0,0,,{\an5\bord0\blur0.502\fs48.201\pos(625.549,426.196)}Innocent
-Dialogue: 0,0:23:27.63,0:23:27.67,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\c&HFFFFFF&\pos(625.549,420.171)\fsp1.305\an5\fs48.201}Innocent
-Dialogue: 1,0:23:27.59,0:23:27.63,Next EP - Verdict,,0,0,0,,{\bord0\blur0.502\fs55.23\an5\pos(486.062,-197.242)}Like Hell
-Dialogue: 1,0:23:27.63,0:23:27.67,Next EP - Verdict,,0,0,0,,{\bord0\blur0.502\fs55.23\an5\pos(486.062,-123.173)}Like Hell
-Dialogue: 1,0:23:27.67,0:23:27.71,Next EP - Verdict,,0,0,0,,{\bord0\blur0.502\fs55.23\an5\pos(486.062,-50.621)}Like Hell
-Dialogue: 1,0:23:27.71,0:23:27.76,Next EP - Verdict,,0,0,0,,{\bord0\blur0.502\fs55.23\an5\pos(486.062,23.438)}Like Hell
-Dialogue: 1,0:23:27.76,0:23:27.80,Next EP - Verdict,,0,0,0,,{\bord0\blur0.502\fs55.23\fscy90\an5\pos(486.062,110.762)}Like Hell
-Dialogue: 1,0:23:27.80,0:23:27.84,Next EP - Verdict,,0,0,0,,{\bord0\blur0.502\fs55.23\an5\fscy110\pos(486.062,21.55)}Like Hell
-Dialogue: 0,0:23:27.59,0:23:27.63,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\fsp0.502\fs55.23\an4\c&HFFFFFF&\pos(407.863,-203.267)}Like Hell
-Dialogue: 0,0:23:27.63,0:23:27.67,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\fsp0.502\fs55.23\an4\c&HFFFFFF&\pos(407.863,-129.198)}Like Hell
-Dialogue: 0,0:23:27.67,0:23:27.71,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\fsp0.502\fs55.23\an4\c&HFFFFFF&\pos(407.863,-56.646)}Like Hell
-Dialogue: 0,0:23:27.71,0:23:27.76,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\fsp0.502\fs55.23\an4\c&HFFFFFF&\pos(391.118,28.117)}Like Hell
-Dialogue: 0,0:23:27.76,0:23:27.80,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\fsp0.502\fscy90\fs55.23\an4\c&HFFFFFF&\pos(391.118,115.481)}Like Hell
-Dialogue: 0,0:23:27.80,0:23:27.84,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\fsp0.502\fs55.23\fscy110\an4\c&HFFFFFF&\pos(391.118,26.109)}Like Hell
-Dialogue: 1,0:23:27.84,0:23:28.51,Next EP - Verdict,,0,0,0,,{\bord0\blur0.502\fs55.23\an5\pos(486.062,39.163)}Like Hell
-Dialogue: 0,0:23:27.84,0:23:28.51,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\fsp0.502\fs55.23\an4\c&HFFFFFF&\pos(391.118,44.184)}Like Hell
-Dialogue: 0,0:23:17.58,0:23:20.91,Next EP - Scrolling Text,,0,0,0,,{\move(948.49,386.611,-74.157,386.611)\q2\blur0.703\c&HFBFDF8&}Next episode:
-Dialogue: 1,0:23:17.58,0:23:20.91,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(948.49,386.611,-74.157,386.611)\q2\blur0.703\4a&HFF&}Next episode:
-Dialogue: 0,0:23:17.58,0:23:20.91,Next EP - Scrolling Text,,0,0,0,,{\move(948.49,456.904,-74.157,456.904)\q2\blur0.703\c&HFBFDF8&}Distant Thunder
-Dialogue: 1,0:23:17.58,0:23:20.91,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(948.49,456.904,-74.157,456.904)\q2\blur0.703\4a&HFF&}Distant Thunder
-Dialogue: 0,0:23:18.38,0:23:25.00,Next EP - Scrolling Text,,0,0,0,,{\move(1435.294,386.611,-596.843,386.611)\q2\blur0.703\c&HFBFDF8&}Every man has trash that he doesn't want other people to find. Nanoka was being nice trying to clean it up.
-Dialogue: 1,0:23:18.38,0:23:25.00,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(1435.294,386.611,-596.843,386.611)\q2\blur0.703\4a&HFF&}Every man has trash that he doesn't want other people to find. Nanoka was being nice trying to clean it up.
-Dialogue: 0,0:23:18.98,0:23:25.75,Next EP - Scrolling Text,,0,0,0,,{\move(1459.216,456.904,-618.373,456.904)\q2\blur0.703\c&HFBFDF8&}Koshiro's face twitches, because he can't get mad at her.
-Dialogue: 1,0:23:18.98,0:23:25.75,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(1459.216,456.904,-618.373,456.904)\q2\blur0.703\4a&HFF&}Koshiro's face twitches, because he can't get mad at her.
+Dialogue: 1,0:23:26.34,0:23:27.42,Next EP - Verdict,,0,0,0,,{\an5\bord0\blur0.502\fs48.201\pos(625.549,25.105)\iclip(526,0,718,42)\t(-50,487,\iclip(718,0,718,42))}Innocent
+Dialogue: 0,0:23:26.34,0:23:27.42,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\c&HFFFFFF&\pos(625.549,19.079)\fsp1.305\an5\fs48.201\iclip(526,0,718,42)\t(-50,487,\iclip(718,0,718,42))}Innocent
+Dialogue: 1,0:23:27.42,0:23:27.46,Next EP - Verdict,,0,0,0,,{\an5\bord0\blur0.502\fs48.201\pos(625.549,25.105)}Innocent
+Dialogue: 1,0:23:27.46,0:23:27.51,Next EP - Verdict,,0,0,0,,{\an5\bord0\blur0.502\fs48.201\pos(625.549,126.356)}Innocent
+Dialogue: 1,0:23:27.51,0:23:27.55,Next EP - Verdict,,0,0,0,,{\an5\bord0\blur0.502\fs48.201\pos(625.549,225.55)}Innocent
+Dialogue: 1,0:23:27.55,0:23:27.59,Next EP - Verdict,,0,0,0,,{\an5\bord0\blur0.502\fs48.201\pos(625.549,326.782)}Innocent
+Dialogue: 0,0:23:27.42,0:23:27.46,Next EP - Verdict,,0,0,0,,{\bord0\blur0.502\c&HFFFFFF&\pos(625.549,19.079)\fsp1.305\an5\fs48.201}Innocent
+Dialogue: 0,0:23:27.46,0:23:27.51,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\c&HFFFFFF&\pos(625.549,120.331)\fsp1.305\an5\fs48.201}Innocent
+Dialogue: 0,0:23:27.51,0:23:27.55,Next EP - Verdict,,0,0,0,,{\bord0\blur0.502\c&HFFFFFF&\pos(625.549,219.525)\fsp1.305\an5\fs48.201}Innocent
+Dialogue: 0,0:23:27.55,0:23:27.59,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\c&HFFFFFF&\pos(625.549,320.756)\fsp1.305\an5\fs48.201}Innocent
+Dialogue: 1,0:23:27.59,0:23:27.63,Next EP - Verdict,,0,0,0,,{\an5\bord0\blur0.502\fs48.201\pos(625.549,426.196)}Innocent
+Dialogue: 0,0:23:27.59,0:23:27.63,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\c&HFFFFFF&\pos(625.549,420.171)\fsp1.305\an5\fs48.201}Innocent
+Dialogue: 1,0:23:27.55,0:23:27.59,Next EP - Verdict,,0,0,0,,{\bord0\blur0.502\fs55.23\an5\pos(486.062,-197.242)}Like Hell
+Dialogue: 1,0:23:27.59,0:23:27.63,Next EP - Verdict,,0,0,0,,{\bord0\blur0.502\fs55.23\an5\pos(486.062,-123.173)}Like Hell
+Dialogue: 1,0:23:27.63,0:23:27.67,Next EP - Verdict,,0,0,0,,{\bord0\blur0.502\fs55.23\an5\pos(486.062,-50.621)}Like Hell
+Dialogue: 1,0:23:27.67,0:23:27.71,Next EP - Verdict,,0,0,0,,{\bord0\blur0.502\fs55.23\an5\pos(486.062,23.438)}Like Hell
+Dialogue: 1,0:23:27.71,0:23:27.76,Next EP - Verdict,,0,0,0,,{\bord0\blur0.502\fs55.23\fscy90\an5\pos(486.062,110.762)}Like Hell
+Dialogue: 1,0:23:27.76,0:23:27.80,Next EP - Verdict,,0,0,0,,{\bord0\blur0.502\fs55.23\an5\fscy110\pos(486.062,21.55)}Like Hell
+Dialogue: 0,0:23:27.55,0:23:27.59,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\fsp0.502\fs55.23\an4\c&HFFFFFF&\pos(407.863,-203.267)}Like Hell
+Dialogue: 0,0:23:27.59,0:23:27.63,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\fsp0.502\fs55.23\an4\c&HFFFFFF&\pos(407.863,-129.198)}Like Hell
+Dialogue: 0,0:23:27.63,0:23:27.67,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\fsp0.502\fs55.23\an4\c&HFFFFFF&\pos(407.863,-56.646)}Like Hell
+Dialogue: 0,0:23:27.67,0:23:27.71,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\fsp0.502\fs55.23\an4\c&HFFFFFF&\pos(391.118,28.117)}Like Hell
+Dialogue: 0,0:23:27.71,0:23:27.76,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\fsp0.502\fscy90\fs55.23\an4\c&HFFFFFF&\pos(391.118,115.481)}Like Hell
+Dialogue: 0,0:23:27.76,0:23:27.80,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\fsp0.502\fs55.23\fscy110\an4\c&HFFFFFF&\pos(391.118,26.109)}Like Hell
+Dialogue: 1,0:23:27.80,0:23:28.47,Next EP - Verdict,,0,0,0,,{\bord0\blur0.502\fs55.23\an5\pos(486.062,39.163)}Like Hell
+Dialogue: 0,0:23:27.80,0:23:28.47,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\fsp0.502\fs55.23\an4\c&HFFFFFF&\pos(391.118,44.184)}Like Hell
+Dialogue: 0,0:23:17.54,0:23:20.87,Next EP - Scrolling Text,,0,0,0,,{\move(948.49,386.611,-74.157,386.611)\q2\blur0.703\c&HFBFDF8&}Next episode:
+Dialogue: 1,0:23:17.54,0:23:20.87,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(948.49,386.611,-74.157,386.611)\q2\blur0.703\4a&HFF&}Next episode:
+Dialogue: 0,0:23:17.54,0:23:20.87,Next EP - Scrolling Text,,0,0,0,,{\move(948.49,456.904,-74.157,456.904)\q2\blur0.703\c&HFBFDF8&}Distant Thunder
+Dialogue: 1,0:23:17.54,0:23:20.87,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(948.49,456.904,-74.157,456.904)\q2\blur0.703\4a&HFF&}Distant Thunder
+Dialogue: 0,0:23:18.33,0:23:24.96,Next EP - Scrolling Text,,0,0,0,,{\move(1435.294,386.611,-596.843,386.611)\q2\blur0.703\c&HFBFDF8&}Every man has trash that he doesn't want other people to find. Nanoka was being nice trying to clean it up.
+Dialogue: 1,0:23:18.33,0:23:24.96,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(1435.294,386.611,-596.843,386.611)\q2\blur0.703\4a&HFF&}Every man has trash that he doesn't want other people to find. Nanoka was being nice trying to clean it up.
+Dialogue: 0,0:23:18.91,0:23:25.71,Next EP - Scrolling Text,,0,0,0,,{\move(1459.216,456.904,-618.373,456.904)\q2\blur0.703\c&HFBFDF8&}Koshiro's face twitches, because he can't get mad at her.
+Dialogue: 1,0:23:18.91,0:23:25.71,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(1459.216,456.904,-618.373,456.904)\q2\blur0.703\4a&HFF&}Koshiro's face twitches, because he can't get mad at her.
