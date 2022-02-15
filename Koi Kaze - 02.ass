@@ -22,9 +22,8 @@ Video File: ../../../../../media/wyse/Media III/[WSE] Koi Kaze [raws v2]/ep2.vpy
 Video AR Mode: 4
 Video AR Value: 1.779167
 Video Zoom Percent: 2.768750
-Scroll Position: 554
-Active Line: 573
-Video Position: 31022
+Active Line: 38
+Video Position: 20432
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -83,7 +82,7 @@ Dialogue: 0,0:01:43.58,0:01:48.75,Title,,0,0,0,,{\c&HC09EED&\clip(m 209.75 432.5
 Dialogue: 0,0:01:43.58,0:01:48.75,Title,,0,0,0,,{\c&HBF9BED&\clip(m 211 435.75 l 486.75 327.75 491.75 334.75 215.75 443.75)\pos(323.743,335.799)\blur0.803\t(3484,5660,0.7,\blur10.084)\1a&HFF&\t(5,607,\1a&H00)\fad(0,550)}Spring Blues
 Dialogue: 0,0:01:43.58,0:01:48.75,Title,,0,0,0,,{\c&HBD99ED&\clip(m 213.375 439.75 l 489.25 331.75 493 338.75 217 446.75)\pos(323.743,335.799)\blur0.803\t(3484,5660,0.7,\blur10.084)\1a&HFF&\t(5,607,\1a&H00)\fad(0,550)}Spring Blues
 Dialogue: 0,0:01:43.58,0:01:48.75,Title,,0,0,0,,{\c&HBC96ED&\clip(m 215.75 443.75 l 491.75 334.75 495.375 342.75 219.375 450.75)\pos(323.743,335.799)\blur0.803\t(3484,5660,0.7,\blur10.084)\1a&HFF&\t(5,607,\1a&H00)\fad(0,550)}Spring Blues
-Dialogue: 0,0:14:10.28,0:14:13.29,Signs,,0,0,0,,{\c&H526169&\blur0.504\b1\frz23\fax-0.43\pos(306.472,160.598)}{\blur0.703\fnFredoka One}Karaoke
+Dialogue: 0,0:14:10.28,0:14:13.29,Signs,,0,0,0,,{\c&H526169&\blur0.504\b1\frz23\fax-0.43\pos(312.25,158.431)}{\blur0.703\fnFredoka One}Karaoke
 Dialogue: 0,0:16:29.76,0:16:29.80,Signs,,0,0,0,,{\blur0.603\pos(-66.808,219.742)\xbord0.222\ybord0.202\fax-0.05\fs16.134\fscx77.421\3c&H2A2C2E&\c&H2A2C2E&\frz2\fry10}{\blur0.502}Watch out for {\bord2.016\3c&H323644&\c&H323644&}molesters!
 Dialogue: 1,0:16:29.76,0:16:29.80,Signs,,0,0,0,,{\bord0\blur0.603\pos(-66.808,219.742)\fax-0.05\fs16.134\fscx77.421\c&H2A2C2E&\frz2\fry10\4a&HFF&}{\blur0.502}Watch out for {\c&H2E535D&\bord0}molesters!
 Dialogue: 0,0:16:29.80,0:16:29.84,Signs,,0,0,0,,{\blur0.603\pos(-63.642,219.732)\xbord0.222\ybord0.202\fax-0.05\fs16.134\fscx77.421\3c&H2A2C2E&\c&H2A2C2E&\frz2\fry10}{\blur0.502}Watch out for {\bord2.016\3c&H323644&\c&H323644&}molesters!
