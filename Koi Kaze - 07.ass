@@ -22,9 +22,9 @@ Video File: ../../../../../media/wyse/Media III/[WSE] Koi Kaze [raws v2]/ep7.vpy
 Video AR Mode: 4
 Video AR Value: 1.779167
 Video Zoom Percent: 2.768750
-Scroll Position: 356
-Active Line: 375
-Video Position: 33806
+Scroll Position: 50
+Active Line: 60
+Video Position: 24929
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -92,109 +92,109 @@ Dialogue: 0,0:08:06.46,0:08:09.51,Signs - Handwriting,,0,0,0,,{\fscx100.052\t(28
 Dialogue: 0,0:08:06.46,0:08:09.51,Signs - Handwriting,,0,0,0,,{\fscx100.052\t(28,2989,\fscx109.831)\fscy100\t(28,2989,\fscy109.77)\move(304.501,202.69,292.686,199.332)\frz-6\fax0.5\blur0.803}{\alpha&HFF&}I know{\alpha&H00&} receiv{\alpha&HFF&}ing a letter
 Dialogue: 0,0:08:06.46,0:08:09.51,Signs - Handwriting,,0,0,0,,{\fscx100.052\t(28,2989,\fscx109.831)\fscy100\t(28,2989,\fscy109.77)\move(304.501,202.69,292.686,199.332)\fax0.5\blur0.803\frz348.7}{\alpha&HFF&}I know receiv{\alpha&H00&}ing{\alpha&HFF&} a letter
 Dialogue: 0,0:08:06.46,0:08:09.51,Signs - Handwriting,,0,0,0,,{\fscx100.052\t(28,2989,\fscx109.831)\fscy100\t(28,2989,\fscy109.77)\move(304.501,200.681,292.686,197.323)\fax0.5\blur0.803\frz346.1}{\alpha&HFF&}I know receiving{\alpha&H00&} a letter
-Dialogue: 0,0:08:06.46,0:08:09.51,Signs - Handwriting,,0,0,0,,{\fscx100.052\t(28,2989,\fscx109.831)\fscy100\t(28,2989,\fscy109.77)\frz32\move(709.815,145.21,737.606,136.246)\blur0.803}like this might surprise you.
+Dialogue: 0,0:08:06.46,0:08:09.51,Signs - Handwriting,,0,0,0,,{\fscx100.052\t(28,2989,\fscx109.831)\fscy100\t(28,2989,\fscy109.77)\frz27\move(709.815,145.21,737.606,136.246)\blur0.803}like this might surprise you.
 Dialogue: 0,0:08:06.46,0:08:09.51,Signs - Handwriting,,0,0,0,,{\fscx100.052\t(28,2989,\fscx109.831)\fscy100\t(28,2989,\fscy109.77)\fax0.5\move(324.664,255.151,314.828,257.511)\blur0.803\frz358.9}I've been{\alpha&HFF&} interested in you
 Dialogue: 0,0:08:06.46,0:08:09.51,Signs - Handwriting,,0,0,0,,{\fscx100.052\t(28,2989,\fscx109.831)\fscy100\t(28,2989,\fscy109.77)\fax0.5\frz-7\move(324.664,261.176,314.828,263.536)\blur0.803}{\alpha&HFF&}I've been{\alpha&H00&} intere{\alpha&HFF&}sted in you
 Dialogue: 0,0:08:06.46,0:08:09.51,Signs - Handwriting,,0,0,0,,{\fscx100.052\t(28,2989,\fscx109.831)\fscy100\t(28,2989,\fscy109.77)\fax0.5\move(324.664,261.176,314.828,263.536)\blur0.803\frz348.9}{\alpha&HFF&}I've been intere{\alpha&H00&}sted{\alpha&HFF&} in you
 Dialogue: 0,0:08:06.46,0:08:09.51,Signs - Handwriting,,0,0,0,,{\fscx100.052\t(28,2989,\fscx109.831)\fscy100\t(28,2989,\fscy109.77)\fax0.5\move(324.664,261.176,314.828,263.536)\blur0.803\frz348.1}{\alpha&HFF&}I've been interested {\alpha&00&}in you
-Dialogue: 0,0:08:06.46,0:08:09.51,Signs - Handwriting,,0,0,0,,{\fscx100.052\t(28,2989,\fscx109.831)\fscy100\t(28,2989,\fscy109.77)\frz32\move(717.887,201.68,746.458,198.232)\blur0.803}since the first day of school.
+Dialogue: 0,0:08:06.46,0:08:09.51,Signs - Handwriting,,0,0,0,,{\fscx100.052\t(28,2989,\fscx109.831)\fscy100\t(28,2989,\fscy109.77)\frz27\move(717.887,201.68,746.458,198.232)\blur0.803}since the first day of school.
 Dialogue: 0,0:12:20.05,0:12:22.76,Signs,,0,0,0,,{\fscx100.052\t(23,2734,\fscx111.522)\fscy100\t(23,2734,\fscy111.47)\move(243.486,51.428,222.424,29.92,23,2734)\c&H3E413F&\blur0.803\fnFredoka One\fs24.1}Machida{needs: more fitting font, possibly reposition}
 Dialogue: 0,0:12:20.05,0:12:22.76,Signs,,0,0,0,,{\fscx100.052\t(23,2734,\fscx111.522)\fscy100\t(23,2734,\fscy111.47)\move(419.803,51.428,418.952,29.92,23,2734)\c&H484B49&\blur0.803\fnFredoka One\fs24.1}Marriage
 Dialogue: 0,0:12:20.05,0:12:22.76,Signs,,0,0,0,,{\fscx100.052\t(23,2734,\fscx111.522)\fscy100\t(23,2734,\fscy111.47)\move(615.312,51.428,636.878,29.92,23,2734)\c&H515452&\blur0.803\fnFredoka One\fs24.1}Consulting
-Dialogue: 0,0:12:22.76,0:12:25.76,Signs,,0,0,0,,{\move(427,40.336,628.074,40.336,25,2987)\frz5\c&H3128BB&\shad1.512\fax0.02\blur0.803\4c&H444444&}Special Event
+Dialogue: 0,0:12:22.76,0:12:25.76,Signs,,0,0,0,,{\move(427,40.336,629.074,40.336,25,2987)\frz5\c&H3128BB&\shad1.512\fax0.04\blur0.803\4c&H444444&}Special Event
 Dialogue: 0,0:12:22.76,0:12:25.76,Signs,,0,0,0,,{\move(275.871,289.412,476.945,289.412,25,2987)\fax-0.2\frz-6\fs24.202\bord3.026\3c&HCAA4D7&\1c&HCAA4D7&\blur0.803}Matchmaking Party
 Dialogue: 1,0:12:22.76,0:12:25.76,Signs,,0,0,0,,{\move(275.871,289.412,476.945,289.412,25,2987)\fax-0.2\frz-6\fs24.202\c&H5437C9&\blur0.803}Matchmaking Party
-Dialogue: 0,0:12:22.76,0:12:25.76,Signs,,0,0,0,,{\fnArial\b0\move(443.792,409.412,644.866,409.412,25,2987)\bord3.026\fs28.236\frz-11\fax-0.15\3c&HCE3C1E&\1c&HCE3C1E&\blur0.803}Planning Overview
-Dialogue: 1,0:12:22.76,0:12:25.76,Signs,,0,0,0,,{\fnArial\b0\move(443.792,409.412,644.866,409.412,25,2987)\fs28.236\frz-11\fax-0.15\c&HE2D5D5&\blur0.803}Planning Overview
-Dialogue: 0,0:17:19.72,0:17:19.76,Signs,,0,0,0,,{\frz9.45\fax-0.15\blur0.606\fs40.336\pos(494.168,199.664)\org(629,208)\frx0\fry350\c&H292724&\fnFrancois One\fs48.201}Asajigaoka Station
-Dialogue: 0,0:17:19.76,0:17:19.81,Signs,,0,0,0,,{\frz9.45\fax-0.15\blur0.606\fs40.336\pos(494.168,199.09)\org(629,207)\frx0\fry350\c&H292724&\fnFrancois One\fs48.201}Asajigaoka Station
-Dialogue: 0,0:17:19.81,0:17:19.85,Signs,,0,0,0,,{\frz9.45\fax-0.15\blur0.606\fs40.336\pos(494.168,198.444)\org(629,206)\frx0\fry350\c&H292724&\fnFrancois One\fs48.201}Asajigaoka Station
-Dialogue: 0,0:17:19.85,0:17:19.89,Signs,,0,0,0,,{\frz9.45\fax-0.15\blur0.606\fs40.336\pos(494.168,197.858)\org(629,206)\frx0\fry350\c&H292724&\fnFrancois One\fs48.201}Asajigaoka Station
-Dialogue: 0,0:17:19.89,0:17:19.93,Signs,,0,0,0,,{\frz9.45\fax-0.15\blur0.606\fs40.336\pos(494.168,197.264)\org(629,205)\frx0\fry350\c&H292724&\fnFrancois One\fs48.201}Asajigaoka Station
-Dialogue: 0,0:17:19.93,0:17:19.97,Signs,,0,0,0,,{\frz9.45\fax-0.15\blur0.606\fs40.336\pos(494.168,196.648)\org(629,205)\frx0\fry350\c&H292724&\fnFrancois One\fs48.201}Asajigaoka Station
-Dialogue: 0,0:17:19.97,0:17:20.01,Signs,,0,0,0,,{\frz9.45\fax-0.15\blur0.606\fs40.336\pos(494.168,196.064)\org(629,204)\frx0\fry350\c&H292724&\fnFrancois One\fs48.201}Asajigaoka Station
-Dialogue: 0,0:17:20.01,0:17:20.06,Signs,,0,0,0,,{\frz9.45\fax-0.15\blur0.606\fs40.336\pos(494.168,195.478)\org(629,203)\frx0\fry350\c&H292724&\fnFrancois One\fs48.201}Asajigaoka Station
-Dialogue: 0,0:17:20.06,0:17:20.10,Signs,,0,0,0,,{\frz9.45\fax-0.15\blur0.606\fs40.336\pos(494.168,194.864)\org(629,203)\frx0\fry350\c&H292724&\fnFrancois One\fs48.201}Asajigaoka Station
-Dialogue: 0,0:17:20.10,0:17:20.14,Signs,,0,0,0,,{\frz9.45\fax-0.15\blur0.606\fs40.336\pos(494.168,194.268)\org(629,202)\frx0\fry350\c&H292724&\fnFrancois One\fs48.201}Asajigaoka Station
-Dialogue: 0,0:17:20.14,0:17:20.18,Signs,,0,0,0,,{\frz9.45\fax-0.15\blur0.606\fs40.336\pos(494.168,193.624)\org(629,202)\frx0\fry350\c&H292724&\fnFrancois One\fs48.201}Asajigaoka Station
-Dialogue: 0,0:17:20.18,0:17:20.22,Signs,,0,0,0,,{\frz9.45\fax-0.15\blur0.606\fs40.336\pos(494.168,193.028)\org(629,201)\frx0\fry350\c&H292724&\fnFrancois One\fs48.201}Asajigaoka Station
-Dialogue: 0,0:17:20.22,0:17:20.26,Signs,,0,0,0,,{\frz9.45\fax-0.15\blur0.606\fs40.336\pos(494.168,192.474)\org(629,200)\frx0\fry350\c&H292724&\fnFrancois One\fs48.201}Asajigaoka Station
-Dialogue: 0,0:17:20.26,0:17:20.31,Signs,,0,0,0,,{\frz9.45\fax-0.15\blur0.606\fs40.336\pos(494.168,191.89)\org(629,200)\frx0\fry350\c&H292724&\fnFrancois One\fs48.201}Asajigaoka Station
-Dialogue: 0,0:17:20.31,0:17:20.35,Signs,,0,0,0,,{\frz9.45\fax-0.15\blur0.606\fs40.336\pos(494.168,191.214)\org(629,199)\frx0\fry350\c&H292724&\fnFrancois One\fs48.201}Asajigaoka Station
-Dialogue: 0,0:17:20.35,0:17:20.39,Signs,,0,0,0,,{\frz9.45\fax-0.15\blur0.606\fs40.336\pos(494.168,190.638)\org(629,199)\frx0\fry350\c&H292724&\fnFrancois One\fs48.201}Asajigaoka Station
-Dialogue: 0,0:17:20.39,0:17:20.43,Signs,,0,0,0,,{\frz9.45\fax-0.15\blur0.606\fs40.336\pos(494.168,190.044)\org(629,198)\frx0\fry350\c&H292724&\fnFrancois One\fs48.201}Asajigaoka Station
-Dialogue: 0,0:17:20.43,0:17:20.47,Signs,,0,0,0,,{\frz9.45\fax-0.15\blur0.606\fs40.336\pos(494.168,189.448)\org(629,197)\frx0\fry350\c&H292724&\fnFrancois One\fs48.201}Asajigaoka Station
-Dialogue: 0,0:17:20.47,0:17:20.51,Signs,,0,0,0,,{\frz9.45\fax-0.15\blur0.606\fs40.336\pos(494.168,188.854)\org(629,197)\frx0\fry350\c&H292724&\fnFrancois One\fs48.201}Asajigaoka Station
-Dialogue: 0,0:17:20.51,0:17:20.56,Signs,,0,0,0,,{\frz9.45\fax-0.15\blur0.606\fs40.336\pos(494.168,188.258)\org(629,196)\frx0\fry350\c&H292724&\fnFrancois One\fs48.201}Asajigaoka Station
-Dialogue: 0,0:17:20.56,0:17:20.60,Signs,,0,0,0,,{\frz9.45\fax-0.15\blur0.606\fs40.336\pos(494.168,187.644)\org(629,196)\frx0\fry350\c&H292724&\fnFrancois One\fs48.201}Asajigaoka Station
-Dialogue: 0,0:17:20.60,0:17:20.64,Signs,,0,0,0,,{\frz9.45\fax-0.15\blur0.606\fs40.336\pos(494.168,187.038)\org(629,195)\frx0\fry350\c&H292724&\fnFrancois One\fs48.201}Asajigaoka Station
-Dialogue: 0,0:17:20.64,0:17:20.68,Signs,,0,0,0,,{\frz9.45\fax-0.15\blur0.606\fs40.336\pos(494.168,186.424)\org(629,194)\frx0\fry350\c&H292724&\fnFrancois One\fs48.201}Asajigaoka Station
-Dialogue: 0,0:17:20.68,0:17:20.72,Signs,,0,0,0,,{\frz9.45\fax-0.15\blur0.606\fs40.336\pos(494.168,185.818)\org(629,194)\frx0\fry350\c&H292724&\fnFrancois One\fs48.201}Asajigaoka Station
-Dialogue: 0,0:17:20.72,0:17:20.76,Signs,,0,0,0,,{\frz9.45\fax-0.15\blur0.606\fs40.336\pos(494.168,185.244)\org(629,193)\frx0\fry350\c&H292724&\fnFrancois One\fs48.201}Asajigaoka Station
-Dialogue: 0,0:17:20.76,0:17:20.81,Signs,,0,0,0,,{\frz9.45\fax-0.15\blur0.606\fs40.336\pos(494.168,184.668)\org(629,193)\frx0\fry350\c&H292724&\fnFrancois One\fs48.201}Asajigaoka Station
-Dialogue: 0,0:17:20.81,0:17:20.85,Signs,,0,0,0,,{\frz9.45\fax-0.15\blur0.606\fs40.336\pos(494.168,184.004)\org(629,192)\frx0\fry350\c&H292724&\fnFrancois One\fs48.201}Asajigaoka Station
-Dialogue: 0,0:17:20.85,0:17:20.89,Signs,,0,0,0,,{\frz9.45\fax-0.15\blur0.606\fs40.336\pos(494.168,183.418)\org(629,191)\frx0\fry350\c&H292724&\fnFrancois One\fs48.201}Asajigaoka Station
-Dialogue: 0,0:17:20.89,0:17:20.93,Signs,,0,0,0,,{\frz9.45\fax-0.15\blur0.606\fs40.336\pos(494.168,182.844)\org(629,191)\frx0\fry350\c&H292724&\fnFrancois One\fs48.201}Asajigaoka Station
-Dialogue: 0,0:17:20.93,0:17:20.97,Signs,,0,0,0,,{\frz9.45\fax-0.15\blur0.606\fs40.336\pos(494.168,182.208)\org(629,190)\frx0\fry350\c&H292724&\fnFrancois One\fs48.201}Asajigaoka Station
-Dialogue: 0,0:17:20.97,0:17:21.01,Signs,,0,0,0,,{\frz9.45\fax-0.15\blur0.606\fs40.336\pos(494.168,181.654)\org(629,190)\frx0\fry350\c&H292724&\fnFrancois One\fs48.201}Asajigaoka Station
-Dialogue: 0,0:17:21.01,0:17:21.06,Signs,,0,0,0,,{\frz9.45\fax-0.15\blur0.606\fs40.336\pos(494.168,181.028)\org(629,189)\frx0\fry350\c&H292724&\fnFrancois One\fs48.201}Asajigaoka Station
-Dialogue: 0,0:17:21.06,0:17:21.10,Signs,,0,0,0,,{\frz9.45\fax-0.15\blur0.606\fs40.336\pos(494.168,180.454)\org(629,188)\frx0\fry350\c&H292724&\fnFrancois One\fs48.201}Asajigaoka Station
-Dialogue: 0,0:17:21.10,0:17:21.14,Signs,,0,0,0,,{\frz9.45\fax-0.15\blur0.606\fs40.336\pos(494.168,179.838)\org(629,188)\frx0\fry350\c&H292724&\fnFrancois One\fs48.201}Asajigaoka Station
-Dialogue: 0,0:17:21.14,0:17:21.18,Signs,,0,0,0,,{\frz9.45\fax-0.15\blur0.606\fs40.336\pos(494.168,179.214)\org(629,187)\frx0\fry350\c&H292724&\fnFrancois One\fs48.201}Asajigaoka Station
-Dialogue: 0,0:17:21.18,0:17:21.22,Signs,,0,0,0,,{\frz9.45\fax-0.15\blur0.606\fs40.336\pos(494.168,178.608)\org(629,187)\frx0\fry350\c&H292724&\fnFrancois One\fs48.201}Asajigaoka Station
-Dialogue: 0,0:17:21.22,0:17:21.27,Signs,,0,0,0,,{\frz9.45\fax-0.15\blur0.606\fs40.336\pos(494.168,178.034)\org(629,186)\frx0\fry350\c&H292724&\fnFrancois One\fs48.201}Asajigaoka Station
-Dialogue: 0,0:17:21.27,0:17:21.31,Signs,,0,0,0,,{\frz9.45\fax-0.15\blur0.606\fs40.336\pos(494.168,177.458)\org(629,185)\frx0\fry350\c&H292724&\fnFrancois One\fs48.201}Asajigaoka Station
-Dialogue: 0,0:17:21.31,0:17:21.35,Signs,,0,0,0,,{\frz9.45\fax-0.15\blur0.606\fs40.336\pos(494.168,176.784)\org(629,185)\frx0\fry350\c&H292724&\fnFrancois One\fs48.201}Asajigaoka Station
-Dialogue: 0,0:17:21.35,0:17:21.39,Signs,,0,0,0,,{\frz9.45\fax-0.15\blur0.606\fs40.336\pos(494.168,176.208)\org(629,184)\frx0\fry350\c&H292724&\fnFrancois One\fs48.201}Asajigaoka Station
-Dialogue: 0,0:17:21.39,0:17:21.43,Signs,,0,0,0,,{\frz9.45\fax-0.15\blur0.606\fs40.336\pos(494.168,175.634)\org(629,184)\frx0\fry350\c&H292724&\fnFrancois One\fs48.201}Asajigaoka Station
-Dialogue: 0,0:17:21.43,0:17:21.47,Signs,,0,0,0,,{\frz9.45\fax-0.15\blur0.606\fs40.336\pos(494.168,175.018)\org(629,183)\frx0\fry350\c&H292724&\fnFrancois One\fs48.201}Asajigaoka Station
-Dialogue: 0,0:17:21.47,0:17:21.52,Signs,,0,0,0,,{\frz9.45\fax-0.15\blur0.606\fs40.336\pos(494.168,174.414)\org(629,182)\frx0\fry350\c&H292724&\fnFrancois One\fs48.201}Asajigaoka Station
-Dialogue: 0,0:17:21.52,0:17:21.56,Signs,,0,0,0,,{\frz9.45\fax-0.15\blur0.606\fs40.336\pos(494.168,173.818)\org(629,182)\frx0\fry350\c&H292724&\fnFrancois One\fs48.201}Asajigaoka Station
-Dialogue: 0,0:17:21.56,0:17:21.60,Signs,,0,0,0,,{\frz9.45\fax-0.15\blur0.606\fs40.336\pos(494.168,173.224)\org(629,181)\frx0\fry350\c&H292724&\fnFrancois One\fs48.201}Asajigaoka Station
-Dialogue: 0,0:17:21.60,0:17:21.64,Signs,,0,0,0,,{\frz9.45\fax-0.15\blur0.606\fs40.336\pos(494.168,172.618)\org(629,181)\frx0\fry350\c&H292724&\fnFrancois One\fs48.201}Asajigaoka Station
-Dialogue: 0,0:17:21.64,0:17:21.68,Signs,,0,0,0,,{\frz9.45\fax-0.15\blur0.606\fs40.336\pos(494.168,172.014)\org(629,180)\frx0\fry350\c&H292724&\fnFrancois One\fs48.201}Asajigaoka Station
-Dialogue: 0,0:17:21.68,0:17:21.72,Signs,,0,0,0,,{\frz9.45\fax-0.15\blur0.606\fs40.336\pos(494.168,171.408)\org(629,179)\frx0\fry350\c&H292724&\fnFrancois One\fs48.201}Asajigaoka Station
-Dialogue: 0,0:17:21.72,0:17:21.77,Signs,,0,0,0,,{\frz9.45\fax-0.15\blur0.606\fs40.336\pos(494.168,170.834)\org(629,179)\frx0\fry350\c&H292724&\fnFrancois One\fs48.201}Asajigaoka Station
-Dialogue: 0,0:17:21.77,0:17:21.81,Signs,,0,0,0,,{\frz9.45\fax-0.15\blur0.606\fs40.336\pos(494.168,170.198)\org(629,178)\frx0\fry350\c&H292724&\fnFrancois One\fs48.201}Asajigaoka Station
-Dialogue: 0,0:17:21.81,0:17:21.85,Signs,,0,0,0,,{\frz9.45\fax-0.15\blur0.606\fs40.336\pos(494.168,169.584)\org(629,178)\frx0\fry350\c&H292724&\fnFrancois One\fs48.201}Asajigaoka Station
-Dialogue: 0,0:17:21.85,0:17:21.89,Signs,,0,0,0,,{\frz9.45\fax-0.15\blur0.606\fs40.336\pos(494.168,168.998)\org(629,177)\frx0\fry350\c&H292724&\fnFrancois One\fs48.201}Asajigaoka Station
-Dialogue: 0,0:17:21.89,0:17:21.93,Signs,,0,0,0,,{\frz9.45\fax-0.15\blur0.606\fs40.336\pos(494.168,168.404)\org(629,177)\frx0\fry350\c&H292724&\fnFrancois One\fs48.201}Asajigaoka Station
-Dialogue: 0,0:17:21.93,0:17:21.97,Signs,,0,0,0,,{\frz9.45\fax-0.15\blur0.606\fs40.336\pos(494.168,167.798)\org(629,176)\frx0\fry350\c&H292724&\fnFrancois One\fs48.201}Asajigaoka Station
-Dialogue: 0,0:17:21.97,0:17:22.02,Signs,,0,0,0,,{\frz9.45\fax-0.15\blur0.606\fs40.336\pos(494.168,167.214)\org(629,175)\frx0\fry350\c&H292724&\fnFrancois One\fs48.201}Asajigaoka Station
-Dialogue: 0,0:17:22.02,0:17:22.06,Signs,,0,0,0,,{\frz9.45\fax-0.15\blur0.606\fs40.336\pos(494.168,166.598)\org(629,175)\frx0\fry350\c&H292724&\fnFrancois One\fs48.201}Asajigaoka Station
-Dialogue: 0,0:17:22.06,0:17:22.10,Signs,,0,0,0,,{\frz9.45\fax-0.15\blur0.606\fs40.336\pos(494.168,166.014)\org(629,174)\frx0\fry350\c&H292724&\fnFrancois One\fs48.201}Asajigaoka Station
-Dialogue: 0,0:17:22.10,0:17:22.14,Signs,,0,0,0,,{\frz9.45\fax-0.15\blur0.606\fs40.336\pos(494.168,165.428)\org(629,174)\frx0\fry350\c&H292724&\fnFrancois One\fs48.201}Asajigaoka Station
-Dialogue: 0,0:17:22.14,0:17:22.18,Signs,,0,0,0,,{\frz9.45\fax-0.15\blur0.606\fs40.336\pos(494.168,164.774)\org(629,173)\frx0\fry350\c&H292724&\fnFrancois One\fs48.201}Asajigaoka Station
-Dialogue: 0,0:17:22.18,0:17:22.22,Signs,,0,0,0,,{\frz9.45\fax-0.15\blur0.606\fs40.336\pos(494.168,164.198)\org(629,172)\frx0\fry350\c&H292724&\fnFrancois One\fs48.201}Asajigaoka Station
-Dialogue: 0,0:17:22.22,0:17:22.27,Signs,,0,0,0,,{\frz9.45\fax-0.15\blur0.606\fs40.336\pos(494.168,163.614)\org(629,172)\frx0\fry350\c&H292724&\fnFrancois One\fs48.201}Asajigaoka Station
-Dialogue: 0,0:17:22.27,0:17:22.31,Signs,,0,0,0,,{\frz9.45\fax-0.15\blur0.606\fs40.336\pos(494.168,162.988)\org(629,171)\frx0\fry350\c&H292724&\fnFrancois One\fs48.201}Asajigaoka Station
-Dialogue: 0,0:17:22.31,0:17:22.35,Signs,,0,0,0,,{\frz9.45\fax-0.15\blur0.606\fs40.336\pos(494.168,162.374)\org(629,171)\frx0\fry350\c&H292724&\fnFrancois One\fs48.201}Asajigaoka Station
-Dialogue: 0,0:17:22.35,0:17:22.39,Signs,,0,0,0,,{\frz9.45\fax-0.15\blur0.606\fs40.336\pos(494.168,161.778)\org(629,170)\frx0\fry350\c&H292724&\fnFrancois One\fs48.201}Asajigaoka Station
-Dialogue: 0,0:17:22.39,0:17:22.43,Signs,,0,0,0,,{\frz9.45\fax-0.15\blur0.606\fs40.336\pos(494.168,161.194)\org(629,169)\frx0\fry350\c&H292724&\fnFrancois One\fs48.201}Asajigaoka Station
-Dialogue: 0,0:17:22.43,0:17:22.47,Signs,,0,0,0,,{\frz9.45\fax-0.15\blur0.606\fs40.336\pos(494.168,160.598)\org(629,169)\frx0\fry350\c&H292724&\fnFrancois One\fs48.201}Asajigaoka Station
-Dialogue: 0,0:17:22.47,0:17:22.52,Signs,,0,0,0,,{\frz9.45\fax-0.15\blur0.606\fs40.336\pos(494.168,160.004)\org(629,168)\frx0\fry350\c&H292724&\fnFrancois One\fs48.201}Asajigaoka Station
-Dialogue: 0,0:17:22.52,0:17:22.56,Signs,,0,0,0,,{\frz9.45\fax-0.15\blur0.606\fs40.336\pos(494.168,159.398)\org(629,168)\frx0\fry350\c&H292724&\fnFrancois One\fs48.201}Asajigaoka Station
-Dialogue: 0,0:17:22.56,0:17:22.60,Signs,,0,0,0,,{\frz9.45\fax-0.15\blur0.606\fs40.336\pos(494.168,158.804)\org(629,167)\frx0\fry350\c&H292724&\fnFrancois One\fs48.201}Asajigaoka Station
-Dialogue: 0,0:17:22.60,0:17:22.64,Signs,,0,0,0,,{\frz9.45\fax-0.15\blur0.606\fs40.336\pos(494.168,158.198)\org(629,166)\frx0\fry350\c&H292724&\fnFrancois One\fs48.201}Asajigaoka Station
-Dialogue: 0,0:17:22.64,0:17:22.68,Signs,,0,0,0,,{\frz9.45\fax-0.15\blur0.606\fs40.336\pos(494.168,157.552)\org(629,166)\frx0\fry350\c&H292724&\fnFrancois One\fs48.201}Asajigaoka Station
-Dialogue: 0,0:17:22.68,0:17:22.72,Signs,,0,0,0,,{\frz9.45\fax-0.15\blur0.606\fs40.336\pos(494.168,156.978)\org(629,165)\frx0\fry350\c&H292724&\fnFrancois One\fs48.201}Asajigaoka Station
-Dialogue: 0,0:17:22.72,0:17:22.77,Signs,,0,0,0,,{\frz9.45\fax-0.15\blur0.606\fs40.336\pos(494.168,156.384)\org(629,165)\frx0\fry350\c&H292724&\fnFrancois One\fs48.201}Asajigaoka Station
-Dialogue: 0,0:17:22.77,0:17:22.81,Signs,,0,0,0,,{\frz9.45\fax-0.15\blur0.606\fs40.336\pos(494.168,155.788)\org(629,164)\frx0\fry350\c&H292724&\fnFrancois One\fs48.201}Asajigaoka Station
-Dialogue: 0,0:17:22.81,0:17:22.85,Signs,,0,0,0,,{\frz9.45\fax-0.15\blur0.606\fs40.336\pos(494.168,155.174)\org(629,163)\frx0\fry350\c&H292724&\fnFrancois One\fs48.201}Asajigaoka Station
-Dialogue: 0,0:17:22.85,0:17:22.89,Signs,,0,0,0,,{\frz9.45\fax-0.15\blur0.606\fs40.336\pos(494.168,154.578)\org(629,163)\frx0\fry350\c&H292724&\fnFrancois One\fs48.201}Asajigaoka Station
-Dialogue: 0,0:17:22.89,0:17:22.93,Signs,,0,0,0,,{\frz9.45\fax-0.15\blur0.606\fs40.336\pos(494.168,153.984)\org(629,162)\frx0\fry350\c&H292724&\fnFrancois One\fs48.201}Asajigaoka Station
-Dialogue: 0,0:17:22.93,0:17:22.98,Signs,,0,0,0,,{\frz9.45\fax-0.15\blur0.606\fs40.336\pos(494.168,153.378)\org(629,162)\frx0\fry350\c&H292724&\fnFrancois One\fs48.201}Asajigaoka Station
-Dialogue: 0,0:17:22.98,0:17:23.02,Signs,,0,0,0,,{\frz9.45\fax-0.15\blur0.606\fs40.336\pos(494.168,152.784)\org(629,161)\frx0\fry350\c&H292724&\fnFrancois One\fs48.201}Asajigaoka Station
-Dialogue: 0,0:17:23.02,0:17:23.06,Signs,,0,0,0,,{\frz9.45\fax-0.15\blur0.606\fs40.336\pos(494.168,152.188)\org(629,160)\frx0\fry350\c&H292724&\fnFrancois One\fs48.201}Asajigaoka Station
-Dialogue: 0,0:17:23.06,0:17:23.10,Signs,,0,0,0,,{\frz9.45\fax-0.15\blur0.606\fs40.336\pos(494.168,151.584)\org(629,160)\frx0\fry350\c&H292724&\fnFrancois One\fs48.201}Asajigaoka Station
-Dialogue: 0,0:17:23.10,0:17:23.14,Signs,,0,0,0,,{\frz9.45\fax-0.15\blur0.606\fs40.336\pos(494.168,150.978)\org(629,159)\frx0\fry350\c&H292724&\fnFrancois One\fs48.201}Asajigaoka Station
-Dialogue: 0,0:17:23.14,0:17:23.18,Signs,,0,0,0,,{\frz9.45\fax-0.15\blur0.606\fs40.336\pos(494.168,150.342)\org(629,159)\frx0\fry350\c&H292724&\fnFrancois One\fs48.201}Asajigaoka Station
-Dialogue: 0,0:17:23.18,0:17:23.23,Signs,,0,0,0,,{\frz9.45\fax-0.15\blur0.606\fs40.336\pos(494.168,149.768)\org(629,158)\frx0\fry350\c&H292724&\fnFrancois One\fs48.201}Asajigaoka Station
-Dialogue: 0,0:17:23.23,0:17:23.27,Signs,,0,0,0,,{\frz9.45\fax-0.15\blur0.606\fs40.336\pos(494.168,149.184)\org(629,157)\frx0\fry350\c&H292724&\fnFrancois One\fs48.201}Asajigaoka Station
-Dialogue: 0,0:17:23.27,0:17:23.31,Signs,,0,0,0,,{\frz9.45\fax-0.15\blur0.606\fs40.336\pos(494.168,148.558)\org(629,157)\frx0\fry350\c&H292724&\fnFrancois One\fs48.201}Asajigaoka Station
-Dialogue: 0,0:17:23.31,0:17:23.35,Signs,,0,0,0,,{\frz9.45\fax-0.15\blur0.606\fs40.336\pos(494.168,147.964)\org(629,156)\frx0\fry350\c&H292724&\fnFrancois One\fs48.201}Asajigaoka Station
-Dialogue: 0,0:17:23.35,0:17:23.39,Signs,,0,0,0,,{\frz9.45\fax-0.15\blur0.606\fs40.336\pos(494.168,147.348)\org(629,156)\frx0\fry350\c&H292724&\fnFrancois One\fs48.201}Asajigaoka Station
-Dialogue: 0,0:17:23.39,0:17:23.48,Signs,,0,0,0,,{\frz9.45\fax-0.15\blur0.606\fs40.336\pos(494.168,146.774)\org(629,155)\frx0\fry350\c&H292724&\fnFrancois One\fs48.201}Asajigaoka Station
+Dialogue: 0,0:12:22.76,0:12:25.76,Signs,,0,0,0,,{\fnArial\b0\move(443.792,409.412,644.866,409.412,25,2987)\bord3.026\fs28.236\frz-10\fax-0.09\3c&HCE3C1E&\1c&HCE3C1E&\blur0.803}Planning Overview
+Dialogue: 1,0:12:22.76,0:12:25.76,Signs,,0,0,0,,{\fnArial\b0\move(443.792,409.412,644.866,409.412,25,2987)\fs28.236\frz-10\fax-0.09\c&HE2D5D5&\blur0.803}Planning Overview
+Dialogue: 0,0:17:19.72,0:17:19.76,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs40.336\pos(494.168,199.664)\org(629,208)\frx0\fry350\c&H292724&\fnFrancois One\fs48.201}Asajigaoka Station
+Dialogue: 0,0:17:19.76,0:17:19.81,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,199.09)\org(629,207)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:19.81,0:17:19.85,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,198.444)\org(629,206)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:19.85,0:17:19.89,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,197.858)\org(629,206)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:19.89,0:17:19.93,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,197.264)\org(629,205)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:19.93,0:17:19.97,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,196.648)\org(629,205)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:19.97,0:17:20.01,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,196.064)\org(629,204)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:20.01,0:17:20.06,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,195.478)\org(629,203)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:20.06,0:17:20.10,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,194.864)\org(629,203)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:20.10,0:17:20.14,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,194.268)\org(629,202)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:20.14,0:17:20.18,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,193.624)\org(629,202)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:20.18,0:17:20.22,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,193.028)\org(629,201)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:20.22,0:17:20.26,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,192.474)\org(629,200)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:20.26,0:17:20.31,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,191.89)\org(629,200)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:20.31,0:17:20.35,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,191.214)\org(629,199)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:20.35,0:17:20.39,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,190.638)\org(629,199)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:20.39,0:17:20.43,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,190.044)\org(629,198)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:20.43,0:17:20.47,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,189.448)\org(629,197)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:20.47,0:17:20.51,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,188.854)\org(629,197)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:20.51,0:17:20.56,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,188.258)\org(629,196)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:20.56,0:17:20.60,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,187.644)\org(629,196)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:20.60,0:17:20.64,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,187.038)\org(629,195)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:20.64,0:17:20.68,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,186.424)\org(629,194)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:20.68,0:17:20.72,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,185.818)\org(629,194)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:20.72,0:17:20.76,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,185.244)\org(629,193)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:20.76,0:17:20.81,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,184.668)\org(629,193)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:20.81,0:17:20.85,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,184.004)\org(629,192)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:20.85,0:17:20.89,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,183.418)\org(629,191)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:20.89,0:17:20.93,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,182.844)\org(629,191)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:20.93,0:17:20.97,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,182.208)\org(629,190)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:20.97,0:17:21.01,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,181.654)\org(629,190)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:21.01,0:17:21.06,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,181.028)\org(629,189)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:21.06,0:17:21.10,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,180.454)\org(629,188)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:21.10,0:17:21.14,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,179.838)\org(629,188)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:21.14,0:17:21.18,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,179.214)\org(629,187)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:21.18,0:17:21.22,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,178.608)\org(629,187)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:21.22,0:17:21.27,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,178.034)\org(629,186)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:21.27,0:17:21.31,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,177.458)\org(629,185)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:21.31,0:17:21.35,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,176.784)\org(629,185)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:21.35,0:17:21.39,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,176.208)\org(629,184)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:21.39,0:17:21.43,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,175.634)\org(629,184)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:21.43,0:17:21.47,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,175.018)\org(629,183)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:21.47,0:17:21.52,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,174.414)\org(629,182)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:21.52,0:17:21.56,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,173.818)\org(629,182)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:21.56,0:17:21.60,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,173.224)\org(629,181)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:21.60,0:17:21.64,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,172.618)\org(629,181)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:21.64,0:17:21.68,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,172.014)\org(629,180)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:21.68,0:17:21.72,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,171.408)\org(629,179)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:21.72,0:17:21.77,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,170.834)\org(629,179)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:21.77,0:17:21.81,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,170.198)\org(629,178)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:21.81,0:17:21.85,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,169.584)\org(629,178)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:21.85,0:17:21.89,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,168.998)\org(629,177)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:21.89,0:17:21.93,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,168.404)\org(629,177)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:21.93,0:17:21.97,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,167.798)\org(629,176)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:21.97,0:17:22.02,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,167.214)\org(629,175)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:22.02,0:17:22.06,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,166.598)\org(629,175)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:22.06,0:17:22.10,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,166.014)\org(629,174)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:22.10,0:17:22.14,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,165.428)\org(629,174)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:22.14,0:17:22.18,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,164.774)\org(629,173)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:22.18,0:17:22.22,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,164.198)\org(629,172)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:22.22,0:17:22.27,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,163.614)\org(629,172)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:22.27,0:17:22.31,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,162.988)\org(629,171)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:22.31,0:17:22.35,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,162.374)\org(629,171)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:22.35,0:17:22.39,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,161.778)\org(629,170)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:22.39,0:17:22.43,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,161.194)\org(629,169)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:22.43,0:17:22.47,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,160.598)\org(629,169)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:22.47,0:17:22.52,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,160.004)\org(629,168)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:22.52,0:17:22.56,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,159.398)\org(629,168)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:22.56,0:17:22.60,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,158.804)\org(629,167)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:22.60,0:17:22.64,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,158.198)\org(629,166)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:22.64,0:17:22.68,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,157.552)\org(629,166)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:22.68,0:17:22.72,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,156.978)\org(629,165)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:22.72,0:17:22.77,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,156.384)\org(629,165)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:22.77,0:17:22.81,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,155.788)\org(629,164)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:22.81,0:17:22.85,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,155.174)\org(629,163)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:22.85,0:17:22.89,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,154.578)\org(629,163)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:22.89,0:17:22.93,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,153.984)\org(629,162)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:22.93,0:17:22.98,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,153.378)\org(629,162)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:22.98,0:17:23.02,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,152.784)\org(629,161)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:23.02,0:17:23.06,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,152.188)\org(629,160)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:23.06,0:17:23.10,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,151.584)\org(629,160)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:23.10,0:17:23.14,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,150.978)\org(629,159)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:23.14,0:17:23.18,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,150.342)\org(629,159)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:23.18,0:17:23.23,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,149.768)\org(629,158)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:23.23,0:17:23.27,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,149.184)\org(629,157)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:23.27,0:17:23.31,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,148.558)\org(629,157)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:23.31,0:17:23.35,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,147.964)\org(629,156)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:23.35,0:17:23.39,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,147.348)\org(629,156)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:23.39,0:17:23.48,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,146.774)\org(629,155)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
 Dialogue: 0,0:02:08.02,0:02:09.40,Dialogue - Italic,,0,0,0,,Why?
 Dialogue: 0,0:02:10.12,0:02:13.80,Dialogue - Italic,,0,0,0,,Why were my cheeks so flushed?
 Dialogue: 0,0:02:24.33,0:02:28.84,Dialogue - Italic,,0,0,0,,Why was my heart beating so fast?
@@ -411,25 +411,25 @@ Dialogue: 0,0:23:16.66,0:23:16.70,Next EP - Rotating Text,,0,0,0,,{\blur0.603\po
 Dialogue: 1,0:23:16.66,0:23:16.70,Next EP - Rotating Text,,0,0,0,,{\blur0.603\pos(430.588,487.029)\fs60.251\bord0\c&H00000000&\4a&HFF&}{\blur0.703\iclip(m 417.375 388.625 l 418.625 477 748.75 476 742.75 382.625 m 594.5 406.75 l 637.5 402.625 b 642.25 420.75 643.5 455.875 641.125 473 l 599.25 472)}CHIDORI'S JUDGEMENT
 Dialogue: 0,0:23:16.70,0:23:17.20,Next EP - Rotating Text,,0,0,0,,{\blur0.603\pos(430.588,487.029)\fs60.251\bord3.013\3c&HFFFEFE&\c&HFFFEFE&}{\blur0.703}CHIDORI'S JUDGEMENT
 Dialogue: 1,0:23:16.70,0:23:17.20,Next EP - Rotating Text,,0,0,0,,{\blur0.603\pos(430.588,487.029)\fs60.251\bord0\c&H00000000&\4a&HFF&}{\blur0.703}CHIDORI'S JUDGEMENT
-Dialogue: 0,0:23:25.38,0:23:27.46,Next EP - Verdict,,0,0,0,,{\fs55.23\bord3.026\blur3.026\c&HFFFFFF&\pos(574.118,58.243)\clip(359,0,419,54)\t(23,540,\clip(359,0,801,68))}Brother Complex
-Dialogue: 1,0:23:25.38,0:23:27.46,Next EP - Verdict,,0,0,0,,{\fs55.23\bord0\blur0.502\c&H494949&\pos(574.118,58.243)\clip(359,0,419,54)\t(23,540,\clip(359,0,801,68))}Brother Complex
-Dialogue: 0,0:23:25.38,0:23:27.46,Next EP - Verdict,,0,0,0,,{\fs55.23\bord3.026\blur3.026\c&HFFFFFF&\pos(574.118,58.243)\clip(359,0,419,54)\t(23,540,\clip(359,0,801,68))}Brother Complex
-Dialogue: 1,0:23:25.38,0:23:27.46,Next EP - Verdict,,0,0,0,,{\fs55.23\bord0\blur0.502\c&H494949&\pos(574.118,58.243)\clip(359,0,419,54)\t(23,540,\clip(359,0,801,68))}Brother Complex
-Dialogue: 0,0:23:26.67,0:23:27.46,Next EP - Verdict,,0,0,0,,{\fs55.23\bord3.026\blur3.026\c&HFFFFFF&\pos(777.451,58.243)\clip(718,0,762,54)\t(0,850,\clip(718,0,837,68))}??
-Dialogue: 1,0:23:26.67,0:23:27.46,Next EP - Verdict,,0,0,0,,{\fs55.23\bord0\blur0.502\c&H494949&\pos(777.451,58.243)\clip(718,0,762,54)\t(0,850,\clip(718,0,837,68))}??
+Dialogue: 0,0:23:25.34,0:23:27.42,Next EP - Verdict,,0,0,0,,{\fs55.23\bord3.026\blur3.026\c&HFFFFFF&\pos(574.118,58.243)\clip(359,0,419,54)\t(23,540,\clip(359,0,801,68))}Brother Complex
+Dialogue: 1,0:23:25.34,0:23:27.42,Next EP - Verdict,,0,0,0,,{\fs55.23\bord0\blur0.502\c&H494949&\pos(574.118,58.243)\clip(359,0,419,54)\t(23,540,\clip(359,0,801,68))}Brother Complex
+Dialogue: 0,0:23:25.34,0:23:27.42,Next EP - Verdict,,0,0,0,,{\fs55.23\bord3.026\blur3.026\c&HFFFFFF&\pos(574.118,58.243)\clip(359,0,419,54)\t(23,540,\clip(359,0,801,68))}Brother Complex
+Dialogue: 1,0:23:25.34,0:23:27.42,Next EP - Verdict,,0,0,0,,{\fs55.23\bord0\blur0.502\c&H494949&\pos(574.118,58.243)\clip(359,0,419,54)\t(23,540,\clip(359,0,801,68))}Brother Complex
+Dialogue: 0,0:23:26.63,0:23:27.42,Next EP - Verdict,,0,0,0,,{\fs55.23\bord3.026\blur3.026\c&HFFFFFF&\pos(777.451,58.243)\clip(718,0,762,54)\t(0,850,\clip(718,0,837,68))}??
+Dialogue: 1,0:23:26.63,0:23:27.42,Next EP - Verdict,,0,0,0,,{\fs55.23\bord0\blur0.502\c&H494949&\pos(777.451,58.243)\clip(718,0,762,54)\t(0,850,\clip(718,0,837,68))}??
 Dialogue: 0,0:23:17.91,0:23:20.71,Dialogue - Alt,,0,0,0,,I don’t think I have a brother complex.
 Dialogue: 0,0:23:20.71,0:23:23.46,Dialogue - Alt,,0,0,0,,I just asked him for advice when I got a love letter from this guy.
 Dialogue: 0,0:23:23.48,0:23:25.17,Dialogue - Alt,,0,0,0,,Do I really have a brother complex?
 Dialogue: 0,0:23:25.39,0:23:27.42,Dialogue,,0,0,0,,Sentenced to a brother complex!
 Dialogue: 0,0:23:28.09,0:23:30.01,Dialogue,,0,0,0,,W-What’s going on?
-Dialogue: 0,0:23:18.16,0:23:21.48,Next EP - Scrolling Text,,0,0,0,,{\move(936.529,386.611,-211.706,386.611)\q2\blur0.703\c&HFBFDF8&}Next episode:
-Dialogue: 1,0:23:18.16,0:23:21.48,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(936.529,386.611,-211.706,386.611)\q2\blur0.703\4a&HFF&}Next episode:
-Dialogue: 0,0:23:18.16,0:23:21.48,Next EP - Scrolling Text,,0,0,0,,{\move(936.529,456.904,-211.706,456.904)\q2\blur0.703\c&HFBFDF8&}Dew frost
-Dialogue: 1,0:23:18.16,0:23:21.48,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(936.529,456.904,-211.706,456.904)\q2\blur0.703\4a&HFF&}Dew frost
-Dialogue: 0,0:23:18.81,0:23:25.46,Next EP - Scrolling Text,,0,0,0,,{\move(1304.922,386.611,-995.137,386.611)\q2\blur0.703\c&HFBFDF8&}Koshiro goes to see his mother... to reconcile his feelings toward his little sister.
-Dialogue: 1,0:23:18.81,0:23:25.46,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(1304.922,386.611,-995.137,386.611)\q2\blur0.703\4a&HFF&}Koshiro goes to see his mother... to reconcile his feelings toward his little sister.
-Dialogue: 0,0:23:20.11,0:23:27.09,Next EP - Scrolling Text,,0,0,0,,{\move(1314.49,456.904,-1096.804,456.904)\q2\blur0.703\c&HFBFDF8&}But, Koshiro can't get rid of that feeling.
-Dialogue: 1,0:23:20.11,0:23:27.09,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(1314.49,456.904,-1096.804,456.904)\q2\blur0.703\4a&HFF&}But, Koshiro can't get rid of that feeling.
+Dialogue: 0,0:23:18.16,0:23:21.48,Next EP - Scrolling Text,,0,0,0,,{\move(926.53,386.61,-221.71,386.61)\q2\blur0.703\c&HFBFDF8&}Next episode:
+Dialogue: 1,0:23:18.16,0:23:21.48,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(926.53,386.61,-221.71,386.61)\q2\blur0.703\4a&HFF&}Next episode:
+Dialogue: 0,0:23:18.16,0:23:21.48,Next EP - Scrolling Text,,0,0,0,,{\move(926.53,456.9,-221.71,456.9)\q2\blur0.703\c&HFBFDF8&}Dew frost
+Dialogue: 1,0:23:18.16,0:23:21.48,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(926.53,456.9,-221.71,456.9)\q2\blur0.703\4a&HFF&}Dew frost
+Dialogue: 0,0:23:18.81,0:23:25.46,Next EP - Scrolling Text,,0,0,0,,{\move(1294.92,386.61,-1005.14,386.61)\q2\blur0.703\c&HFBFDF8&}Koshiro goes to see his mother... to reconcile his feelings toward his little sister.
+Dialogue: 1,0:23:18.81,0:23:25.46,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(1294.92,386.61,-1005.14,386.61)\q2\blur0.703\4a&HFF&}Koshiro goes to see his mother... to reconcile his feelings toward his little sister.
+Dialogue: 0,0:23:20.11,0:23:27.09,Next EP - Scrolling Text,,0,0,0,,{\move(1304.49,456.9,-1106.8,456.9)\q2\blur0.703\c&HFBFDF8&}But, Koshiro can't get rid of that feeling.
+Dialogue: 1,0:23:20.11,0:23:27.09,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(1304.49,456.9,-1106.8,456.9)\q2\blur0.703\4a&HFF&}But, Koshiro can't get rid of that feeling.
 Dialogue: 0,0:00:11.63,0:00:15.81,OP - Romaji,,0,0,0,fx,{\fad(300,200)\blur0.753}{\k39}ha{\k28}ji{\k31}me{\k30}te {\k31}no {\k95}ki{\k93}mo{\k51}chi
 Dialogue: 0,0:00:16.40,0:00:20.77,OP - Romaji,,0,0,0,fx,{\fad(300,200)\blur0.753}{\k42}sho{\k29}n{\k32}bo{\k32}ri {\k26}no {\k93}mu{\k98}ne {\k47}ni
 Dialogue: 0,0:00:20.77,0:00:29.87,OP - Romaji,,0,0,0,fx,{\fad(300,200)\blur0.753}{\k94}sot{\k85}to {\k71}na{\k94}ge{\k94}ra{\k62}re{\k154}ta {\k32}hi{\k33}da{\k32}ma{\k95}ri{\k49} ne
