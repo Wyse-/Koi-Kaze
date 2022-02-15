@@ -21,9 +21,9 @@ Video File: ../../../../../media/wyse/Media III/[WSE] Koi Kaze [raws v2]/ep10.vp
 Video AR Mode: 4
 Video AR Value: 1.779167
 Video Zoom Percent: 2.768750
-Scroll Position: 282
-Active Line: 307
-Video Position: 33690
+Scroll Position: 291
+Active Line: 305
+Video Position: 33747
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -341,16 +341,16 @@ Dialogue: 0,0:23:16.62,0:23:17.12,Next EP - Rotating Text,,0,0,0,,{\blur0.603\po
 Dialogue: 1,0:23:16.62,0:23:17.12,Next EP - Rotating Text,,0,0,0,,{\blur0.603\pos(430.588,487.029)\fs60.251\bord0\c&H00000000&\4a&HFF&}{\blur0.703}CHIDORI'S JUDGEMENT
 Dialogue: 0,0:23:17.58,0:23:21.83,Dialogue - Alt,,0,0,0,,Play games, listen to music, eat snacks,
 Dialogue: 0,0:23:21.83,0:23:25.13,Dialogue - Alt,,0,0,0,,play games again and chit-chat cheerfully!
-Dialogue: 0,0:23:18.08,0:23:21.18,Next EP - Scrolling Text,,0,0,0,,{\move(937.725,386.611,-150.706,386.611)\q2\blur0.703\c&HFBFDF8&}Next episode:
-Dialogue: 1,0:23:18.08,0:23:21.18,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(937.725,386.611,-150.706,386.611)\q2\blur0.703\4a&HFF&}Next episode:
-Dialogue: 0,0:23:18.08,0:23:21.18,Next EP - Scrolling Text,,0,0,0,,{\move(937.725,456.904,-150.706,456.904)\q2\blur0.703\c&HFBFDF8&}Lingering winter
-Dialogue: 1,0:23:18.08,0:23:21.18,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(937.725,456.904,-150.706,456.904)\q2\blur0.703\4a&HFF&}Lingering winter
-Dialogue: 0,0:23:18.44,0:23:24.52,Next EP - Scrolling Text,,0,0,0,,{\move(1395.824,386.611,-729.608,386.611)\q2\blur0.703\c&HFBFDF8&}Koshiro decides to live right, but his feelings for Nanoka keep getting stronger.
-Dialogue: 1,0:23:18.44,0:23:24.52,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(1395.824,386.611,-729.608,386.611)\q2\blur0.703\4a&HFF&}Koshiro decides to live right, but his feelings for Nanoka keep getting stronger.
-Dialogue: 0,0:23:20.95,0:23:26.25,Next EP - Scrolling Text,,0,0,0,,{\move(1058.529,456.904,-803.765,456.904)\q2\blur0.703\c&HFBFDF8&}He wants to see Nanoka. Koshiro cires.
-Dialogue: 1,0:23:20.95,0:23:26.25,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(1058.529,456.904,-803.765,456.904)\q2\blur0.703\4a&HFF&}He wants to see Nanoka. Koshiro cires.
-Dialogue: 1,0:23:25.13,0:23:26.92,Next EP - Verdict,,0,0,0,,{\pos(621.961,56.234)\bord1.004\blur0.803\bord0\c&H00000000&\4a&HFF&\fs36.151\iclip(411,13,748,60)\t(27,1260,\iclip(748,13,748,60))\fnGochi Hand}Master Takahashi
-Dialogue: 0,0:23:25.13,0:23:26.92,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\c&HFFFFFF&\pos(621.961,60.251)\fs36.151\\iclip(411,13,748,60)\t(27,1260,\iclip(748,13,748,60))\fnGochi Hand}Master Takahashi
+Dialogue: 0,0:23:18.04,0:23:21.12,Next EP - Scrolling Text,,0,0,0,,{\move(942.73,386.61,-145.71,386.61)\q2\blur0.703\c&HFBFDF8&}Next episode:
+Dialogue: 1,0:23:18.04,0:23:21.12,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(942.73,386.61,-145.71,386.61)\q2\blur0.703\4a&HFF&}Next episode:
+Dialogue: 0,0:23:18.04,0:23:21.12,Next EP - Scrolling Text,,0,0,0,,{\move(942.73,456.9,-145.71,456.9)\q2\blur0.703\c&HFBFDF8&}Lingering winter
+Dialogue: 1,0:23:18.04,0:23:21.12,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(942.73,456.9,-145.71,456.9)\q2\blur0.703\4a&HFF&}Lingering winter
+Dialogue: 0,0:23:18.41,0:23:24.46,Next EP - Scrolling Text,,0,0,0,,{\move(1390.82,386.61,-734.61,386.61)\q2\blur0.703\c&HFBFDF8&}Koshiro decides to live right, but his feelings for Nanoka keep getting stronger.
+Dialogue: 1,0:23:18.41,0:23:24.46,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(1390.82,386.61,-734.61,386.61)\q2\blur0.703\4a&HFF&}Koshiro decides to live right, but his feelings for Nanoka keep getting stronger.
+Dialogue: 0,0:23:20.92,0:23:26.21,Next EP - Scrolling Text,,0,0,0,,{\move(1058.529,456.904,-803.765,456.904)\q2\blur0.703\c&HFBFDF8&}He wants to see Nanoka. Koshiro cires.
+Dialogue: 1,0:23:20.92,0:23:26.21,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(1058.529,456.904,-803.765,456.904)\q2\blur0.703\4a&HFF&}He wants to see Nanoka. Koshiro cires.
+Dialogue: 1,0:23:25.09,0:23:26.88,Next EP - Verdict,,0,0,0,,{\pos(621.961,56.234)\bord1.004\blur0.803\bord0\c&H00000000&\4a&HFF&\fs36.151\iclip(448,13,748,60)\t(27,1260,\iclip(748,13,748,60))\fnGochi Hand}Master Takahashi
+Dialogue: 0,0:23:25.09,0:23:26.88,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\c&HFFFFFF&\pos(621.961,60.251)\fs36.151\\iclip(448,13,748,60)\t(27,1260,\iclip(748,13,748,60))\fnGochi Hand}Master Takahashi
 Dialogue: 0,0:23:25.13,0:23:26.88,Dialogue,,0,0,0,,Master Takahashi’s punishment!
 Dialogue: 0,0:00:11.63,0:00:15.81,OP - Romaji,,0,0,0,fx,{\fad(300,200)\blur0.753}{\k39}ha{\k28}ji{\k31}me{\k30}te {\k31}no {\k95}ki{\k93}mo{\k51}chi
 Dialogue: 0,0:00:16.40,0:00:20.77,OP - Romaji,,0,0,0,fx,{\fad(300,200)\blur0.753}{\k42}sho{\k29}n{\k32}bo{\k32}ri {\k26}no {\k93}mu{\k98}ne {\k47}ni
