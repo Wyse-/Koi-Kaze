@@ -16,15 +16,15 @@ YCbCr Matrix: TV.601
 Video Aspect Ratio: c1.78151
 
 [Aegisub Project Garbage]
-Last Style Storage: Koi Kaze
+Last Style Storage: Default
 Audio File: ../../../../../media/wyse/Media III/[WSE] Koi Kaze [DVD x264 478p 10bit FLAC-AC3][Dual Audio]/[WSE] Koi Kaze - 05 [DVD x264 478p 10bit FLAC-AC3][Dual Audio][EE27B255]_JPN_Audio01.flac
 Video File: ../../../../../media/wyse/Media III/[WSE] Koi Kaze [raws v2]/ep5.vpy.mkv
 Video AR Mode: 4
 Video AR Value: 1.779167
 Video Zoom Percent: 2.768750
-Scroll Position: 438
-Active Line: 463
-Video Position: 33726
+Scroll Position: 268
+Active Line: 288
+Video Position: 30472
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -99,155 +99,155 @@ Dialogue: 32,0:01:43.58,0:01:48.92,Title,,0,0,0,,{\c&HC24A98&\clip(m 176.25 419.
 Dialogue: 33,0:01:43.58,0:01:48.92,Title,,0,0,0,,{\c&HC14797&\clip(m 178.625 423.5 l 454.5 314.5 458.125 322.75 182.25 430.5)\pos(286.616,315.635)\blur0.803}{\t(3444,5320,0.7,\blur10.084)\1a&HFF&\t(-5,649,\1a&H00)\fad(0,550)}Distant Thunder
 Dialogue: 34,0:01:43.58,0:01:48.92,Title,,0,0,0,,{\c&HC04495&\clip(m 179.875 426.5 l 455.75 318.75 460.5 325.75 184.625 433.5)\pos(286.616,315.635)\blur0.803}{\t(3444,5320,0.7,\blur10.084)\1a&HFF&\t(-5,649,\1a&H00)\fad(0,550)}Distant Thunder
 Dialogue: 35,0:01:43.58,0:01:48.92,Title,,0,0,0,,{\c&HBE4094&\clip(m 182.25 430.5 l 458.125 322.75 461.625 329.75 187 437.75)\pos(286.616,315.635)\blur0.803}{\t(3444,5320,0.7,\blur10.084)\1a&HFF&\t(-5,649,\1a&H00)\fad(0,550)}Distant Thunder
-Dialogue: 1,0:08:01.66,0:08:05.63,Signs,,0,0,0,,{\fs25.206\frz16\fax-0.37\c&H4D5759&\bord0\blur0.703\4a&HFF&\fnOldNewspaperTypes\pos(592.176,194.129)}Marriage
-Dialogue: 1,0:08:01.66,0:08:05.63,Signs,,0,0,0,,{\fs25.206\frz-36\fax0.85\c&H505756&\bord0\blur0.703\4a&HFF&\fnOldNewspaperTypes\pos(684.309,212.096)}Consulting
-Dialogue: 0,0:08:14.84,0:08:15.34,Signs,,0,0,0,,{\frz21\fax-0.05\pos(434.05,245.042)\c&H6A63D0&\xshad2.016\yshad1.008\4a&H00&\4c&H8696A3&\blur0.904}Proposal for the “Star Festival Matchmaking Party”
-Dialogue: 0,0:08:15.34,0:08:15.39,Signs,,0,0,0,,{\frz21\fax-0.05\pos(434.053,245.042)\c&H6A63D0&\xshad2.016\yshad1.008\4a&H00&\4c&H8696A3&\blur0.904}Proposal for the “Star Festival Matchmaking Party”
-Dialogue: 0,0:08:15.39,0:08:15.43,Signs,,0,0,0,,{\frz21\fax-0.05\pos(433.777,244.316)\c&H6A63D0&\xshad2.016\yshad1.008\4a&H00&\4c&H8696A3&\blur0.904}Proposal for the “Star Festival Matchmaking Party”
-Dialogue: 0,0:08:15.43,0:08:15.47,Signs,,0,0,0,,{\frz21\fax-0.05\pos(433.297,243.126)\c&H6A63D0&\xshad2.016\yshad1.008\4a&H00&\4c&H8696A3&\blur0.904}Proposal for the “Star Festival Matchmaking Party”
-Dialogue: 0,0:08:15.47,0:08:15.51,Signs,,0,0,0,,{\frz21\fax-0.05\pos(432.553,241.352)\c&H6A63D0&\xshad2.016\yshad1.008\4a&H00&\4c&H8696A3&\blur0.904}Proposal for the “Star Festival Matchmaking Party”
-Dialogue: 0,0:08:15.51,0:08:15.55,Signs,,0,0,0,,{\frz21\fax-0.05\pos(431.63,239.062)\c&H6A63D0&\xshad2.016\yshad1.008\4a&H00&\4c&H8696A3&\blur0.904}Proposal for the “Star Festival Matchmaking Party”
-Dialogue: 0,0:08:15.55,0:08:15.59,Signs,,0,0,0,,{\frz21\fax-0.05\pos(430.43,236.006)\c&H6A63D0&\xshad2.016\yshad1.008\4a&H00&\4c&H8696A3&\blur0.904}Proposal for the “Star Festival Matchmaking Party”
-Dialogue: 0,0:08:15.59,0:08:15.64,Signs,,0,0,0,,{\frz21\fax-0.05\pos(428.944,232.216)\c&H6A63D0&\xshad2.016\yshad1.008\4a&H00&\4c&H8696A3&\blur0.904}Proposal for the “Star Festival Matchmaking Party”
-Dialogue: 0,0:08:15.64,0:08:15.68,Signs,,0,0,0,,{\frz21\fax-0.05\pos(426.988,227.626)\c&H6A63D0&\xshad2.016\yshad1.008\4a&H00&\4c&H8696A3&\blur0.904}Proposal for the “Star Festival Matchmaking Party”
-Dialogue: 0,0:08:15.68,0:08:15.72,Signs,,0,0,0,,{\frz21\fax-0.05\pos(424.757,222.122)\c&H6A63D0&\xshad2.016\yshad1.008\4a&H00&\4c&H8696A3&\blur0.904}Proposal for the “Star Festival Matchmaking Party”
-Dialogue: 0,0:08:15.72,0:08:15.76,Signs,,0,0,0,,{\frz21\fax-0.05\pos(422.095,215.596)\c&H6A63D0&\xshad2.016\yshad1.008\4a&H00&\4c&H8696A3&\blur0.904}Proposal for the “Star Festival Matchmaking Party”
-Dialogue: 0,0:08:15.76,0:08:15.80,Signs,,0,0,0,,{\frz21\fax-0.05\pos(418.964,207.902)\c&H6A63D0&\xshad2.016\yshad1.008\4a&H00&\4c&H8696A3&\blur0.904}Proposal for the “Star Festival Matchmaking Party”
-Dialogue: 0,0:08:15.80,0:08:15.85,Signs,,0,0,0,,{\frz21\fax-0.05\pos(415.33,198.848)\c&H6A63D0&\xshad2.016\yshad1.008\4a&H00&\4c&H8696A3&\blur0.904}Proposal for the “Star Festival Matchmaking Party”
-Dialogue: 0,0:08:15.85,0:08:15.89,Signs,,0,0,0,,{\frz21\fax-0.05\pos(411.108,188.532)\c&H6A63D0&\xshad2.016\yshad1.008\4a&H00&\4c&H8696A3&\blur0.904}Proposal for the “Star Festival Matchmaking Party”
-Dialogue: 0,0:08:15.89,0:08:15.93,Signs,,0,0,0,,{\frz21\fax-0.05\pos(406.298,176.592)\c&H6A63D0&\xshad2.016\yshad1.008\4a&H00&\4c&H8696A3&\blur0.904}Proposal for the “Star Festival Matchmaking Party”
-Dialogue: 0,0:08:15.93,0:08:15.97,Signs,,0,0,0,,{\frz21\fax-0.05\pos(400.817,163.018)\c&H6A63D0&\xshad2.016\yshad1.008\4a&H00&\4c&H8696A3&\blur0.904}Proposal for the “Star Festival Matchmaking Party”
-Dialogue: 0,0:08:15.97,0:08:16.01,Signs,,0,0,0,,{\frz21\fax-0.05\pos(394.567,147.722)\c&H6A63D0&\xshad2.016\yshad1.008\4a&H00&\4c&H8696A3&\blur0.904}Proposal for the “Star Festival Matchmaking Party”
-Dialogue: 0,0:08:16.01,0:08:16.05,Signs,,0,0,0,,{\frz21\fax-0.05\pos(387.671,130.83)\c&H6A63D0&\xshad2.016\yshad1.008\4a&H00&\4c&H8696A3&\blur0.904}Proposal for the “Star Festival Matchmaking Party”
-Dialogue: 0,0:08:16.05,0:08:16.10,Signs,,0,0,0,,{\frz21\fax-0.05\pos(380.282,112.478)\c&H6A63D0&\xshad2.016\yshad1.008\4a&H00&\4c&H8696A3&\blur0.904}Proposal for the “Star Festival Matchmaking Party”
-Dialogue: 0,0:08:16.10,0:08:16.14,Signs,,0,0,0,,{\frz21\fax-0.05\pos(372.377,92.994)\c&H6A63D0&\xshad2.016\yshad1.008\4a&H00&\4c&H8696A3&\blur0.904}Proposal for the “Star Festival Matchmaking Party”
-Dialogue: 0,0:08:16.14,0:08:16.18,Signs,,0,0,0,,{\frz21\fax-0.05\pos(364.174,72.826)\c&H6A63D0&\xshad2.016\yshad1.008\4a&H00&\4c&H8696A3&\blur0.904}Proposal for the “Star Festival Matchmaking Party”
-Dialogue: 0,0:08:16.18,0:08:16.22,Signs,,0,0,0,,{\frz21\fax-0.05\pos(356.029,52.658)\c&H6A63D0&\xshad2.016\yshad1.008\4a&H00&\4c&H8696A3&\blur0.904}Proposal for the “Star Festival Matchmaking Party”
-Dialogue: 0,0:08:16.22,0:08:16.26,Signs,,0,0,0,,{\frz21\fax-0.05\pos(347.957,32.984)\c&H6A63D0&\xshad2.016\yshad1.008\4a&H00&\4c&H8696A3&\blur0.904}Proposal for the “Star Festival Matchmaking Party”
-Dialogue: 0,0:08:16.26,0:08:16.30,Signs,,0,0,0,,{\frz21\fax-0.05\pos(340.329,14.238)\c&H6A63D0&\xshad2.016\yshad1.008\4a&H00&\4c&H8696A3&\blur0.904}Proposal for the “Star Festival Matchmaking Party”
-Dialogue: 0,0:08:16.30,0:08:16.35,Signs,,0,0,0,,{\frz21\fax-0.05\pos(333.168,-3.378)\c&H6A63D0&\xshad2.016\yshad1.008\4a&H00&\4c&H8696A3&\blur0.904}Proposal for the “Star Festival Matchmaking Party”
-Dialogue: 0,0:08:16.35,0:08:16.39,Signs,,0,0,0,,{\frz21\fax-0.05\pos(326.619,-19.522)\c&H6A63D0&\xshad2.016\yshad1.008\4a&H00&\4c&H8696A3&\blur0.904}Proposal for the “Star Festival Matchmaking Party”
-Dialogue: 0,0:08:16.39,0:08:16.43,Signs,,0,0,0,,{\frz21\fax-0.05\pos(320.61,-34.336)\c&H6A63D0&\xshad2.016\yshad1.008\4a&H00&\4c&H8696A3&\blur0.904}Proposal for the “Star Festival Matchmaking Party”
-Dialogue: 0,0:08:16.43,0:08:16.47,Signs,,0,0,0,,{\frz21\fax-0.05\pos(315.188,-47.728)\c&H6A63D0&\xshad2.016\yshad1.008\4a&H00&\4c&H8696A3&\blur0.904}Proposal for the “Star Festival Matchmaking Party”
-Dialogue: 0,0:08:16.47,0:08:16.51,Signs,,0,0,0,,{\frz21\fax-0.05\pos(310.162,-59.95)\c&H6A63D0&\xshad2.016\yshad1.008\4a&H00&\4c&H8696A3&\blur0.904}Proposal for the “Star Festival Matchmaking Party”
-Dialogue: 0,0:08:16.51,0:08:16.55,Signs,,0,0,0,,{\frz21\fax-0.05\pos(305.701,-70.922)\c&H6A63D0&\xshad2.016\yshad1.008\4a&H00&\4c&H8696A3&\blur0.904}Proposal for the “Star Festival Matchmaking Party”
-Dialogue: 0,0:08:16.55,0:08:16.60,Signs,,0,0,0,,{\frz21\fax-0.05\pos(301.755,-80.764)\c&H6A63D0&\xshad2.016\yshad1.008\4a&H00&\4c&H8696A3&\blur0.904}Proposal for the “Star Festival Matchmaking Party”
-Dialogue: 0,0:08:16.60,0:08:16.64,Signs,,0,0,0,,{\frz21\fax-0.05\pos(298.144,-89.606)\c&H6A63D0&\xshad2.016\yshad1.008\4a&H00&\4c&H8696A3&\blur0.904}Proposal for the “Star Festival Matchmaking Party”
-Dialogue: 0,0:08:16.64,0:08:16.68,Signs,,0,0,0,,{\frz21\fax-0.05\pos(294.93,-97.584)\c&H6A63D0&\xshad2.016\yshad1.008\4a&H00&\4c&H8696A3&\blur0.904}Proposal for the “Star Festival Matchmaking Party”
-Dialogue: 0,0:08:14.84,0:08:15.30,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.803\c&H1C1C1C&\pos(511.908,495.54)}Targets: Female Members
-Dialogue: 0,0:08:15.30,0:08:15.34,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.803\c&H1C1C1C&\pos(511.908,495.54)}Targets: Female Members
-Dialogue: 0,0:08:15.34,0:08:15.39,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.803\c&H1C1C1C&\pos(511.884,495.338)}Targets: Female Members
-Dialogue: 0,0:08:15.39,0:08:15.43,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.803\c&H1C1C1C&\pos(511.596,494.682)}Targets: Female Members
-Dialogue: 0,0:08:15.43,0:08:15.47,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.803\c&H1C1C1C&\pos(511.033,493.462)}Targets: Female Members
-Dialogue: 0,0:08:15.47,0:08:15.51,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.803\c&H1C1C1C&\pos(510.397,491.728)}Targets: Female Members
-Dialogue: 0,0:08:15.51,0:08:15.55,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.803\c&H1C1C1C&\pos(509.401,489.408)}Targets: Female Members
-Dialogue: 0,0:08:15.55,0:08:15.59,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.803\c&H1C1C1C&\pos(508.19,486.374)}Targets: Female Members
-Dialogue: 0,0:08:15.59,0:08:15.64,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.803\c&H1C1C1C&\pos(506.667,482.542)}Targets: Female Members
-Dialogue: 0,0:08:15.64,0:08:15.68,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.803\c&H1C1C1C&\pos(504.759,477.952)}Targets: Female Members
-Dialogue: 0,0:08:15.68,0:08:15.72,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.803\c&H1C1C1C&\pos(502.553,472.416)}Targets: Female Members
-Dialogue: 0,0:08:15.72,0:08:15.76,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.803\c&H1C1C1C&\pos(499.914,465.902)}Targets: Female Members
-Dialogue: 0,0:08:15.76,0:08:15.80,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.803\c&H1C1C1C&\pos(496.735,458.228)}Targets: Female Members
-Dialogue: 0,0:08:15.80,0:08:15.85,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.803\c&H1C1C1C&\pos(493.089,449.194)}Targets: Female Members
-Dialogue: 0,0:08:15.85,0:08:15.89,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.803\c&H1C1C1C&\pos(488.891,438.848)}Targets: Female Members
-Dialogue: 0,0:08:15.89,0:08:15.93,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.803\c&H1C1C1C&\pos(484.07,426.928)}Targets: Female Members
-Dialogue: 0,0:08:15.93,0:08:15.97,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.803\c&H1C1C1C&\pos(478.564,413.334)}Targets: Female Members
-Dialogue: 0,0:08:15.97,0:08:16.01,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.803\c&H1C1C1C&\pos(472.339,398.068)}Targets: Female Members
-Dialogue: 0,0:08:16.01,0:08:16.05,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.803\c&H1C1C1C&\pos(465.43,381.156)}Targets: Female Members
-Dialogue: 0,0:08:16.05,0:08:16.10,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.803\c&H1C1C1C&\pos(458.018,362.824)}Targets: Female Members
-Dialogue: 0,0:08:16.10,0:08:16.14,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.803\c&H1C1C1C&\pos(450.113,343.332)}Targets: Female Members
-Dialogue: 0,0:08:16.14,0:08:16.18,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.803\c&H1C1C1C&\pos(441.909,323.164)}Targets: Female Members
-Dialogue: 0,0:08:16.18,0:08:16.22,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.803\c&H1C1C1C&\pos(433.753,302.994)}Targets: Female Members
-Dialogue: 0,0:08:16.22,0:08:16.26,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.803\c&H1C1C1C&\pos(425.693,283.31)}Targets: Female Members
-Dialogue: 0,0:08:16.26,0:08:16.30,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.803\c&H1C1C1C&\pos(418.076,264.574)}Targets: Female Members
-Dialogue: 0,0:08:16.30,0:08:16.35,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.803\c&H1C1C1C&\pos(410.915,246.958)}Targets: Female Members
-Dialogue: 0,0:08:16.35,0:08:16.39,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.803\c&H1C1C1C&\pos(404.367,230.804)}Targets: Female Members
-Dialogue: 0,0:08:16.39,0:08:16.43,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.803\c&H1C1C1C&\pos(398.358,215.98)}Targets: Female Members
-Dialogue: 0,0:08:16.43,0:08:16.47,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.803\c&H1C1C1C&\pos(392.936,202.598)}Targets: Female Members
-Dialogue: 0,0:08:16.47,0:08:16.51,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.803\c&H1C1C1C&\pos(387.91,190.386)}Targets: Female Members
-Dialogue: 0,0:08:16.51,0:08:16.55,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.803\c&H1C1C1C&\pos(383.448,179.374)}Targets: Female Members
-Dialogue: 0,0:08:16.55,0:08:16.60,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.803\c&H1C1C1C&\pos(379.491,169.542)}Targets: Female Members
-Dialogue: 0,0:08:16.60,0:08:16.64,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.803\c&H1C1C1C&\pos(375.892,160.7)}Targets: Female Members
-Dialogue: 0,0:08:16.64,0:08:16.68,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.803\c&H1C1C1C&\pos(372.678,152.712)}Targets: Female Members
-Dialogue: 0,0:08:16.68,0:08:16.72,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.803\c&H1C1C1C&\pos(369.787,145.604)}Targets: Female Members
-Dialogue: 0,0:08:16.72,0:08:16.76,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.803\c&H1C1C1C&\pos(367.232,139.322)}Targets: Female Members
-Dialogue: 0,0:08:16.76,0:08:16.80,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.803\c&H1C1C1C&\pos(364.918,133.564)}Targets: Female Members
-Dialogue: 0,0:08:16.80,0:08:16.85,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.803\c&H1C1C1C&\pos(362.818,128.522)}Targets: Female Members
-Dialogue: 0,0:08:16.85,0:08:16.89,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.803\c&H1C1C1C&\pos(361.006,124.064)}Targets: Female Members
-Dialogue: 0,0:08:16.89,0:08:16.93,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.803\c&H1C1C1C&\pos(359.376,120.152)}Targets: Female Members
-Dialogue: 0,0:08:16.93,0:08:16.97,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.803\c&H1C1C1C&\pos(357.996,116.642)}Targets: Female Members
-Dialogue: 0,0:08:16.97,0:08:17.01,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.803\c&H1C1C1C&\pos(356.785,113.626)}Targets: Female Members
-Dialogue: 0,0:08:17.01,0:08:17.05,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.803\c&H1C1C1C&\pos(355.658,111.056)}Targets: Female Members
-Dialogue: 0,0:08:17.05,0:08:17.10,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.803\c&H1C1C1C&\pos(354.818,108.888)}Targets: Female Members
-Dialogue: 0,0:08:17.10,0:08:17.14,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.803\c&H1C1C1C&\pos(354.038,106.962)}Targets: Female Members
-Dialogue: 0,0:08:17.14,0:08:17.18,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.803\c&H1C1C1C&\pos(353.427,105.448)}Targets: Female Members
-Dialogue: 0,0:08:17.18,0:08:17.22,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.803\c&H1C1C1C&\pos(352.935,104.29)}Targets: Female Members
-Dialogue: 0,0:08:17.22,0:08:17.26,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.803\c&H1C1C1C&\pos(352.575,103.362)}Targets: Female Members
-Dialogue: 0,0:08:17.26,0:08:17.30,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.803\c&H1C1C1C&\pos(352.311,102.756)}Targets: Female Members
-Dialogue: 0,0:08:17.30,0:08:17.35,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.803\c&H1C1C1C&\pos(352.227,102.394)}Targets: Female Members
-Dialogue: 0,0:08:15.89,0:08:15.93,Signs,,0,0,0,,{\frz23\fax-0.07\blur0.803\c&H1C1C1C&\pos(590.699,525.62)}Age Fifteen to Marriage Age
-Dialogue: 0,0:08:15.93,0:08:15.97,Signs,,0,0,0,,{\frz23\fax-0.07\blur0.803\c&H1C1C1C&\pos(585.206,512.026)}Age Fifteen to Marriage Age
-Dialogue: 0,0:08:15.97,0:08:16.01,Signs,,0,0,0,,{\frz23\fax-0.07\blur0.803\c&H1C1C1C&\pos(578.981,496.76)}Age Fifteen to Marriage Age
-Dialogue: 0,0:08:16.01,0:08:16.05,Signs,,0,0,0,,{\frz23\fax-0.07\blur0.803\c&H1C1C1C&\pos(572.072,479.848)}Age Fifteen to Marriage Age
-Dialogue: 0,0:08:16.05,0:08:16.10,Signs,,0,0,0,,{\frz23\fax-0.07\blur0.803\c&H1C1C1C&\pos(564.647,461.516)}Age Fifteen to Marriage Age
-Dialogue: 0,0:08:16.10,0:08:16.14,Signs,,0,0,0,,{\frz23\fax-0.07\blur0.803\c&H1C1C1C&\pos(556.755,442.024)}Age Fifteen to Marriage Age
-Dialogue: 0,0:08:16.14,0:08:16.18,Signs,,0,0,0,,{\frz23\fax-0.07\blur0.803\c&H1C1C1C&\pos(548.551,421.856)}Age Fifteen to Marriage Age
-Dialogue: 0,0:08:16.18,0:08:16.22,Signs,,0,0,0,,{\frz23\fax-0.07\blur0.803\c&H1C1C1C&\pos(540.383,401.688)}Age Fifteen to Marriage Age
-Dialogue: 0,0:08:16.22,0:08:16.26,Signs,,0,0,0,,{\frz23\fax-0.07\blur0.803\c&H1C1C1C&\pos(532.335,382.004)}Age Fifteen to Marriage Age
-Dialogue: 0,0:08:16.26,0:08:16.30,Signs,,0,0,0,,{\frz23\fax-0.07\blur0.803\c&H1C1C1C&\pos(524.718,363.268)}Age Fifteen to Marriage Age
-Dialogue: 0,0:08:16.30,0:08:16.35,Signs,,0,0,0,,{\frz23\fax-0.07\blur0.803\c&H1C1C1C&\pos(517.546,345.65)}Age Fifteen to Marriage Age
-Dialogue: 0,0:08:16.35,0:08:16.39,Signs,,0,0,0,,{\frz23\fax-0.07\blur0.803\c&H1C1C1C&\pos(510.997,329.496)}Age Fifteen to Marriage Age
-Dialogue: 0,0:08:16.39,0:08:16.43,Signs,,0,0,0,,{\frz23\fax-0.07\blur0.803\c&H1C1C1C&\pos(504.988,314.672)}Age Fifteen to Marriage Age
-Dialogue: 0,0:08:16.43,0:08:16.47,Signs,,0,0,0,,{\frz23\fax-0.07\blur0.803\c&H1C1C1C&\pos(499.578,301.29)}Age Fifteen to Marriage Age
-Dialogue: 0,0:08:16.47,0:08:16.51,Signs,,0,0,0,,{\frz23\fax-0.07\blur0.803\c&H1C1C1C&\pos(494.552,289.068)}Age Fifteen to Marriage Age
-Dialogue: 0,0:08:16.51,0:08:16.55,Signs,,0,0,0,,{\frz23\fax-0.07\blur0.803\c&H1C1C1C&\pos(490.091,278.068)}Age Fifteen to Marriage Age
-Dialogue: 0,0:08:16.55,0:08:16.60,Signs,,0,0,0,,{\frz23\fax-0.07\blur0.803\c&H1C1C1C&\pos(486.12,268.236)}Age Fifteen to Marriage Age
-Dialogue: 0,0:08:16.60,0:08:16.64,Signs,,0,0,0,,{\frz23\fax-0.07\blur0.803\c&H1C1C1C&\pos(482.534,259.392)}Age Fifteen to Marriage Age
-Dialogue: 0,0:08:16.64,0:08:16.68,Signs,,0,0,0,,{\frz23\fax-0.07\blur0.803\c&H1C1C1C&\pos(479.308,251.406)}Age Fifteen to Marriage Age
-Dialogue: 0,0:08:16.68,0:08:16.72,Signs,,0,0,0,,{\frz23\fax-0.07\blur0.803\c&H1C1C1C&\pos(476.417,244.296)}Age Fifteen to Marriage Age
-Dialogue: 0,0:08:16.72,0:08:16.76,Signs,,0,0,0,,{\frz23\fax-0.07\blur0.803\c&H1C1C1C&\pos(473.874,238.014)}Age Fifteen to Marriage Age
-Dialogue: 0,0:08:16.76,0:08:16.80,Signs,,0,0,0,,{\frz23\fax-0.07\blur0.803\c&H1C1C1C&\pos(471.547,232.256)}Age Fifteen to Marriage Age
-Dialogue: 0,0:08:16.80,0:08:16.85,Signs,,0,0,0,,{\frz23\fax-0.07\blur0.803\c&H1C1C1C&\pos(469.46,227.214)}Age Fifteen to Marriage Age
-Dialogue: 0,0:08:16.85,0:08:16.89,Signs,,0,0,0,,{\frz23\fax-0.07\blur0.803\c&H1C1C1C&\pos(467.649,222.756)}Age Fifteen to Marriage Age
-Dialogue: 0,0:08:16.89,0:08:16.93,Signs,,0,0,0,,{\frz23\fax-0.07\blur0.803\c&H1C1C1C&\pos(466.017,218.844)}Age Fifteen to Marriage Age
-Dialogue: 0,0:08:16.93,0:08:16.97,Signs,,0,0,0,,{\frz23\fax-0.07\blur0.803\c&H1C1C1C&\pos(464.638,215.334)}Age Fifteen to Marriage Age
-Dialogue: 0,0:08:16.97,0:08:17.01,Signs,,0,0,0,,{\frz23\fax-0.07\blur0.803\c&H1C1C1C&\pos(463.427,212.32)}Age Fifteen to Marriage Age
-Dialogue: 0,0:08:17.01,0:08:17.05,Signs,,0,0,0,,{\frz23\fax-0.07\blur0.803\c&H1C1C1C&\pos(462.288,209.748)}Age Fifteen to Marriage Age
-Dialogue: 0,0:08:17.05,0:08:17.10,Signs,,0,0,0,,{\frz23\fax-0.07\blur0.803\c&H1C1C1C&\pos(461.46,207.58)}Age Fifteen to Marriage Age
-Dialogue: 0,0:08:17.10,0:08:17.14,Signs,,0,0,0,,{\frz23\fax-0.07\blur0.803\c&H1C1C1C&\pos(460.68,205.654)}Age Fifteen to Marriage Age
-Dialogue: 0,0:08:17.14,0:08:17.18,Signs,,0,0,0,,{\frz23\fax-0.07\blur0.803\c&H1C1C1C&\pos(460.068,204.142)}Age Fifteen to Marriage Age
-Dialogue: 0,0:08:17.18,0:08:17.22,Signs,,0,0,0,,{\frz23\fax-0.07\blur0.803\c&H1C1C1C&\pos(459.576,202.982)}Age Fifteen to Marriage Age
-Dialogue: 0,0:08:17.22,0:08:17.26,Signs,,0,0,0,,{\frz23\fax-0.07\blur0.803\c&H1C1C1C&\pos(459.204,202.054)}Age Fifteen to Marriage Age
-Dialogue: 0,0:08:17.26,0:08:17.30,Signs,,0,0,0,,{\frz23\fax-0.07\blur0.803\c&H1C1C1C&\pos(458.953,201.448)}Age Fifteen to Marriage Age
-Dialogue: 0,0:08:17.30,0:08:17.35,Signs,,0,0,0,,{\frz23\fax-0.07\blur0.803\c&H1C1C1C&\pos(458.87,201.086)}Age Fifteen to Marriage Age
-Dialogue: 0,0:08:17.35,0:08:18.97,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.803\c&H1C1C1C&\pos(352.179,102.282)}Targets: Female Members
-Dialogue: 0,0:08:17.35,0:08:18.97,Signs,,0,0,0,,{\frz23\fax-0.07\blur0.803\c&H1C1C1C&\pos(458.809,200.974)}Age Fifteen to Marriage Age
-Dialogue: 0,0:08:18.97,0:08:19.01,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.803\c&H1C1C1C&\pos(352.179,102.282)}Targets: Female Members
-Dialogue: 0,0:08:18.97,0:08:19.01,Signs,,0,0,0,,{\frz23\fax-0.07\blur0.803\c&H1C1C1C&\pos(458.809,200.974)}Age Fifteen to Marriage Age
-Dialogue: 0,0:08:19.01,0:08:19.06,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.803\c&H1C1C1C&\pos(352.179,102.282)\iclip(m 397.125 30.125 l 385.125 62.25 358.875 99.375 364.75 100.375 369.625 106.5 397.125 104.375 342.125 155.625 321.75 194.75 355.25 182.75 405.5 140.625 409 153.625 460.5 144.625 532.25 138.625 596.875 98.375 629.125 83.375 675.75 41.125 706.875 14 401.875 1)}Targets: Female Members
-Dialogue: 0,0:08:19.06,0:08:19.14,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.803\c&H1C1C1C&\pos(352.179,102.282)\iclip(m 448.5 17.125 l 436.625 49.25 412.625 83.375 411.5 87.375 419.875 91.375 448.5 91.375 392.375 142.625 372 181.75 406.625 169.75 455.75 127.5 459.25 140.625 510.75 131.5 582.5 125.5 647.125 85.375 678.125 70.25 726 28.125 757.125 1 452.125 -12)}Targets: Female Members
-Dialogue: 0,0:08:19.14,0:08:19.18,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.803\c&H1C1C1C&\pos(352.179,102.282)\iclip(m 486.75 12 l 474.875 44.125 449.75 77.375 447.375 82.375 461.625 85.375 486.75 86.375 431.75 137.625 411.5 176.75 445 164.625 494 122.5 495.125 135.625 549 126.5 620.75 120.5 685.375 80.375 717.625 65.25 764.25 23.125 795.375 -4 490.375 -17.125)}Targets: Female Members
-Dialogue: 0,0:08:19.18,0:08:19.22,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.803\c&H1C1C1C&\pos(352.179,102.282)\iclip(m 450.875 21.125 l 439 53.25 410.25 92.375 412.625 94.375 425.75 94.375 450.875 95.375 394.75 146.625 374.375 185.75 409 173.75 458.125 131.5 461.625 144.625 513.125 135.625 584.875 129.5 649.5 89.375 681.75 74.25 728.375 32.125 759.5 5 454.5 -8)}Targets: Female Members
-Dialogue: 0,0:08:19.22,0:08:19.27,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.803\c&H1C1C1C&\pos(352.179,102.282)\iclip(m 398.25 35.125 l 386.375 67.25 362.375 104.375 363.625 108.5 373.125 108.5 398.25 109.5 343.25 160.625 323 199.875 356.375 187.75 406.625 145.625 410.25 158.625 461.625 149.625 533.5 143.625 596.875 103.375 630.375 88.375 677 46.25 708.125 19.125 403.125 6)}Targets: Female Members
-Dialogue: 0,0:08:19.27,0:08:19.31,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.803\c&H1C1C1C&\pos(352.179,102.282)\iclip(m 457 23.25 l 445 55.5 419.875 88.75 424.625 89.75 431.75 96.75 457 97.75 401.875 149.25 381.375 188.5 415 176.5 464.25 134 467.875 147.25 519.375 138.25 591.25 132 656 91.75 688.5 76.75 735.25 34.25 766.375 7 460.625 -6)}Targets: Female Members
-Dialogue: 0,0:08:19.31,0:08:19.35,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.803\c&H1C1C1C&\pos(352.179,102.282)\iclip(m 495.375 17.25 l 483.375 49.5 458.25 82.75 463 83.75 470.25 90.75 495.375 91.75 440.125 143.25 419.875 182.5 453.375 170.5 502.5 128 506.125 141.25 557.625 132 629.75 126 694.5 85.75 726.875 70.5 773.625 28.25 804.75 1 498.875 -12)}Targets: Female Members
-Dialogue: 0,0:08:19.35,0:08:19.39,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.803\c&H1C1C1C&\pos(352.179,102.282)\iclip(m 449.75 28.25 l 437.75 60.5 412.625 93.75 417.375 94.75 424.625 101.75 449.75 102.75 394.5 154.25 374.25 193.5 407.875 181.5 457 139.25 460.625 152.25 512.25 143.25 584.125 137.25 648.875 96.75 681.375 81.75 728.125 39.25 759.25 12 453.375 -1)}Targets: Female Members
-Dialogue: 0,0:08:19.39,0:08:19.43,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.803\c&H1C1C1C&\pos(352.179,102.282)\iclip(m 398.125 43.25 l 386.125 75.75 361.125 109 365.875 110 373 117 398.125 118 343 169.5 322.625 208.75 356.25 196.75 405.5 154.25 409 167.5 460.625 158.25 532.5 152.25 597.25 112 629.75 96.75 676.5 54.5 707.625 27.25 401.875 14)}Targets: Female Members
-Dialogue: 0,0:08:19.43,0:08:19.47,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.803\c&H1C1C1C&\pos(352.179,102.282)\iclip(m 464.25 29.25 l 452.125 61.5 427 94.75 431.75 95.75 439 102.75 464.25 103.75 409 155.25 388.625 194.5 422.25 182.5 471.375 140.25 475 153.25 526.625 144.25 598.5 138.25 663.25 97.75 695.625 82.75 742.5 40.25 773.625 13 467.875 0)}Targets: Female Members
-Dialogue: 0,0:08:19.47,0:08:19.52,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.803\c&H1C1C1C&\pos(352.179,102.282)\iclip(m 526.625 22.25 l 514.625 54.5 489.375 87.75 494.125 88.75 501.25 95.75 526.625 96.75 471.375 148.25 450.875 187.5 484.5 175.5 533.75 133 537.375 146.25 588.875 137.25 660.875 131 725.75 90.75 758 75.75 804.75 33.25 836 6 530.125 -7)}Targets: Female Members
-Dialogue: 0,0:08:19.52,0:08:19.56,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.803\c&H1C1C1C&\pos(352.179,102.282)\iclip(m 447.375 36.25 l 435.375 68.5 410.25 101.75 415 102.75 422.25 110 447.375 111 392.125 162.25 371.875 201.75 405.5 189.5 454.625 147.25 458.25 160.25 509.875 151.25 581.75 145.25 646.5 104.75 678.875 89.75 725.75 47.5 756.875 20.25 450.875 7)}Targets: Female Members
-Dialogue: 0,0:08:19.56,0:08:19.60,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.803\c&H1C1C1C&\pos(352.179,102.282)\iclip(m 393.375 50.5 l 381.375 82.75 356.25 116 361.125 117 368.25 124 393.375 125 338.25 176.5 317.875 215.75 351.5 203.75 400.625 161.25 404.25 174.5 455.875 165.5 527.75 159.25 592.5 119 625 103.75 671.75 61.5 702.875 34.25 397 21.25)}Targets: Female Members
-Dialogue: 0,0:08:19.60,0:08:19.64,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.803\c&H1C1C1C&\pos(352.179,102.282)\iclip(m 459.5 37.25 l 447.375 69.5 422.25 102.75 427 103.75 434.125 111 459.5 112 404.25 163.25 383.75 202.75 417.375 190.5 466.625 148.25 470.25 161.25 521.75 152.25 593.75 146.25 658.5 106 690.875 90.75 737.625 48.5 768.75 21.25 463 8)}Targets: Female Members
-Dialogue: 0,0:08:19.64,0:08:19.68,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.803\c&H1C1C1C&\pos(352.179,102.282)\iclip(m 525.375 28.25 l 513.375 60.5 488.125 93.75 492.875 94.75 500.125 101.75 525.375 102.75 470.25 154.25 449.75 193.5 483.375 181.5 532.5 139.25 536.125 152.25 587.75 143.25 659.625 137.25 724.5 96.75 756.875 81.75 803.625 39.25 834.875 12 529 -1)}Targets: Female Members
-Dialogue: 0,0:08:19.68,0:08:19.72,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.803\c&H1C1C1C&\pos(352.179,102.282)\iclip(m 466.625 39.25 l 454.625 71.5 429.375 104.75 434.125 106 441.375 113 466.625 114 411.5 165.5 391 204.75 424.625 192.5 473.75 150.25 477.375 163.25 529 154.25 600.875 148.25 665.625 108 698 92.75 744.875 50.5 776.125 23.25 470.25 10)}Targets: Female Members
-Dialogue: 0,0:08:19.72,0:08:19.77,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.803\c&H1C1C1C&\pos(352.179,102.282)\iclip(m 405.5 55.5 l 393.375 87.75 368.25 121 373 122 380.25 129 405.5 130 350.25 181.5 329.875 220.75 363.5 208.75 412.625 166.5 416.25 179.5 467.875 170.5 539.75 164.25 604.5 124 636.875 109 683.75 66.5 714.75 39.25 409 26.25)}Targets: Female Members
-Dialogue: 0,0:08:19.77,0:08:19.81,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.803\c&H1C1C1C&\pos(352.179,102.282)\iclip(m 466.625 44.25 l 454.625 76.75 429.375 110 434.125 111 441.375 118 466.625 119 411.5 170.5 391 209.75 424.625 197.75 473.75 155.25 477.375 168.5 529 159.25 600.875 153.25 665.625 113 698 97.75 744.875 55.5 776.125 28.25 470.25 15.25)}Targets: Female Members
-Dialogue: 0,0:08:19.81,0:08:19.85,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.803\c&H1C1C1C&\pos(352.179,102.282)\iclip(m 523 37.25 l 511 69.5 485.75 102.75 490.5 103.75 497.75 111 523 112 467.875 163.25 447.375 202.75 481 190.5 530.125 148.25 533.75 161.25 585.375 152.25 657.25 146.25 722.125 106 754.375 90.75 801.25 48.5 832.5 21.25 526.625 8)}Targets: Female Members
-Dialogue: 0,0:08:19.01,0:08:19.64,Signs,,0,0,0,,{\frz23\fax-0.07\blur0.803\c&H1C1C1C&\pos(458.809,200.974)}Age Fifteen to Marriage Age
-Dialogue: 0,0:08:19.64,0:08:19.68,Signs,,0,0,0,,{\frz23\fax-0.07\blur0.803\c&H1C1C1C&\pos(458.809,200.974)\iclip(m 525.375 28.25 l 513.375 60.5 488.125 93.75 492.875 94.75 500.125 101.75 525.375 102.75 470.25 154.25 449.75 193.5 483.375 181.5 532.5 139.25 536.125 152.25 587.75 143.25 659.625 137.25 724.5 96.75 756.875 81.75 803.625 39.25 834.875 12 529 -1)}Age Fifteen to Marriage Age
-Dialogue: 0,0:08:19.68,0:08:19.72,Signs,,0,0,0,,{\frz23\fax-0.07\blur0.803\c&H1C1C1C&\pos(458.809,200.974)\iclip(m 466.625 39.25 l 454.625 71.5 429.375 104.75 434.125 106 441.375 113 466.625 114 411.5 165.5 391 204.75 424.625 192.5 473.75 150.25 477.375 163.25 529 154.25 600.875 148.25 665.625 108 698 92.75 744.875 50.5 776.125 23.25 470.25 10)}Age Fifteen to Marriage Age
-Dialogue: 0,0:08:19.72,0:08:19.77,Signs,,0,0,0,,{\frz23\fax-0.07\blur0.803\c&H1C1C1C&\pos(458.809,200.974)\iclip(m 405.5 55.5 l 393.375 87.75 368.25 121 373 122 380.25 129 405.5 130 350.25 181.5 329.875 220.75 363.5 208.75 412.625 166.5 416.25 179.5 467.875 170.5 539.75 164.25 604.5 124 636.875 109 683.75 66.5 714.75 39.25 409 26.25)}Age Fifteen to Marriage Age
-Dialogue: 0,0:08:19.77,0:08:19.81,Signs,,0,0,0,,{\frz23\fax-0.07\blur0.803\c&H1C1C1C&\pos(458.809,200.974)\iclip(m 466.5 44.125 l 454.5 76.375 429.375 109.5 434.125 110.5 441.375 117.5 466.5 118.5 411.5 169.75 389.875 208.875 424.625 196.875 473.625 154.625 477.25 167.75 527.5 161.625 599.25 156.625 665 112.5 697.375 97.375 744 55.25 775 28.125 470 15.125)}Age Fifteen to Marriage Age
-Dialogue: 0,0:08:19.81,0:08:19.85,Signs,,0,0,0,,{\frz23\fax-0.07\blur0.803\c&H1C1C1C&\pos(458.809,200.974)\iclip(m 522.625 37.125 l 510.75 69.25 485.625 102.375 490.375 103.375 495.125 110.5 522.625 111.5 467.625 162.625 445 207.875 480.875 192.75 529.875 147.625 533.5 164.625 582.5 155.625 656.625 148.625 721.25 105.5 753.5 90.375 800.125 48.25 832.5 21.125 526.25 8)}Age Fifteen to Marriage Age
+Dialogue: 1,0:08:01.66,0:08:05.63,Signs,,0,0,0,,{\fs25.206\frz16\fax-0.29\c&H4D5759&\bord0\blur0.703\4a&HFF&\fnOldNewspaperTypes\pos(592.176,194.129)}Marriage
+Dialogue: 1,0:08:01.66,0:08:05.63,Signs,,0,0,0,,{\fs25.206\fax0.65\c&H505756&\bord0\blur0.703\4a&HFF&\fnOldNewspaperTypes\pos(685.753,212.096)\frz327.3}Consulting
+Dialogue: 0,0:08:14.84,0:08:15.34,Signs,,0,0,0,,{\frz17.5\fax0.1\pos(434.05,245.042)\c&H6A63D0&\xshad2.016\yshad1.008\4a&H00&\4c&H8696A3&\blur0.904}Proposal for the “Star Festival Matchmaking Party”
+Dialogue: 0,0:08:15.34,0:08:15.39,Signs,,0,0,0,,{\frz17.5\fax0.1\pos(434.053,245.042)\c&H6A63D0&\xshad2.016\yshad1.008\4a&H00&\4c&H8696A3&\blur0.904}Proposal for the “Star Festival Matchmaking Party”
+Dialogue: 0,0:08:15.39,0:08:15.43,Signs,,0,0,0,,{\frz17.5\fax0.1\pos(433.777,244.316)\c&H6A63D0&\xshad2.016\yshad1.008\4a&H00&\4c&H8696A3&\blur0.904}Proposal for the “Star Festival Matchmaking Party”
+Dialogue: 0,0:08:15.43,0:08:15.47,Signs,,0,0,0,,{\frz17.5\fax0.1\pos(433.297,243.126)\c&H6A63D0&\xshad2.016\yshad1.008\4a&H00&\4c&H8696A3&\blur0.904}Proposal for the “Star Festival Matchmaking Party”
+Dialogue: 0,0:08:15.47,0:08:15.51,Signs,,0,0,0,,{\frz17.5\fax0.1\pos(432.553,241.352)\c&H6A63D0&\xshad2.016\yshad1.008\4a&H00&\4c&H8696A3&\blur0.904}Proposal for the “Star Festival Matchmaking Party”
+Dialogue: 0,0:08:15.51,0:08:15.55,Signs,,0,0,0,,{\frz17.5\fax0.1\pos(431.63,239.062)\c&H6A63D0&\xshad2.016\yshad1.008\4a&H00&\4c&H8696A3&\blur0.904}Proposal for the “Star Festival Matchmaking Party”
+Dialogue: 0,0:08:15.55,0:08:15.59,Signs,,0,0,0,,{\frz17.5\fax0.1\pos(430.43,236.006)\c&H6A63D0&\xshad2.016\yshad1.008\4a&H00&\4c&H8696A3&\blur0.904}Proposal for the “Star Festival Matchmaking Party”
+Dialogue: 0,0:08:15.59,0:08:15.64,Signs,,0,0,0,,{\frz17.5\fax0.1\pos(428.944,232.216)\c&H6A63D0&\xshad2.016\yshad1.008\4a&H00&\4c&H8696A3&\blur0.904}Proposal for the “Star Festival Matchmaking Party”
+Dialogue: 0,0:08:15.64,0:08:15.68,Signs,,0,0,0,,{\frz17.5\fax0.1\pos(426.988,227.626)\c&H6A63D0&\xshad2.016\yshad1.008\4a&H00&\4c&H8696A3&\blur0.904}Proposal for the “Star Festival Matchmaking Party”
+Dialogue: 0,0:08:15.68,0:08:15.72,Signs,,0,0,0,,{\frz17.5\fax0.1\pos(424.757,222.122)\c&H6A63D0&\xshad2.016\yshad1.008\4a&H00&\4c&H8696A3&\blur0.904}Proposal for the “Star Festival Matchmaking Party”
+Dialogue: 0,0:08:15.72,0:08:15.76,Signs,,0,0,0,,{\frz17.5\fax0.1\pos(422.095,215.596)\c&H6A63D0&\xshad2.016\yshad1.008\4a&H00&\4c&H8696A3&\blur0.904}Proposal for the “Star Festival Matchmaking Party”
+Dialogue: 0,0:08:15.76,0:08:15.80,Signs,,0,0,0,,{\frz17.5\fax0.1\pos(418.964,207.902)\c&H6A63D0&\xshad2.016\yshad1.008\4a&H00&\4c&H8696A3&\blur0.904}Proposal for the “Star Festival Matchmaking Party”
+Dialogue: 0,0:08:15.80,0:08:15.85,Signs,,0,0,0,,{\frz17.5\fax0.1\pos(415.33,198.848)\c&H6A63D0&\xshad2.016\yshad1.008\4a&H00&\4c&H8696A3&\blur0.904}Proposal for the “Star Festival Matchmaking Party”
+Dialogue: 0,0:08:15.85,0:08:15.89,Signs,,0,0,0,,{\frz17.5\fax0.1\pos(411.108,188.532)\c&H6A63D0&\xshad2.016\yshad1.008\4a&H00&\4c&H8696A3&\blur0.904}Proposal for the “Star Festival Matchmaking Party”
+Dialogue: 0,0:08:15.89,0:08:15.93,Signs,,0,0,0,,{\frz17.5\fax0.1\pos(406.298,176.592)\c&H6A63D0&\xshad2.016\yshad1.008\4a&H00&\4c&H8696A3&\blur0.904}Proposal for the “Star Festival Matchmaking Party”
+Dialogue: 0,0:08:15.93,0:08:15.97,Signs,,0,0,0,,{\frz17.5\fax0.1\pos(400.817,163.018)\c&H6A63D0&\xshad2.016\yshad1.008\4a&H00&\4c&H8696A3&\blur0.904}Proposal for the “Star Festival Matchmaking Party”
+Dialogue: 0,0:08:15.97,0:08:16.01,Signs,,0,0,0,,{\frz17.5\fax0.1\pos(394.567,147.722)\c&H6A63D0&\xshad2.016\yshad1.008\4a&H00&\4c&H8696A3&\blur0.904}Proposal for the “Star Festival Matchmaking Party”
+Dialogue: 0,0:08:16.01,0:08:16.05,Signs,,0,0,0,,{\frz17.5\fax0.1\pos(387.671,130.83)\c&H6A63D0&\xshad2.016\yshad1.008\4a&H00&\4c&H8696A3&\blur0.904}Proposal for the “Star Festival Matchmaking Party”
+Dialogue: 0,0:08:16.05,0:08:16.10,Signs,,0,0,0,,{\frz17.5\fax0.1\pos(380.282,112.478)\c&H6A63D0&\xshad2.016\yshad1.008\4a&H00&\4c&H8696A3&\blur0.904}Proposal for the “Star Festival Matchmaking Party”
+Dialogue: 0,0:08:16.10,0:08:16.14,Signs,,0,0,0,,{\frz17.5\fax0.1\pos(372.377,92.994)\c&H6A63D0&\xshad2.016\yshad1.008\4a&H00&\4c&H8696A3&\blur0.904}Proposal for the “Star Festival Matchmaking Party”
+Dialogue: 0,0:08:16.14,0:08:16.18,Signs,,0,0,0,,{\frz17.5\fax0.1\pos(364.174,72.826)\c&H6A63D0&\xshad2.016\yshad1.008\4a&H00&\4c&H8696A3&\blur0.904}Proposal for the “Star Festival Matchmaking Party”
+Dialogue: 0,0:08:16.18,0:08:16.22,Signs,,0,0,0,,{\frz17.5\fax0.1\pos(356.029,52.658)\c&H6A63D0&\xshad2.016\yshad1.008\4a&H00&\4c&H8696A3&\blur0.904}Proposal for the “Star Festival Matchmaking Party”
+Dialogue: 0,0:08:16.22,0:08:16.26,Signs,,0,0,0,,{\frz17.5\fax0.1\pos(347.957,32.984)\c&H6A63D0&\xshad2.016\yshad1.008\4a&H00&\4c&H8696A3&\blur0.904}Proposal for the “Star Festival Matchmaking Party”
+Dialogue: 0,0:08:16.26,0:08:16.30,Signs,,0,0,0,,{\frz17.5\fax0.1\pos(340.329,14.238)\c&H6A63D0&\xshad2.016\yshad1.008\4a&H00&\4c&H8696A3&\blur0.904}Proposal for the “Star Festival Matchmaking Party”
+Dialogue: 0,0:08:16.30,0:08:16.35,Signs,,0,0,0,,{\frz17.5\fax0.1\pos(333.168,-3.378)\c&H6A63D0&\xshad2.016\yshad1.008\4a&H00&\4c&H8696A3&\blur0.904}Proposal for the “Star Festival Matchmaking Party”
+Dialogue: 0,0:08:16.35,0:08:16.39,Signs,,0,0,0,,{\frz17.5\fax0.1\pos(326.619,-19.522)\c&H6A63D0&\xshad2.016\yshad1.008\4a&H00&\4c&H8696A3&\blur0.904}Proposal for the “Star Festival Matchmaking Party”
+Dialogue: 0,0:08:16.39,0:08:16.43,Signs,,0,0,0,,{\frz17.5\fax0.1\pos(320.61,-34.336)\c&H6A63D0&\xshad2.016\yshad1.008\4a&H00&\4c&H8696A3&\blur0.904}Proposal for the “Star Festival Matchmaking Party”
+Dialogue: 0,0:08:16.43,0:08:16.47,Signs,,0,0,0,,{\frz17.5\fax0.1\pos(315.188,-47.728)\c&H6A63D0&\xshad2.016\yshad1.008\4a&H00&\4c&H8696A3&\blur0.904}Proposal for the “Star Festival Matchmaking Party”
+Dialogue: 0,0:08:16.47,0:08:16.51,Signs,,0,0,0,,{\frz17.5\fax0.1\pos(310.162,-59.95)\c&H6A63D0&\xshad2.016\yshad1.008\4a&H00&\4c&H8696A3&\blur0.904}Proposal for the “Star Festival Matchmaking Party”
+Dialogue: 0,0:08:16.51,0:08:16.55,Signs,,0,0,0,,{\frz17.5\fax0.1\pos(305.701,-70.922)\c&H6A63D0&\xshad2.016\yshad1.008\4a&H00&\4c&H8696A3&\blur0.904}Proposal for the “Star Festival Matchmaking Party”
+Dialogue: 0,0:08:16.55,0:08:16.60,Signs,,0,0,0,,{\frz17.5\fax0.1\pos(301.755,-80.764)\c&H6A63D0&\xshad2.016\yshad1.008\4a&H00&\4c&H8696A3&\blur0.904}Proposal for the “Star Festival Matchmaking Party”
+Dialogue: 0,0:08:16.60,0:08:16.64,Signs,,0,0,0,,{\frz17.5\fax0.1\pos(298.144,-89.606)\c&H6A63D0&\xshad2.016\yshad1.008\4a&H00&\4c&H8696A3&\blur0.904}Proposal for the “Star Festival Matchmaking Party”
+Dialogue: 0,0:08:16.64,0:08:16.68,Signs,,0,0,0,,{\frz17.5\fax0.1\pos(294.93,-97.584)\c&H6A63D0&\xshad2.016\yshad1.008\4a&H00&\4c&H8696A3&\blur0.904}Proposal for the “Star Festival Matchmaking Party”
+Dialogue: 0,0:08:14.84,0:08:15.30,Signs,,0,0,0,,{\frz18.5\fax0.1\blur0.803\c&H1C1C1C&\pos(511.908,495.54)}Targets: Female Members
+Dialogue: 0,0:08:15.30,0:08:15.34,Signs,,0,0,0,,{\frz18.5\fax0.1\blur0.803\c&H1C1C1C&\pos(511.908,495.54)}Targets: Female Members
+Dialogue: 0,0:08:15.34,0:08:15.39,Signs,,0,0,0,,{\frz18.5\fax0.1\blur0.803\c&H1C1C1C&\pos(511.884,495.338)}Targets: Female Members
+Dialogue: 0,0:08:15.39,0:08:15.43,Signs,,0,0,0,,{\frz18.5\fax0.1\blur0.803\c&H1C1C1C&\pos(511.596,494.682)}Targets: Female Members
+Dialogue: 0,0:08:15.43,0:08:15.47,Signs,,0,0,0,,{\frz18.5\fax0.1\blur0.803\c&H1C1C1C&\pos(511.033,493.462)}Targets: Female Members
+Dialogue: 0,0:08:15.47,0:08:15.51,Signs,,0,0,0,,{\frz18.5\fax0.1\blur0.803\c&H1C1C1C&\pos(510.397,491.728)}Targets: Female Members
+Dialogue: 0,0:08:15.51,0:08:15.55,Signs,,0,0,0,,{\frz18.5\fax0.1\blur0.803\c&H1C1C1C&\pos(509.401,489.408)}Targets: Female Members
+Dialogue: 0,0:08:15.55,0:08:15.59,Signs,,0,0,0,,{\frz18.5\fax0.1\blur0.803\c&H1C1C1C&\pos(508.19,486.374)}Targets: Female Members
+Dialogue: 0,0:08:15.59,0:08:15.64,Signs,,0,0,0,,{\frz18.5\fax0.1\blur0.803\c&H1C1C1C&\pos(506.667,482.542)}Targets: Female Members
+Dialogue: 0,0:08:15.64,0:08:15.68,Signs,,0,0,0,,{\frz18.5\fax0.1\blur0.803\c&H1C1C1C&\pos(504.759,477.952)}Targets: Female Members
+Dialogue: 0,0:08:15.68,0:08:15.72,Signs,,0,0,0,,{\frz18.5\fax0.1\blur0.803\c&H1C1C1C&\pos(502.553,472.416)}Targets: Female Members
+Dialogue: 0,0:08:15.72,0:08:15.76,Signs,,0,0,0,,{\frz18.5\fax0.1\blur0.803\c&H1C1C1C&\pos(499.914,465.902)}Targets: Female Members
+Dialogue: 0,0:08:15.76,0:08:15.80,Signs,,0,0,0,,{\frz18.5\fax0.1\blur0.803\c&H1C1C1C&\pos(496.735,458.228)}Targets: Female Members
+Dialogue: 0,0:08:15.80,0:08:15.85,Signs,,0,0,0,,{\frz18.5\fax0.1\blur0.803\c&H1C1C1C&\pos(493.089,449.194)}Targets: Female Members
+Dialogue: 0,0:08:15.85,0:08:15.89,Signs,,0,0,0,,{\frz18.5\fax0.1\blur0.803\c&H1C1C1C&\pos(488.891,438.848)}Targets: Female Members
+Dialogue: 0,0:08:15.89,0:08:15.93,Signs,,0,0,0,,{\frz18.5\fax0.1\blur0.803\c&H1C1C1C&\pos(484.07,426.928)}Targets: Female Members
+Dialogue: 0,0:08:15.93,0:08:15.97,Signs,,0,0,0,,{\frz18.5\fax0.1\blur0.803\c&H1C1C1C&\pos(478.564,413.334)}Targets: Female Members
+Dialogue: 0,0:08:15.97,0:08:16.01,Signs,,0,0,0,,{\frz18.5\fax0.1\blur0.803\c&H1C1C1C&\pos(472.339,398.068)}Targets: Female Members
+Dialogue: 0,0:08:16.01,0:08:16.05,Signs,,0,0,0,,{\frz18.5\fax0.1\blur0.803\c&H1C1C1C&\pos(465.43,381.156)}Targets: Female Members
+Dialogue: 0,0:08:16.05,0:08:16.10,Signs,,0,0,0,,{\frz18.5\fax0.1\blur0.803\c&H1C1C1C&\pos(458.018,362.824)}Targets: Female Members
+Dialogue: 0,0:08:16.10,0:08:16.14,Signs,,0,0,0,,{\frz18.5\fax0.1\blur0.803\c&H1C1C1C&\pos(450.113,343.332)}Targets: Female Members
+Dialogue: 0,0:08:16.14,0:08:16.18,Signs,,0,0,0,,{\frz18.5\fax0.1\blur0.803\c&H1C1C1C&\pos(441.909,323.164)}Targets: Female Members
+Dialogue: 0,0:08:16.18,0:08:16.22,Signs,,0,0,0,,{\frz18.5\fax0.1\blur0.803\c&H1C1C1C&\pos(433.753,302.994)}Targets: Female Members
+Dialogue: 0,0:08:16.22,0:08:16.26,Signs,,0,0,0,,{\frz18.5\fax0.1\blur0.803\c&H1C1C1C&\pos(425.693,283.31)}Targets: Female Members
+Dialogue: 0,0:08:16.26,0:08:16.30,Signs,,0,0,0,,{\frz18.5\fax0.1\blur0.803\c&H1C1C1C&\pos(418.076,264.574)}Targets: Female Members
+Dialogue: 0,0:08:16.30,0:08:16.35,Signs,,0,0,0,,{\frz18.5\fax0.1\blur0.803\c&H1C1C1C&\pos(410.915,246.958)}Targets: Female Members
+Dialogue: 0,0:08:16.35,0:08:16.39,Signs,,0,0,0,,{\frz18.5\fax0.1\blur0.803\c&H1C1C1C&\pos(404.367,230.804)}Targets: Female Members
+Dialogue: 0,0:08:16.39,0:08:16.43,Signs,,0,0,0,,{\frz18.5\fax0.1\blur0.803\c&H1C1C1C&\pos(398.358,215.98)}Targets: Female Members
+Dialogue: 0,0:08:16.43,0:08:16.47,Signs,,0,0,0,,{\frz18.5\fax0.1\blur0.803\c&H1C1C1C&\pos(392.936,202.598)}Targets: Female Members
+Dialogue: 0,0:08:16.47,0:08:16.51,Signs,,0,0,0,,{\frz18.5\fax0.1\blur0.803\c&H1C1C1C&\pos(387.91,190.386)}Targets: Female Members
+Dialogue: 0,0:08:16.51,0:08:16.55,Signs,,0,0,0,,{\frz18.5\fax0.1\blur0.803\c&H1C1C1C&\pos(383.448,179.374)}Targets: Female Members
+Dialogue: 0,0:08:16.55,0:08:16.60,Signs,,0,0,0,,{\frz18.5\fax0.1\blur0.803\c&H1C1C1C&\pos(379.491,169.542)}Targets: Female Members
+Dialogue: 0,0:08:16.60,0:08:16.64,Signs,,0,0,0,,{\frz18.5\fax0.1\blur0.803\c&H1C1C1C&\pos(375.892,160.7)}Targets: Female Members
+Dialogue: 0,0:08:16.64,0:08:16.68,Signs,,0,0,0,,{\frz18.5\fax0.1\blur0.803\c&H1C1C1C&\pos(372.678,152.712)}Targets: Female Members
+Dialogue: 0,0:08:16.68,0:08:16.72,Signs,,0,0,0,,{\frz18.5\fax0.1\blur0.803\c&H1C1C1C&\pos(369.787,145.604)}Targets: Female Members
+Dialogue: 0,0:08:16.72,0:08:16.76,Signs,,0,0,0,,{\frz18.5\fax0.1\blur0.803\c&H1C1C1C&\pos(367.232,139.322)}Targets: Female Members
+Dialogue: 0,0:08:16.76,0:08:16.80,Signs,,0,0,0,,{\frz18.5\fax0.1\blur0.803\c&H1C1C1C&\pos(364.918,133.564)}Targets: Female Members
+Dialogue: 0,0:08:16.80,0:08:16.85,Signs,,0,0,0,,{\frz18.5\fax0.1\blur0.803\c&H1C1C1C&\pos(362.818,128.522)}Targets: Female Members
+Dialogue: 0,0:08:16.85,0:08:16.89,Signs,,0,0,0,,{\frz18.5\fax0.1\blur0.803\c&H1C1C1C&\pos(361.006,124.064)}Targets: Female Members
+Dialogue: 0,0:08:16.89,0:08:16.93,Signs,,0,0,0,,{\frz18.5\fax0.1\blur0.803\c&H1C1C1C&\pos(359.376,120.152)}Targets: Female Members
+Dialogue: 0,0:08:16.93,0:08:16.97,Signs,,0,0,0,,{\frz18.5\fax0.1\blur0.803\c&H1C1C1C&\pos(357.996,116.642)}Targets: Female Members
+Dialogue: 0,0:08:16.97,0:08:17.01,Signs,,0,0,0,,{\frz18.5\fax0.1\blur0.803\c&H1C1C1C&\pos(356.785,113.626)}Targets: Female Members
+Dialogue: 0,0:08:17.01,0:08:17.05,Signs,,0,0,0,,{\frz18.5\fax0.1\blur0.803\c&H1C1C1C&\pos(355.658,111.056)}Targets: Female Members
+Dialogue: 0,0:08:17.05,0:08:17.10,Signs,,0,0,0,,{\frz18.5\fax0.1\blur0.803\c&H1C1C1C&\pos(354.818,108.888)}Targets: Female Members
+Dialogue: 0,0:08:17.10,0:08:17.14,Signs,,0,0,0,,{\frz18.5\fax0.1\blur0.803\c&H1C1C1C&\pos(354.038,106.962)}Targets: Female Members
+Dialogue: 0,0:08:17.14,0:08:17.18,Signs,,0,0,0,,{\frz18.5\fax0.1\blur0.803\c&H1C1C1C&\pos(353.427,105.448)}Targets: Female Members
+Dialogue: 0,0:08:17.18,0:08:17.22,Signs,,0,0,0,,{\frz18.5\fax0.1\blur0.803\c&H1C1C1C&\pos(352.935,104.29)}Targets: Female Members
+Dialogue: 0,0:08:17.22,0:08:17.26,Signs,,0,0,0,,{\frz18.5\fax0.1\blur0.803\c&H1C1C1C&\pos(352.575,103.362)}Targets: Female Members
+Dialogue: 0,0:08:17.26,0:08:17.30,Signs,,0,0,0,,{\frz18.5\fax0.1\blur0.803\c&H1C1C1C&\pos(352.311,102.756)}Targets: Female Members
+Dialogue: 0,0:08:17.30,0:08:17.35,Signs,,0,0,0,,{\frz18.5\fax0.1\blur0.803\c&H1C1C1C&\pos(352.227,102.394)}Targets: Female Members
+Dialogue: 0,0:08:15.89,0:08:15.93,Signs,,0,0,0,,{\frz19.5\fax0.1\blur0.803\c&H1C1C1C&\pos(590.699,525.62)}Age Fifteen to Marriage Age
+Dialogue: 0,0:08:15.93,0:08:15.97,Signs,,0,0,0,,{\frz19.5\fax0.1\blur0.803\c&H1C1C1C&\pos(585.206,512.026)}Age Fifteen to Marriage Age
+Dialogue: 0,0:08:15.97,0:08:16.01,Signs,,0,0,0,,{\frz19.5\fax0.1\blur0.803\c&H1C1C1C&\pos(578.981,496.76)}Age Fifteen to Marriage Age
+Dialogue: 0,0:08:16.01,0:08:16.05,Signs,,0,0,0,,{\frz19.5\fax0.1\blur0.803\c&H1C1C1C&\pos(572.072,479.848)}Age Fifteen to Marriage Age
+Dialogue: 0,0:08:16.05,0:08:16.10,Signs,,0,0,0,,{\frz19.5\fax0.1\blur0.803\c&H1C1C1C&\pos(564.647,461.516)}Age Fifteen to Marriage Age
+Dialogue: 0,0:08:16.10,0:08:16.14,Signs,,0,0,0,,{\frz19.5\fax0.1\blur0.803\c&H1C1C1C&\pos(556.755,442.024)}Age Fifteen to Marriage Age
+Dialogue: 0,0:08:16.14,0:08:16.18,Signs,,0,0,0,,{\frz19.5\fax0.1\blur0.803\c&H1C1C1C&\pos(548.551,421.856)}Age Fifteen to Marriage Age
+Dialogue: 0,0:08:16.18,0:08:16.22,Signs,,0,0,0,,{\frz19.5\fax0.1\blur0.803\c&H1C1C1C&\pos(540.383,401.688)}Age Fifteen to Marriage Age
+Dialogue: 0,0:08:16.22,0:08:16.26,Signs,,0,0,0,,{\frz19.5\fax0.1\blur0.803\c&H1C1C1C&\pos(532.335,382.004)}Age Fifteen to Marriage Age
+Dialogue: 0,0:08:16.26,0:08:16.30,Signs,,0,0,0,,{\frz19.5\fax0.1\blur0.803\c&H1C1C1C&\pos(524.718,363.268)}Age Fifteen to Marriage Age
+Dialogue: 0,0:08:16.30,0:08:16.35,Signs,,0,0,0,,{\frz19.5\fax0.1\blur0.803\c&H1C1C1C&\pos(517.546,345.65)}Age Fifteen to Marriage Age
+Dialogue: 0,0:08:16.35,0:08:16.39,Signs,,0,0,0,,{\frz19.5\fax0.1\blur0.803\c&H1C1C1C&\pos(510.997,329.496)}Age Fifteen to Marriage Age
+Dialogue: 0,0:08:16.39,0:08:16.43,Signs,,0,0,0,,{\frz19.5\fax0.1\blur0.803\c&H1C1C1C&\pos(504.988,314.672)}Age Fifteen to Marriage Age
+Dialogue: 0,0:08:16.43,0:08:16.47,Signs,,0,0,0,,{\frz19.5\fax0.1\blur0.803\c&H1C1C1C&\pos(499.578,301.29)}Age Fifteen to Marriage Age
+Dialogue: 0,0:08:16.47,0:08:16.51,Signs,,0,0,0,,{\frz19.5\fax0.1\blur0.803\c&H1C1C1C&\pos(494.552,289.068)}Age Fifteen to Marriage Age
+Dialogue: 0,0:08:16.51,0:08:16.55,Signs,,0,0,0,,{\frz19.5\fax0.1\blur0.803\c&H1C1C1C&\pos(490.091,278.068)}Age Fifteen to Marriage Age
+Dialogue: 0,0:08:16.55,0:08:16.60,Signs,,0,0,0,,{\frz19.5\fax0.1\blur0.803\c&H1C1C1C&\pos(486.12,268.236)}Age Fifteen to Marriage Age
+Dialogue: 0,0:08:16.60,0:08:16.64,Signs,,0,0,0,,{\frz19.5\fax0.1\blur0.803\c&H1C1C1C&\pos(482.534,259.392)}Age Fifteen to Marriage Age
+Dialogue: 0,0:08:16.64,0:08:16.68,Signs,,0,0,0,,{\frz19.5\fax0.1\blur0.803\c&H1C1C1C&\pos(479.308,251.406)}Age Fifteen to Marriage Age
+Dialogue: 0,0:08:16.68,0:08:16.72,Signs,,0,0,0,,{\frz19.5\fax0.1\blur0.803\c&H1C1C1C&\pos(476.417,244.296)}Age Fifteen to Marriage Age
+Dialogue: 0,0:08:16.72,0:08:16.76,Signs,,0,0,0,,{\frz19.5\fax0.1\blur0.803\c&H1C1C1C&\pos(473.874,238.014)}Age Fifteen to Marriage Age
+Dialogue: 0,0:08:16.76,0:08:16.80,Signs,,0,0,0,,{\frz19.5\fax0.1\blur0.803\c&H1C1C1C&\pos(471.547,232.256)}Age Fifteen to Marriage Age
+Dialogue: 0,0:08:16.80,0:08:16.85,Signs,,0,0,0,,{\frz19.5\fax0.1\blur0.803\c&H1C1C1C&\pos(469.46,227.214)}Age Fifteen to Marriage Age
+Dialogue: 0,0:08:16.85,0:08:16.89,Signs,,0,0,0,,{\frz19.5\fax0.1\blur0.803\c&H1C1C1C&\pos(467.649,222.756)}Age Fifteen to Marriage Age
+Dialogue: 0,0:08:16.89,0:08:16.93,Signs,,0,0,0,,{\frz19.5\fax0.1\blur0.803\c&H1C1C1C&\pos(466.017,218.844)}Age Fifteen to Marriage Age
+Dialogue: 0,0:08:16.93,0:08:16.97,Signs,,0,0,0,,{\frz19.5\fax0.1\blur0.803\c&H1C1C1C&\pos(464.638,215.334)}Age Fifteen to Marriage Age
+Dialogue: 0,0:08:16.97,0:08:17.01,Signs,,0,0,0,,{\frz19.5\fax0.1\blur0.803\c&H1C1C1C&\pos(463.427,212.32)}Age Fifteen to Marriage Age
+Dialogue: 0,0:08:17.01,0:08:17.05,Signs,,0,0,0,,{\frz19.5\fax0.1\blur0.803\c&H1C1C1C&\pos(462.288,209.748)}Age Fifteen to Marriage Age
+Dialogue: 0,0:08:17.05,0:08:17.10,Signs,,0,0,0,,{\frz19.5\fax0.1\blur0.803\c&H1C1C1C&\pos(461.46,207.58)}Age Fifteen to Marriage Age
+Dialogue: 0,0:08:17.10,0:08:17.14,Signs,,0,0,0,,{\frz19.5\fax0.1\blur0.803\c&H1C1C1C&\pos(460.68,205.654)}Age Fifteen to Marriage Age
+Dialogue: 0,0:08:17.14,0:08:17.18,Signs,,0,0,0,,{\frz19.5\fax0.1\blur0.803\c&H1C1C1C&\pos(460.068,204.142)}Age Fifteen to Marriage Age
+Dialogue: 0,0:08:17.18,0:08:17.22,Signs,,0,0,0,,{\frz19.5\fax0.1\blur0.803\c&H1C1C1C&\pos(459.576,202.982)}Age Fifteen to Marriage Age
+Dialogue: 0,0:08:17.22,0:08:17.26,Signs,,0,0,0,,{\frz19.5\fax0.1\blur0.803\c&H1C1C1C&\pos(459.204,202.054)}Age Fifteen to Marriage Age
+Dialogue: 0,0:08:17.26,0:08:17.30,Signs,,0,0,0,,{\frz19.5\fax0.1\blur0.803\c&H1C1C1C&\pos(458.953,201.448)}Age Fifteen to Marriage Age
+Dialogue: 0,0:08:17.30,0:08:17.35,Signs,,0,0,0,,{\frz19.5\fax0.1\blur0.803\c&H1C1C1C&\pos(458.87,201.086)}Age Fifteen to Marriage Age
+Dialogue: 0,0:08:17.35,0:08:18.97,Signs,,0,0,0,,{\frz18.5\fax0.1\blur0.803\c&H1C1C1C&\pos(352.179,102.282)}Targets: Female Members
+Dialogue: 0,0:08:17.35,0:08:18.97,Signs,,0,0,0,,{\frz19.5\fax0.1\blur0.803\c&H1C1C1C&\pos(458.809,200.974)}Age Fifteen to Marriage Age
+Dialogue: 0,0:08:18.97,0:08:19.01,Signs,,0,0,0,,{\frz18.5\fax0.1\blur0.803\c&H1C1C1C&\pos(352.179,102.282)}Targets: Female Members
+Dialogue: 0,0:08:18.97,0:08:19.01,Signs,,0,0,0,,{\frz19.5\fax0.1\blur0.803\c&H1C1C1C&\pos(458.809,200.974)}Age Fifteen to Marriage Age
+Dialogue: 0,0:08:19.01,0:08:19.06,Signs,,0,0,0,,{\frz18.5\fax0.1\blur0.803\c&H1C1C1C&\pos(352.179,102.282)\iclip(m 397.125 30.125 l 385.125 62.25 358.875 99.375 364.75 100.375 369.625 106.5 397.125 104.375 342.125 155.625 321.75 194.75 355.25 182.75 405.5 140.625 409 153.625 460.5 144.625 532.25 138.625 596.875 98.375 629.125 83.375 675.75 41.125 706.875 14 401.875 1)}Targets: Female Members
+Dialogue: 0,0:08:19.06,0:08:19.14,Signs,,0,0,0,,{\frz18.5\fax0.1\blur0.803\c&H1C1C1C&\pos(352.179,102.282)\iclip(m 448.5 17.125 l 436.625 49.25 412.625 83.375 411.5 87.375 419.875 91.375 448.5 91.375 392.375 142.625 372 181.75 406.625 169.75 455.75 127.5 459.25 140.625 510.75 131.5 582.5 125.5 647.125 85.375 678.125 70.25 726 28.125 757.125 1 452.125 -12)}Targets: Female Members
+Dialogue: 0,0:08:19.14,0:08:19.18,Signs,,0,0,0,,{\frz18.5\fax0.1\blur0.803\c&H1C1C1C&\pos(352.179,102.282)\iclip(m 486.75 12 l 474.875 44.125 449.75 77.375 447.375 82.375 461.625 85.375 486.75 86.375 431.75 137.625 411.5 176.75 445 164.625 494 122.5 495.125 135.625 549 126.5 620.75 120.5 685.375 80.375 717.625 65.25 764.25 23.125 795.375 -4 490.375 -17.125)}Targets: Female Members
+Dialogue: 0,0:08:19.18,0:08:19.22,Signs,,0,0,0,,{\frz18.5\fax0.1\blur0.803\c&H1C1C1C&\pos(352.179,102.282)\iclip(m 450.875 21.125 l 439 53.25 410.25 92.375 412.625 94.375 425.75 94.375 450.875 95.375 394.75 146.625 374.375 185.75 409 173.75 458.125 131.5 461.625 144.625 513.125 135.625 584.875 129.5 649.5 89.375 681.75 74.25 728.375 32.125 759.5 5 454.5 -8)}Targets: Female Members
+Dialogue: 0,0:08:19.22,0:08:19.27,Signs,,0,0,0,,{\frz18.5\fax0.1\blur0.803\c&H1C1C1C&\pos(352.179,102.282)\iclip(m 398.25 35.125 l 386.375 67.25 362.375 104.375 363.625 108.5 373.125 108.5 398.25 109.5 343.25 160.625 323 199.875 356.375 187.75 406.625 145.625 410.25 158.625 461.625 149.625 533.5 143.625 596.875 103.375 630.375 88.375 677 46.25 708.125 19.125 403.125 6)}Targets: Female Members
+Dialogue: 0,0:08:19.27,0:08:19.31,Signs,,0,0,0,,{\frz18.5\fax0.1\blur0.803\c&H1C1C1C&\pos(352.179,102.282)\iclip(m 457 23.25 l 445 55.5 419.875 88.75 424.625 89.75 431.75 96.75 457 97.75 401.875 149.25 381.375 188.5 415 176.5 464.25 134 467.875 147.25 519.375 138.25 591.25 132 656 91.75 688.5 76.75 735.25 34.25 766.375 7 460.625 -6)}Targets: Female Members
+Dialogue: 0,0:08:19.31,0:08:19.35,Signs,,0,0,0,,{\frz18.5\fax0.1\blur0.803\c&H1C1C1C&\pos(352.179,102.282)\iclip(m 495.375 17.25 l 483.375 49.5 458.25 82.75 463 83.75 470.25 90.75 495.375 91.75 440.125 143.25 419.875 182.5 453.375 170.5 502.5 128 506.125 141.25 557.625 132 629.75 126 694.5 85.75 726.875 70.5 773.625 28.25 804.75 1 498.875 -12)}Targets: Female Members
+Dialogue: 0,0:08:19.35,0:08:19.39,Signs,,0,0,0,,{\frz18.5\fax0.1\blur0.803\c&H1C1C1C&\pos(352.179,102.282)\iclip(m 449.75 28.25 l 437.75 60.5 412.625 93.75 417.375 94.75 424.625 101.75 449.75 102.75 394.5 154.25 374.25 193.5 407.875 181.5 457 139.25 460.625 152.25 512.25 143.25 584.125 137.25 648.875 96.75 681.375 81.75 728.125 39.25 759.25 12 453.375 -1)}Targets: Female Members
+Dialogue: 0,0:08:19.39,0:08:19.43,Signs,,0,0,0,,{\frz18.5\fax0.1\blur0.803\c&H1C1C1C&\pos(352.179,102.282)\iclip(m 398.125 43.25 l 386.125 75.75 361.125 109 365.875 110 373 117 398.125 118 343 169.5 322.625 208.75 356.25 196.75 405.5 154.25 409 167.5 460.625 158.25 532.5 152.25 597.25 112 629.75 96.75 676.5 54.5 707.625 27.25 401.875 14)}Targets: Female Members
+Dialogue: 0,0:08:19.43,0:08:19.47,Signs,,0,0,0,,{\frz18.5\fax0.1\blur0.803\c&H1C1C1C&\pos(352.179,102.282)\iclip(m 464.25 29.25 l 452.125 61.5 427 94.75 431.75 95.75 439 102.75 464.25 103.75 409 155.25 388.625 194.5 422.25 182.5 471.375 140.25 475 153.25 526.625 144.25 598.5 138.25 663.25 97.75 695.625 82.75 742.5 40.25 773.625 13 467.875 0)}Targets: Female Members
+Dialogue: 0,0:08:19.47,0:08:19.52,Signs,,0,0,0,,{\frz18.5\fax0.1\blur0.803\c&H1C1C1C&\pos(352.179,102.282)\iclip(m 526.625 22.25 l 514.625 54.5 489.375 87.75 494.125 88.75 501.25 95.75 526.625 96.75 471.375 148.25 450.875 187.5 484.5 175.5 533.75 133 537.375 146.25 588.875 137.25 660.875 131 725.75 90.75 758 75.75 804.75 33.25 836 6 530.125 -7)}Targets: Female Members
+Dialogue: 0,0:08:19.52,0:08:19.56,Signs,,0,0,0,,{\frz18.5\fax0.1\blur0.803\c&H1C1C1C&\pos(352.179,102.282)\iclip(m 447.375 36.25 l 435.375 68.5 410.25 101.75 415 102.75 422.25 110 447.375 111 392.125 162.25 371.875 201.75 405.5 189.5 454.625 147.25 458.25 160.25 509.875 151.25 581.75 145.25 646.5 104.75 678.875 89.75 725.75 47.5 756.875 20.25 450.875 7)}Targets: Female Members
+Dialogue: 0,0:08:19.56,0:08:19.60,Signs,,0,0,0,,{\frz18.5\fax0.1\blur0.803\c&H1C1C1C&\pos(352.179,102.282)\iclip(m 393.375 50.5 l 381.375 82.75 356.25 116 361.125 117 368.25 124 393.375 125 338.25 176.5 317.875 215.75 351.5 203.75 400.625 161.25 404.25 174.5 455.875 165.5 527.75 159.25 592.5 119 625 103.75 671.75 61.5 702.875 34.25 397 21.25)}Targets: Female Members
+Dialogue: 0,0:08:19.60,0:08:19.64,Signs,,0,0,0,,{\frz18.5\fax0.1\blur0.803\c&H1C1C1C&\pos(352.179,102.282)\iclip(m 459.5 37.25 l 447.375 69.5 422.25 102.75 427 103.75 434.125 111 459.5 112 404.25 163.25 383.75 202.75 417.375 190.5 466.625 148.25 470.25 161.25 521.75 152.25 593.75 146.25 658.5 106 690.875 90.75 737.625 48.5 768.75 21.25 463 8)}Targets: Female Members
+Dialogue: 0,0:08:19.64,0:08:19.68,Signs,,0,0,0,,{\frz18.5\fax0.1\blur0.803\c&H1C1C1C&\pos(352.179,102.282)\iclip(m 525.375 28.25 l 513.375 60.5 488.125 93.75 492.875 94.75 500.125 101.75 525.375 102.75 470.25 154.25 449.75 193.5 483.375 181.5 532.5 139.25 536.125 152.25 587.75 143.25 659.625 137.25 724.5 96.75 756.875 81.75 803.625 39.25 834.875 12 529 -1)}Targets: Female Members
+Dialogue: 0,0:08:19.68,0:08:19.72,Signs,,0,0,0,,{\frz18.5\fax0.1\blur0.803\c&H1C1C1C&\pos(352.179,102.282)\iclip(m 466.625 39.25 l 454.625 71.5 429.375 104.75 434.125 106 441.375 113 466.625 114 411.5 165.5 391 204.75 424.625 192.5 473.75 150.25 477.375 163.25 529 154.25 600.875 148.25 665.625 108 698 92.75 744.875 50.5 776.125 23.25 470.25 10)}Targets: Female Members
+Dialogue: 0,0:08:19.72,0:08:19.77,Signs,,0,0,0,,{\frz18.5\fax0.1\blur0.803\c&H1C1C1C&\pos(352.179,102.282)\iclip(m 405.5 55.5 l 393.375 87.75 368.25 121 373 122 380.25 129 405.5 130 350.25 181.5 329.875 220.75 363.5 208.75 412.625 166.5 416.25 179.5 467.875 170.5 539.75 164.25 604.5 124 636.875 109 683.75 66.5 714.75 39.25 409 26.25)}Targets: Female Members
+Dialogue: 0,0:08:19.77,0:08:19.81,Signs,,0,0,0,,{\frz18.5\fax0.1\blur0.803\c&H1C1C1C&\pos(352.179,102.282)\iclip(m 466.625 44.25 l 454.625 76.75 429.375 110 434.125 111 441.375 118 466.625 119 411.5 170.5 391 209.75 424.625 197.75 473.75 155.25 477.375 168.5 529 159.25 600.875 153.25 665.625 113 698 97.75 744.875 55.5 776.125 28.25 470.25 15.25)}Targets: Female Members
+Dialogue: 0,0:08:19.81,0:08:19.85,Signs,,0,0,0,,{\frz18.5\fax0.1\blur0.803\c&H1C1C1C&\pos(352.179,102.282)\iclip(m 523 37.25 l 511 69.5 485.75 102.75 490.5 103.75 497.75 111 523 112 467.875 163.25 447.375 202.75 481 190.5 530.125 148.25 533.75 161.25 585.375 152.25 657.25 146.25 722.125 106 754.375 90.75 801.25 48.5 832.5 21.25 526.625 8)}Targets: Female Members
+Dialogue: 0,0:08:19.01,0:08:19.64,Signs,,0,0,0,,{\frz19.5\fax0.1\blur0.803\c&H1C1C1C&\pos(458.809,200.974)}Age Fifteen to Marriage Age
+Dialogue: 0,0:08:19.64,0:08:19.68,Signs,,0,0,0,,{\frz19.5\fax0.1\blur0.803\c&H1C1C1C&\pos(458.809,200.974)\iclip(m 525.375 28.25 l 513.375 60.5 488.125 93.75 492.875 94.75 500.125 101.75 525.375 102.75 470.25 154.25 449.75 193.5 483.375 181.5 532.5 139.25 536.125 152.25 587.75 143.25 659.625 137.25 724.5 96.75 756.875 81.75 803.625 39.25 834.875 12 529 -1)}Age Fifteen to Marriage Age
+Dialogue: 0,0:08:19.68,0:08:19.72,Signs,,0,0,0,,{\frz19.5\fax0.1\blur0.803\c&H1C1C1C&\pos(458.809,200.974)\iclip(m 466.625 39.25 l 454.625 71.5 429.375 104.75 434.125 106 441.375 113 466.625 114 411.5 165.5 391 204.75 424.625 192.5 473.75 150.25 477.375 163.25 529 154.25 600.875 148.25 665.625 108 698 92.75 744.875 50.5 776.125 23.25 470.25 10)}Age Fifteen to Marriage Age
+Dialogue: 0,0:08:19.72,0:08:19.77,Signs,,0,0,0,,{\frz19.5\fax0.1\blur0.803\c&H1C1C1C&\pos(458.809,200.974)\iclip(m 405.5 55.5 l 393.375 87.75 368.25 121 373 122 380.25 129 405.5 130 350.25 181.5 329.875 220.75 363.5 208.75 412.625 166.5 416.25 179.5 467.875 170.5 539.75 164.25 604.5 124 636.875 109 683.75 66.5 714.75 39.25 409 26.25)}Age Fifteen to Marriage Age
+Dialogue: 0,0:08:19.77,0:08:19.81,Signs,,0,0,0,,{\frz19.5\fax0.1\blur0.803\c&H1C1C1C&\pos(458.809,200.974)\iclip(m 466.5 44.125 l 454.5 76.375 429.375 109.5 434.125 110.5 441.375 117.5 466.5 118.5 411.5 169.75 389.875 208.875 424.625 196.875 473.625 154.625 477.25 167.75 527.5 161.625 599.25 156.625 665 112.5 697.375 97.375 744 55.25 775 28.125 470 15.125)}Age Fifteen to Marriage Age
+Dialogue: 0,0:08:19.81,0:08:19.85,Signs,,0,0,0,,{\frz19.5\fax0.1\blur0.803\c&H1C1C1C&\pos(458.809,200.974)\iclip(m 522.625 37.125 l 510.75 69.25 485.625 102.375 490.375 103.375 495.125 110.5 522.625 111.5 467.625 162.625 445 207.875 480.875 192.75 529.875 147.625 533.5 164.625 582.5 155.625 656.625 148.625 721.25 105.5 753.5 90.375 800.125 48.25 832.5 21.125 526.25 8)}Age Fifteen to Marriage Age
 Dialogue: 0,0:08:39.49,0:08:43.50,Signs,,0,0,0,,{\fs36.26\frz-4\c&H292A2E&\blur0.803\pos(422.071,118.429)\fnBray Notes}I want to
 Dialogue: 0,0:08:39.49,0:08:43.50,Signs,,0,0,0,,{\fs36.26\frz-4\c&H292A2E&\blur0.803\pos(411.318,143.551)\fnBray Notes}have a
 Dialogue: 0,0:08:39.49,0:08:43.50,Signs,,0,0,0,,{\fs36.26\frz-4\c&H292A2E&\blur0.803\fnBray Notes\pos(413.846,167.776)}younger
@@ -257,10 +257,10 @@ Dialogue: 0,0:15:20.39,0:15:20.44,Signs,,0,0,0,,{\be1\fnComicCity\c&H262C2E&\pos
 Dialogue: 0,0:15:20.44,0:15:20.48,Signs,,0,0,0,,{\be1\fnComicCity\c&H262C2E&\pos(452.38,426.554)\clip(m 347.875 367 l 403.125 367 404.25 404.25 b 399.375 423.5 393.375 441.75 387.375 467 l 347.875 476)}"I don't need\Na big brother".
 Dialogue: 0,0:15:20.48,0:15:20.52,Signs,,0,0,0,,{\be1\fnComicCity\c&H262C2E&\clip(m 349.125 367 l 403.125 367 415 407.5 b 403.125 426.5 397 444.75 387.375 467 l 349.125 476)\pos(443.505,426.554)}"I don't need\Na big brother".
 Dialogue: 0,0:15:20.52,0:15:20.56,Signs,,0,0,0,,{\be1\fnComicCity\c&H262C2E&\clip(-80,334,398,480)\pos(432.398,426.554)}"I don't need\Na big brother".
-Dialogue: 1,0:15:20.39,0:15:20.44,Signs,,0,0,0,,{\p1\blur5.042\c&HCBD1CF&\pos(399.777,437.648)\clip(m 342.125 368.5 l 395.875 368.5 409 408.75 b 399.5 432.75 386.375 452.875 380.375 469 l 342.125 478)}m 0 0 l 70.5 0 70.5 100.75 0 100.75
-Dialogue: 1,0:15:20.44,0:15:20.48,Signs,,0,0,0,,{\p1\blur5.042\c&HCBD1CF&\pos(399.777,437.648)\clip(m 349.125 367 l 403.125 367 415 407.5 b 403.125 426.5 397 444.75 387.375 467 l 349.125 476)}m 0 0 l 70.5 0 70.5 100.75 0 100.75
-Dialogue: 1,0:15:20.48,0:15:20.52,Signs,,0,0,0,,{\p1\blur5.042\c&HCBD1CF&\pos(399.777,437.648)\clip(m 353.875 367 l 407.875 367 419.875 407.5 b 407.875 426.5 401.875 444.75 392.125 467 l 353.875 476)}m 0 0 l 70.5 0 70.5 100.75 0 100.75
-Dialogue: 1,0:15:20.52,0:15:20.56,Signs,,0,0,0,,{\p1\blur5.042\c&HCBD1CF&\pos(399.777,437.648)\clip(m 343 369 l 397 369 409 409.5 b 393.375 427.5 385 453.75 381.375 469 l 343 478)}m 0 0 l 70.5 0 70.5 100.75 0 100.75
+Dialogue: 1,0:15:20.39,0:15:20.44,Signs,,0,0,0,,{\p1\blur5.042\c&HC3CCCC&\pos(399.777,437.648)\clip(m 341 368 l 395 368 406 408 b 391 429 392 441 385 453 l 341 478)}m 0 0 l 70.5 0 70.5 100.75 0 100.75
+Dialogue: 1,0:15:20.44,0:15:20.48,Signs,,0,0,0,,{\p1\blur5.042\c&HC3CCCC&\pos(399.777,437.648)\clip(m 348 367 l 402 367 413 406 b 400 424 396 442 388 458 l 348 476)}m 0 0 l 70.5 0 70.5 100.75 0 100.75
+Dialogue: 1,0:15:20.48,0:15:20.52,Signs,,0,0,0,,{\p1\blur5.042\c&HC3CCCC&\pos(399.777,437.648)\clip(m 353 367 l 406 367 418 406 b 404 423 399 442 393 458 l 353 476)}m 0 0 l 70.5 0 70.5 100.75 0 100.75
+Comment: 1,0:15:20.52,0:15:20.56,Signs,,0,0,0,,{\p1\blur5.042\c&HCBD1CF&\pos(399.777,437.648)\clip(m 343 369 l 397 369 409 409.5 b 393.375 427.5 385 453.75 381.375 469 l 343 478)}m 0 0 l 70.5 0 70.5 100.75 0 100.75
 Dialogue: 0,0:15:20.56,0:15:20.60,Signs,,0,0,0,,{\be1\fnComicCity\c&H262C2E&\clip(-80,334,398,480)\pos(418.772,426.554)}"I don't need\Na big brother".
 Dialogue: 0,0:15:20.60,0:15:20.64,Signs,,0,0,0,,{\be1\fnComicCity\c&H262C2E&\clip(-80,334,398,480)\pos(402.568,426.554)}"I don't need\Na big brother".
 Dialogue: 0,0:15:20.64,0:15:20.69,Signs,,0,0,0,,{\be1\fnComicCity\c&H262C2E&\clip(-80,334,398,480)\pos(386.232,426.554)}"I don't need\Na big brother".
@@ -289,7 +289,7 @@ Dialogue: 0,0:15:22.52,0:15:22.56,Signs,,0,0,0,,{\be1\fnComicCity\c&H262C2E&\cli
 Dialogue: 0,0:15:22.56,0:15:22.60,Signs,,0,0,0,,{\be1\fnComicCity\c&H262C2E&\clip(-80,334,398,480)\pos(-40.002,426.554)}"I don't need\Na big brother".
 Dialogue: 0,0:15:22.60,0:15:22.65,Signs,,0,0,0,,{\be1\fnComicCity\c&H262C2E&\clip(-80,334,398,480)\pos(-62.023,426.554)}"I don't need\Na big brother".
 Dialogue: 0,0:15:22.65,0:15:22.69,Signs,,0,0,0,,{\be1\fnComicCity\c&H262C2E&\clip(-80,334,398,480)\pos(-84.129,426.554)}"I don't need\Na big brother".
-Dialogue: 1,0:15:20.52,0:15:21.10,Signs,,0,0,0,,{\p1\blur5.042\c&HCBD1CF&\pos(399.777,437.648)\clip(344,372,398,480)}m 0 0 l 70.5 0 70.5 100.75 0 100.75
+Dialogue: 1,0:15:20.52,0:15:21.10,Signs,,0,0,0,,{\p1\blur5.042\c&HC6CECC&\pos(399.777,437.648)\clip(344,372,398,460)}m 0 0 l 70.5 0 70.5 100.75 0 100.75
 Dialogue: 0,0:15:22.40,0:15:22.44,Signs,,0,0,0,,{\be1\fnComicCity\c&H262C2E&\pos(466.005,426.554)\clip(-80,334,398,480)}The father's\Nfree translation.
 Dialogue: 0,0:15:22.44,0:15:22.48,Signs,,0,0,0,,{\be1\fnComicCity\c&H262C2E&\pos(444.416,426.554)\clip(-80,334,398,480)}The father's\Nfree translation.
 Dialogue: 0,0:15:22.48,0:15:22.52,Signs,,0,0,0,,{\be1\fnComicCity\c&H262C2E&\pos(422.262,426.554)\clip(-80,334,398,480)}The father's\Nfree translation.
@@ -303,7 +303,7 @@ Dialogue: 0,0:15:22.77,0:15:22.81,Signs,,0,0,0,,{\be1\fnComicCity\c&H262C2E&\pos
 Dialogue: 0,0:15:22.81,0:15:22.86,Signs,,0,0,0,,{\be1\fnComicCity\c&H262C2E&\pos(245.885,426.554)\clip(-80,334,398,480)}The father's\Nfree translation.
 Dialogue: 0,0:15:22.86,0:15:23.77,Signs,,0,0,0,,{\be1\fnComicCity\c&H262C2E&\pos(245.885,426.554)\clip(-80,334,398,480)}The father's\Nfree translation.
 Dialogue: 0,0:15:23.77,0:15:24.44,Signs,,0,0,0,,{\be1\fnComicCity\c&H262C2E&\move(245.885,426.554,-66.833,426.554,30,655)\clip(-80,334,398,480)}The father's\Nfree translation.
-Dialogue: 1,0:15:22.40,0:15:22.86,Signs,,0,0,0,,{\p1\blur5.042\c&HCBD1CF&\pos(399.777,437.648)\clip(344,372,398,480)}m 0 0 l 70.5 0 70.5 100.75 0 100.75
+Dialogue: 1,0:15:22.40,0:15:22.86,Signs,,0,0,0,,{\p1\blur5.042\c&HCBD1CF&\pos(399.777,437.648)\clip(344,372,398,460)}m 0 0 l 70.5 0 70.5 100.75 0 100.75
 Dialogue: 0,0:15:23.98,0:15:24.57,Signs,,0,0,0,,{\be1\fnComicCity\c&H262C2E&\clip(-80,334,398,480)\move(509.389,426.554,221.275,426.554,28,612)}"I'm happy as long\Nas you're here, Dad".
 Dialogue: 0,0:15:24.57,0:15:24.61,Signs,,0,0,0,,{\be1\fnComicCity\c&H262C2E&\clip(-80,334,398,480)\pos(242.684,426.554)}"I'm happy as long\Nas you're here, Dad".
 Dialogue: 0,0:15:24.61,0:15:26.98,Signs,,0,0,0,,{\be1\fnComicCity\c&H262C2E&\pos(221.896,426.554)}"I'm happy as long\Nas you're here, Dad".
@@ -316,24 +316,24 @@ Dialogue: 0,0:15:27.23,0:15:27.28,Signs,,0,0,0,,{\fscx125.065\t(-12,87,\fscx126.
 Dialogue: 0,0:15:27.28,0:15:27.32,Signs,,0,0,0,,{\fscx131.02\t(-25,75,\fscx132.212)\fscy131\t(-25,75,\fscy132)\be1\fnComicCity\c&H262C2E&\t(-230,145,\c&HB8C2C3&)\pos(70.311,459.046)}"I'm happy as long\Nas you're here, Dad".
 Dialogue: 0,0:15:27.32,0:15:27.36,Signs,,0,0,0,,{\fscx135.785\t(-87,12,\fscx136.976)\fscy136\t(-75,24,\fscy137)\be1\fnComicCity\c&H262C2E&\t(-271,104,\c&HB8C2C3&)\pos(40.793,465.236)}"I'm happy as long\Nas you're here, Dad".
 Dialogue: 0,0:15:27.36,0:15:27.40,Signs,,0,0,0,,{\fscx144.122\t(-43,56,\fscx145.314)\fscy144\t(-56,43,\fscy145)\be1\fnComicCity\c&H262C2E&\t(-313,62,\c&HB8C2C3&)\pos(8.276,472.8)}"I'm happy as long\Nas you're here, Dad".
-Dialogue: 1,0:15:23.98,0:15:24.61,Signs,,0,0,0,,{\p1\blur5.042\c&HCBD1CF&\pos(399.777,437.648)\clip(344,372,398,480)}m 0 0 l 70.5 0 70.5 100.75 0 100.75
-Dialogue: 0,0:15:25.44,0:15:27.03,Signs,,0,0,0,,{\frz11\fs20.168\c&H3045AE&\pos(349.486,326.58)\blur0.502}Zenzo
-Dialogue: 0,0:15:27.03,0:15:27.07,Signs,,0,0,0,,{\fscx100.052\t(0,100,\fscx100.052)\fscy100\t(0,100,\fscy100)\frz11\fs20.168\c&H3045AE&\pos(349.492,326.582)\t(21,396,\c&HB8C2C3&)\blur0.504}Zenzo
-Dialogue: 0,0:15:27.07,0:15:27.11,Signs,,0,0,0,,{\fscx102.434\t(-98,1,\fscx103.625)\fscy103\t(-56,43,\fscy104)\frz11\fs20.168\c&H3045AE&\pos(337.558,326.562)\t(-21,354,\c&HB8C2C3&)\blur0.524}Zenzo
-Dialogue: 0,0:15:27.11,0:15:27.15,Signs,,0,0,0,,{\fscx107.199\t(-79,20,\fscx108.39)\fscy108\t(-9,90,\fscy109)\frz11\fs20.168\c&H3045AE&\pos(321.438,326.682)\t(-63,312,\c&HB8C2C3&)\blur0.544}Zenzo
-Dialogue: 0,0:15:27.15,0:15:27.19,Signs,,0,0,0,,{\fscx113.154\t(-23,76,\fscx114.345)\fscy113\t(-37,62,\fscy114)\frz11\fs20.168\c&H3045AE&\pos(302.607,326.914)\t(-105,270,\c&HB8C2C3&)\blur0.574}Zenzo
-Dialogue: 0,0:15:27.19,0:15:27.23,Signs,,0,0,0,,{\fscx119.109\t(-4,95,\fscx120.301)\fscy119\t(-9,90,\fscy120)\frz11\fs20.168\c&H3045AE&\pos(282.06,327.136)\t(-146,229,\c&HB8C2C3&)\blur0.606}Zenzo
-Dialogue: 0,0:15:27.23,0:15:27.28,Signs,,0,0,0,,{\fscx125.065\t(-12,87,\fscx126.256)\fscy125\t(-15,84,\fscy126)\frz11\fs20.168\c&H3045AE&\pos(260.11,327.408)\t(-188,187,\c&HB8C2C3&)\blur0.636}Zenzo
-Dialogue: 0,0:15:27.28,0:15:27.32,Signs,,0,0,0,,{\fscx131.02\t(-25,75,\fscx132.212)\fscy131\t(-25,75,\fscy132)\frz11\fs20.168\c&H3045AE&\pos(237.765,327.832)\t(-230,145,\c&HB8C2C3&)\blur0.666}Zenzo
-Dialogue: 0,0:15:27.32,0:15:27.36,Signs,,0,0,0,,{\fscx135.785\t(-87,12,\fscx136.976)\fscy136\t(-75,24,\fscy137)\frz11\fs20.168\c&H3045AE&\pos(215.275,328.518)\t(-271,104,\c&HB8C2C3&)\blur0.686}Zenzo
-Dialogue: 0,0:15:27.36,0:15:27.40,Signs,,0,0,0,,{\fscx144.122\t(-43,56,\fscx145.314)\fscy144\t(-56,43,\fscy145)\frz11\fs20.168\c&H3045AE&\pos(192.737,328.266)\t(-313,62,\c&HB8C2C3&)\blur0.726}Zenzo
+Dialogue: 1,0:15:23.98,0:15:24.61,Signs,,0,0,0,,{\p1\blur5.042\c&HCBD1CF&\pos(399.777,437.648)\clip(344,372,398,460)}m 0 0 l 70.5 0 70.5 100.75 0 100.75
+Dialogue: 0,0:15:25.44,0:15:27.03,Signs,,0,0,0,,{\frz9\fs20.168\c&H3045AE&\pos(349.486,326.58)\blur0.502}Zenzo
+Dialogue: 0,0:15:27.03,0:15:27.07,Signs,,0,0,0,,{\fscx100.052\t(0,100,\fscx100.052)\fscy100\t(0,100,\fscy100)\frz9\fs20.168\c&H3045AE&\pos(349.492,326.582)\t(21,396,\c&HB8C2C3&)\blur0.504}Zenzo
+Dialogue: 0,0:15:27.07,0:15:27.11,Signs,,0,0,0,,{\fscx102.434\t(-98,1,\fscx103.625)\fscy103\t(-56,43,\fscy104)\frz9\fs20.168\c&H3045AE&\pos(337.558,326.562)\t(-21,354,\c&HB8C2C3&)\blur0.524}Zenzo
+Dialogue: 0,0:15:27.11,0:15:27.15,Signs,,0,0,0,,{\fscx107.199\t(-79,20,\fscx108.39)\fscy108\t(-9,90,\fscy109)\frz9\fs20.168\c&H3045AE&\pos(321.438,326.682)\t(-63,312,\c&HB8C2C3&)\blur0.544}Zenzo
+Dialogue: 0,0:15:27.15,0:15:27.19,Signs,,0,0,0,,{\fscx113.154\t(-23,76,\fscx114.345)\fscy113\t(-37,62,\fscy114)\frz9\fs20.168\c&H3045AE&\pos(302.607,326.914)\t(-105,270,\c&HB8C2C3&)\blur0.574}Zenzo
+Dialogue: 0,0:15:27.19,0:15:27.23,Signs,,0,0,0,,{\fscx119.109\t(-4,95,\fscx120.301)\fscy119\t(-9,90,\fscy120)\frz9\fs20.168\c&H3045AE&\pos(282.06,328.136)\t(-146,229,\c&HB8C2C3&)\blur0.606}Zenzo
+Dialogue: 0,0:15:27.23,0:15:27.28,Signs,,0,0,0,,{\fscx125.065\t(-12,87,\fscx126.256)\fscy125\t(-15,84,\fscy126)\frz9\fs20.168\c&H3045AE&\pos(260.11,328.408)\t(-188,187,\c&HB8C2C3&)\blur0.636}Zenzo
+Dialogue: 0,0:15:27.28,0:15:27.32,Signs,,0,0,0,,{\fscx131.02\t(-25,75,\fscx132.212)\fscy131\t(-25,75,\fscy132)\frz9\fs20.168\c&H3045AE&\pos(237.765,328.832)\t(-230,145,\c&HB8C2C3&)\blur0.666}Zenzo
+Dialogue: 0,0:15:27.32,0:15:27.36,Signs,,0,0,0,,{\fscx135.785\t(-87,12,\fscx136.976)\fscy136\t(-75,24,\fscy137)\frz9\fs20.168\c&H3045AE&\pos(215.275,329.518)\t(-271,104,\c&HB8C2C3&)\blur0.686}Zenzo
+Dialogue: 0,0:15:27.36,0:15:27.40,Signs,,0,0,0,,{\fscx144.122\t(-43,56,\fscx145.314)\fscy144\t(-56,43,\fscy145)\frz9\fs20.168\c&H3045AE&\pos(192.737,330.266)\t(-313,62,\c&HB8C2C3&)\blur0.726}Zenzo
 Dialogue: 0,0:16:54.74,0:16:58.24,Signs,,0,0,0,,{\fs36.26\frz-4\c&H292A2E&\blur0.803\pos(422.071,118.429)\fnBray Notes}I want to
 Dialogue: 0,0:16:54.74,0:16:58.24,Signs,,0,0,0,,{\fs36.26\frz-4\c&H292A2E&\blur0.803\pos(411.318,143.551)\fnBray Notes}have a
 Dialogue: 0,0:16:54.74,0:16:58.24,Signs,,0,0,0,,{\fs36.26\frz-4\c&H292A2E&\blur0.803\fnBray Notes\pos(413.846,167.776)}younger
 Dialogue: 0,0:16:54.74,0:16:58.24,Signs,,0,0,0,,{\fs36.26\frz-4\blur0.803\c&H292A2E&\fnBray Notes\pos(401.324,192.568)}sister.
 Dialogue: 0,0:16:54.74,0:16:58.24,Signs,,0,0,0,,{\fs36.26\frz-5\c&H292A2E&\blur0.803\pos(379.953,335.551)\fnBray Notes}Odagiri
-Dialogue: 0,0:18:29.04,0:18:30.54,Signs,,0,0,0,,{\frz-5\fax0.15\c&H282B26&\pos(386.339,200.408)\blur0.803}Ticket Gate to Manase
-Dialogue: 0,0:21:10.91,0:21:13.41,Signs,,0,0,0,,{\fax-0.2\frz4\c&H968887&\blur1.008\frx25\pos(724.962,84.483)}Shop
+Dialogue: 0,0:18:29.04,0:18:30.54,Signs,,0,0,0,,{\frz-4.4\fax0.13\c&H282B26&\pos(386.339,200.408)\blur0.803}Ticket Gate to Manase
+Dialogue: 0,0:21:10.91,0:21:13.41,Signs,,0,0,0,,{\fax-0.2\frz3\c&H968887&\blur1.008\frx25\pos(724.962,84.483)}Shop
 Dialogue: 0,0:21:10.91,0:21:13.41,Signs,,0,0,0,,{\frz2\fax-0.1\c&H968887&\blur1.008\pos(754.867,61.811)\frx25}Yamazato{Not “Yamazato Shop”?}
 Dialogue: 0,0:01:49.33,0:01:52.80,Dialogue,,0,0,0,,Hey, Daddy, will there be a panda? A panda?
 Dialogue: 0,0:01:50.04,0:01:51.92,Dialogue,,0,0,0,,{\c&HC1C1C1&}Hey, Dad, did you bring the camera?
@@ -509,14 +509,14 @@ Dialogue: 0,0:23:21.42,0:23:22.62,Dialogue - Alt,,0,0,0,,Is that a crime?
 Dialogue: 0,0:23:22.62,0:23:23.95,Dialogue - Alt,,0,0,0,,Is that something to be ashamed of?
 Dialogue: 0,0:23:23.95,0:23:26.63,Dialogue - Alt,,0,0,0,,Then, as we’re fighting over TV channels, we’ll start to fall in love...
 Dialogue: 0,0:23:26.63,0:23:28.51,Dialogue,,0,0,0,,Sentenced to a flogging!
-Dialogue: 0,0:23:18.16,0:23:21.48,Next EP - Scrolling Text,,0,0,0,,{\move(948.49,386.611,-72.961,386.611)\q2\blur0.703\c&HFBFDF8&}Next episode:
-Dialogue: 1,0:23:18.16,0:23:21.48,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(948.49,386.611,-72.961,386.611)\q2\blur0.703\4a&HFF&}Next episode:
-Dialogue: 0,0:23:18.08,0:23:21.58,Next EP - Scrolling Text,,0,0,0,,{\move(973.608,456.904,-101.667,456.904)\q2\blur0.703\c&HFBFDF8&}Autumn Melancholy
-Dialogue: 1,0:23:18.08,0:23:21.58,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(973.608,456.904,-101.667,456.904)\q2\blur0.703\4a&HFF&}Autumn Melancholy
-Dialogue: 0,0:23:18.91,0:23:25.46,Next EP - Scrolling Text,,0,0,0,,{\move(1440.078,386.611,-572.922,386.611)\q2\blur0.703\c&HFBFDF8&}My adorable little sister has a boyfriend? I totally misunderstand and put myself in an awkward situation.
-Dialogue: 1,0:23:18.91,0:23:25.46,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(1440.078,386.611,-572.922,386.611)\q2\blur0.703\4a&HFF&}My adorable little sister has a boyfriend? I totally misunderstand and put myself in an awkward situation.
-Dialogue: 0,0:23:19.44,0:23:26.13,Next EP - Scrolling Text,,0,0,0,,{\move(1444.863,456.904,-607.608,456.904)\q2\blur0.703\c&HFBFDF8&}Big brother and little sister get into a fight. Koshiro trembles.
-Dialogue: 1,0:23:19.44,0:23:26.13,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(1444.863,456.904,-607.608,456.904)\q2\blur0.703\4a&HFF&}Big brother and little sister get into a fight. Koshiro trembles.
+Dialogue: 0,0:23:18.16,0:23:21.48,Next EP - Scrolling Text,,0,0,0,,{\move(938.49,386.61,-82.96,386.61)\q2\blur0.703\c&HFBFDF8&}Next episode:
+Dialogue: 1,0:23:18.16,0:23:21.48,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(938.49,386.61,-82.96,386.61)\q2\blur0.703\4a&HFF&}Next episode:
+Dialogue: 0,0:23:18.08,0:23:21.58,Next EP - Scrolling Text,,0,0,0,,{\move(963.61,456.9,-111.67,456.9)\q2\blur0.703\c&HFBFDF8&}Autumn Melancholy
+Dialogue: 1,0:23:18.08,0:23:21.58,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(963.61,456.9,-111.67,456.9)\q2\blur0.703\4a&HFF&}Autumn Melancholy
+Dialogue: 0,0:23:18.91,0:23:25.46,Next EP - Scrolling Text,,0,0,0,,{\move(1430.08,386.61,-582.92,386.61)\q2\blur0.703\c&HFBFDF8&}My adorable little sister has a boyfriend? I totally misunderstand and put myself in an awkward situation.
+Dialogue: 1,0:23:18.91,0:23:25.46,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(1430.08,386.61,-582.92,386.61)\q2\blur0.703\4a&HFF&}My adorable little sister has a boyfriend? I totally misunderstand and put myself in an awkward situation.
+Dialogue: 0,0:23:19.44,0:23:26.13,Next EP - Scrolling Text,,0,0,0,,{\move(1434.86,456.9,-624.61,456.9)\q2\blur0.703\c&HFBFDF8&}Big brother and little sister get into a fight. Koshiro trembles.
+Dialogue: 1,0:23:19.44,0:23:26.13,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(1434.86,456.9,-624.61,456.9)\q2\blur0.703\4a&HFF&}Big brother and little sister get into a fight. Koshiro trembles.
 Dialogue: 0,0:00:11.63,0:00:15.81,OP - Romaji,,0,0,0,fx,{\fad(300,200)\blur0.753}{\k39}ha{\k28}ji{\k31}me{\k30}te {\k31}no {\k95}ki{\k93}mo{\k51}chi
 Dialogue: 0,0:00:16.40,0:00:20.77,OP - Romaji,,0,0,0,fx,{\fad(300,200)\blur0.753}{\k42}sho{\k29}n{\k32}bo{\k32}ri {\k26}no {\k93}mu{\k98}ne {\k47}ni
 Dialogue: 0,0:00:20.77,0:00:29.87,OP - Romaji,,0,0,0,fx,{\fad(300,200)\blur0.753}{\k94}sot{\k85}to {\k71}na{\k94}ge{\k94}ra{\k62}re{\k154}ta {\k32}hi{\k33}da{\k32}ma{\k95}ri{\k49} ne
