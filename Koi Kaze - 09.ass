@@ -21,9 +21,9 @@ Video File: ../../../../../media/wyse/Media III/[WSE] Koi Kaze [raws v2]/ep9.vpy
 Video AR Mode: 4
 Video AR Value: 1.779167
 Video Zoom Percent: 2.768750
-Scroll Position: 270
-Active Line: 294
-Video Position: 33692
+Scroll Position: 21
+Active Line: 27
+Video Position: 25115
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -67,13 +67,13 @@ Dialogue: 23,0:01:43.58,0:01:48.96,Title,,0,0,0,,{\c&HD68693&\clip(m 65 388.25 l
 Dialogue: 24,0:01:43.58,0:01:48.96,Title,,0,0,0,,{\c&HD47E8C&\clip(m 67.375 392.25 l 342.125 284.375 346.875 291.5 71 399.25)\pos(193.346,317.644)\blur0.803\t(3444,4990,0.7,\blur7.058)\1a&HFF&\t(-5,607,\1a&H00)\fad(0,1500)}Wind flower
 Dialogue: 25,0:01:43.58,0:01:48.96,Title,,0,0,0,,{\c&HD27786&\clip(m 68.625 396.25 l 344.5 287.5 349.25 295.5 73.375 403.25)\pos(193.346,317.644)\blur0.803\t(3444,4990,0.7,\blur7.058)\1a&HFF&\t(-5,607,\1a&H00)\fad(0,1500)}Wind flower
 Dialogue: 26,0:01:43.58,0:01:48.96,Title,,0,0,0,,{\c&HD0707F&\clip(m 71 399.25 l 346.875 291.5 350.5 298.5 74.625 406.5)\pos(193.346,317.644)\blur0.803\t(3444,4990,0.7,\blur7.058)\1a&HFF&\t(-5,607,\1a&H00)\fad(0,1500)}Wind flower
-Dialogue: 0,0:07:25.50,0:07:28.53,Signs - Letter,,0,0,0,,{\frz-5\fax-0.35\pos(266.357,118.69)\blur0.803\c&H434C50&}To Nanoka
-Dialogue: 0,0:07:25.50,0:07:28.53,Signs - Letter,,0,0,0,,{\fax-0.25\frz354\blur0.803\c&H434C50&\pos(372.637,166.562)}I'm going to eat
-Dialogue: 0,0:07:25.50,0:07:28.53,Signs - Letter,,0,0,0,,{\frz-7\fax-0.35\blur0.803\c&H434C50&\pos(330.539,253.183)}with Yamada-san and company.
-Dialogue: 0,0:07:25.50,0:07:28.53,Signs - Letter,,0,0,0,,{\frz-7\fax-0.35\blur0.803\c&H434C50&\pos(284.848,337.137)}Your lunch is the fried-rice
-Dialogue: 0,0:07:25.50,0:07:28.53,Signs - Letter,,0,0,0,,{\frz-7\fax-0.35\blur0.803\c&H434C50&\pos(255.568,353.905)}pack in the freezer.
-Dialogue: 0,0:07:25.50,0:07:28.53,Signs - Letter,,0,0,0,,{\frz-7\fax-0.35\blur0.803\c&H434C50&\pos(241.416,375.53)}Heat it up and eat it.
-Dialogue: 0,0:07:25.50,0:07:28.53,Signs - Letter,,0,0,0,,{\fax-0.27\frz352.9\blur0.803\c&H434C50&\pos(358.368,399.356)}Dad
+Dialogue: 0,0:07:25.50,0:07:28.53,Signs - Letter,,0,0,0,,{\frz-4\fax-0.35\pos(266.357,118.69)\blur0.803\c&H434C50&}To Nanoka
+Dialogue: 0,0:07:25.50,0:07:28.53,Signs - Letter,,0,0,0,,{\fax-0.2\frz354.5\blur0.803\c&H434C50&\pos(372.637,166.562)}I'm going to eat
+Dialogue: 0,0:07:25.50,0:07:28.53,Signs - Letter,,0,0,0,,{\frz-6.5\fax-0.35\blur0.803\c&H434C50&\pos(330.539,253.183)}with Yamada-san and company.
+Dialogue: 0,0:07:25.50,0:07:28.53,Signs - Letter,,0,0,0,,{\frz-5\fax-0.35\blur0.803\c&H434C50&\pos(284.848,337.137)}Your lunch is the fried-rice
+Dialogue: 0,0:07:25.50,0:07:28.53,Signs - Letter,,0,0,0,,{\frz-5\fax-0.35\blur0.803\c&H434C50&\pos(255.568,353.905)}pack in the freezer.
+Dialogue: 0,0:07:25.50,0:07:28.53,Signs - Letter,,0,0,0,,{\frz-5\fax-0.35\blur0.803\c&H434C50&\pos(243.222,374.446)}Heat it up and eat it.
+Dialogue: 0,0:07:25.50,0:07:28.53,Signs - Letter,,0,0,0,,{\fax-0.27\frz354.9\blur0.803\c&H434C50&\pos(358.368,399.356)}Dad
 Dialogue: 1,0:17:27.48,0:17:30.48,Signs - Lamp - Glow,,0,0,0,,{\pos(326.529,49.205)\frz-15\blur0.803}{43}K
 Dialogue: 1,0:17:27.48,0:17:30.48,Signs - Lamp - Glow,,0,0,0,,{\pos(350.451,55.23)\frz-18\blur0.803}{43}u
 Dialogue: 1,0:17:27.48,0:17:30.48,Signs - Lamp - Glow,,0,0,0,,{\pos(370.784,62.259)\frz-21\blur0.803}{43}r
@@ -345,14 +345,14 @@ Dialogue: 0,0:23:25.21,0:23:27.55,Dialogue - Alt,,0,0,0,,That is what I, Zenzou,
 Dialogue: 0,0:23:27.55,0:23:29.05,Dialogue,,0,0,0,,Punishment of the Human Rocket!
 Dialogue: 1,0:23:27.01,0:23:29.05,Next EP - Verdict,,0,0,0,,{\pos(621.961,46.192)\bord1.004\blur0.502\bord0\c&H00000000&\4a&HFF&\fs42.176\iclip(389,3,748,50)\t(27,1850,\iclip(748,3,748,50))}Human Rocket
 Dialogue: 0,0:23:27.01,0:23:29.05,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\c&HFFFFFF&\pos(621.961,50.209)\fs42.176\\iclip(389,3,748,50)\t(27,1850,\iclip(748,3,748,50))}Human Rocket
-Dialogue: 0,0:23:19.21,0:23:22.38,Next EP - Scrolling Text,,0,0,0,,{\move(929.353,386.611,-71.765,386.611)\q2\blur0.703\c&HFBFDF8&}Next episode:
-Dialogue: 1,0:23:19.21,0:23:22.38,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(929.353,386.611,-71.765,386.611)\q2\blur0.703\4a&HFF&}Next episode:
-Dialogue: 0,0:23:19.21,0:23:22.38,Next EP - Scrolling Text,,0,0,0,,{\move(929.353,456.904,-71.765,456.904)\q2\blur0.703\c&HFBFDF8&}Wintry moon
-Dialogue: 1,0:23:19.21,0:23:22.38,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(929.353,456.904,-71.765,456.904)\q2\blur0.703\4a&HFF&}Wintry moon
-Dialogue: 0,0:23:19.91,0:23:26.35,Next EP - Scrolling Text,,0,0,0,,{\move(1379.078,386.611,-654.255,386.611)\q2\blur0.703\c&HFBFDF8&}Koshiro realized that his feelings for her are serious. So he's decided to separate from Nanoka.
-Dialogue: 1,0:23:19.91,0:23:26.35,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(1379.078,386.611,-654.255,386.611)\q2\blur0.703\4a&HFF&}Koshiro realized that his feelings for her are serious. So he's decided to separate from Nanoka.
-Dialogue: 0,0:23:22.55,0:23:28.17,Next EP - Scrolling Text,,0,0,0,,{\move(1034.608,456.904,-743.961,456.904)\q2\blur0.703\c&HFBFDF8&}Koshiro sneaks away in the dark.
-Dialogue: 1,0:23:22.55,0:23:28.17,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(1034.608,456.904,-743.961,456.904)\q2\blur0.703\4a&HFF&}Koshiro sneaks away in the dark.
+Dialogue: 0,0:23:19.21,0:23:22.38,Next EP - Scrolling Text,,0,0,0,,{\move(924.35,386.61,-76.76,386.61)\q2\blur0.703\c&HFBFDF8&}Next episode:
+Dialogue: 1,0:23:19.21,0:23:22.38,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(924.35,386.61,-76.76,386.61)\q2\blur0.703\4a&HFF&}Next episode:
+Dialogue: 0,0:23:19.21,0:23:22.38,Next EP - Scrolling Text,,0,0,0,,{\move(924.35,456.9,-76.76,456.9)\q2\blur0.703\c&HFBFDF8&}Wintry moon
+Dialogue: 1,0:23:19.21,0:23:22.38,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(924.35,456.9,-76.76,456.9)\q2\blur0.703\4a&HFF&}Wintry moon
+Dialogue: 0,0:23:19.87,0:23:26.30,Next EP - Scrolling Text,,0,0,0,,{\move(1379.078,386.611,-654.255,386.611)\q2\blur0.703\c&HFBFDF8&}Koshiro realized that his feelings for her are serious. So he's decided to separate from Nanoka.
+Dialogue: 1,0:23:19.87,0:23:26.30,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(1379.078,386.611,-654.255,386.611)\q2\blur0.703\4a&HFF&}Koshiro realized that his feelings for her are serious. So he's decided to separate from Nanoka.
+Dialogue: 0,0:23:22.50,0:23:28.13,Next EP - Scrolling Text,,0,0,0,,{\move(1034.608,456.904,-743.961,456.904)\q2\blur0.703\c&HFBFDF8&}Koshiro sneaks away in the dark.
+Dialogue: 1,0:23:22.50,0:23:28.13,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(1034.608,456.904,-743.961,456.904)\q2\blur0.703\4a&HFF&}Koshiro sneaks away in the dark.
 Dialogue: 0,0:00:11.63,0:00:15.81,OP - Romaji,,0,0,0,fx,{\fad(300,200)\blur0.753}{\k39}ha{\k28}ji{\k31}me{\k30}te {\k31}no {\k95}ki{\k93}mo{\k51}chi
 Dialogue: 0,0:00:16.40,0:00:20.77,OP - Romaji,,0,0,0,fx,{\fad(300,200)\blur0.753}{\k42}sho{\k29}n{\k32}bo{\k32}ri {\k26}no {\k93}mu{\k98}ne {\k47}ni
 Dialogue: 0,0:00:20.77,0:00:29.87,OP - Romaji,,0,0,0,fx,{\fad(300,200)\blur0.753}{\k94}sot{\k85}to {\k71}na{\k94}ge{\k94}ra{\k62}re{\k154}ta {\k32}hi{\k33}da{\k32}ma{\k95}ri{\k49} ne
