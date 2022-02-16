@@ -21,9 +21,9 @@ Video File: ../../../../../media/wyse/Media III/[WSE] Koi Kaze [raws v2]/ep12.vp
 Video AR Mode: 4
 Video AR Value: 1.779167
 Video Zoom Percent: 2.768750
-Scroll Position: 253
-Active Line: 276
-Video Position: 33773
+Scroll Position: 249
+Active Line: 269
+Video Position: 33538
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -309,17 +309,17 @@ Dialogue: 0,0:23:16.70,0:23:17.20,Next EP - Rotating Text,,0,0,0,,{\blur0.603\po
 Dialogue: 1,0:23:16.70,0:23:17.20,Next EP - Rotating Text,,0,0,0,,{\blur0.603\pos(430.588,487.029)\fs60.251\bord0\c&H00000000&\4a&HFF&}{\blur0.703}CHIDORI'S JUDGEMENT
 Dialogue: 0,0:23:17.20,0:23:21.46,Dialogue - Alt,,0,0,0,,With Koshiro-san gone, having Chidori-san harass me feels nice.
 Dialogue: 0,0:23:21.46,0:23:25.49,Dialogue - Alt,,0,0,0,,But I want to stick to teenagers! This is my goal!
-Dialogue: 0,0:23:18.20,0:23:21.25,Next EP - Scrolling Text,,0,0,0,,{\move(930.549,386.611,-76.549,386.611)\q2\blur0.703\c&HFBFDF8&}Next episode:
-Dialogue: 1,0:23:18.20,0:23:21.25,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(930.549,386.611,-76.549,386.611)\q2\blur0.703\4a&HFF&}Next episode:
-Dialogue: 0,0:23:18.20,0:23:21.25,Next EP - Scrolling Text,,0,0,0,,{\move(930.549,456.904,-76.549,456.904)\q2\blur0.703\c&HFBFDF8&}Heat haze
-Dialogue: 1,0:23:18.20,0:23:21.25,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(930.549,456.904,-76.549,456.904)\q2\blur0.703\4a&HFF&}Heat haze
-Dialogue: 0,0:23:18.78,0:23:24.85,Next EP - Scrolling Text,,0,0,0,,{\move(1387.451,386.611,-618.373,386.611)\q2\blur0.703\c&HFBFDF8&}Koshiro took the wrong path. He lost so many things because of it and is greatly distressed.
-Dialogue: 1,0:23:18.78,0:23:24.85,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(1387.451,386.611,-618.373,386.611)\q2\blur0.703\4a&HFF&}Koshiro took the wrong path. He lost so many things because of it and is greatly distressed.
-Dialogue: 0,0:23:19.41,0:23:25.63,Next EP - Scrolling Text,,0,0,0,,{\move(1387.451,456.904,-660.235,456.904)\q2\blur0.703\c&HFBFDF8&}But, he has genuine feelings for her, for the first time in his life. Koshiro is happy.
-Dialogue: 1,0:23:19.41,0:23:25.63,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(1387.451,456.904,-660.235,456.904)\q2\blur0.703\4a&HFF&}But, he has genuine feelings for her, for the first time in his life. Koshiro is happy.
+Dialogue: 0,0:23:18.20,0:23:21.25,Next EP - Scrolling Text,,0,0,0,,{\move(920.55,386.61,-86.55,386.61)\q2\blur0.703\c&HFBFDF8&}Next episode:
+Dialogue: 1,0:23:18.20,0:23:21.25,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(920.55,386.61,-86.55,386.61)\q2\blur0.703\4a&HFF&}Next episode:
+Dialogue: 0,0:23:18.20,0:23:21.25,Next EP - Scrolling Text,,0,0,0,,{\move(920.55,456.9,-86.55,456.9)\q2\blur0.703\c&HFBFDF8&}Heat haze
+Dialogue: 1,0:23:18.20,0:23:21.25,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(920.55,456.9,-86.55,456.9)\q2\blur0.703\4a&HFF&}Heat haze
+Dialogue: 0,0:23:18.78,0:23:24.85,Next EP - Scrolling Text,,0,0,0,,{\move(1377.45,386.61,-628.37,386.61)\q2\blur0.703\c&HFBFDF8&}Koshiro took the wrong path. He lost so many things because of it and is greatly distressed.
+Dialogue: 1,0:23:18.78,0:23:24.85,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(1377.45,386.61,-628.37,386.61)\q2\blur0.703\4a&HFF&}Koshiro took the wrong path. He lost so many things because of it and is greatly distressed.
+Dialogue: 0,0:23:19.41,0:23:25.63,Next EP - Scrolling Text,,0,0,0,,{\move(1377.45,456.9,-670.23,456.9)\q2\blur0.703\c&HFBFDF8&}But, he has genuine feelings for her, for the first time in his life. Koshiro is happy.
+Dialogue: 1,0:23:19.41,0:23:25.63,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(1377.45,456.9,-670.23,456.9)\q2\blur0.703\4a&HFF&}But, he has genuine feelings for her, for the first time in his life. Koshiro is happy.
 Dialogue: 0,0:23:25.49,0:23:27.17,Dialogue,,0,0,0,,Punishment: No role in the next episode!
-Dialogue: 1,0:23:26.38,0:23:27.21,Next EP - Verdict,,0,0,0,,{\pos(621.961,46.192)\bord1.004\blur0.502\bord0\c&H00000000&\4a&HFF&\fs36.151\fad(234,0)}Goodbye pervert
-Dialogue: 0,0:23:26.38,0:23:27.21,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\c&HFFFFFF&\pos(621.961,50.209)\fs36.151\fad(234,0)}Goodbye pervert
+Dialogue: 1,0:23:26.34,0:23:27.17,Next EP - Verdict,,0,0,0,,{\pos(621.961,46.192)\bord1.004\blur0.502\bord0\c&H00000000&\4a&HFF&\fs36.151\fad(234,0)}Goodbye pervert
+Dialogue: 0,0:23:26.34,0:23:27.17,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\c&HFFFFFF&\pos(621.961,50.209)\fs36.151\fad(234,0)}Goodbye pervert
 Dialogue: 0,0:23:27.17,0:23:28.63,Dialogue,,0,0,0,,Oh, please at least one scene.
 Dialogue: 1,0:21:48.66,0:21:53.54,ED - Romaji,,0,0,0,,{\fad(300,200)\blur0.753}{\k108}ya{\k38}sa{\k33}shi{\k38}i {\k33}yu{\k17}me {\k117}ga
 Dialogue: 1,0:21:54.00,0:21:59.50,ED - Romaji,,0,0,0,,{\fad(300,200)\blur0.753}{\k17}so{\k13}t{\k46}to {\k58}{\k21}mu{\k21}ne {\k29}no {\k33}{\k38}ha{\k33}ru {\k33}wo {\k17}yo{\k96}bi
