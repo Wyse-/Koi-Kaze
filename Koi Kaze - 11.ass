@@ -21,9 +21,9 @@ Video File: ../../../../../media/wyse/Media III/[WSE] Koi Kaze [raws v2]/ep11.vp
 Video AR Mode: 4
 Video AR Value: 1.779167
 Video Zoom Percent: 2.768750
-Scroll Position: 239
-Active Line: 238
-Video Position: 33486
+Scroll Position: 248
+Active Line: 257
+Video Position: 33658
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -295,14 +295,14 @@ Dialogue: 0,0:23:22.00,0:23:22.92,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\c&
 Dialogue: 0,0:23:23.20,0:23:25.08,Dialogue - Alt,,0,0,0,,Brother, how are you doing?
 Dialogue: 0,0:23:25.09,0:23:26.96,Dialogue - Alt,,0,0,0,,If you have energy, you can do anything!
 Dialogue: 0,0:23:26.96,0:23:28.89,Dialogue - Alt,,0,0,0,,1, 2, 3, go!
-Dialogue: 0,0:23:23.04,0:23:26.18,Next EP - Scrolling Text,,0,0,0,,{\move(937.725,386.611,-505.941,386.611)\q2\blur0.703\c&HFBFDF8&}Next episode:
-Dialogue: 1,0:23:23.04,0:23:26.18,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(937.725,386.611,-505.941,386.611)\q2\blur0.703\4a&HFF&}Next episode:
-Dialogue: 0,0:23:23.04,0:23:26.18,Next EP - Scrolling Text,,0,0,0,,{\move(937.725,456.904,-505.941,456.904)\q2\blur0.703\c&HFBFDF8&}Spring thunder
-Dialogue: 1,0:23:23.04,0:23:26.18,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(937.725,456.904,-505.941,456.904)\q2\blur0.703\4a&HFF&}Spring thunder
-Dialogue: 0,0:23:23.15,0:23:29.13,Next EP - Scrolling Text,,0,0,0,,{\move(1406.588,386.611,-1337.216,386.611)\q2\blur0.703\c&HFBFDF8&}Chidori found out about what's going on between Koshiro and Nanoka.
-Dialogue: 1,0:23:23.15,0:23:29.13,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(1406.588,386.611,-1337.216,386.611)\q2\blur0.703\4a&HFF&}Chidori found out about what's going on between Koshiro and Nanoka.
-Dialogue: 0,0:23:23.81,0:23:29.97,Next EP - Scrolling Text,,0,0,0,,{\move(1417.353,456.904,-1420.941,456.904)\q2\blur0.703\c&HFBFDF8&}Koshiro's fantasy dream world is being threatened! Chidori worries about Koshiro and she scolds him.
-Dialogue: 1,0:23:23.81,0:23:29.97,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(1417.353,456.904,-1420.941,456.904)\q2\blur0.703\4a&HFF&}Koshiro's fantasy dream world is being threatened! Chidori worries about Koshiro and she scolds him.
+Dialogue: 0,0:23:23.04,0:23:26.18,Next EP - Scrolling Text,,0,0,0,,{\move(927.73,386.61,-515.94,386.61)\q2\blur0.703\c&HFBFDF8&}Next episode:
+Dialogue: 1,0:23:23.04,0:23:26.18,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(927.73,386.61,-515.94,386.61)\q2\blur0.703\4a&HFF&}Next episode:
+Dialogue: 0,0:23:23.04,0:23:26.18,Next EP - Scrolling Text,,0,0,0,,{\move(927.73,456.9,-515.94,456.9)\q2\blur0.703\c&HFBFDF8&}Spring thunder
+Dialogue: 1,0:23:23.04,0:23:26.18,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(927.73,456.9,-515.94,456.9)\q2\blur0.703\4a&HFF&}Spring thunder
+Dialogue: 0,0:23:23.15,0:23:29.13,Next EP - Scrolling Text,,0,0,0,,{\move(1396.59,386.61,-1361.22,386.61)\q2\blur0.703\c&HFBFDF8&}Chidori found out about what's going on between Koshiro and Nanoka.
+Dialogue: 1,0:23:23.15,0:23:29.13,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(1396.59,386.61,-1361.22,386.61)\q2\blur0.703\4a&HFF&}Chidori found out about what's going on between Koshiro and Nanoka.
+Dialogue: 0,0:23:23.81,0:23:29.97,Next EP - Scrolling Text,,0,0,0,,{\move(1407.35,456.9,-1430.94,456.9)\q2\blur0.703\c&HFBFDF8&}Koshiro's fantasy dream world is being threatened! Chidori worries about Koshiro and she scolds him.
+Dialogue: 1,0:23:23.81,0:23:29.97,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(1407.35,456.9,-1430.94,456.9)\q2\blur0.703\4a&HFF&}Koshiro's fantasy dream world is being threatened! Chidori worries about Koshiro and she scolds him.
 Dialogue: 0,0:00:11.63,0:00:15.81,OP - Romaji,,0,0,0,fx,{\fad(300,200)\blur0.753}{\k39}ha{\k28}ji{\k31}me{\k30}te {\k31}no {\k95}ki{\k93}mo{\k51}chi
 Dialogue: 0,0:00:16.40,0:00:20.77,OP - Romaji,,0,0,0,fx,{\fad(300,200)\blur0.753}{\k42}sho{\k29}n{\k32}bo{\k32}ri {\k26}no {\k93}mu{\k98}ne {\k47}ni
 Dialogue: 0,0:00:20.77,0:00:29.87,OP - Romaji,,0,0,0,fx,{\fad(300,200)\blur0.753}{\k94}sot{\k85}to {\k71}na{\k94}ge{\k94}ra{\k62}re{\k154}ta {\k32}hi{\k33}da{\k32}ma{\k95}ri{\k49} ne
