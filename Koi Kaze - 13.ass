@@ -21,8 +21,7 @@ Video File: ../../../../../media/wyse/Media III/[WSE] Koi Kaze [raws v2]/ep13.vp
 Video AR Mode: 4
 Video AR Value: 1.779167
 Video Zoom Percent: 2.768750
-Scroll Position: 27
-Active Line: 42
+Active Line: 23
 Video Position: 3499
 
 [V4+ Styles]
@@ -67,7 +66,7 @@ Dialogue: 0,0:01:43.58,0:01:49.00,Title,,0,0,0,,{\c&H83884D&\clip(m 215.75 403.3
 Dialogue: 0,0:10:57.32,0:10:59.05,Signs,,0,0,0,,{\fs24.1\fax0.2\frz15.1\pos(353.488,82.011)\fnPatua One\c&H38464E&\blur0.803}Resignation
 Dialogue: 0,0:13:54.67,0:14:01.20,Signs,,0,0,0,,{\fnFake Serif\c&H3D4750&\fax0.5\pos(372.52,123.2)\blur0.703\frz348.2}Kohinata Nanoka
 Dialogue: 0,0:13:54.67,0:14:01.20,Signs,,0,0,0,,{\frz-12\fnFake Serif\c&H3D4750&\fax0.45\blur0.703\pos(459.485,250.039)}Koshiro
-Dialogue: 0,0:13:54.67,0:14:01.20,Signs,,0,0,0,,{\frz-12\fnFake Serif\c&H3D4750&\fax0.45\blur0.703\pos(601.954,175.078)}Saeki Zenzou
+Dialogue: 0,0:13:54.67,0:14:01.20,Signs,,0,0,0,,{\frz-12\fnFake Serif\c&H3D4750&\fax0.45\blur0.703\pos(601.954,175.078)}Saeki Zenzo
 Dialogue: 0,0:22:46.67,0:22:48.17,Signs,,0,0,0,,{\frz9\c&HA0A0A0\fnKrazy Nights\fs37.155\c&H8D9698&\pos(302.345,190.992)\blur0.803}Nanoka
 Dialogue: 0,0:22:46.67,0:22:48.17,Signs,,0,0,0,,{\frz9\c&HA0A0A0\fnKrazy Nights\fs37.155\pos(300.976,189.535)\c&H393F43&\blur0.803}Nanoka
 Dialogue: 0,0:22:54.39,0:22:55.06,Signs,,0,0,0,,{\frz9\c&HA0A0A0\fnKrazy Nights\fs37.155\c&H8D9698&\pos(302.345,190.992)\clip(m 291.875 166.75 l 289.5 181.75 287 193.75 285.875 208.875 244 213.875 244 178.75)\blur0.803}Nanoka

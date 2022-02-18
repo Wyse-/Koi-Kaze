@@ -22,8 +22,8 @@ Video File: ../../../../../media/wyse/Media III/[WSE] Koi Kaze [raws v2]/ep8.vpy
 Video AR Mode: 4
 Video AR Value: 1.779167
 Video Zoom Percent: 2.768750
-Scroll Position: 236
-Active Line: 258
+Scroll Position: 181
+Active Line: 245
 Video Position: 33534
 
 [V4+ Styles]
@@ -206,7 +206,7 @@ Dialogue: 0,0:13:48.74,0:13:49.73,Dialogue - Italic,,0,0,0,,Yeah!
 Dialogue: 0,0:13:54.14,0:14:01.83,Dialogue,,0,0,0,,She probably really wanted to live with you guys... or just you.
 Dialogue: 0,0:14:02.33,0:14:03.44,Dialogue,,0,0,0,,Oh...
 Dialogue: 0,0:14:04.23,0:14:07.30,Dialogue,,0,0,0,,So take good care of her, okay?
-Dialogue: 0,0:14:07.30,0:14:10.84,Dialogue,,0,0,0,,Zenzou-san is no good when you really need him.
+Dialogue: 0,0:14:07.30,0:14:10.84,Dialogue,,0,0,0,,Zenzo-san is no good when you really need him.
 Dialogue: 0,0:14:10.84,0:14:12.02,Dialogue,,0,0,0,,Okay...
 Dialogue: 0,0:14:12.02,0:14:16.80,Dialogue,,0,0,0,,What? You’d better make sure you take care of things.
 Dialogue: 0,0:14:16.80,0:14:18.48,Dialogue,,0,0,0,,You’re a big brother, aren’t you?
@@ -289,7 +289,7 @@ Dialogue: 0,0:23:16.66,0:23:16.70,Next EP - Rotating Text,,0,0,0,,{\blur0.603\po
 Dialogue: 1,0:23:16.66,0:23:16.70,Next EP - Rotating Text,,0,0,0,,{\blur0.603\pos(430.588,487.029)\fs60.251\bord0\c&H00000000&\4a&HFF&}{\blur0.703\iclip(m 417.375 388.625 l 418.625 477 748.75 476 742.75 382.625 m 594.5 406.75 l 637.5 402.625 b 642.25 420.75 643.5 455.875 641.125 473 l 599.25 472)}CHIDORI'S JUDGEMENT
 Dialogue: 0,0:23:16.70,0:23:17.20,Next EP - Rotating Text,,0,0,0,,{\blur0.603\pos(430.588,487.029)\fs60.251\bord3.013\3c&HFFFEFE&\c&HFFFEFE&}{\blur0.703}CHIDORI'S JUDGEMENT
 Dialogue: 1,0:23:16.70,0:23:17.20,Next EP - Rotating Text,,0,0,0,,{\blur0.603\pos(430.588,487.029)\fs60.251\bord0\c&H00000000&\4a&HFF&}{\blur0.703}CHIDORI'S JUDGEMENT
-Dialogue: 0,0:23:17.78,0:23:21.00,Dialogue - Alt,,0,0,0,,I’m Nanoka’s father Zenzou, who isn’t any good when I’m needed most.
+Dialogue: 0,0:23:17.78,0:23:21.00,Dialogue - Alt,,0,0,0,,I’m Nanoka’s father Zenzo, who isn’t any good when I’m needed most.
 Dialogue: 0,0:23:21.00,0:23:25.13,Dialogue - Alt,,0,0,0,,Unable to stand that inconsiderate part of Makei-san, I resorted to this.
 Dialogue: 0,0:23:25.55,0:23:25.59,Next EP - Verdict,,0,0,0,,{\fs52.218\bord3.026\blur3.026\c&HFFFFFF&\pos(331.314,63.264)}Play out the machine!
 Dialogue: 1,0:23:25.55,0:23:25.59,Next EP - Verdict,,0,0,0,,{\fs52.218\bord0\blur0.502\c&H101010&\pos(331.314,63.264)}Play out the machine!
