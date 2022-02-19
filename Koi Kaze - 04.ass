@@ -22,10 +22,10 @@ Audio File: ../../../../../media/wyse/Media III/[WSE] Koi Kaze [DVD x264 478p 10
 Video File: ../../../../../media/wyse/Media III/[WSE] Koi Kaze [raws v2]/ep4.vpy.mkv
 Video AR Mode: 4
 Video AR Value: 1.779167
-Video Zoom Percent: 2.768750
-Scroll Position: 36
-Active Line: 51
-Video Position: 3903
+Video Zoom Percent: 1.645833
+Scroll Position: 182
+Active Line: 214
+Video Position: 19868
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -120,7 +120,7 @@ Dialogue: 1,0:16:52.99,0:16:56.49,Signs,,0,0,0,,{\frz9\fs40.336\blur1.008\c&H464
 Dialogue: 1,0:16:52.99,0:16:56.49,Signs,,0,0,0,,{\frz8\fs40.336\blur1.008\c&H464D4E&\xshad3.026\yshad1.008\4c&HACB1B3&\pos(549.95,113.6)}e
 Dialogue: 1,0:16:52.99,0:16:56.49,Signs,,0,0,0,,{\frz7\fs40.336\blur1.008\c&H464D4E&\xshad3.026\yshad1.008\4c&HACB1B3&\pos(569.53,111.87)}n
 Dialogue: 1,0:16:52.99,0:16:56.49,Signs,,0,0,0,,{\frz6\fs40.336\blur1.008\c&H464D4E&\xshad3.026\yshad1.008\4c&HACB1B3&\pos(591.98,110.15)}e
-Dialogue: 0,0:01:55.98,0:01:57.01,Dialogue,,0,0,0,,Hey.
+Dialogue: 0,0:01:56.01,0:01:57.01,Dialogue,,0,0,0,,Hey.
 Dialogue: 0,0:02:00.08,0:02:01.78,Dialogue,,0,0,0,,Are you all right?
 Dialogue: 0,0:02:01.78,0:02:02.90,Dialogue,,0,0,0,,Why?
 Dialogue: 0,0:02:03.81,0:02:06.45,Dialogue,,0,0,0,,Your face looks terrible!{you look pale}
@@ -223,8 +223,8 @@ Dialogue: 0,0:09:39.08,0:09:40.32,Dialogue,,0,0,0,,Have you eaten yet?
 Dialogue: 0,0:09:46.66,0:09:50.62,Dialogue - Italic,,0,0,0,,Suddenly, a foolish thought passed through my mind.
 Dialogue: 0,0:09:52.02,0:09:57.75,Dialogue - Italic,,0,0,0,,“That’s right; it’s been three months since the last time I had sex”.{but he’s been masturbating an awful lot!}{I trumps we because he’s a selfish bastard obviously >_>}
 Dialogue: 0,0:10:48.55,0:10:50.89,Dialogue - Italic,,0,0,0,,Go on! You can drink, right?{two distinct phrases?}
-Dialogue: 0,0:10:50.89,0:10:52.00,Dialogue - Italic,,0,0,0,,That’s not true.
-Dialogue: 0,0:10:52.00,0:10:55.09,Dialogue - Italic,,0,0,0,,It is! You can drink way more than I can!{“stronger”, hmm}
+Dialogue: 0,0:10:50.89,0:10:51.96,Dialogue - Italic,,0,0,0,,That’s not true.
+Dialogue: 0,0:10:51.96,0:10:55.09,Dialogue - Italic,,0,0,0,,It is! You can drink way more than I can!{“stronger”, hmm}
 Dialogue: 0,0:10:55.47,0:10:56.42,Dialogue - Italic,,0,0,0,,I don’t think so.{sou ka na?}
 Dialogue: 0,0:10:56.42,0:10:57.63,Dialogue,,0,0,0,,Isn’t it good?
 Dialogue: 0,0:10:57.63,0:10:59.02,Dialogue,,0,0,0,,This place is a hidden gem.{other phrasing for “good but unknown”? 穴場 【あなば】 (n) little-known good place; good out-of-the-way place; well-kept-secret place <-- these are all hella clunk}
@@ -292,7 +292,7 @@ Dialogue: 0,0:20:53.59,0:20:54.85,Dialogue,,0,0,0,,I’m sorry about last night,
 Dialogue: 0,0:20:54.85,0:20:56.56,Dialogue,,0,0,0,,for suddenly barging in on you.
 Dialogue: 0,0:20:58.57,0:21:00.38,Dialogue,,0,0,0,,I’ll be careful next time.
 Dialogue: 0,0:21:03.13,0:21:04.18,Dialogue,,0,0,0,,The movie—
-Dialogue: 0,0:21:05.63,0:21:07.57,Dialogue,,0,0,0,,let’s go see another one.
+Dialogue: 0,0:21:05.63,0:21:07.53,Dialogue,,0,0,0,,let’s go see another one.
 Dialogue: 0,0:21:09.50,0:21:13.98,Dialogue,,0,0,0,,But you have to come home with me next time.
 Dialogue: 0,0:21:24.91,0:21:25.99,Dialogue,,0,0,0,,What?
 Dialogue: 0,0:21:29.09,0:21:30.48,Dialogue,,0,0,0,,Nothing.

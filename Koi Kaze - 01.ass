@@ -25,9 +25,9 @@ Video File: ../../../../../media/wyse/Media III/[WSE] Koi Kaze [raws v2]/ep1.vpy
 Video AR Mode: 4
 Video AR Value: 1.779167
 Video Zoom Percent: 2.768750
-Scroll Position: 393
-Active Line: 414
-Video Position: 33805
+Scroll Position: 312
+Active Line: 319
+Video Position: 5964
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -433,7 +433,7 @@ Dialogue: 0,0:08:54.43,0:08:56.26,Dialogue,,0,0,0,,We simply don’t even know e
 Dialogue: 0,0:08:57.22,0:08:58.97,Dialogue,,0,0,0,,My parents are divorced.
 Dialogue: 0,0:08:58.97,0:09:01.97,Dialogue,,0,0,0,,Even though I’ve met my mom, who took custody of her, a few times,{drop who took custody of her?}
 Dialogue: 0,0:09:01.97,0:09:04.02,Dialogue,,0,0,0,,I haven’t seen my sister at all.
-Dialogue: 0,0:09:06.06,0:09:07.77,Dialogue,,0,0,0,,You have a customer!
+Dialogue: 0,0:09:06.06,0:09:07.73,Dialogue,,0,0,0,,You have a customer!
 Dialogue: 0,0:09:14.65,0:09:17.49,Dialogue,,0,0,0,,Sorry to keep you waiting.
 Dialogue: 0,0:09:26.58,0:09:27.50,Dialogue,,0,0,0,,So...
 Dialogue: 0,0:09:29.88,0:09:32.46,Dialogue,,0,0,0,,What kind of man are you interested in?
@@ -476,7 +476,7 @@ Dialogue: 0,0:12:23.93,0:12:25.14,Dialogue,,0,0,0,,I don’t need them.
 Dialogue: 0,0:12:26.10,0:12:28.76,Dialogue,,0,0,0,,Why don’t you try asking the girl you just broke up with?{technically /she/ broke up with him but whatever}
 Dialogue: 0,0:12:28.76,0:12:30.56,Dialogue,,0,0,0,,Maybe you two will get back together.
 Dialogue: 0,0:12:30.56,0:12:33.56,Dialogue,,0,0,0,,Who the hell’d want to get back together with—
-Dialogue: 0,0:12:48.28,0:12:51.29,Dialogue,,0,0,0,,Ah! Hello.
+Dialogue: 0,0:12:48.24,0:12:51.29,Dialogue,,0,0,0,,Ah! Hello.
 Dialogue: 0,0:12:56.63,0:12:58.13,Dialogue,,0,0,0,,Do you remember me?
 Dialogue: 0,0:12:58.71,0:13:00.00,Dialogue,,0,0,0,,Yesterday morning.
 Dialogue: 0,0:13:01.88,0:13:04.09,Dialogue,,0,0,0,,Yeah, I remember!
@@ -575,7 +575,7 @@ Dialogue: 0,0:20:53.39,0:20:54.44,Dialogue,,0,0,0,,Huh?!
 Dialogue: 0,0:20:55.02,0:20:57.65,Dialogue,,0,0,0,,Oh, you’re here too, Koshiro?
 Dialogue: 0,0:20:57.65,0:21:00.94,Dialogue,,0,0,0,,It’s been so long since you siblings have gotten together.
 Dialogue: 0,0:21:01.49,0:21:03.65,Dialogue,,0,0,0,,Did you two recognize each other right away?
-Dialogue: 0,0:21:06.66,0:21:10.16,Dialogue,,0,0,0,,Hey, what’s wrong with the two of you? Let’s go!
+Dialogue: 0,0:21:06.62,0:21:10.16,Dialogue,,0,0,0,,Hey, what’s wrong with the two of you? Let’s go!
 Dialogue: 0,0:21:12.50,0:21:13.54,Dialogue,,0,0,0,,Hey...!
 Dialogue: 0,0:21:14.16,0:21:16.54,Dialogue,,0,0,0,,What should we have for dinner?
 Dialogue: 0,0:21:16.54,0:21:18.75,Dialogue,,0,0,0,,Nanoka, what do you want?

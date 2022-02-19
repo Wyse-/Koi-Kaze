@@ -21,10 +21,10 @@ Audio File: ../../../../../media/wyse/Media III/[WSE] Koi Kaze [DVD x264 478p 10
 Video File: ../../../../../media/wyse/Media III/[WSE] Koi Kaze [raws v2]/ep8.vpy.mkv
 Video AR Mode: 4
 Video AR Value: 1.779167
-Video Zoom Percent: 2.768750
+Video Zoom Percent: 1.645833
 Scroll Position: 181
-Active Line: 245
-Video Position: 33534
+Active Line: 192
+Video Position: 22841
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -83,8 +83,8 @@ Dialogue: 0,0:01:43.58,0:01:48.96,Title,,0,0,0,,{\c&H7982CE&\clip(m 233.875 422.
 Dialogue: 0,0:01:52.55,0:01:59.01,Dialogue,,0,0,0,,The conference members are basically selected after we do a strict examination.
 Dialogue: 0,0:01:59.01,0:02:03.55,Dialogue,,0,0,0,,There really aren’t any suspicious people, so to say...
 Dialogue: 0,0:02:03.55,0:02:05.98,Dialogue,,0,0,0,,or any people with problems.
-Dialogue: 0,0:02:05.98,0:02:09.52,Dialogue,,0,0,0,,If there are any conflicts between two members,
-Dialogue: 0,0:02:09.52,0:02:11.30,Dialogue,,0,0,0,,we’ll take responsibility...
+Dialogue: 0,0:02:05.98,0:02:09.48,Dialogue,,0,0,0,,If there are any conflicts between two members,
+Dialogue: 0,0:02:09.48,0:02:11.30,Dialogue,,0,0,0,,we’ll take responsibility...
 Dialogue: 0,0:02:11.30,0:02:14.04,Dialogue - Italic,,0,0,0,,It was a job I just chose to do,
 Dialogue: 0,0:02:14.85,0:02:20.30,Dialogue - Italic,,0,0,0,,because employment opportunities were limited for a third-class university graduate.
 Dialogue: 0,0:02:20.30,0:02:21.53,Dialogue - Italic,,0,0,0,,Or so I thought.

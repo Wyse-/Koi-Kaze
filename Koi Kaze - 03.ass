@@ -22,10 +22,10 @@ Audio File: ../../../../../media/wyse/Media III/[WSE] Koi Kaze [DVD x264 478p 10
 Video File: ../../../../../media/wyse/Media III/[WSE] Koi Kaze [raws v2]/ep3.vpy.mkv
 Video AR Mode: 4
 Video AR Value: 1.779167
-Video Zoom Percent: 2.768750
-Scroll Position: 118
-Active Line: 182
-Video Position: 33537
+Video Zoom Percent: 1.645833
+Scroll Position: 91
+Active Line: 105
+Video Position: 11572
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -154,7 +154,7 @@ Dialogue: 0,0:08:01.46,0:08:02.62,Dialogue,,0,0,0,,What’d he look like?{"What 
 Dialogue: 0,0:08:02.62,0:08:04.30,Dialogue,,0,0,0,,He was pretty tall,
 Dialogue: 0,0:08:04.30,0:08:06.69,Dialogue,,0,0,0,,with fair skin and straight, shiny hair.{idk about those adjectives there but they were in the r1 so I stole them}
 Dialogue: 0,0:08:06.69,0:08:08.30,Dialogue,,0,0,0,,He also had amazing eyelashes!
-Dialogue: 0,0:08:08.30,0:08:10.88,Dialogue,,0,0,0,,He must be a high school student, since he was wearing a school uniform!
+Dialogue: 0,0:08:08.30,0:08:10.84,Dialogue,,0,0,0,,He must be a high school student, since he was wearing a school uniform!
 Dialogue: 0,0:08:11.14,0:08:12.60,Dialogue,,0,0,0,,Why was he on the train that late?
 Dialogue: 0,0:08:12.60,0:08:15.14,Dialogue,,0,0,0,,Yeah! That’s exactly the point!
 Dialogue: 0,0:08:15.14,0:08:16.31,Dialogue,,0,0,0,,The point?

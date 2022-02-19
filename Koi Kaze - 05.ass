@@ -21,10 +21,10 @@ Audio File: ../../../../../media/wyse/Media III/[WSE] Koi Kaze [DVD x264 478p 10
 Video File: ../../../../../media/wyse/Media III/[WSE] Koi Kaze [raws v2]/ep5.vpy.mkv
 Video AR Mode: 4
 Video AR Value: 1.779167
-Video Zoom Percent: 2.768750
+Video Zoom Percent: 1.645833
 Scroll Position: 268
-Active Line: 288
-Video Position: 30472
+Active Line: 278
+Video Position: 22232
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -430,7 +430,7 @@ Dialogue: 0,0:15:03.71,0:15:08.09,Dialogue,,0,0,0,,Hey, Koshiro left really earl
 Dialogue: 0,0:15:09.34,0:15:12.97,Dialogue,,0,0,0,,Does he know that today’s your birthday?
 Dialogue: 0,0:15:13.93,0:15:15.01,Dialogue,,0,0,0,,It doesn’t matter.
 Dialogue: 0,0:15:15.68,0:15:18.06,Dialogue,,0,0,0,,I don’t need a big brother.
-Dialogue: 0,0:15:56.26,0:16:00.68,Dialogue,,0,0,0,,The best hospitality of this inn is the small mosquito.{bonus points for someone actually making this into a haiku}
+Dialogue: 0,0:15:56.26,0:16:00.64,Dialogue,,0,0,0,,The best hospitality of this inn is the small mosquito.{bonus points for someone actually making this into a haiku}
 Dialogue: 0,0:16:01.35,0:16:03.19,Dialogue,,0,0,0,,This is a Haiku written by Basho.
 Dialogue: 0,0:16:03.19,0:16:03.98,Dialogue - Italic,,0,0,0,,Ah, I know!
 Dialogue: 0,0:16:03.98,0:16:04.90,Dialogue - Italic,,0,0,0,,What? What?
@@ -460,8 +460,8 @@ Dialogue: 0,0:18:32.17,0:18:33.42,Dialogue - Italic,,0,0,0,,I can wash away...
 Dialogue: 0,0:18:42.93,0:18:44.01,Dialogue - Italic,,0,0,0,,I can...
 Dialogue: 0,0:18:58.53,0:18:59.61,Dialogue,,0,0,0,,I’m sorry.
 Dialogue: 0,0:19:06.66,0:19:09.58,Dialogue,,0,0,0,,No! No, it’s no good! Damn it!{u got a filthy mouth there boy}
-Dialogue: 0,0:19:09.58,0:19:12.38,Dialogue,,0,0,0,,There’s nothing I can do! I’m the worst!
-Dialogue: 0,0:19:12.38,0:19:14.88,Dialogue,,0,0,0,,God, I’m the worst!
+Dialogue: 0,0:19:09.58,0:19:12.42,Dialogue,,0,0,0,,There’s nothing I can do! I’m the worst!
+Dialogue: 0,0:19:12.42,0:19:14.88,Dialogue,,0,0,0,,God, I’m the worst!
 Dialogue: 0,0:19:15.13,0:19:18.22,Dialogue,,0,0,0,,No, no, no, that’s not what I meant!
 Dialogue: 0,0:19:18.22,0:19:20.93,Dialogue,,0,0,0,,I just wanted to say I’m sorry for forgetting about your birthday!
 Dialogue: 0,0:19:21.51,0:19:22.72,Dialogue,,0,0,0,,It’s nothing more than that.
@@ -470,7 +470,7 @@ Dialogue: 0,0:19:29.56,0:19:30.52,Dialogue,,0,0,0,,It’s fine.
 Dialogue: 0,0:19:34.15,0:19:35.65,Dialogue,,0,0,0,,Are you here to pick me up?
 Dialogue: 0,0:19:35.65,0:19:38.74,Dialogue,,0,0,0,,N-No, I-I-I was just...
 Dialogue: 0,0:19:38.74,0:19:40.32,Dialogue,,0,0,0,,Are those for me?
-Dialogue: 0,0:19:40.32,0:19:42.91,Dialogue,,0,0,0,,N-No way, you idiot!\NThey’re for our Buddha statue!{I think he has a major speech impediment}
+Dialogue: 0,0:19:40.32,0:19:42.86,Dialogue,,0,0,0,,N-No way, you idiot!\NThey’re for our Buddha statue!{I think he has a major speech impediment}
 Dialogue: 0,0:19:52.83,0:19:54.25,Dialogue,,0,0,0,,I’m relieved.
 Dialogue: 0,0:19:56.96,0:20:02.05,Dialogue,,0,0,0,,I thought you were angry at me because I saw you naked in the bathroom.
 Dialogue: 0,0:20:12.39,0:20:14.52,Dialogue,,0,0,0,,Why would I be angry?

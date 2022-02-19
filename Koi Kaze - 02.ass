@@ -21,9 +21,10 @@ Last Style Storage: Default
 Video File: ../../../../../media/wyse/Media III/[WSE] Koi Kaze [raws v2]/ep2.vpy.mkv
 Video AR Mode: 4
 Video AR Value: 1.779167
-Video Zoom Percent: 2.768750
-Active Line: 38
-Video Position: 20432
+Video Zoom Percent: 1.645833
+Scroll Position: 594
+Active Line: 638
+Video Position: 19366
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -661,7 +662,7 @@ Dialogue: 0,0:11:31.12,0:11:33.42,Dialogue,,0,0,0,,Did you snap after your girlf
 Dialogue: 0,0:11:49.56,0:11:50.98,Dialogue - Italic,,0,0,0,,I had forgotten...
 Dialogue: 0,0:11:53.94,0:11:58.15,Dialogue - Italic,,0,0,0,,I had forgotten about her... completely.
 Dialogue: 0,0:12:00.15,0:12:01.86,Dialogue - Italic,,0,0,0,,Damn it!
-Dialogue: 0,0:12:21.34,0:12:22.76,Dialogue,,0,0,0,,It’s so sweet!
+Dialogue: 0,0:12:21.34,0:12:22.72,Dialogue,,0,0,0,,It’s so sweet!
 Dialogue: 0,0:12:23.13,0:12:24.89,Dialogue,,0,0,0,,This is so good!
 Dialogue: 0,0:12:25.14,0:12:26.10,Dialogue,,0,0,0,,Isn’t it, isn’t it?{I KNOW RIGHT}
 Dialogue: 0,0:12:26.10,0:12:29.10,Dialogue,,0,0,0,,Chocolate caramel ice cream is definitely the best!
