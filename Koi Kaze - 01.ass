@@ -24,10 +24,10 @@ Audio File: ../../../../../media/wyse/Media III/[WSE] Koi Kaze [DVD x264 478p 10
 Video File: ../../../../../media/wyse/Media III/[WSE] Koi Kaze [raws v2]/ep1.vpy.mkv
 Video AR Mode: 4
 Video AR Value: 1.779167
-Video Zoom Percent: 2.768750
-Scroll Position: 312
-Active Line: 319
-Video Position: 5964
+Video Zoom Percent: 2.893750
+Scroll Position: 207
+Active Line: 224
+Video Position: 7768
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -272,7 +272,7 @@ Dialogue: 0,0:02:13.40,0:02:13.44,Signs,,0,0,0,,{\blur0.803\pos(525.174,47.808)\
 Dialogue: 0,0:02:13.44,0:02:13.48,Signs,,0,0,0,,{\blur0.803\pos(524.838,30.707)\fscx100.052\fnBuda Light\t(0,100,\fscx100.052)\fscy100\t(0,100,\fscy100)\b0\fs24.202\frz2\c&H4E4D4A&\3c&HB8BAB6&\fsp0.302}Please keep the
 Dialogue: 0,0:02:13.44,0:02:13.48,Signs,,0,0,0,,{\blur0.803\pos(525.57,47.395)\fscx100.052\fnBuda Light\t(0,100,\fscx100.052)\fscy100\t(0,100,\fscy100)\b0\fs24.202\frz2\c&H4E4D4A&\3c&HB8BAB6&}restrooms clean
 Dialogue: 0,0:04:05.22,0:04:05.34,Signs,,0,0,0,,
-Dialogue: 0,0:05:23.97,0:05:27.47,Signs,,0,0,0,,{\blur0.803\frz-11\fax0.5\fs19.079\fscx77.421\fsp1.31\fscy170\pos(362.145,105.767)\c&H5D5D5D&\clip(m 275.125 105.5 l 284.625 125.5 468.875 152.625 466.5 96.375 285.875 60.25 297.875 79.375 302.625 99.375 b 273.875 93.375 271.5 89.375 263.125 82.375)\fnFredoka One}Machida Marriage Consulting
+Dialogue: 0,0:05:23.97,0:05:27.47,Signs,,0,0,0,,{\blur0.803\fax0.4\fs19.079\fscx77.421\fsp1.31\fscy170\pos(362.145,105.767)\c&H5D5D5D&\clip(m 275.125 105.5 l 284.625 125.5 468.875 152.625 466.5 96.375 285.875 60.25 297.875 79.375 302.625 99.375 b 273.875 93.375 271.5 89.375 263.125 82.375)\fnFredoka One\frz350.4}Machida Marriage Consulting
 Dialogue: 0,0:06:15.06,0:06:18.06,Signs,,0,0,0,,{\blur0.803\fs18.152\fax0.17\b1\c&H4F565A&\fnOverlock\frz353.7\pos(417.326,160.538)}Reference Room{資料室}
 Dialogue: 0,0:06:15.06,0:06:18.06,Signs,,0,0,0,,{\blur0.803\c&H4F565A&\frz-3\fax0.07\fs20.168\pos(420.954,269.042)\fnKlee One}The toilet is
 Dialogue: 0,0:06:15.06,0:06:18.06,Signs,,0,0,0,,{\blur0.803\c&H4F565A&\frz-3\fax0.07\fs20.168\pos(420.954,283.16)\fnKlee One}in the front.{おトイレは入口を出て正面です}
