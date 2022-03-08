@@ -20,10 +20,10 @@ Audio File: ../../../../../media/wyse/Media III/[WSE] Koi Kaze [DVD x264 478p 10
 Video File: ../../../../../media/wyse/Media III/[WSE] Koi Kaze [raws v2]/ep9.vpy.mkv
 Video AR Mode: 4
 Video AR Value: 1.779167
-Video Zoom Percent: 1.645833
-Scroll Position: 218
-Active Line: 239
-Video Position: 25115
+Video Zoom Percent: 2.768750
+Scroll Position: 15
+Active Line: 20
+Video Position: 4190
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -67,6 +67,7 @@ Dialogue: 23,0:01:43.58,0:01:48.96,Title,,0,0,0,,{\c&HD68693&\clip(m 65 388.25 l
 Dialogue: 24,0:01:43.58,0:01:48.96,Title,,0,0,0,,{\c&HD47E8C&\clip(m 67.375 392.25 l 342.125 284.375 346.875 291.5 71 399.25)\pos(193.346,317.644)\blur0.803\t(3444,4990,0.7,\blur7.058)\1a&HFF&\t(-5,607,\1a&H00)\fad(0,1500)}Wind flower
 Dialogue: 25,0:01:43.58,0:01:48.96,Title,,0,0,0,,{\c&HD27786&\clip(m 68.625 396.25 l 344.5 287.5 349.25 295.5 73.375 403.25)\pos(193.346,317.644)\blur0.803\t(3444,4990,0.7,\blur7.058)\1a&HFF&\t(-5,607,\1a&H00)\fad(0,1500)}Wind flower
 Dialogue: 26,0:01:43.58,0:01:48.96,Title,,0,0,0,,{\c&HD0707F&\clip(m 71 399.25 l 346.875 291.5 350.5 298.5 74.625 406.5)\pos(193.346,317.644)\blur0.803\t(3444,4990,0.7,\blur7.058)\1a&HFF&\t(-5,607,\1a&H00)\fad(0,1500)}Wind flower
+Dialogue: 0,0:02:54.73,0:02:57.49,Signs,,0,0,0,,{\fnKG Shadow of the Day\frz15.63\fax-0.25\fs35\pos(428.083,145.011)\c&HA0A3A5&\blur0.8}SCIENCE LAB
 Dialogue: 0,0:07:25.50,0:07:28.53,Signs - Letter,,0,0,0,,{\frz-4\fax-0.35\pos(266.357,118.69)\blur0.803\c&H434C50&}To Nanoka
 Dialogue: 0,0:07:25.50,0:07:28.53,Signs - Letter,,0,0,0,,{\fax-0.2\frz354.5\blur0.803\c&H434C50&\pos(372.637,166.562)}I'm going to eat
 Dialogue: 0,0:07:25.50,0:07:28.53,Signs - Letter,,0,0,0,,{\frz-6.5\fax-0.35\blur0.803\c&H434C50&\pos(330.539,253.183)}with Yamada-san and company.
@@ -90,6 +91,7 @@ Dialogue: 1,0:17:27.48,0:17:30.48,Signs - Lamp - Main,,0,0,0,,{\pos(412.647,78.3
 Dialogue: 1,0:17:27.48,0:17:30.48,Signs - Lamp - Main,,0,0,0,,{\pos(427,85.356)\fs38.159\frz338.8\blur0.803}{43}i
 Dialogue: 1,0:17:27.48,0:17:30.48,Signs - Lamp - Main,,0,0,0,,{\pos(441.353,93.389)\fs37.155\frz333\blur0.803}{43}y
 Dialogue: 1,0:17:27.48,0:17:30.48,Signs - Lamp - Main,,0,0,0,,{\pos(456.902,103.431)\fs36.151\frz327.9\blur0.803}{43}a
+Dialogue: 0,0:08:28.02,0:08:31.40,Signs,,0,0,0,,{\fnFrancois One\c&H687070&\fs35\frz352.9\fax0.15\pos(494.526,130.203)\blur0.7}Asajigaoka Station
 Dialogue: 0,0:01:51.10,0:01:52.98,Dialogue - Italic,,0,0,0,,I thought about moving out of the house.
 Dialogue: 0,0:01:55.43,0:01:58.78,Dialogue - Italic,,0,0,0,,I love you, Onii-chan.
 Dialogue: 0,0:02:08.83,0:02:10.58,Dialogue - Italic,,0,0,0,,She’s cute.
