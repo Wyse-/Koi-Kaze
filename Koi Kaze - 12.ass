@@ -21,9 +21,9 @@ Video File: ../../../../../media/wyse/Media III/[WSE] Koi Kaze [raws v2]/ep12.vp
 Video AR Mode: 4
 Video AR Value: 1.779167
 Video Zoom Percent: 2.768750
-Scroll Position: 117
-Active Line: 168
-Video Position: 33538
+Scroll Position: 9
+Active Line: 32
+Video Position: 7894
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -70,6 +70,13 @@ Dialogue: 0,0:01:56.59,0:02:02.01,Title,,0,0,0,,{\c&H70B9E0&\clip(m 179.875 403.
 Dialogue: 0,0:01:56.59,0:02:02.01,Title,,0,0,0,,{\c&H6AB7DF&\clip(m 181 406.5 l 456.875 298.625 461.625 306.625 185.875 414.5)\pos(299.821,317.724)\blur0.803\t(3487,5660,0.7,\blur10.084)\1a&HFF&\t(5,607,\1a&H00)\fad(0,550)}Spring thunder
 Dialogue: 0,0:01:56.59,0:02:02.01,Title,,0,0,0,,{\c&H65B5DF&\clip(m 183.5 410.5 l 459.25 302.625 462.875 309.625 187 417.625)\pos(299.821,317.724)\blur0.803\t(3487,5660,0.7,\blur10.084)\1a&HFF&\t(5,607,\1a&H00)\fad(0,550)}Spring thunder
 Dialogue: 0,0:01:56.59,0:02:02.01,Title,,0,0,0,,{\c&H5FB2DE&\clip(m 185.875 414.5 l 461.625 306.625 465.25 313.625 189.375 421.625)\pos(299.821,317.724)\blur0.803\t(3487,5660,0.7,\blur10.084)\1a&HFF&\t(5,607,\1a&H00)\fad(0,550)}Spring thunder
+Dialogue: 0,0:05:29.05,0:05:29.14,Signs,,0,0,0,,{\fnAlias\frz13.52\fs25\c&H52595A&\blur0.7\pos(759.212,274.673)}age
+Dialogue: 0,0:05:29.14,0:05:29.18,Signs,,0,0,0,,{\fnAlias\frz13.52\fs27\c&H52595A&\blur0.8\pos(623.44,228.803)}age
+Dialogue: 0,0:05:29.14,0:05:29.18,Signs,,0,0,0,,{\fnAlias\frz13.52\fs27\c&H52595A&\blur0.8\pos(826.738,250.835)}years old
+Dialogue: 0,0:05:29.18,0:05:29.22,Signs,,0,0,0,,{\fnAlias\frz13.52\fs28.5\c&H52595A&\blur0.8\pos(503.555,188.713)}age
+Dialogue: 0,0:05:29.18,0:05:29.22,Signs,,0,0,0,,{\fnAlias\frz13.52\fs28.5\c&H52595A&\blur0.8\pos(723.102,212.55)}years old
+Dialogue: 0,0:05:29.22,0:05:30.72,Signs,,0,0,0,,{\fnAlias\frz13.52\fs30\c&H52595A&\blur0.9\pos(450.835,169.571)}age
+Dialogue: 0,0:05:29.22,0:05:30.72,Signs,,0,0,0,,{\fnAlias\frz13.52\fs30\c&H52595A&\blur0.9\pos(678.687,194.13)}years old
 Dialogue: 0,0:01:05.15,0:01:06.20,Dialogue,,0,0,0,,Ah, I’m sorry. Ow...
 Dialogue: 0,0:01:08.35,0:01:11.05,Dialogue,,0,0,0,,A-are you all right?
 Dialogue: 0,0:01:11.06,0:01:14.06,Dialogue,,0,0,0,,Yeah, I just scraped my knee a little.
