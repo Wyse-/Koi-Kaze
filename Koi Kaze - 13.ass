@@ -17,12 +17,12 @@ YCbCr Matrix: TV.601
 [Aegisub Project Garbage]
 Last Style Storage: Koi Kaze L
 Audio File: ../../../../../media/wyse/Media III/[WSE] Koi Kaze [DVD x264 478p 10bit FLAC-AC3][Dual Audio]/[WSE] Koi Kaze - 13 [DVD x264 478p 10bit FLAC-AC3][Dual Audio][16DC7E1E]_JPN_Audio01.flac
-Video File: ../../../../../media/wyse/Media III/[WSE] Koi Kaze [raws v2]/ep13.vpy.mkv
+Video File: ../../../../../media/wyse/Media III/[WSE] Koi Kaze [raws wobbly-ivtc]/ep13.vpy.mkv
 Video AR Mode: 4
 Video AR Value: 1.779167
-Video Zoom Percent: 2.768750
-Active Line: 23
-Video Position: 3499
+Video Zoom Percent: 2.058333
+Active Line: 20
+Video Position: 4605
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -43,44 +43,56 @@ Style: TL Note,LTFinnegan Medium,28,&H00D8D4C7,&H000019FF,&H00101010,&HBE000000,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:01:43.58,0:01:49.00,Title,,0,0,0,,{\c&HF0F1EF&\clip(m 177.375 333.875 l 452.125 226 456.875 233 180.875 340.875)\pos(335.703,317.724)\blur0.803\t(3484,5660,0.7,\blur10.084)\1a&HFF&\t(5,607,\1a&H00)\fad(0,550)}Heat haze
-Dialogue: 0,0:01:43.58,0:01:49.00,Title,,0,0,0,,{\c&HEAEBE6&\clip(m 178.5 337.875 l 454.5 229 458.125 237.125 183.5 344.875)\pos(335.703,317.724)\blur0.803\t(3484,5660,0.7,\blur10.084)\1a&HFF&\t(5,607,\1a&H00)\fad(0,550)}Heat haze
-Dialogue: 0,0:01:43.58,0:01:49.00,Title,,0,0,0,,{\c&HE4E5DE&\clip(m 180.875 340.875 l 456.875 233 460.5 240.125 184.625 348)\pos(335.703,317.724)\blur0.803\t(3484,5660,0.7,\blur10.084)\1a&HFF&\t(5,607,\1a&H00)\fad(0,550)}Heat haze
-Dialogue: 0,0:01:43.58,0:01:49.00,Title,,0,0,0,,{\c&HDEE0D5&\clip(m 183.5 344.875 l 458.125 237.125 462.875 244.125 187 352)\pos(335.703,317.724)\blur0.803\t(3484,5660,0.7,\blur10.084)\1a&HFF&\t(5,607,\1a&H00)\fad(0,550)}Heat haze
-Dialogue: 0,0:01:43.58,0:01:49.00,Title,,0,0,0,,{\c&HD9DACD&\clip(m 184.625 348 l 460.5 240.125 465.25 248.125 189.375 356)\pos(335.703,317.724)\blur0.803\t(3484,5660,0.7,\blur10.084)\1a&HFF&\t(5,607,\1a&H00)\fad(0,550)}Heat haze
-Dialogue: 0,0:01:43.58,0:01:49.00,Title,,0,0,0,,{\c&HD3D5C4&\clip(m 187 352 l 462.875 244.125 466.5 251.125 190.625 359.125)\pos(335.703,317.724)\blur0.803\t(3484,5660,0.7,\blur10.084)\1a&HFF&\t(5,607,\1a&H00)\fad(0,550)}Heat haze
-Dialogue: 0,0:01:43.58,0:01:49.00,Title,,0,0,0,,{\c&HCDCFBC&\clip(m 189.375 356 l 465.25 248.125 468.875 255.25 193 363.125)\pos(335.703,317.724)\blur0.803\t(3484,5660,0.7,\blur10.084)\1a&HFF&\t(5,607,\1a&H00)\fad(0,550)}Heat haze
-Dialogue: 0,0:01:43.58,0:01:49.00,Title,,0,0,0,,{\c&HC8CAB3&\clip(m 190.625 359.125 l 466.5 251.125 471.25 258.25 195.375 367.125)\pos(335.703,317.724)\blur0.803\t(3484,5660,0.7,\blur10.084)\1a&HFF&\t(5,607,\1a&H00)\fad(0,550)}Heat haze
-Dialogue: 0,0:01:43.58,0:01:49.00,Title,,0,0,0,,{\c&HC2C4AB&\clip(m 193 363.125 l 468.875 255.25 472.5 262.25 196.625 370.125)\pos(335.703,317.724)\blur0.803\t(3484,5660,0.7,\blur10.084)\1a&HFF&\t(5,607,\1a&H00)\fad(0,550)}Heat haze
-Dialogue: 0,0:01:43.58,0:01:49.00,Title,,0,0,0,,{\c&HBCBFA2&\clip(m 195.375 367.125 l 471.25 258.25 474.875 266.25 199 374.25)\pos(335.703,317.724)\blur0.803\t(3484,5660,0.7,\blur10.084)\1a&HFF&\t(5,607,\1a&H00)\fad(0,550)}Heat haze
-Dialogue: 0,0:01:43.58,0:01:49.00,Title,,0,0,0,,{\c&HB6B99A&\clip(m 196.625 370.125 l 472.5 262.25 477.25 269.375 201.375 377.25)\pos(335.703,317.724)\blur0.803\t(3484,5660,0.7,\blur10.084)\1a&HFF&\t(5,607,\1a&H00)\fad(0,550)}Heat haze
-Dialogue: 0,0:01:43.58,0:01:49.00,Title,,0,0,0,,{\c&HB1B491&\clip(m 199 374.25 l 474.875 266.25 478.375 273.375 202.625 381.25)\pos(335.703,317.724)\blur0.803\t(3484,5660,0.7,\blur10.084)\1a&HFF&\t(5,607,\1a&H00)\fad(0,550)}Heat haze
-Dialogue: 0,0:01:43.58,0:01:49.00,Title,,0,0,0,,{\c&HABAE89&\clip(m 201.375 377.25 l 477.25 269.375 480.875 277.375 205 385.25)\pos(335.703,317.724)\blur0.803\t(3484,5660,0.7,\blur10.084)\1a&HFF&\t(5,607,\1a&H00)\fad(0,550)}Heat haze
-Dialogue: 0,0:01:43.58,0:01:49.00,Title,,0,0,0,,{\c&HA5A980&\clip(m 202.625 381.25 l 478.375 273.375 483.25 280.375 207.375 388.375)\pos(335.703,317.724)\blur0.803\t(3484,5660,0.7,\blur10.084)\1a&HFF&\t(5,607,\1a&H00)\fad(0,550)}Heat haze
-Dialogue: 0,0:01:43.58,0:01:49.00,Title,,0,0,0,,{\c&HA0A378&\clip(m 205 385.25 l 480.875 277.375 484.375 284.375 209.75 392.375)\pos(335.703,317.724)\blur0.803\t(3484,5660,0.7,\blur10.084)\1a&HFF&\t(5,607,\1a&H00)\fad(0,550)}Heat haze
-Dialogue: 0,0:01:43.58,0:01:49.00,Title,,0,0,0,,{\c&H9A9E6F&\clip(m 207.375 388.375 l 483.25 280.375 486.75 287.5 211 396.375)\pos(335.703,317.724)\blur0.803\t(3484,5660,0.7,\blur10.084)\1a&HFF&\t(5,607,\1a&H00)\fad(0,550)}Heat haze
-Dialogue: 0,0:01:43.58,0:01:49.00,Title,,0,0,0,,{\c&H949867&\clip(m 209.75 392.375 l 484.375 284.375 489.25 291.5 213.375 399.375)\pos(335.703,317.724)\blur0.803\t(3484,5660,0.7,\blur10.084)\1a&HFF&\t(5,607,\1a&H00)\fad(0,550)}Heat haze
-Dialogue: 0,0:01:43.58,0:01:49.00,Title,,0,0,0,,{\c&H8E935E&\clip(m 211 396.375 l 486.75 287.5 491.625 295.5 215.75 403.375)\pos(335.703,317.724)\blur0.803\t(3484,5660,0.7,\blur10.084)\1a&HFF&\t(5,607,\1a&H00)\fad(0,550)}Heat haze
-Dialogue: 0,0:01:43.58,0:01:49.00,Title,,0,0,0,,{\c&H898D56&\clip(m 213.375 399.375 l 489.25 291.5 492.75 298.625 217 406.5)\pos(335.703,317.724)\blur0.803\t(3484,5660,0.7,\blur10.084)\1a&HFF&\t(5,607,\1a&H00)\fad(0,550)}Heat haze
-Dialogue: 0,0:01:43.58,0:01:49.00,Title,,0,0,0,,{\c&H83884D&\clip(m 215.75 403.375 l 491.625 295.5 495.125 302.625 219.375 410.5)\pos(335.703,317.724)\blur0.803\t(3484,5660,0.7,\blur10.084)\1a&HFF&\t(5,607,\1a&H00)\fad(0,550)}Heat haze
+Dialogue: 0,0:01:43.54,0:01:49.04,Title,,0,0,0,,{\c&HF0F1EF&\clip(m 177.375 333.875 l 452.125 226 456.875 233 180.875 340.875)\pos(335.703,317.724)\blur0.803\t(3484,5660,0.7,\blur10.084)\1a&HFF&\t(15,607,\,\1a&H00)\fad(0,550)}Heat haze
+Dialogue: 0,0:01:43.54,0:01:49.04,Title,,0,0,0,,{\c&HEAEBE6&\clip(m 178.5 337.875 l 454.5 229 458.125 237.125 183.5 344.875)\pos(335.703,317.724)\blur0.803\t(3484,5660,0.7,\blur10.084)\1a&HFF&\t(15,607,\,\1a&H00)\fad(0,550)}Heat haze
+Dialogue: 0,0:01:43.54,0:01:49.04,Title,,0,0,0,,{\c&HE4E5DE&\clip(m 180.875 340.875 l 456.875 233 460.5 240.125 184.625 348)\pos(335.703,317.724)\blur0.803\t(3484,5660,0.7,\blur10.084)\1a&HFF&\t(15,607,\,\1a&H00)\fad(0,550)}Heat haze
+Dialogue: 0,0:01:43.54,0:01:49.04,Title,,0,0,0,,{\c&HDEE0D5&\clip(m 183.5 344.875 l 458.125 237.125 462.875 244.125 187 352)\pos(335.703,317.724)\blur0.803\t(3484,5660,0.7,\blur10.084)\1a&HFF&\t(15,607,\,\1a&H00)\fad(0,550)}Heat haze
+Dialogue: 0,0:01:43.54,0:01:49.04,Title,,0,0,0,,{\c&HD9DACD&\clip(m 184.625 348 l 460.5 240.125 465.25 248.125 189.375 356)\pos(335.703,317.724)\blur0.803\t(3484,5660,0.7,\blur10.084)\1a&HFF&\t(15,607,\,\1a&H00)\fad(0,550)}Heat haze
+Dialogue: 0,0:01:43.54,0:01:49.04,Title,,0,0,0,,{\c&HD3D5C4&\clip(m 187 352 l 462.875 244.125 466.5 251.125 190.625 359.125)\pos(335.703,317.724)\blur0.803\t(3484,5660,0.7,\blur10.084)\1a&HFF&\t(15,607,\,\1a&H00)\fad(0,550)}Heat haze
+Dialogue: 0,0:01:43.54,0:01:49.04,Title,,0,0,0,,{\c&HCDCFBC&\clip(m 189.375 356 l 465.25 248.125 468.875 255.25 193 363.125)\pos(335.703,317.724)\blur0.803\t(3484,5660,0.7,\blur10.084)\1a&HFF&\t(15,607,\,\1a&H00)\fad(0,550)}Heat haze
+Dialogue: 0,0:01:43.54,0:01:49.04,Title,,0,0,0,,{\c&HC8CAB3&\clip(m 190.625 359.125 l 466.5 251.125 471.25 258.25 195.375 367.125)\pos(335.703,317.724)\blur0.803\t(3484,5660,0.7,\blur10.084)\1a&HFF&\t(15,607,\,\1a&H00)\fad(0,550)}Heat haze
+Dialogue: 0,0:01:43.54,0:01:49.04,Title,,0,0,0,,{\c&HC2C4AB&\clip(m 193 363.125 l 468.875 255.25 472.5 262.25 196.625 370.125)\pos(335.703,317.724)\blur0.803\t(3484,5660,0.7,\blur10.084)\1a&HFF&\t(15,607,\,\1a&H00)\fad(0,550)}Heat haze
+Dialogue: 0,0:01:43.54,0:01:49.04,Title,,0,0,0,,{\c&HBCBFA2&\clip(m 195.375 367.125 l 471.25 258.25 474.875 266.25 199 374.25)\pos(335.703,317.724)\blur0.803\t(3484,5660,0.7,\blur10.084)\1a&HFF&\t(15,607,\,\1a&H00)\fad(0,550)}Heat haze
+Dialogue: 0,0:01:43.54,0:01:49.04,Title,,0,0,0,,{\c&HB6B99A&\clip(m 196.625 370.125 l 472.5 262.25 477.25 269.375 201.375 377.25)\pos(335.703,317.724)\blur0.803\t(3484,5660,0.7,\blur10.084)\1a&HFF&\t(15,607,\,\1a&H00)\fad(0,550)}Heat haze
+Dialogue: 0,0:01:43.54,0:01:49.04,Title,,0,0,0,,{\c&HB1B491&\clip(m 199 374.25 l 474.875 266.25 478.375 273.375 202.625 381.25)\pos(335.703,317.724)\blur0.803\t(3484,5660,0.7,\blur10.084)\1a&HFF&\t(15,607,\,\1a&H00)\fad(0,550)}Heat haze
+Dialogue: 0,0:01:43.54,0:01:49.04,Title,,0,0,0,,{\c&HABAE89&\clip(m 201.375 377.25 l 477.25 269.375 480.875 277.375 205 385.25)\pos(335.703,317.724)\blur0.803\t(3484,5660,0.7,\blur10.084)\1a&HFF&\t(15,607,\,\1a&H00)\fad(0,550)}Heat haze
+Dialogue: 0,0:01:43.54,0:01:49.04,Title,,0,0,0,,{\c&HA5A980&\clip(m 202.625 381.25 l 478.375 273.375 483.25 280.375 207.375 388.375)\pos(335.703,317.724)\blur0.803\t(3484,5660,0.7,\blur10.084)\1a&HFF&\t(15,607,\,\1a&H00)\fad(0,550)}Heat haze
+Dialogue: 0,0:01:43.54,0:01:49.04,Title,,0,0,0,,{\c&HA0A378&\clip(m 205 385.25 l 480.875 277.375 484.375 284.375 209.75 392.375)\pos(335.703,317.724)\blur0.803\t(3484,5660,0.7,\blur10.084)\1a&HFF&\t(15,607,\,\1a&H00)\fad(0,550)}Heat haze
+Dialogue: 0,0:01:43.54,0:01:49.04,Title,,0,0,0,,{\c&H9A9E6F&\clip(m 207.375 388.375 l 483.25 280.375 486.75 287.5 211 396.375)\pos(335.703,317.724)\blur0.803\t(3484,5660,0.7,\blur10.084)\1a&HFF&\t(15,607,\,\1a&H00)\fad(0,550)}Heat haze
+Dialogue: 0,0:01:43.54,0:01:49.04,Title,,0,0,0,,{\c&H949867&\clip(m 209.75 392.375 l 484.375 284.375 489.25 291.5 213.375 399.375)\pos(335.703,317.724)\blur0.803\t(3484,5660,0.7,\blur10.084)\1a&HFF&\t(15,607,\,\1a&H00)\fad(0,550)}Heat haze
+Dialogue: 0,0:01:43.54,0:01:49.04,Title,,0,0,0,,{\c&H8E935E&\clip(m 211 396.375 l 486.75 287.5 491.625 295.5 215.75 403.375)\pos(335.703,317.724)\blur0.803\t(3484,5660,0.7,\blur10.084)\1a&HFF&\t(15,607,\,\1a&H00)\fad(0,550)}Heat haze
+Dialogue: 0,0:01:43.54,0:01:49.04,Title,,0,0,0,,{\c&H898D56&\clip(m 213.375 399.375 l 489.25 291.5 492.75 298.625 217 406.5)\pos(335.703,317.724)\blur0.803\t(3484,5660,0.7,\blur10.084)\1a&HFF&\t(15,607,\,\1a&H00)\fad(0,550)}Heat haze
+Dialogue: 0,0:01:43.54,0:01:49.04,Title,,0,0,0,,{\c&H83884D&\clip(m 215.75 403.375 l 491.625 295.5 495.125 302.625 219.375 410.5)\pos(335.703,317.724)\blur0.803\t(3484,5660,0.7,\blur10.084)\1a&HFF&\t(15,607,\,\1a&H00)\fad(0,550)}Heat haze
+Dialogue: 0,0:03:05.08,0:03:07.58,Signs,,0,0,0,,{\fnPublic Secret DEMO\fs40\fax-0.13\blur0.9\pos(328.375,123.702)\frz9.331}{\c&H7D71B4&}MAKIE {\c&H646162&}BEAUTY PARLOR
+Dialogue: 0,0:05:54.12,0:05:56.62,Signs,,0,0,0,,{\fnArima Madurai\fs25\blur0.9\frz351.8\fax0.13\pos(569.322,392.365)\c&H1E2729&}WE CLOSE
+Dialogue: 0,0:05:54.12,0:05:56.62,Signs,,0,0,0,,{\fnArima Madurai\fs25\blur0.9\frz351.8\fax0.13\pos(569.322,409.943)\c&H1E2729&}AT {\c&H0B0C0D&}5 {\c&H1E2729&}PM.
+Dialogue: 0,0:06:26.82,0:06:26.94,Signs,,0,0,0,,{\fs30\fnRancho\c&H263343&\blur0.9\frz0.5\fax0.29\pos(513.555,460.567)}MEMORIES
+Dialogue: 0,0:06:26.94,0:06:27.95,Signs,,0,0,0,,{\fs30\fnRancho\c&H263343&\blur0.9\frz0.5\fax0.29\pos(518.899,415.385)}MEMORIES
+Dialogue: 0,0:10:54.92,0:10:57.30,Signs,,0,0,0,,{\fnYeseva One\fs20\c&H9BA2A3&\blur0.8\pos(415.827,194.818)}MANAGER'S OFFICE
 Dialogue: 0,0:10:57.32,0:10:59.05,Signs,,0,0,0,,{\fs24.1\fax0.2\frz15.1\pos(353.488,82.011)\fnPatua One\c&H38464E&\blur0.803}Resignation
 Dialogue: 0,0:13:54.67,0:14:01.20,Signs,,0,0,0,,{\fnFake Serif\c&H3D4750&\fax0.5\pos(372.52,123.2)\blur0.703\frz348.2}Kohinata Nanoka
 Dialogue: 0,0:13:54.67,0:14:01.20,Signs,,0,0,0,,{\frz-12\fnFake Serif\c&H3D4750&\fax0.45\blur0.703\pos(459.485,250.039)}Koshiro
 Dialogue: 0,0:13:54.67,0:14:01.20,Signs,,0,0,0,,{\frz-12\fnFake Serif\c&H3D4750&\fax0.45\blur0.703\pos(601.954,175.078)}Saeki Zenzo
-Dialogue: 0,0:22:46.67,0:22:48.17,Signs,,0,0,0,,{\frz9\c&HA0A0A0\fnKrazy Nights\fs37.155\c&H8D9698&\pos(302.345,190.992)\blur0.803}Nanoka
-Dialogue: 0,0:22:46.67,0:22:48.17,Signs,,0,0,0,,{\frz9\c&HA0A0A0\fnKrazy Nights\fs37.155\pos(300.976,189.535)\c&H393F43&\blur0.803}Nanoka
-Dialogue: 0,0:22:54.39,0:22:55.06,Signs,,0,0,0,,{\frz9\c&HA0A0A0\fnKrazy Nights\fs37.155\c&H8D9698&\pos(302.345,190.992)\clip(m 291.875 166.75 l 289.5 181.75 287 193.75 285.875 208.875 244 213.875 244 178.75)\blur0.803}Nanoka
-Dialogue: 0,0:22:54.39,0:22:55.06,Signs,,0,0,0,,{\frz9\c&HA0A0A0\fnKrazy Nights\fs37.155\pos(300.976,189.535)\c&H393F43&\clip(m 291.875 166.75 l 289.5 181.75 287 193.75 285.875 208.875 244 213.875 244 178.75)\blur0.803}Nanoka
-Dialogue: 0,0:22:55.06,0:22:55.14,Signs,,0,0,0,,{\frz9\c&HA0A0A0\fnKrazy Nights\fs37.155\c&H8D9698&\pos(302.345,190.992)\clip(m 291.875 166.75 l 287 181.75 284.625 193.75 283.5 208.875 244 213.875 244 178.75)\blur0.803}Nanoka
-Dialogue: 0,0:22:55.06,0:22:55.14,Signs,,0,0,0,,{\frz9\c&HA0A0A0\fnKrazy Nights\fs37.155\pos(300.976,189.535)\c&H393F43&\clip(m 291.875 166.75 l 287 181.75 284.625 193.75 283.5 208.875 244 213.875 244 178.75)\blur0.803}Nanoka
-Dialogue: 0,0:22:55.14,0:22:56.10,Signs,,0,0,0,,{\frz9\c&HA0A0A0\fnKrazy Nights\fs37.155\c&H8D9698&\pos(302.345,190.992)\clip(m 291.875 166.75 l 285.875 181.75 283.5 193.75 282.25 208.875 244 213.875 244 178.75)\blur0.803}Nanoka
-Dialogue: 0,0:22:55.14,0:22:56.10,Signs,,0,0,0,,{\frz9\c&HA0A0A0\fnKrazy Nights\fs37.155\pos(300.976,189.535)\c&H393F43&\clip(m 291.875 166.75 l 285.875 181.75 283.5 193.75 282.25 208.875 244 213.875 244 178.75)\blur0.803}Nanoka
-Dialogue: 0,0:22:56.10,0:22:56.14,Signs,,0,0,0,,{\frz9\c&HA0A0A0\fnKrazy Nights\fs37.155\c&H8D9698&\pos(302.345,190.992)\clip(m 291.875 166.75 l 287 181.75 284.625 193.75 283.5 208.875 244 213.875 244 178.75)\blur0.803}Nanoka
-Dialogue: 0,0:22:56.10,0:22:56.14,Signs,,0,0,0,,{\frz9\c&HA0A0A0\fnKrazy Nights\fs37.155\pos(300.976,189.535)\c&H393F43&\clip(m 291.875 166.75 l 287 181.75 284.625 193.75 283.5 208.875 244 213.875 244 178.75)\blur0.803}Nanoka
-Dialogue: 0,0:22:56.14,0:22:56.43,Signs,,0,0,0,,{\frz9\c&HA0A0A0\fnKrazy Nights\fs37.155\c&H8D9698&\pos(302.345,190.992)\clip(m 291.875 166.75 l 288.25 181.75 285.875 194.75 284.625 209.875 244 213.875 244 178.75)\blur0.803}Nanoka
-Dialogue: 0,0:22:56.14,0:22:56.43,Signs,,0,0,0,,{\frz9\c&HA0A0A0\fnKrazy Nights\fs37.155\pos(300.976,189.535)\c&H393F43&\clip(m 291.875 166.75 l 288.25 181.75 285.875 194.75 284.625 209.875 244 213.875 244 178.75)\blur0.803}Nanoka
-Dialogue: 0,0:22:56.43,0:22:58.39,Signs,,0,0,0,,{\frz9\c&HA0A0A0\fnKrazy Nights\fs37.155\c&H8D9698&\pos(302.345,190.992)\blur0.803}Nanoka
-Dialogue: 0,0:22:56.43,0:22:58.39,Signs,,0,0,0,,{\frz9\c&HA0A0A0\fnKrazy Nights\fs37.155\pos(300.976,189.535)\c&H393F43&\blur0.803}Nanoka
+Dialogue: 0,0:16:17.20,0:16:18.95,Signs,,0,0,0,,{\fnPatrick Hand\fs31\fax0.18\blur0.8\c&H3F3B36&\frz350.3\pos(476.55,120)}TICKETS
+Dialogue: 0,0:16:18.95,0:16:21.58,Signs,,0,0,0,,{\u1\fs8\c&H16191A&\blur1.2\pos(421.545,189.471)}Announcement of Closure
+Dialogue: 0,0:16:21.58,0:16:21.71,Signs,,0,0,0,,{\u1\fs8\c&H16191A&\blur1.2\pos(421.545,189.471)\clip(m 385 183 l 384 196 451 197 443 182)}Announcement of Closure
+Dialogue: 0,0:16:21.71,0:16:21.83,Signs,,0,0,0,,{\u1\fs8\c&H16191A&\blur1.2\pos(421.545,189.471)\clip(m 385 183 l 384 196 406 196 400 185)}Announcement of Closure
+Dialogue: 0,0:16:22.00,0:16:22.12,Signs,,0,0,0,,{\u1\fs24\pos(508.5,59.755)\c&H16191A&\blur0.7\clip(m 484 50 l 493 75 620 74 615 47)}Announcement of Closure
+Dialogue: 0,0:16:22.12,0:16:24.71,Signs,,0,0,0,,{\u1\fs24\pos(508.5,59.755)\c&H16191A&\blur0.7}Announcement of Closure
+Dialogue: 0,0:22:46.67,0:22:48.17,Signs,,0,0,0,,{\frz9\c&HA0A0A0\fnKrazy Nights\fs37.155\c&H8D9698&\pos(302.345,190.992)\blur0.803}Kohinata
+Dialogue: 0,0:22:46.67,0:22:48.17,Signs,,0,0,0,,{\frz9\c&HA0A0A0\fnKrazy Nights\fs37.155\pos(300.976,189.535)\c&H393F43&\blur0.803}Kohinata
+Dialogue: 0,0:22:54.43,0:22:55.06,Signs,,0,0,0,,{\frz9\c&HA0A0A0\fnKrazy Nights\fs37.155\c&H8D9698&\pos(302.345,190.992)\blur0.803\clip(m 291 166 l 289 181 287 193 285 208 233 217 221 176)}Kohinata
+Dialogue: 0,0:22:54.43,0:22:55.06,Signs,,0,0,0,,{\frz9\c&HA0A0A0\fnKrazy Nights\fs37.155\pos(300.976,189.535)\c&H393F43&\clip(m 291 166 l 289 181 287 193 285 208 233 217 221 176)\blur0.803}Kohinata
+Dialogue: 0,0:22:55.06,0:22:55.18,Signs,,0,0,0,,{\frz9\c&HA0A0A0\fnKrazy Nights\fs37.155\c&H8D9698&\pos(302.345,190.992)\blur0.803\clip(m 291 166 l 287 181 284 193 283 208 238 214 225 181)}Kohinata
+Dialogue: 0,0:22:55.06,0:22:55.18,Signs,,0,0,0,,{\frz9\c&HA0A0A0\fnKrazy Nights\fs37.155\pos(300.976,189.535)\c&H393F43&\clip(m 291 166 l 287 181 284 193 283 208 238 214 225 181)\blur0.803}Kohinata
+Dialogue: 0,0:22:55.18,0:22:56.10,Signs,,0,0,0,,{\frz9\c&HA0A0A0\fnKrazy Nights\fs37.155\c&H8D9698&\pos(302.345,190.992)\blur0.803\clip(m 291 166 l 284 181 283 193 282 208 240 213 225 181)}Kohinata
+Dialogue: 0,0:22:55.18,0:22:56.10,Signs,,0,0,0,,{\frz9\c&HA0A0A0\fnKrazy Nights\fs37.155\pos(300.976,189.535)\c&H393F43&\clip(m 291 166 l 284 181 283 193 282 208 240 213 225 181)\blur0.803}Kohinata
+Dialogue: 0,0:22:56.10,0:22:56.18,Signs,,0,0,0,,{\frz9\c&HA0A0A0\fnKrazy Nights\fs37.155\c&H8D9698&\pos(302.345,190.992)\blur0.803\clip(m 291 166 l 287 181 284 193 283 208 230 216 227 177)}Kohinata
+Dialogue: 0,0:22:56.10,0:22:56.18,Signs,,0,0,0,,{\frz9\c&HA0A0A0\fnKrazy Nights\fs37.155\pos(300.976,189.535)\c&H393F43&\clip(m 291 166 l 287 181 284 193 283 208 230 216 227 177)\blur0.803}Kohinata
+Dialogue: 0,0:22:56.18,0:22:56.43,Signs,,0,0,0,,{\frz9\c&HA0A0A0\fnKrazy Nights\fs37.155\c&H8D9698&\pos(302.345,190.992)\blur0.803\clip(m 291 166 l 288 181 285 194 284 209 235 217 230 178)}Kohinata
+Dialogue: 0,0:22:56.18,0:22:56.43,Signs,,0,0,0,,{\frz9\c&HA0A0A0\fnKrazy Nights\fs37.155\pos(300.976,189.535)\c&H393F43&\clip(m 291 166 l 288 181 285 194 284 209 235 217 230 178)\blur0.803}Kohinata
+Dialogue: 0,0:22:56.43,0:22:58.39,Signs,,0,0,0,,{\frz9\c&HA0A0A0\fnKrazy Nights\fs37.155\c&H8D9698&\pos(302.345,190.992)\blur0.803}Kohinata
+Dialogue: 0,0:22:56.43,0:22:58.39,Signs,,0,0,0,,{\frz9\c&HA0A0A0\fnKrazy Nights\fs37.155\pos(300.976,189.535)\c&H393F43&\blur0.803}Kohinata
 Dialogue: 0,0:22:56.43,0:22:56.56,Signs,,0,0,0,,{\frz9\c&HA0A0A0\fnKrazy Nights\fs37.155\c&H8D9698&\pos(446.305,171.073)\clip(m 403.125 159.625 l 405.5 185.75 450.875 184.75 453.375 172.75 456.875 158.625)\blur0.803}Saeki
 Dialogue: 0,0:22:56.43,0:22:56.56,Signs,,0,0,0,,{\frz9\c&HA0A0A0\fnKrazy Nights\fs37.155\c&H393F43&\pos(444.936,169.616)\clip(m 403.125 159.625 l 405.5 185.75 450.875 184.75 453.375 172.75 456.875 158.625)\blur0.803}Saeki
 Dialogue: 0,0:22:56.56,0:22:58.41,Signs,,0,0,0,,{\frz9\c&HA0A0A0\fnKrazy Nights\fs37.155\c&H8D9698&\pos(446.305,171.073)\blur0.803}Saeki
