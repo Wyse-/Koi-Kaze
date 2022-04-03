@@ -22,9 +22,9 @@ Video File: ../../../../../media/wyse/Media III/[WSE] Koi Kaze [raws wobbly-ivtc
 Video AR Mode: 4
 Video AR Value: 1.779167
 Video Zoom Percent: 2.058333
-Scroll Position: 126
-Active Line: 148
-Video Position: 25126
+Scroll Position: 129
+Active Line: 147
+Video Position: 25124
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -46,46 +46,46 @@ Style: Signs - Handwriting,Desyrel,35,&H007D8683,&H000000FF,&H00000000,&H0000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:01:43.58,0:01:48.79,Title,,0,0,0,<Ag>(#F1F0F0.#C05b4C),{\t(3500,5320,0.7,\blur10.084)\1a&HFF&\t(5,607,\1a&H00)\fad(0,0)\frz25\pos(293.862,337.816)\p1}m 0 0 l 231.625 0 231.625 131 0 131
+Comment: 0,0:01:43.58,0:01:48.79,Title,,0,0,0,<Ag>(#F1F0F0.#C05b4C),{\t(3500,5320,0.7,\blur10.084)\1a&HFF&\t(5,647,\1a&H00)\fad(0,0)\frz25\pos(293.862,337.816)\p1}m 0 0 l 231.625 0 231.625 131 0 131
 Comment: 0,0:01:43.58,0:01:48.79,Title,,0,0,0,,{\pos(293.862,337.816)\blur0.706}First Storm
 Comment: 0,0:08:06.50,0:08:14.51,Signs,,0,0,0,,Dear Nanoka Kohinata\NI know receiving a letter like this might\Nsurprise you. I've been interested in\Nyou since the first day of school.
 Comment: 0,0:17:19.72,0:17:23.43,Signs,,0,0,0,,{\frz9.45\fax-0.15\blur0.606\fs40.336\pos(494.168,199.664)\org(629,208)\frx0\fry350\c&H292724&\fnFrancois One\fs48.201}Asajigaoka Station
 Comment: 0,0:06:02.06,0:06:02.97,Dialogue,,0,0,0,,Yeah.
 Comment: 0,0:00:00.00,0:00:00.00,Preview,,0,0,0,,
 Comment: 0,0:00:00.00,0:00:00.00,Preview,,0,0,0,,
-Dialogue: 0,0:01:43.54,0:01:48.92,Title,,0,0,0,,{\c&HEBEBF0&\clip(m 175.125 318.75 l 386.25 236 391 243 178.625 326.75)\pos(314.198,337.818)\blur0.803}{\t(3500,5320,0.7,\blur10.084)\1a&HFF&\t(5,607,\1a&H00)\fad(0,550)}First Storm
-Dialogue: 1,0:01:43.54,0:01:48.92,Title,,0,0,0,,{\c&HE6E7EE&\clip(m 176.25 322.75 l 388.625 240 392.125 247 181 329.75)\pos(314.198,337.818)\blur0.803}{\t(3500,5320,0.7,\blur10.084)\1a&HFF&\t(5,607,\1a&H00)\fad(0,550)}First Storm
-Dialogue: 2,0:01:43.54,0:01:48.92,Title,,0,0,0,,{\c&HE1E2ED&\clip(m 178.625 326.75 l 391 243 394.5 251 183.5 333.75)\pos(314.198,337.818)\blur0.803}{\t(3500,5320,0.7,\blur10.084)\1a&HFF&\t(5,607,\1a&H00)\fad(0,550)}First Storm
-Dialogue: 3,0:01:43.54,0:01:48.92,Title,,0,0,0,,{\c&HDCDEEB&\clip(m 181 329.75 l 392.125 247 397 254 184.625 336.75)\pos(314.198,337.818)\blur0.803}{\t(3500,5320,0.7,\blur10.084)\1a&HFF&\t(5,607,\1a&H00)\fad(0,550)}First Storm
-Dialogue: 4,0:01:43.54,0:01:48.92,Title,,0,0,0,,{\c&HD7D9EA&\clip(m 183.5 333.75 l 394.5 251 399.375 258.25 187 340.75)\pos(314.198,337.818)\blur0.803}{\t(3500,5320,0.7,\blur10.084)\1a&HFF&\t(5,607,\1a&H00)\fad(0,550)}First Storm
-Dialogue: 5,0:01:43.54,0:01:48.92,Title,,0,0,0,,{\c&HD2D5E8&\clip(m 184.625 336.75 l 397 254 400.5 261.25 189.375 344.875)\pos(314.198,337.818)\blur0.803}{\t(3500,5320,0.7,\blur10.084)\1a&HFF&\t(5,607,\1a&H00)\fad(0,550)}First Storm
-Dialogue: 6,0:01:43.54,0:01:48.92,Title,,0,0,0,,{\c&HCDD0E7&\clip(m 187 340.75 l 399.375 258.25 402.875 265.25 190.625 348)\pos(314.198,337.818)\blur0.803}{\t(3500,5320,0.7,\blur10.084)\1a&HFF&\t(5,607,\1a&H00)\fad(0,550)}First Storm
-Dialogue: 7,0:01:43.54,0:01:48.92,Title,,0,0,0,,{\c&HC8CCE5&\clip(m 189.375 344.875 l 400.5 261.25 405.375 269.25 193 352)\pos(314.198,337.818)\blur0.803}{\t(3500,5320,0.7,\blur10.084)\1a&HFF&\t(5,607,\1a&H00)\fad(0,550)}First Storm
-Dialogue: 8,0:01:43.54,0:01:48.92,Title,,0,0,0,,{\c&HC3C7E4&\clip(m 190.625 348 l 402.875 265.25 406.5 272.25 195.375 356)\pos(314.198,337.818)\blur0.803}{\t(3500,5320,0.7,\blur10.084)\1a&HFF&\t(5,607,\1a&H00)\fad(0,550)}First Storm
-Dialogue: 9,0:01:43.54,0:01:48.92,Title,,0,0,0,,{\c&HBEC3E2&\clip(m 193 352 l 405.375 269.25 408.875 276.25 196.625 359)\pos(314.198,337.818)\blur0.803}{\t(3500,5320,0.7,\blur10.084)\1a&HFF&\t(5,607,\1a&H00)\fad(0,550)}First Storm
-Dialogue: 10,0:01:43.54,0:01:48.92,Title,,0,0,0,,{\c&HB9BEE1&\clip(m 195.375 356 l 406.5 272.25 411.25 280.25 199 363)\pos(314.198,337.818)\blur0.803}{\t(3500,5320,0.7,\blur10.084)\1a&HFF&\t(5,607,\1a&H00)\fad(0,550)}First Storm
-Dialogue: 11,0:01:43.54,0:01:48.92,Title,,0,0,0,,{\c&HB4BADF&\clip(m 196.625 359 l 408.875 276.25 412.5 283.25 201.375 366)\pos(314.198,337.818)\blur0.803}{\t(3500,5320,0.7,\blur10.084)\1a&HFF&\t(5,607,\1a&H00)\fad(0,550)}First Storm
-Dialogue: 12,0:01:43.54,0:01:48.92,Title,,0,0,0,,{\c&HAFB5DE&\clip(m 199 363 l 411.25 280.25 414.875 287.5 202.625 370)\pos(314.198,337.818)\blur0.803}{\t(3500,5320,0.7,\blur10.084)\1a&HFF&\t(5,607,\1a&H00)\fad(0,550)}First Storm
-Dialogue: 13,0:01:43.54,0:01:48.92,Title,,0,0,0,,{\c&HAAB1DC&\clip(m 201.375 366 l 412.5 283.25 417.25 290.5 205 374)\pos(314.198,337.818)\blur0.803}{\t(3500,5320,0.7,\blur10.084)\1a&HFF&\t(5,607,\1a&H00)\fad(0,550)}First Storm
-Dialogue: 14,0:01:43.54,0:01:48.92,Title,,0,0,0,,{\c&HA5ACDB&\clip(m 202.625 370 l 414.875 287.5 418.5 294.5 207.5 377.25)\pos(314.198,337.818)\blur0.803}{\t(3500,5320,0.7,\blur10.084)\1a&HFF&\t(5,607,\1a&H00)\fad(0,550)}First Storm
-Dialogue: 15,0:01:43.54,0:01:48.92,Title,,0,0,0,,{\c&HA0A8D9&\clip(m 205 374 l 417.25 290.5 421 298.5 209.875 381.25)\pos(314.198,337.818)\blur0.803}{\t(3500,5320,0.7,\blur10.084)\1a&HFF&\t(5,607,\1a&H00)\fad(0,550)}First Storm
-Dialogue: 16,0:01:43.54,0:01:48.92,Title,,0,0,0,,{\c&H9CA3D8&\clip(m 207.5 377.25 l 418.5 294.5 423.375 301.5 211.125 385.25)\pos(314.198,337.818)\blur0.803}{\t(3500,5320,0.7,\blur10.084)\1a&HFF&\t(5,607,\1a&H00)\fad(0,550)}First Storm
-Dialogue: 17,0:01:43.54,0:01:48.92,Title,,0,0,0,,{\c&H979FD6&\clip(m 209.875 381.25 l 421 298.5 425.75 305.5 213.5 388.25)\pos(314.198,337.818)\blur0.803}{\t(3500,5320,0.7,\blur10.084)\1a&HFF&\t(5,607,\1a&H00)\fad(0,550)}First Storm
-Dialogue: 18,0:01:43.54,0:01:48.92,Title,,0,0,0,,{\c&H929AD5&\clip(m 211.125 385.25 l 423.375 301.5 427 309.5 215.875 392.25)\pos(314.198,337.818)\blur0.803}{\t(3500,5320,0.7,\blur10.084)\1a&HFF&\t(5,607,\1a&H00)\fad(0,550)}First Storm
-Dialogue: 19,0:01:43.54,0:01:48.92,Title,,0,0,0,,{\c&H8D96D3&\clip(m 213.5 388.25 l 425.75 305.5 429.375 312.5 217.125 395.25)\pos(314.198,337.818)\blur0.803}{\t(3500,5320,0.7,\blur10.084)\1a&HFF&\t(5,607,\1a&H00)\fad(0,550)}First Storm
-Dialogue: 20,0:01:43.54,0:01:48.92,Title,,0,0,0,,{\c&H8891D2&\clip(m 215.875 392.25 l 427 309.5 431.75 316.75 219.5 399.25)\pos(314.198,337.818)\blur0.803}{\t(3500,5320,0.7,\blur10.084)\1a&HFF&\t(5,607,\1a&H00)\fad(0,550)}First Storm
-Dialogue: 21,0:01:43.54,0:01:48.92,Title,,0,0,0,,{\c&H838DD0&\clip(m 217.125 395.25 l 429.375 312.5 433 319.75 221.875 403.25)\pos(314.198,337.818)\blur0.803}{\t(3500,5320,0.7,\blur10.084)\1a&HFF&\t(5,607,\1a&H00)\fad(0,550)}First Storm
-Dialogue: 22,0:01:43.54,0:01:48.92,Title,,0,0,0,,{\c&H7E88CF&\clip(m 219.5 399.25 l 431.75 316.75 435.375 323.75 223.125 406.5)\pos(314.198,337.818)\blur0.803}{\t(3500,5320,0.7,\blur10.084)\1a&HFF&\t(5,607,\1a&H00)\fad(0,550)}First Storm
-Dialogue: 23,0:01:43.54,0:01:48.92,Title,,0,0,0,,{\c&H7984CD&\clip(m 221.875 403.25 l 433 319.75 437.75 327.75 225.5 410.5)\pos(314.198,337.818)\blur0.803}{\t(3500,5320,0.7,\blur10.084)\1a&HFF&\t(5,607,\1a&H00)\fad(0,550)}First Storm
-Dialogue: 24,0:01:43.54,0:01:48.92,Title,,0,0,0,,{\c&H747FCC&\clip(m 223.125 406.5 l 435.375 323.75 439 330.75 227.875 414.5)\pos(314.198,337.818)\blur0.803}{\t(3500,5320,0.7,\blur10.084)\1a&HFF&\t(5,607,\1a&H00)\fad(0,550)}First Storm
-Dialogue: 25,0:01:43.54,0:01:48.92,Title,,0,0,0,,{\c&H6F7BCA&\clip(m 225.5 410.5 l 437.75 327.75 441.375 334.75 229 417.5)\pos(314.198,337.818)\blur0.803}{\t(3500,5320,0.7,\blur10.084)\1a&HFF&\t(5,607,\1a&H00)\fad(0,550)}First Storm
-Dialogue: 26,0:01:43.54,0:01:48.92,Title,,0,0,0,,{\c&H6A76C9&\clip(m 227.875 414.5 l 439 330.75 443.75 338.75 231.5 421.5)\pos(314.198,337.818)\blur0.803}{\t(3500,5320,0.7,\blur10.084)\1a&HFF&\t(5,607,\1a&H00)\fad(0,550)}First Storm
-Dialogue: 27,0:01:43.54,0:01:48.92,Title,,0,0,0,,{\c&H6572C7&\clip(m 229 417.5 l 441.375 334.75 445 341.75 233.875 424.5)\pos(314.198,337.818)\blur0.803}{\t(3500,5320,0.7,\blur10.084)\1a&HFF&\t(5,607,\1a&H00)\fad(0,550)}First Storm
-Dialogue: 28,0:01:43.54,0:01:48.92,Title,,0,0,0,,{\c&H606DC6&\clip(m 231.5 421.5 l 443.75 338.75 447.375 346 236.25 428.5)\pos(314.198,337.818)\blur0.803}{\t(3500,5320,0.7,\blur10.084)\1a&HFF&\t(5,607,\1a&H00)\fad(0,550)}First Storm
-Dialogue: 29,0:01:43.54,0:01:48.92,Title,,0,0,0,,{\c&H5B69C4&\clip(m 233.875 424.5 l 445 341.75 449.75 349 237.375 432.5)\pos(314.198,337.818)\blur0.803}{\t(3500,5320,0.7,\blur10.084)\1a&HFF&\t(5,607,\1a&H00)\fad(0,550)}First Storm
-Dialogue: 30,0:01:43.54,0:01:48.92,Title,,0,0,0,,{\c&H5664C3&\clip(m 236.25 428.5 l 447.375 346 452.125 353 239.875 435.75)\pos(314.198,337.818)\blur0.803}{\t(3500,5320,0.7,\blur10.084)\1a&HFF&\t(5,607,\1a&H00)\fad(0,550)}First Storm
-Dialogue: 31,0:01:43.54,0:01:48.92,Title,,0,0,0,,{\c&H5160C1&\clip(m 237.375 432.5 l 449.75 349 453.375 357 242.25 439.75)\pos(314.198,337.818)\blur0.803}{\t(3500,5320,0.7,\blur10.084)\1a&HFF&\t(5,607,\1a&H00)\fad(0,550)}First Storm
-Dialogue: 32,0:01:43.54,0:01:48.92,Title,,0,0,0,,{\c&H4C5BC0&\clip(m 239.875 435.75 l 452.125 353 455.75 360 243.375 443.75)\pos(314.198,337.818)\blur0.803}{\t(3500,5320,0.7,\blur10.084)\1a&HFF&\t(5,607,\1a&H00)\fad(0,550)}First Storm
+Dialogue: 0,0:01:43.54,0:01:48.92,Title,,0,0,0,,{\c&HEBEBF0&\clip(m 175.125 318.75 l 386.25 236 391 243 178.625 326.75)\pos(314.198,337.818)\blur0.803}{\t(3500,5320,0.7,\blur10.084)\1a&HFF&\t(5,647,\1a&H00)\fad(0,550)}First Storm
+Dialogue: 1,0:01:43.54,0:01:48.92,Title,,0,0,0,,{\c&HE6E7EE&\clip(m 176.25 322.75 l 388.625 240 392.125 247 181 329.75)\pos(314.198,337.818)\blur0.803}{\t(3500,5320,0.7,\blur10.084)\1a&HFF&\t(5,647,\1a&H00)\fad(0,550)}First Storm
+Dialogue: 2,0:01:43.54,0:01:48.92,Title,,0,0,0,,{\c&HE1E2ED&\clip(m 178.625 326.75 l 391 243 394.5 251 183.5 333.75)\pos(314.198,337.818)\blur0.803}{\t(3500,5320,0.7,\blur10.084)\1a&HFF&\t(5,647,\1a&H00)\fad(0,550)}First Storm
+Dialogue: 3,0:01:43.54,0:01:48.92,Title,,0,0,0,,{\c&HDCDEEB&\clip(m 181 329.75 l 392.125 247 397 254 184.625 336.75)\pos(314.198,337.818)\blur0.803}{\t(3500,5320,0.7,\blur10.084)\1a&HFF&\t(5,647,\1a&H00)\fad(0,550)}First Storm
+Dialogue: 4,0:01:43.54,0:01:48.92,Title,,0,0,0,,{\c&HD7D9EA&\clip(m 183.5 333.75 l 394.5 251 399.375 258.25 187 340.75)\pos(314.198,337.818)\blur0.803}{\t(3500,5320,0.7,\blur10.084)\1a&HFF&\t(5,647,\1a&H00)\fad(0,550)}First Storm
+Dialogue: 5,0:01:43.54,0:01:48.92,Title,,0,0,0,,{\c&HD2D5E8&\clip(m 184.625 336.75 l 397 254 400.5 261.25 189.375 344.875)\pos(314.198,337.818)\blur0.803}{\t(3500,5320,0.7,\blur10.084)\1a&HFF&\t(5,647,\1a&H00)\fad(0,550)}First Storm
+Dialogue: 6,0:01:43.54,0:01:48.92,Title,,0,0,0,,{\c&HCDD0E7&\clip(m 187 340.75 l 399.375 258.25 402.875 265.25 190.625 348)\pos(314.198,337.818)\blur0.803}{\t(3500,5320,0.7,\blur10.084)\1a&HFF&\t(5,647,\1a&H00)\fad(0,550)}First Storm
+Dialogue: 7,0:01:43.54,0:01:48.92,Title,,0,0,0,,{\c&HC8CCE5&\clip(m 189.375 344.875 l 400.5 261.25 405.375 269.25 193 352)\pos(314.198,337.818)\blur0.803}{\t(3500,5320,0.7,\blur10.084)\1a&HFF&\t(5,647,\1a&H00)\fad(0,550)}First Storm
+Dialogue: 8,0:01:43.54,0:01:48.92,Title,,0,0,0,,{\c&HC3C7E4&\clip(m 190.625 348 l 402.875 265.25 406.5 272.25 195.375 356)\pos(314.198,337.818)\blur0.803}{\t(3500,5320,0.7,\blur10.084)\1a&HFF&\t(5,647,\1a&H00)\fad(0,550)}First Storm
+Dialogue: 9,0:01:43.54,0:01:48.92,Title,,0,0,0,,{\c&HBEC3E2&\clip(m 193 352 l 405.375 269.25 408.875 276.25 196.625 359)\pos(314.198,337.818)\blur0.803}{\t(3500,5320,0.7,\blur10.084)\1a&HFF&\t(5,647,\1a&H00)\fad(0,550)}First Storm
+Dialogue: 10,0:01:43.54,0:01:48.92,Title,,0,0,0,,{\c&HB9BEE1&\clip(m 195.375 356 l 406.5 272.25 411.25 280.25 199 363)\pos(314.198,337.818)\blur0.803}{\t(3500,5320,0.7,\blur10.084)\1a&HFF&\t(5,647,\1a&H00)\fad(0,550)}First Storm
+Dialogue: 11,0:01:43.54,0:01:48.92,Title,,0,0,0,,{\c&HB4BADF&\clip(m 196.625 359 l 408.875 276.25 412.5 283.25 201.375 366)\pos(314.198,337.818)\blur0.803}{\t(3500,5320,0.7,\blur10.084)\1a&HFF&\t(5,647,\1a&H00)\fad(0,550)}First Storm
+Dialogue: 12,0:01:43.54,0:01:48.92,Title,,0,0,0,,{\c&HAFB5DE&\clip(m 199 363 l 411.25 280.25 414.875 287.5 202.625 370)\pos(314.198,337.818)\blur0.803}{\t(3500,5320,0.7,\blur10.084)\1a&HFF&\t(5,647,\1a&H00)\fad(0,550)}First Storm
+Dialogue: 13,0:01:43.54,0:01:48.92,Title,,0,0,0,,{\c&HAAB1DC&\clip(m 201.375 366 l 412.5 283.25 417.25 290.5 205 374)\pos(314.198,337.818)\blur0.803}{\t(3500,5320,0.7,\blur10.084)\1a&HFF&\t(5,647,\1a&H00)\fad(0,550)}First Storm
+Dialogue: 14,0:01:43.54,0:01:48.92,Title,,0,0,0,,{\c&HA5ACDB&\clip(m 202.625 370 l 414.875 287.5 418.5 294.5 207.5 377.25)\pos(314.198,337.818)\blur0.803}{\t(3500,5320,0.7,\blur10.084)\1a&HFF&\t(5,647,\1a&H00)\fad(0,550)}First Storm
+Dialogue: 15,0:01:43.54,0:01:48.92,Title,,0,0,0,,{\c&HA0A8D9&\clip(m 205 374 l 417.25 290.5 421 298.5 209.875 381.25)\pos(314.198,337.818)\blur0.803}{\t(3500,5320,0.7,\blur10.084)\1a&HFF&\t(5,647,\1a&H00)\fad(0,550)}First Storm
+Dialogue: 16,0:01:43.54,0:01:48.92,Title,,0,0,0,,{\c&H9CA3D8&\clip(m 207.5 377.25 l 418.5 294.5 423.375 301.5 211.125 385.25)\pos(314.198,337.818)\blur0.803}{\t(3500,5320,0.7,\blur10.084)\1a&HFF&\t(5,647,\1a&H00)\fad(0,550)}First Storm
+Dialogue: 17,0:01:43.54,0:01:48.92,Title,,0,0,0,,{\c&H979FD6&\clip(m 209.875 381.25 l 421 298.5 425.75 305.5 213.5 388.25)\pos(314.198,337.818)\blur0.803}{\t(3500,5320,0.7,\blur10.084)\1a&HFF&\t(5,647,\1a&H00)\fad(0,550)}First Storm
+Dialogue: 18,0:01:43.54,0:01:48.92,Title,,0,0,0,,{\c&H929AD5&\clip(m 211.125 385.25 l 423.375 301.5 427 309.5 215.875 392.25)\pos(314.198,337.818)\blur0.803}{\t(3500,5320,0.7,\blur10.084)\1a&HFF&\t(5,647,\1a&H00)\fad(0,550)}First Storm
+Dialogue: 19,0:01:43.54,0:01:48.92,Title,,0,0,0,,{\c&H8D96D3&\clip(m 213.5 388.25 l 425.75 305.5 429.375 312.5 217.125 395.25)\pos(314.198,337.818)\blur0.803}{\t(3500,5320,0.7,\blur10.084)\1a&HFF&\t(5,647,\1a&H00)\fad(0,550)}First Storm
+Dialogue: 20,0:01:43.54,0:01:48.92,Title,,0,0,0,,{\c&H8891D2&\clip(m 215.875 392.25 l 427 309.5 431.75 316.75 219.5 399.25)\pos(314.198,337.818)\blur0.803}{\t(3500,5320,0.7,\blur10.084)\1a&HFF&\t(5,647,\1a&H00)\fad(0,550)}First Storm
+Dialogue: 21,0:01:43.54,0:01:48.92,Title,,0,0,0,,{\c&H838DD0&\clip(m 217.125 395.25 l 429.375 312.5 433 319.75 221.875 403.25)\pos(314.198,337.818)\blur0.803}{\t(3500,5320,0.7,\blur10.084)\1a&HFF&\t(5,647,\1a&H00)\fad(0,550)}First Storm
+Dialogue: 22,0:01:43.54,0:01:48.92,Title,,0,0,0,,{\c&H7E88CF&\clip(m 219.5 399.25 l 431.75 316.75 435.375 323.75 223.125 406.5)\pos(314.198,337.818)\blur0.803}{\t(3500,5320,0.7,\blur10.084)\1a&HFF&\t(5,647,\1a&H00)\fad(0,550)}First Storm
+Dialogue: 23,0:01:43.54,0:01:48.92,Title,,0,0,0,,{\c&H7984CD&\clip(m 221.875 403.25 l 433 319.75 437.75 327.75 225.5 410.5)\pos(314.198,337.818)\blur0.803}{\t(3500,5320,0.7,\blur10.084)\1a&HFF&\t(5,647,\1a&H00)\fad(0,550)}First Storm
+Dialogue: 24,0:01:43.54,0:01:48.92,Title,,0,0,0,,{\c&H747FCC&\clip(m 223.125 406.5 l 435.375 323.75 439 330.75 227.875 414.5)\pos(314.198,337.818)\blur0.803}{\t(3500,5320,0.7,\blur10.084)\1a&HFF&\t(5,647,\1a&H00)\fad(0,550)}First Storm
+Dialogue: 25,0:01:43.54,0:01:48.92,Title,,0,0,0,,{\c&H6F7BCA&\clip(m 225.5 410.5 l 437.75 327.75 441.375 334.75 229 417.5)\pos(314.198,337.818)\blur0.803}{\t(3500,5320,0.7,\blur10.084)\1a&HFF&\t(5,647,\1a&H00)\fad(0,550)}First Storm
+Dialogue: 26,0:01:43.54,0:01:48.92,Title,,0,0,0,,{\c&H6A76C9&\clip(m 227.875 414.5 l 439 330.75 443.75 338.75 231.5 421.5)\pos(314.198,337.818)\blur0.803}{\t(3500,5320,0.7,\blur10.084)\1a&HFF&\t(5,647,\1a&H00)\fad(0,550)}First Storm
+Dialogue: 27,0:01:43.54,0:01:48.92,Title,,0,0,0,,{\c&H6572C7&\clip(m 229 417.5 l 441.375 334.75 445 341.75 233.875 424.5)\pos(314.198,337.818)\blur0.803}{\t(3500,5320,0.7,\blur10.084)\1a&HFF&\t(5,647,\1a&H00)\fad(0,550)}First Storm
+Dialogue: 28,0:01:43.54,0:01:48.92,Title,,0,0,0,,{\c&H606DC6&\clip(m 231.5 421.5 l 443.75 338.75 447.375 346 236.25 428.5)\pos(314.198,337.818)\blur0.803}{\t(3500,5320,0.7,\blur10.084)\1a&HFF&\t(5,647,\1a&H00)\fad(0,550)}First Storm
+Dialogue: 29,0:01:43.54,0:01:48.92,Title,,0,0,0,,{\c&H5B69C4&\clip(m 233.875 424.5 l 445 341.75 449.75 349 237.375 432.5)\pos(314.198,337.818)\blur0.803}{\t(3500,5320,0.7,\blur10.084)\1a&HFF&\t(5,647,\1a&H00)\fad(0,550)}First Storm
+Dialogue: 30,0:01:43.54,0:01:48.92,Title,,0,0,0,,{\c&H5664C3&\clip(m 236.25 428.5 l 447.375 346 452.125 353 239.875 435.75)\pos(314.198,337.818)\blur0.803}{\t(3500,5320,0.7,\blur10.084)\1a&HFF&\t(5,647,\1a&H00)\fad(0,550)}First Storm
+Dialogue: 31,0:01:43.54,0:01:48.92,Title,,0,0,0,,{\c&H5160C1&\clip(m 237.375 432.5 l 449.75 349 453.375 357 242.25 439.75)\pos(314.198,337.818)\blur0.803}{\t(3500,5320,0.7,\blur10.084)\1a&HFF&\t(5,647,\1a&H00)\fad(0,550)}First Storm
+Dialogue: 32,0:01:43.54,0:01:48.92,Title,,0,0,0,,{\c&H4C5BC0&\clip(m 239.875 435.75 l 452.125 353 455.75 360 243.375 443.75)\pos(314.198,337.818)\blur0.803}{\t(3500,5320,0.7,\blur10.084)\1a&HFF&\t(5,647,\1a&H00)\fad(0,550)}First Storm
 Dialogue: 0,0:08:06.50,0:08:09.51,Signs - Handwriting,,0,0,0,,{\fscx100.052\t(28,2989,\fscx109.831)\fscy100\t(28,2989,\fscy109.77)\frz-8\move(279.289,121.029,265.016,110.189)\fax0.4\blur0.803}Dear Nanoka {\alpha&HFF&}Kohinata,{todo: match the text curve}
 Dialogue: 0,0:08:06.50,0:08:09.51,Signs - Handwriting,,0,0,0,,{\fscx100.052\t(28,2989,\fscx109.831)\fscy100\t(28,2989,\fscy109.77)\move(279.289,118.017,265.016,107.177)\fax0.65\blur0.803\frz345.1}{\alpha&HFF&}Dear Nanoka {\alpha&H00&}Kohinata,{todo: match the text curve}
 Dialogue: 0,0:08:06.50,0:08:09.51,Signs - Handwriting,,0,0,0,,{\fscx100.052\t(28,2989,\fscx109.831)\fscy100\t(28,2989,\fscy109.77)\move(304.501,198.673,292.686,195.315)\fax0.5\blur0.803\frz358.6}I know{\alpha&HFF&} receiving a letter
@@ -106,95 +106,95 @@ Dialogue: 0,0:12:22.80,0:12:25.80,Signs,,0,0,0,,{\move(275.871,289.412,476.945,2
 Dialogue: 1,0:12:22.80,0:12:25.80,Signs,,0,0,0,,{\move(275.871,289.412,476.945,289.412,25,2987)\fax-0.2\frz-6\fs24.202\c&H5437C9&\blur0.803}Matchmaking Party
 Dialogue: 0,0:12:22.80,0:12:25.80,Signs,,0,0,0,,{\fnArial\b0\move(443.792,409.412,644.866,409.412,25,2987)\bord3.026\fs28.236\frz-10\fax-0.09\3c&HCE3C1E&\1c&HCE3C1E&\blur0.803}Planning Overview
 Dialogue: 1,0:12:22.80,0:12:25.80,Signs,,0,0,0,,{\fnArial\b0\move(443.792,409.412,644.866,409.412,25,2987)\fs28.236\frz-10\fax-0.09\c&HE2D5D5&\blur0.803}Planning Overview
-Dialogue: 0,0:17:19.72,0:17:19.76,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs40.336\pos(494.168,199.664)\org(629,208)\frx0\fry350\c&H292724&\fnFrancois One\fs48.201}Asajigaoka Station
-Dialogue: 0,0:17:19.76,0:17:19.81,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,199.09)\org(629,207)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
-Dialogue: 0,0:17:19.81,0:17:19.85,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,198.444)\org(629,206)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
-Dialogue: 0,0:17:19.85,0:17:19.89,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,197.858)\org(629,206)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
-Dialogue: 0,0:17:19.89,0:17:19.93,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,197.264)\org(629,205)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
-Dialogue: 0,0:17:19.93,0:17:19.97,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,196.648)\org(629,205)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
-Dialogue: 0,0:17:19.97,0:17:20.01,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,196.064)\org(629,204)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
-Dialogue: 0,0:17:20.01,0:17:20.06,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,195.478)\org(629,203)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
-Dialogue: 0,0:17:20.06,0:17:20.10,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,194.864)\org(629,203)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
-Dialogue: 0,0:17:20.10,0:17:20.14,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,194.268)\org(629,202)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
-Dialogue: 0,0:17:20.14,0:17:20.18,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,193.624)\org(629,202)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
-Dialogue: 0,0:17:20.18,0:17:20.22,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,193.028)\org(629,201)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
-Dialogue: 0,0:17:20.22,0:17:20.26,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,192.474)\org(629,200)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
-Dialogue: 0,0:17:20.26,0:17:20.31,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,191.89)\org(629,200)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
-Dialogue: 0,0:17:20.31,0:17:20.35,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,191.214)\org(629,199)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
-Dialogue: 0,0:17:20.35,0:17:20.39,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,190.638)\org(629,199)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
-Dialogue: 0,0:17:20.39,0:17:20.43,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,190.044)\org(629,198)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
-Dialogue: 0,0:17:20.43,0:17:20.47,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,189.448)\org(629,197)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
-Dialogue: 0,0:17:20.47,0:17:20.51,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,188.854)\org(629,197)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
-Dialogue: 0,0:17:20.51,0:17:20.56,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,188.258)\org(629,196)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
-Dialogue: 0,0:17:20.56,0:17:20.60,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,187.644)\org(629,196)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
-Dialogue: 0,0:17:20.60,0:17:20.64,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,187.038)\org(629,195)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
-Dialogue: 0,0:17:20.64,0:17:20.68,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,186.424)\org(629,194)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
-Dialogue: 0,0:17:20.68,0:17:20.72,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,185.818)\org(629,194)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
-Dialogue: 0,0:17:20.72,0:17:20.76,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,185.244)\org(629,193)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
-Dialogue: 0,0:17:20.76,0:17:20.81,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,184.668)\org(629,193)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
-Dialogue: 0,0:17:20.81,0:17:20.85,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,184.004)\org(629,192)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
-Dialogue: 0,0:17:20.85,0:17:20.89,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,183.418)\org(629,191)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
-Dialogue: 0,0:17:20.89,0:17:20.93,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,182.844)\org(629,191)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
-Dialogue: 0,0:17:20.93,0:17:20.97,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,182.208)\org(629,190)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
-Dialogue: 0,0:17:20.97,0:17:21.01,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,181.654)\org(629,190)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
-Dialogue: 0,0:17:21.01,0:17:21.06,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,181.028)\org(629,189)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
-Dialogue: 0,0:17:21.06,0:17:21.10,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,180.454)\org(629,188)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
-Dialogue: 0,0:17:21.10,0:17:21.14,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,179.838)\org(629,188)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
-Dialogue: 0,0:17:21.14,0:17:21.18,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,179.214)\org(629,187)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
-Dialogue: 0,0:17:21.18,0:17:21.22,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,178.608)\org(629,187)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
-Dialogue: 0,0:17:21.22,0:17:21.27,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,178.034)\org(629,186)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
-Dialogue: 0,0:17:21.27,0:17:21.31,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,177.458)\org(629,185)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
-Dialogue: 0,0:17:21.31,0:17:21.35,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,176.784)\org(629,185)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
-Dialogue: 0,0:17:21.35,0:17:21.39,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,176.208)\org(629,184)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
-Dialogue: 0,0:17:21.39,0:17:21.43,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,175.634)\org(629,184)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
-Dialogue: 0,0:17:21.43,0:17:21.47,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,175.018)\org(629,183)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
-Dialogue: 0,0:17:21.47,0:17:21.52,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,174.414)\org(629,182)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
-Dialogue: 0,0:17:21.52,0:17:21.56,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,173.818)\org(629,182)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
-Dialogue: 0,0:17:21.56,0:17:21.60,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,173.224)\org(629,181)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
-Dialogue: 0,0:17:21.60,0:17:21.64,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,172.618)\org(629,181)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
-Dialogue: 0,0:17:21.64,0:17:21.68,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,172.014)\org(629,180)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
-Dialogue: 0,0:17:21.68,0:17:21.72,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,171.408)\org(629,179)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
-Dialogue: 0,0:17:21.72,0:17:21.77,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,170.834)\org(629,179)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
-Dialogue: 0,0:17:21.77,0:17:21.81,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,170.198)\org(629,178)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
-Dialogue: 0,0:17:21.81,0:17:21.85,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,169.584)\org(629,178)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
-Dialogue: 0,0:17:21.85,0:17:21.89,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,168.998)\org(629,177)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
-Dialogue: 0,0:17:21.89,0:17:21.93,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,168.404)\org(629,177)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
-Dialogue: 0,0:17:21.93,0:17:21.97,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,167.798)\org(629,176)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
-Dialogue: 0,0:17:21.97,0:17:22.02,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,167.214)\org(629,175)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
-Dialogue: 0,0:17:22.02,0:17:22.06,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,166.598)\org(629,175)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
-Dialogue: 0,0:17:22.06,0:17:22.10,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,166.014)\org(629,174)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
-Dialogue: 0,0:17:22.10,0:17:22.14,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,165.428)\org(629,174)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
-Dialogue: 0,0:17:22.14,0:17:22.18,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,164.774)\org(629,173)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
-Dialogue: 0,0:17:22.18,0:17:22.22,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,164.198)\org(629,172)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
-Dialogue: 0,0:17:22.22,0:17:22.27,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,163.614)\org(629,172)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
-Dialogue: 0,0:17:22.27,0:17:22.31,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,162.988)\org(629,171)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
-Dialogue: 0,0:17:22.31,0:17:22.35,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,162.374)\org(629,171)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
-Dialogue: 0,0:17:22.35,0:17:22.39,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,161.778)\org(629,170)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
-Dialogue: 0,0:17:22.39,0:17:22.43,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,161.194)\org(629,169)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
-Dialogue: 0,0:17:22.43,0:17:22.47,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,160.598)\org(629,169)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
-Dialogue: 0,0:17:22.47,0:17:22.52,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,160.004)\org(629,168)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
-Dialogue: 0,0:17:22.52,0:17:22.56,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,159.398)\org(629,168)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
-Dialogue: 0,0:17:22.56,0:17:22.60,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,158.804)\org(629,167)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
-Dialogue: 0,0:17:22.60,0:17:22.64,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,158.198)\org(629,166)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
-Dialogue: 0,0:17:22.64,0:17:22.68,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,157.552)\org(629,166)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
-Dialogue: 0,0:17:22.68,0:17:22.72,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,156.978)\org(629,165)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
-Dialogue: 0,0:17:22.72,0:17:22.77,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,156.384)\org(629,165)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
-Dialogue: 0,0:17:22.77,0:17:22.81,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,155.788)\org(629,164)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
-Dialogue: 0,0:17:22.81,0:17:22.85,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,155.174)\org(629,163)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
-Dialogue: 0,0:17:22.85,0:17:22.89,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,154.578)\org(629,163)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
-Dialogue: 0,0:17:22.89,0:17:22.93,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,153.984)\org(629,162)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
-Dialogue: 0,0:17:22.93,0:17:22.98,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,153.378)\org(629,162)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
-Dialogue: 0,0:17:22.98,0:17:23.02,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,152.784)\org(629,161)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
-Dialogue: 0,0:17:23.02,0:17:23.06,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,152.188)\org(629,160)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
-Dialogue: 0,0:17:23.06,0:17:23.10,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,151.584)\org(629,160)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
-Dialogue: 0,0:17:23.10,0:17:23.14,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,150.978)\org(629,159)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
-Dialogue: 0,0:17:23.14,0:17:23.18,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,150.342)\org(629,159)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
-Dialogue: 0,0:17:23.18,0:17:23.23,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,149.768)\org(629,158)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
-Dialogue: 0,0:17:23.23,0:17:23.27,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,149.184)\org(629,157)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
-Dialogue: 0,0:17:23.27,0:17:23.31,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,148.558)\org(629,157)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
-Dialogue: 0,0:17:23.31,0:17:23.35,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,147.964)\org(629,156)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
-Dialogue: 0,0:17:23.35,0:17:23.39,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,147.348)\org(629,156)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
-Dialogue: 0,0:17:23.39,0:17:23.43,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.606\fs48.201\pos(494.168,146.774)\org(629,155)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:19.72,0:17:19.76,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.7\fs48.201\pos(494.168,199.664)\org(629,208)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:19.76,0:17:19.81,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.7\fs48.201\pos(494.168,199.09)\org(629,207)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:19.81,0:17:19.85,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.7\fs48.201\pos(494.168,198.444)\org(629,206)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:19.85,0:17:19.89,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.7\fs48.201\pos(494.168,197.858)\org(629,206)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:19.89,0:17:19.93,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.7\fs48.201\pos(494.168,197.264)\org(629,205)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:19.93,0:17:19.97,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.7\fs48.201\pos(494.168,196.648)\org(629,205)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:19.97,0:17:20.01,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.7\fs48.201\pos(494.168,196.064)\org(629,204)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:20.01,0:17:20.06,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.7\fs48.201\pos(494.168,195.478)\org(629,203)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:20.06,0:17:20.10,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.7\fs48.201\pos(494.168,194.864)\org(629,203)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:20.10,0:17:20.14,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.7\fs48.201\pos(494.168,194.268)\org(629,202)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:20.14,0:17:20.18,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.7\fs48.201\pos(494.168,193.624)\org(629,202)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:20.18,0:17:20.22,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.7\fs48.201\pos(494.168,193.028)\org(629,201)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:20.22,0:17:20.26,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.7\fs48.201\pos(494.168,192.474)\org(629,200)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:20.26,0:17:20.31,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.7\fs48.201\pos(494.168,191.89)\org(629,200)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:20.31,0:17:20.35,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.7\fs48.201\pos(494.168,191.214)\org(629,199)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:20.35,0:17:20.39,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.7\fs48.201\pos(494.168,190.638)\org(629,199)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:20.39,0:17:20.43,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.7\fs48.201\pos(494.168,190.044)\org(629,198)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:20.43,0:17:20.47,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.7\fs48.201\pos(494.168,189.448)\org(629,197)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:20.47,0:17:20.51,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.7\fs48.201\pos(494.168,188.854)\org(629,197)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:20.51,0:17:20.56,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.7\fs48.201\pos(494.168,188.258)\org(629,196)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:20.56,0:17:20.60,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.7\fs48.201\pos(494.168,187.644)\org(629,196)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:20.60,0:17:20.64,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.7\fs48.201\pos(494.168,187.038)\org(629,195)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:20.64,0:17:20.68,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.7\fs48.201\pos(494.168,186.424)\org(629,194)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:20.68,0:17:20.72,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.7\fs48.201\pos(494.168,185.818)\org(629,194)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:20.72,0:17:20.76,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.7\fs48.201\pos(494.168,185.244)\org(629,193)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:20.76,0:17:20.81,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.7\fs48.201\pos(494.168,184.668)\org(629,193)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:20.81,0:17:20.85,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.7\fs48.201\pos(494.168,184.004)\org(629,192)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:20.85,0:17:20.89,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.7\fs48.201\pos(494.168,183.418)\org(629,191)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:20.89,0:17:20.93,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.7\fs48.201\pos(494.168,182.844)\org(629,191)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:20.93,0:17:20.97,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.7\fs48.201\pos(494.168,182.208)\org(629,190)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:20.97,0:17:21.01,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.7\fs48.201\pos(494.168,181.654)\org(629,190)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:21.01,0:17:21.06,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.7\fs48.201\pos(494.168,181.028)\org(629,189)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:21.06,0:17:21.10,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.7\fs48.201\pos(494.168,180.454)\org(629,188)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:21.10,0:17:21.14,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.7\fs48.201\pos(494.168,179.838)\org(629,188)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:21.14,0:17:21.18,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.7\fs48.201\pos(494.168,179.214)\org(629,187)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:21.18,0:17:21.22,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.7\fs48.201\pos(494.168,178.608)\org(629,187)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:21.22,0:17:21.27,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.7\fs48.201\pos(494.168,178.034)\org(629,186)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:21.27,0:17:21.31,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.7\fs48.201\pos(494.168,177.458)\org(629,185)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:21.31,0:17:21.35,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.7\fs48.201\pos(494.168,176.784)\org(629,185)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:21.35,0:17:21.39,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.7\fs48.201\pos(494.168,176.208)\org(629,184)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:21.39,0:17:21.43,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.7\fs48.201\pos(494.168,175.634)\org(629,184)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:21.43,0:17:21.47,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.7\fs48.201\pos(494.168,175.018)\org(629,183)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:21.47,0:17:21.52,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.7\fs48.201\pos(494.168,174.414)\org(629,182)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:21.52,0:17:21.56,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.7\fs48.201\pos(494.168,173.818)\org(629,182)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:21.56,0:17:21.60,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.7\fs48.201\pos(494.168,173.224)\org(629,181)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:21.60,0:17:21.64,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.7\fs48.201\pos(494.168,172.618)\org(629,181)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:21.64,0:17:21.68,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.7\fs48.201\pos(494.168,172.014)\org(629,180)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:21.68,0:17:21.72,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.7\fs48.201\pos(494.168,171.408)\org(629,179)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:21.72,0:17:21.77,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.7\fs48.201\pos(494.168,170.834)\org(629,179)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:21.77,0:17:21.81,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.7\fs48.201\pos(494.168,170.198)\org(629,178)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:21.81,0:17:21.85,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.7\fs48.201\pos(494.168,169.584)\org(629,178)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:21.85,0:17:21.89,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.7\fs48.201\pos(494.168,168.998)\org(629,177)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:21.89,0:17:21.93,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.7\fs48.201\pos(494.168,168.404)\org(629,177)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:21.93,0:17:21.97,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.7\fs48.201\pos(494.168,167.798)\org(629,176)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:21.97,0:17:22.02,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.7\fs48.201\pos(494.168,167.214)\org(629,175)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:22.02,0:17:22.06,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.7\fs48.201\pos(494.168,166.598)\org(629,175)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:22.06,0:17:22.10,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.7\fs48.201\pos(494.168,166.014)\org(629,174)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:22.10,0:17:22.14,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.7\fs48.201\pos(494.168,165.428)\org(629,174)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:22.14,0:17:22.18,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.7\fs48.201\pos(494.168,164.774)\org(629,173)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:22.18,0:17:22.22,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.7\fs48.201\pos(494.168,164.198)\org(629,172)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:22.22,0:17:22.27,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.7\fs48.201\pos(494.168,163.614)\org(629,172)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:22.27,0:17:22.31,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.7\fs48.201\pos(494.168,162.988)\org(629,171)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:22.31,0:17:22.35,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.7\fs48.201\pos(494.168,162.374)\org(629,171)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:22.35,0:17:22.39,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.7\fs48.201\pos(494.168,161.778)\org(629,170)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:22.39,0:17:22.43,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.7\fs48.201\pos(494.168,161.194)\org(629,169)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:22.43,0:17:22.47,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.7\fs48.201\pos(494.168,160.598)\org(629,169)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:22.47,0:17:22.52,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.7\fs48.201\pos(494.168,160.004)\org(629,168)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:22.52,0:17:22.56,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.7\fs48.201\pos(494.168,159.398)\org(629,168)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:22.56,0:17:22.60,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.7\fs48.201\pos(494.168,158.804)\org(629,167)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:22.60,0:17:22.64,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.7\fs48.201\pos(494.168,158.198)\org(629,166)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:22.64,0:17:22.68,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.7\fs48.201\pos(494.168,157.552)\org(629,166)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:22.68,0:17:22.72,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.7\fs48.201\pos(494.168,156.978)\org(629,165)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:22.72,0:17:22.77,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.7\fs48.201\pos(494.168,156.384)\org(629,165)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:22.77,0:17:22.81,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.7\fs48.201\pos(494.168,155.788)\org(629,164)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:22.81,0:17:22.85,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.7\fs48.201\pos(494.168,155.174)\org(629,163)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:22.85,0:17:22.89,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.7\fs48.201\pos(494.168,154.578)\org(629,163)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:22.89,0:17:22.93,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.7\fs48.201\pos(494.168,153.984)\org(629,162)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:22.93,0:17:22.98,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.7\fs48.201\pos(494.168,153.378)\org(629,162)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:22.98,0:17:23.02,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.7\fs48.201\pos(494.168,152.784)\org(629,161)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:23.02,0:17:23.06,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.7\fs48.201\pos(494.168,152.188)\org(629,160)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:23.06,0:17:23.10,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.7\fs48.201\pos(494.168,151.584)\org(629,160)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:23.10,0:17:23.14,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.7\fs48.201\pos(494.168,150.978)\org(629,159)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:23.14,0:17:23.18,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.7\fs48.201\pos(494.168,150.342)\org(629,159)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:23.18,0:17:23.23,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.7\fs48.201\pos(494.168,149.768)\org(629,158)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:23.23,0:17:23.27,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.7\fs48.201\pos(494.168,149.184)\org(629,157)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:23.27,0:17:23.31,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.7\fs48.201\pos(494.168,148.558)\org(629,157)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:23.31,0:17:23.35,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.7\fs48.201\pos(494.168,147.964)\org(629,156)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:23.35,0:17:23.39,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.7\fs48.201\pos(494.168,147.348)\org(629,156)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
+Dialogue: 0,0:17:23.39,0:17:23.43,Signs,,0,0,0,,{\frz8.45\fax-0.15\blur0.7\fs48.201\pos(494.168,146.774)\org(629,155)\frx0\fry350\c&H292724&\fnFrancois One}Asajigaoka Station
 Dialogue: 0,0:02:08.02,0:02:09.40,Dialogue - Italic,,0,0,0,,Why?
 Dialogue: 0,0:02:10.12,0:02:13.80,Dialogue - Italic,,0,0,0,,Why were my cheeks so flushed?
 Dialogue: 0,0:02:24.33,0:02:28.84,Dialogue - Italic,,0,0,0,,Why was my heart beating so fast?
