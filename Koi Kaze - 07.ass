@@ -19,12 +19,13 @@ Video Aspect Ratio: c1.78151
 Last Style Storage: Default
 Audio File: ../../../../../media/wyse/Media III/[WSE] Koi Kaze [DVD x264 478p 10bit FLAC-AC3][Dual Audio]/[WSE] Koi Kaze - 07 [DVD x264 478p 10bit FLAC-AC3][Dual Audio][3E0EBB0B]_JPN_Audio01.flac
 Video File: ../../../../../media/wyse/Media III/[WSE] Koi Kaze [raws wobbly-ivtc]/ep7.vpy.mkv
+Keyframes File: Scene Changes/ep7.txt
 Video AR Mode: 4
 Video AR Value: 1.779167
 Video Zoom Percent: 2.058333
-Scroll Position: 129
-Active Line: 147
-Video Position: 25124
+Scroll Position: 355
+Active Line: 376
+Video Position: 33631
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -235,8 +236,8 @@ Dialogue: 0,0:04:59.16,0:05:01.05,Dialogue,,0,0,0,,How can I say this right? Um.
 Dialogue: 0,0:05:04.40,0:05:06.06,Dialogue,,0,0,0,,Please read it.
 Dialogue: 0,0:05:19.90,0:05:22.60,Dialogue,,0,0,0,,Well, he doesn’t look like a bad person.
 Dialogue: 0,0:05:23.05,0:05:26.61,Dialogue,,0,0,0,,I think he’s nice, but he is pretty plain looking...
-Dialogue: 0,0:05:26.61,0:05:29.22,Dialogue,,0,0,0,,Hey, Nanoka, tell us what you think!
-Dialogue: 0,0:05:29.22,0:05:32.59,Dialogue,,0,0,0,,Hey, let’s stop spying on him.
+Dialogue: 0,0:05:26.61,0:05:29.26,Dialogue,,0,0,0,,Hey, Nanoka, tell us what you think!
+Dialogue: 0,0:05:29.26,0:05:32.59,Dialogue,,0,0,0,,Hey, let’s stop spying on him.
 Dialogue: 0,0:05:32.59,0:05:34.98,Dialogue,,0,0,0,,You say that, but I know you’re curious, too.
 Dialogue: 0,0:05:41.62,0:05:43.31,Dialogue,,0,0,0,,Why don’t you go talk to him?
 Dialogue: 0,0:05:43.91,0:05:46.07,Dialogue,,0,0,0,,He’s probably just playing a joke on me.
@@ -248,10 +249,10 @@ Dialogue: 0,0:06:04.46,0:06:06.87,Dialogue,,0,0,0,,You should walk around the fe
 Dialogue: 0,0:06:07.37,0:06:08.24,Dialogue,,0,0,0,,But...
 Dialogue: 0,0:06:08.24,0:06:12.89,Dialogue,,0,0,0,,Try going out with him once, and decide if you want to go out with him for real later.
 Dialogue: 0,0:06:13.13,0:06:18.85,Dialogue,,0,0,0,,But, but what do you do when you “go out” with someone?
-Dialogue: 0,0:06:19.52,0:06:21.49,Dialogue,,0,0,0,,Well, you can do a whole bunch of things!
+Dialogue: 0,0:06:19.56,0:06:21.49,Dialogue,,0,0,0,,Well, you can do a whole bunch of things!
 Dialogue: 0,0:06:21.49,0:06:25.81,Dialogue,,0,0,0,,Like walk home together, visit his house, or take a walk in the park.
 Dialogue: 0,0:06:26.43,0:06:27.82,Dialogue,,0,0,0,,A park?
-Dialogue: 0,0:06:37.58,0:06:40.45,Dialogue,,0,0,0,,Maybe if you get a boyfriend, you’ll be able to grow out of your brother complex.
+Dialogue: 0,0:06:37.62,0:06:40.45,Dialogue,,0,0,0,,Maybe if you get a boyfriend, you’ll be able to grow out of your brother complex.
 Dialogue: 0,0:06:41.14,0:06:43.50,Dialogue,,0,0,0,,I don’t have a brother complex!
 Dialogue: 0,0:07:28.18,0:07:29.38,Dialogue,,0,0,0,,What’s wrong?
 Dialogue: 0,0:07:32.01,0:07:36.33,Dialogue,,0,0,0,,Um... Tomorrow is my school’s culture festival...
@@ -334,7 +335,7 @@ Dialogue: 0,0:15:39.65,0:15:41.42,Dialogue,,0,0,0,,Stop staring at me!
 Dialogue: 0,0:15:41.42,0:15:42.96,Dialogue,,0,0,0,,I’m not staring.
 Dialogue: 0,0:15:43.30,0:15:45.17,Dialogue,,0,0,0,,You’re distracting me.
 Dialogue: 0,0:15:50.17,0:15:52.97,Dialogue,,0,0,0,,For that one, just use the formula.
-Dialogue: 0,0:15:56.64,0:15:58.25,Dialogue,,0,0,0,,I knew that!
+Dialogue: 0,0:15:56.68,0:15:58.25,Dialogue,,0,0,0,,I knew that!
 Dialogue: 0,0:15:58.25,0:16:00.39,Dialogue,,0,0,0,,That’s not very cute.
 Dialogue: 0,0:16:01.80,0:16:03.40,Dialogue,,0,0,0,,Hey, what about this one?
 Dialogue: 0,0:16:03.40,0:16:05.47,Dialogue,,0,0,0,,Look over it carefully.
@@ -357,8 +358,8 @@ Dialogue: 0,0:17:26.44,0:17:29.56,Dialogue - Italic,,0,0,0,,He’s mean and gets
 Dialogue: 0,0:17:31.69,0:17:34.86,Dialogue - Italic,,0,0,0,,but on the other hand, sometimes he’s nice.
 Dialogue: 0,0:17:36.70,0:17:37.89,Dialogue - Italic,,0,0,0,,And it surprises me.
 Dialogue: 0,0:18:29.50,0:18:31.52,Dialogue,,0,0,0,,Hey! Be careful!
-Dialogue: 0,0:18:34.34,0:18:35.90,Dialogue,,0,0,0,,Here.
-Dialogue: 0,0:18:36.81,0:18:38.01,Dialogue,,0,0,0,,I’m sorry.
+Dialogue: 0,0:18:34.38,0:18:35.90,Dialogue,,0,0,0,,Here.
+Dialogue: 0,0:18:36.81,0:18:37.97,Dialogue,,0,0,0,,I’m sorry.
 Dialogue: 0,0:18:42.80,0:18:43.80,Dialogue,,0,0,0,,Hey, so...
 Dialogue: 0,0:18:46.16,0:18:50.57,Dialogue,,0,0,0,,How’d it go with the guy who wrote you that letter?
 Dialogue: 0,0:18:51.47,0:18:53.68,Dialogue,,0,0,0,,Did you have fun at the culture festival?
@@ -381,7 +382,7 @@ Dialogue: 0,0:19:51.07,0:19:54.33,Dialogue,,0,0,0,,I just saw you on top of the 
 Dialogue: 0,0:19:54.33,0:19:57.36,Dialogue,,0,0,0,,How weird! You were spying on me and laughing at me!
 Dialogue: 0,0:19:57.36,0:19:59.09,Dialogue,,0,0,0,,I wasn’t laughing at you.
 Dialogue: 0,0:20:02.03,0:20:05.25,Dialogue,,0,0,0,,It’s fine for you to swing the bag around. That’s just like you, Nanoka.{probably should be shortened}
-Dialogue: 0,0:20:14.45,0:20:18.57,Dialogue,,0,0,0,,You just called me Nanoka for the first time.
+Dialogue: 0,0:20:14.45,0:20:18.61,Dialogue,,0,0,0,,You just called me Nanoka for the first time.
 Dialogue: 0,0:20:26.54,0:20:29.48,Dialogue,,0,0,0,,R-Really?
 Dialogue: 0,0:20:29.48,0:20:34.03,Dialogue,,0,0,0,,Yes! You always call me, “you” so arrogantly!{clearly we should have a tl note about “omae” here}
 Dialogue: 0,0:20:34.03,0:20:36.08,Dialogue,,0,0,0,,I’m not trying to be arrogant.
@@ -419,9 +420,9 @@ Dialogue: 0,0:23:26.63,0:23:27.42,Next EP - Verdict,,0,0,0,,{\fs55.23\bord3.026\
 Dialogue: 1,0:23:26.63,0:23:27.42,Next EP - Verdict,,0,0,0,,{\fs55.23\bord0\blur0.502\c&H494949&\pos(777.451,58.243)\clip(718,0,762,54)\t(0,850,\clip(718,0,837,68))}??
 Dialogue: 0,0:23:17.91,0:23:20.71,Dialogue - Alt,,0,0,0,,I don’t think I have a brother complex.
 Dialogue: 0,0:23:20.71,0:23:23.46,Dialogue - Alt,,0,0,0,,I just asked him for advice when I got a love letter from this guy.
-Dialogue: 0,0:23:23.48,0:23:25.17,Dialogue - Alt,,0,0,0,,Do I really have a brother complex?
-Dialogue: 0,0:23:25.39,0:23:27.42,Dialogue,,0,0,0,,Sentenced to a brother complex!
-Dialogue: 0,0:23:28.09,0:23:30.01,Dialogue,,0,0,0,,W-What’s going on?
+Dialogue: 0,0:23:23.48,0:23:25.21,Dialogue - Alt,,0,0,0,,Do I really have a brother complex?
+Dialogue: 0,0:23:25.39,0:23:27.46,Dialogue,,0,0,0,,Sentenced to a brother complex!
+Dialogue: 0,0:23:28.09,0:23:30.05,Dialogue,,0,0,0,,W-What’s going on?
 Dialogue: 0,0:23:18.16,0:23:21.48,Next EP - Scrolling Text,,0,0,0,,{\move(926.53,386.61,-221.71,386.61)\q2\blur0.703\c&HFBFDF8&}Next episode:
 Dialogue: 1,0:23:18.16,0:23:21.48,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(926.53,386.61,-221.71,386.61)\q2\blur0.703\4a&HFF&}Next episode:
 Dialogue: 0,0:23:18.16,0:23:21.48,Next EP - Scrolling Text,,0,0,0,,{\move(926.53,456.9,-221.71,456.9)\q2\blur0.703\c&HFBFDF8&}Dew frost
