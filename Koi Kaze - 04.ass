@@ -20,12 +20,12 @@ Original Translation: minidora07 (TLC - SkyPilot)
 Last Style Storage: Default
 Audio File: ../../../../../media/wyse/Media III/[WSE] Koi Kaze [DVD x264 478p 10bit FLAC-AC3][Dual Audio]/[WSE] Koi Kaze - 04 [DVD x264 478p 10bit FLAC-AC3][Dual Audio][9D6F95F1]_JPN_Audio01.flac
 Video File: ../../../../../media/wyse/Media III/[WSE] Koi Kaze [raws wobbly-ivtc]/ep4.vpy.mkv
+Keyframes File: Scene Changes/ep4.txt
 Video AR Mode: 4
 Video AR Value: 1.779167
 Video Zoom Percent: 2.058333
-Scroll Position: 6
 Active Line: 48
-Video Position: 2735
+Video Position: 3517
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -129,7 +129,7 @@ Dialogue: 0,0:02:10.88,0:02:11.84,Dialogue,,0,0,0,,Yeah.
 Dialogue: 0,0:02:12.27,0:02:14.94,Dialogue,,0,0,0,,You look really out of it to me.
 Dialogue: 0,0:02:14.94,0:02:16.89,Dialogue,,0,0,0,,That’s not true.{argh}
 Dialogue: 0,0:02:16.89,0:02:20.29,Dialogue,,0,0,0,,You need to get yourself cleaned up for the event.
-Dialogue: 0,0:02:20.29,0:02:22.20,Dialogue,,0,0,0,,I know.
+Dialogue: 0,0:02:20.29,0:02:22.16,Dialogue,,0,0,0,,I know.
 Dialogue: 0,0:02:24.44,0:02:26.45,Dialogue,,0,0,0,,Are you still brooding over it?
 Dialogue: 0,0:02:27.61,0:02:28.81,Dialogue,,0,0,0,,Your break-up?
 Dialogue: 0,0:02:30.01,0:02:31.99,Dialogue,,0,0,0,,No way.
@@ -148,8 +148,8 @@ Dialogue: 0,0:03:29.67,0:03:33.20,Dialogue,,0,0,0,,So, are you going to attend t
 Dialogue: 0,0:03:33.20,0:03:34.97,Dialogue,,0,0,0,,The chief said he’ll treat us.
 Dialogue: 0,0:03:34.97,0:03:36.80,Dialogue,,0,0,0,,Really? Yes!
 Dialogue: 0,0:03:36.80,0:03:38.49,Dialogue,,0,0,0,,Of course I’m in!
-Dialogue: 0,0:03:38.49,0:03:41.20,Dialogue,,0,0,0,,I already have plans, so I can’t go.{overly mutilated?}
-Dialogue: 0,0:03:41.20,0:03:42.57,Dialogue,,0,0,0,,Plans?{oh man all those people who know ten japanese words will be rly mad at me now!}
+Dialogue: 0,0:03:38.49,0:03:41.24,Dialogue,,0,0,0,,I already have plans, so I can’t go.{overly mutilated?}
+Dialogue: 0,0:03:41.24,0:03:42.61,Dialogue,,0,0,0,,Plans?{oh man all those people who know ten japanese words will be rly mad at me now!}
 Dialogue: 0,0:03:43.54,0:03:45.59,Dialogue,,0,0,0,,A movie. I’m just watching a movie.
 Dialogue: 0,0:03:45.98,0:03:48.49,Dialogue,,0,0,0,,Are you going with Nanoka?
 Dialogue: 0,0:03:49.53,0:03:52.26,Dialogue,,0,0,0,,What’s your point?
@@ -182,8 +182,8 @@ Dialogue: 0,0:05:47.18,0:05:48.80,Dialogue,,0,0,0,,But it looks painful!
 Dialogue: 0,0:05:48.80,0:05:50.70,Dialogue,,0,0,0,,What are you talking about?
 Dialogue: 0,0:05:53.69,0:05:55.11,Dialogue,,0,0,0,,Hey, this movie is...{ellipsis unnecessary? replace with what}
 Dialogue: 0,0:05:55.69,0:05:57.68,Dialogue,,0,0,0,,Don’t get so close to me!{I don’t fucking get it. HUEG PERSONAL BUBBLE or what}
-Dialogue: 0,0:06:18.18,0:06:19.77,Dialogue,,0,0,0,,Thank you very much.
-Dialogue: 0,0:06:19.77,0:06:20.79,Dialogue,,0,0,0,,You’re welcome.
+Dialogue: 0,0:06:18.18,0:06:19.73,Dialogue,,0,0,0,,Thank you very much.
+Dialogue: 0,0:06:19.73,0:06:20.79,Dialogue,,0,0,0,,You’re welcome.
 Dialogue: 0,0:06:24.73,0:06:26.85,Dialogue,,0,0,0,,Why are you spacing out?{because prepositions is bad}
 Dialogue: 0,0:06:28.49,0:06:29.65,Dialogue,,0,0,0,,No reason.
 Dialogue: 0,0:06:32.98,0:06:34.21,Dialogue,,0,0,0,,Give me your student ID.{herpaderpa}
@@ -206,7 +206,7 @@ Dialogue: 0,0:08:17.14,0:08:20.22,Dialogue,,0,0,0,,I don’t think I ever told y
 Dialogue: 0,0:08:20.22,0:08:22.94,Dialogue,,0,0,0,,I have a younger sister, and we were living separately.
 Dialogue: 0,0:08:24.82,0:08:27.54,Dialogue,,0,0,0,,You know my parents are divorced, right?
 Dialogue: 0,0:08:27.54,0:08:30.65,Dialogue,,0,0,0,,She’s been with my mom the whole time.
-Dialogue: 0,0:08:30.65,0:08:33.95,Dialogue,,0,0,0,,We started living together this spring because her high school is nearby.
+Dialogue: 0,0:08:30.65,0:08:33.90,Dialogue,,0,0,0,,We started living together this spring because her high school is nearby.
 Dialogue: 0,0:08:41.82,0:08:43.04,Dialogue,,0,0,0,,That’s it?
 Dialogue: 0,0:08:45.83,0:08:47.13,Dialogue,,0,0,0,,Is that really all?
 Dialogue: 0,0:08:48.77,0:08:49.46,Dialogue,,0,0,0,,Yeah.
@@ -215,34 +215,34 @@ Dialogue: 0,0:08:58.09,0:09:02.10,Dialogue,,0,0,0,,You said you had something to
 Dialogue: 0,0:09:02.51,0:09:04.28,Dialogue,,0,0,0,,It’s not a laughing matter!
 Dialogue: 0,0:09:04.28,0:09:08.98,Dialogue,,0,0,0,,I didn’t want you to think I started going after high school girls since getting dumped.
 Dialogue: 0,0:09:08.98,0:09:10.74,Dialogue,,0,0,0,,I was worried for nothing.
-Dialogue: 0,0:09:13.03,0:09:18.99,Dialogue,,0,0,0,,It’s just so like you, to be worried about appearances while dating high school girls.{idk if im doin it rite}
+Dialogue: 0,0:09:13.07,0:09:18.99,Dialogue,,0,0,0,,It’s just so like you, to be worried about appearances while dating high school girls.{idk if im doin it rite}
 Dialogue: 0,0:09:21.64,0:09:23.08,Dialogue,,0,0,0,,Well, I’m sorry.
 Dialogue: 0,0:09:23.08,0:09:25.17,Dialogue,,0,0,0,,I’ll never come see you again.
 Dialogue: 0,0:09:34.48,0:09:35.65,Dialogue,,0,0,0,,Dinner?
 Dialogue: 0,0:09:39.08,0:09:40.32,Dialogue,,0,0,0,,Have you eaten yet?
 Dialogue: 0,0:09:46.66,0:09:50.62,Dialogue - Italic,,0,0,0,,Suddenly, a foolish thought passed through my mind.
 Dialogue: 0,0:09:52.02,0:09:57.75,Dialogue - Italic,,0,0,0,,“That’s right; it’s been three months since the last time I had sex”.{but he’s been masturbating an awful lot!}{I trumps we because he’s a selfish bastard obviously >_>}
-Dialogue: 0,0:10:48.55,0:10:50.89,Dialogue - Italic,,0,0,0,,Go on! You can drink, right?{two distinct phrases?}
-Dialogue: 0,0:10:50.89,0:10:51.96,Dialogue - Italic,,0,0,0,,That’s not true.
-Dialogue: 0,0:10:51.96,0:10:55.09,Dialogue - Italic,,0,0,0,,It is! You can drink way more than I can!{“stronger”, hmm}
+Dialogue: 0,0:10:48.58,0:10:50.89,Dialogue - Italic,,0,0,0,,Go on! You can drink, right?{two distinct phrases?}
+Dialogue: 0,0:10:50.89,0:10:52.00,Dialogue - Italic,,0,0,0,,That’s not true.
+Dialogue: 0,0:10:52.00,0:10:55.09,Dialogue - Italic,,0,0,0,,It is! You can drink way more than I can!{“stronger”, hmm}
 Dialogue: 0,0:10:55.47,0:10:56.42,Dialogue - Italic,,0,0,0,,I don’t think so.{sou ka na?}
 Dialogue: 0,0:10:56.42,0:10:57.63,Dialogue,,0,0,0,,Isn’t it good?
 Dialogue: 0,0:10:57.63,0:10:59.02,Dialogue,,0,0,0,,This place is a hidden gem.{other phrasing for “good but unknown”? 穴場 【あなば】 (n) little-known good place; good out-of-the-way place; well-kept-secret place <-- these are all hella clunk}
-Dialogue: 0,0:10:59.02,0:11:00.09,Dialogue,,0,0,0,,Yeah.
+Dialogue: 0,0:10:59.02,0:11:00.05,Dialogue,,0,0,0,,Yeah.
 Dialogue: 0,0:11:03.33,0:11:04.85,Dialogue,,0,0,0,,I come here often by myself.
 Dialogue: 0,0:11:19.95,0:11:22.00,Dialogue - Italic,,0,0,0,,What are you saying, stupid?
 Dialogue: 0,0:11:22.00,0:11:24.85,Dialogue - Italic,,0,0,0,,I’m not stupid. I’m serious.
-Dialogue: 0,0:11:24.85,0:11:25.70,Dialogue - Italic,,0,0,0,,I don’t believe you!
-Dialogue: 0,0:11:25.70,0:11:28.82,Dialogue - Italic,,0,0,0,,There’s no way I’d joke about that!
+Dialogue: 0,0:11:24.85,0:11:25.74,Dialogue - Italic,,0,0,0,,I don’t believe you!
+Dialogue: 0,0:11:25.74,0:11:28.82,Dialogue - Italic,,0,0,0,,There’s no way I’d joke about that!
 Dialogue: 0,0:11:28.82,0:11:30.62,Dialogue - Italic,,0,0,0,,What about Sachiko?
 Dialogue: 0,0:11:30.62,0:11:33.63,Dialogue - Italic,,0,0,0,,She’s just a friend.
 Dialogue: 0,0:11:33.63,0:11:34.77,Dialogue - Italic,,0,0,0,,Liar!
-Dialogue: 0,0:11:34.77,0:11:35.71,Dialogue - Italic,,0,0,0,,I’m serious!
+Dialogue: 0,0:11:34.77,0:11:35.75,Dialogue - Italic,,0,0,0,,I’m serious!
 Dialogue: 0,0:11:36.18,0:11:37.28,Dialogue - Italic,,0,0,0,,You’re the only person...
 Dialogue: 0,0:11:37.30,0:11:39.06,Dialogue,,0,0,0,,Hey...{ellipsis-abuse-raeg}
 Dialogue: 0,0:11:39.75,0:11:42.01,Dialogue,,0,0,0,,How’s work been lately?
 Dialogue: 0,0:11:42.01,0:11:43.02,Dialogue,,0,0,0,,Why?
-Dialogue: 0,0:11:43.02,0:11:45.72,Dialogue,,0,0,0,,You used to always tell me that you wanted to quit.
+Dialogue: 0,0:11:43.02,0:11:45.76,Dialogue,,0,0,0,,You used to always tell me that you wanted to quit.
 Dialogue: 0,0:11:46.13,0:11:47.72,Dialogue,,0,0,0,,You still remember?
 Dialogue: 0,0:11:47.72,0:11:50.50,Dialogue,,0,0,0,,Who could forget, after listening to you complain so much?
 Dialogue: 0,0:11:54.43,0:11:57.85,Dialogue,,0,0,0,,Going by your half-hearted replies, I thought you weren’t listening.{I thought you weren’t listening with your half-hearted replies.}{Of course not. He was listening with his ears.}{rim shot}
@@ -261,7 +261,7 @@ Dialogue: 0,0:13:41.13,0:13:42.14,Dialogue,,0,0,0,,What?
 Dialogue: 0,0:13:42.77,0:13:46.17,Dialogue,,0,0,0,,I was wondering if any taxis would come this way.
 Dialogue: 0,0:13:46.53,0:13:48.66,Dialogue,,0,0,0,,If you go a little further you’ll reach the main street.{not sure if splitting this up actually helped at all}
 Dialogue: 0,0:13:48.66,0:13:50.35,Dialogue,,0,0,0,,It’ll be easier to find one there.
-Dialogue: 0,0:13:55.95,0:13:57.35,Dialogue,,0,0,0,,I’m moving next month.
+Dialogue: 0,0:13:55.95,0:13:57.31,Dialogue,,0,0,0,,I’m moving next month.
 Dialogue: 0,0:13:59.93,0:14:01.49,Dialogue,,0,0,0,,I’m quitting my job, too.{and getting married and becoming a housewife... meh}
 Dialogue: 0,0:14:01.49,0:14:03.02,Dialogue,,0,0,0,,Although, that’ll happen a bit later.
 Dialogue: 0,0:14:03.93,0:14:05.06,Dialogue,,0,0,0,,I see.
