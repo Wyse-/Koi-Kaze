@@ -19,12 +19,12 @@ Video Aspect Ratio: c1.78151
 Last Style Storage: Default
 Audio File: ../../../../../media/wyse/Media III/[WSE] Koi Kaze [DVD x264 478p 10bit FLAC-AC3][Dual Audio]/[WSE] Koi Kaze - 05 [DVD x264 478p 10bit FLAC-AC3][Dual Audio][EE27B255]_JPN_Audio01.flac
 Video File: ../../../../../media/wyse/Media III/[WSE] Koi Kaze [raws wobbly-ivtc]/ep5.vpy.mkv
+Keyframes File: Scene Changes/ep5.txt
 Video AR Mode: 4
 Video AR Value: 1.779167
 Video Zoom Percent: 2.058333
-Scroll Position: 264
 Active Line: 294
-Video Position: 2983
+Video Position: 33916
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -343,7 +343,7 @@ Dialogue: 0,0:01:58.93,0:02:00.68,Dialogue,,0,0,0,,Okay, I’ll be back soon.
 Dialogue: 0,0:02:43.68,0:02:45.01,Dialogue,,0,0,0,,Unbelievable.
 Dialogue: 0,0:02:45.43,0:02:47.06,Dialogue,,0,0,0,,You’re still here?
 Dialogue: 0,0:02:58.36,0:03:01.74,Dialogue,,0,0,0,,Onii-chan, if you have nothing else to do, can you at least help by cleaning the bathroom?
-Dialogue: 0,0:03:59.55,0:04:02.72,Dialogue - Italic,,0,0,0,,Did she notice?
+Dialogue: 0,0:03:59.55,0:04:02.76,Dialogue - Italic,,0,0,0,,Did she notice?
 Dialogue: 0,0:04:26.74,0:04:28.16,Dialogue - Italic,,0,0,0,,It was only for an instant.
 Dialogue: 0,0:04:29.24,0:04:30.79,Dialogue - Italic,,0,0,0,,There’s no way.
 Dialogue: 0,0:04:48.51,0:04:50.18,Dialogue - Italic,,0,0,0,,There’s no way...
@@ -389,14 +389,14 @@ Dialogue: 0,0:07:53.32,0:07:56.66,Dialogue,,0,0,0,,Your brother might be more si
 Dialogue: 0,0:08:03.33,0:08:06.17,Dialogue,,0,0,0,,Bamboo? Why does it have to be bamboo?
 Dialogue: 0,0:08:07.34,0:08:10.13,Dialogue,,0,0,0,,It’s the “Tanabata Matchmaking Party”.
 Dialogue: 0,0:08:10.13,0:08:13.38,Dialogue,,0,0,0,,We need to set a romantic atmosphere for young girls!
-Dialogue: 0,0:08:13.38,0:08:14.84,Dialogue,,0,0,0,,Young girls?
+Dialogue: 0,0:08:13.38,0:08:14.80,Dialogue,,0,0,0,,Young girls?
 Dialogue: 0,0:08:19.85,0:08:22.73,Dialogue,,0,0,0,,Wh-What are you doing?!
 Dialogue: 0,0:08:22.73,0:08:25.42,Dialogue,,0,0,0,,By the way, he looks pretty ominous over there.{maybe: weird}
 Dialogue: 0,0:08:25.42,0:08:29.48,Dialogue,,0,0,0,,Look at the way he’s decorating that bamboo without complaining.{tanzaku}
 Dialogue: 0,0:08:43.96,0:08:46.04,Dialogue,,0,0,0,,Wh-What are you doing?!
 Dialogue: 0,0:08:46.04,0:08:49.55,Dialogue,,0,0,0,,I’m telling you, there’s nothing good about having a younger sister.
 Dialogue: 0,0:08:50.46,0:08:55.80,Dialogue,,108,108,0,,A guy who fights over the TV channels with his cute younger sister could never understand my feelings!
-Dialogue: 0,0:09:05.23,0:09:07.44,Dialogue,,0,0,0,,Man, it’s like a sauna out here.{hot and humid}{like a sauna}
+Dialogue: 0,0:09:05.27,0:09:07.44,Dialogue,,0,0,0,,Man, it’s like a sauna out here.{hot and humid}{like a sauna}
 Dialogue: 0,0:09:07.44,0:09:09.48,Dialogue,,0,0,0,,Going outside is the worst.
 Dialogue: 0,0:09:15.74,0:09:17.20,Dialogue,,0,0,0,,Do you want to go for a drink?
 Dialogue: 0,0:09:17.20,0:09:19.41,Dialogue,,0,0,0,,Sure! I was just about to ask you.
@@ -423,7 +423,7 @@ Dialogue: 0,0:13:08.26,0:13:10.01,Dialogue - Italic,,0,0,0,,Why won’t I say it
 Dialogue: 0,0:13:17.35,0:13:19.98,Dialogue - Italic,,0,0,0,,“I’m sorry I sniffed your bra”.
 Dialogue: 0,0:13:27.03,0:13:30.33,Dialogue - Italic,,0,0,0,,“I’m sorry it made me excited”.
 Dialogue: 0,0:13:38.04,0:13:39.08,Dialogue - Italic,,0,0,0,,No.
-Dialogue: 0,0:13:40.13,0:13:42.34,Dialogue - Italic,,0,0,0,,What good would saying that do?
+Dialogue: 0,0:13:40.13,0:13:42.38,Dialogue - Italic,,0,0,0,,What good would saying that do?
 Dialogue: 0,0:13:44.05,0:13:49.55,Dialogue - Italic,,0,0,0,,She might be wearing that bra right now, without knowing what I did.
 Dialogue: 0,0:13:52.51,0:13:53.64,Dialogue - Italic,,0,0,0,,That time...
 Dialogue: 0,0:15:03.71,0:15:08.09,Dialogue,,0,0,0,,Hey, Koshiro left really early today, too.{I get this “sup wit dat” vibe from the nanda, but idk how to put that in without it being clunky}
