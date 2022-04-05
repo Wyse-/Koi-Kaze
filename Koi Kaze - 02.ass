@@ -19,12 +19,13 @@ YCbCr Matrix: TV.601
 [Aegisub Project Garbage]
 Last Style Storage: Default
 Video File: ../../../../../media/wyse/Media III/[WSE] Koi Kaze [raws wobbly-ivtc]/ep2.vpy.mkv
+Keyframes File: Scene Changes/ep2.txt
 Video AR Mode: 4
 Video AR Value: 1.779167
 Video Zoom Percent: 2.058333
 Scroll Position: 471
-Active Line: 506
-Video Position: 23915
+Active Line: 489
+Video Position: 29878
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -610,8 +611,8 @@ Dialogue: 0,0:06:40.37,0:06:43.38,Dialogue,,0,0,0,,Um, I’m not interested.
 Dialogue: 0,0:06:54.14,0:06:55.68,Dialogue,,0,0,0,,You are...
 Dialogue: 0,0:07:00.73,0:07:01.69,Dialogue,,0,0,0,,Glasses...
 Dialogue: 0,0:07:01.69,0:07:02.73,Dialogue,,0,0,0,,Glasses...?
-Dialogue: 0,0:07:08.74,0:07:10.15,Dialogue,,0,0,0,,Onii-chan!
-Dialogue: 0,0:07:13.32,0:07:14.45,Dialogue,,0,0,0,,You!
+Dialogue: 0,0:07:08.78,0:07:10.15,Dialogue,,0,0,0,,Onii-chan!
+Dialogue: 0,0:07:13.28,0:07:14.45,Dialogue,,0,0,0,,You!
 Dialogue: 0,0:07:15.74,0:07:16.83,Dialogue,,0,0,0,,I came to visit.
 Dialogue: 0,0:07:16.83,0:07:18.00,Dialogue,,0,0,0,,So she says.{It seems so.}
 Dialogue: 0,0:07:20.54,0:07:22.50,Dialogue,,0,0,0,,Why don’t we all go out and eat together?
@@ -624,7 +625,7 @@ Dialogue: 0,0:07:50.15,0:07:51.40,Dialogue,,0,0,0,,Because...
 Dialogue: 0,0:07:51.40,0:07:56.12,Dialogue,,0,0,0,,Listen, I don’t want you to ever come to my office again!
 Dialogue: 0,0:07:56.12,0:07:56.99,Dialogue,,0,0,0,,Understand?
 Dialogue: 0,0:07:58.04,0:07:59.20,Dialogue,,0,0,0,,Onii-chan,
-Dialogue: 0,0:08:00.54,0:08:01.50,Dialogue,,0,0,0,,did I...
+Dialogue: 0,0:08:00.54,0:08:01.46,Dialogue,,0,0,0,,did I...
 Dialogue: 0,0:08:15.14,0:08:16.39,Dialogue,,0,0,0,,Hey, Onii-chan—
 Dialogue: 0,0:08:16.39,0:08:19.77,Dialogue,,0,0,0,,Enough! Stop calling me “Onii-chan”!
 Dialogue: 0,0:08:23.14,0:08:24.35,Dialogue,,0,0,0,,Then...
@@ -642,11 +643,11 @@ Dialogue: 0,0:10:22.68,0:10:25.22,Dialogue,,0,0,0,,Aren’t most siblings like t
 Dialogue: 0,0:10:25.22,0:10:27.35,Dialogue,,0,0,0,,All I do is fight with my older sister.
 Dialogue: 0,0:10:28.14,0:10:30.56,Dialogue,,0,0,0,,I didn’t expect him to be so mean!
 Dialogue: 0,0:10:30.94,0:10:34.44,Dialogue,,0,0,0,,I’m never going to call my brother “Onii-chan” again!
-Dialogue: 0,0:10:34.44,0:10:35.36,Dialogue,,0,0,0,,Now, now.
+Dialogue: 0,0:10:34.44,0:10:35.32,Dialogue,,0,0,0,,Now, now.
 Dialogue: 0,0:10:37.78,0:10:42.58,Dialogue,,0,0,0,,Hey, why don’t we go have some fun after school,{this comma is actually inappropriate because the next clause is not independent}
-Dialogue: 0,0:10:42.58,0:10:44.41,Dialogue,,0,0,0,,and really let out our feelings!{to help let the stress off}{ugh.}
-Dialogue: 0,0:10:44.41,0:10:45.08,Dialogue,,0,0,0,,Okay?
-Dialogue: 0,0:10:45.58,0:10:46.45,Dialogue,,0,0,0,,Yeah!
+Dialogue: 0,0:10:42.58,0:10:44.37,Dialogue,,0,0,0,,and really let out our feelings!{to help let the stress off}{ugh.}
+Dialogue: 0,0:10:44.37,0:10:45.08,Dialogue,,0,0,0,,Okay?
+Dialogue: 0,0:10:45.54,0:10:46.45,Dialogue,,0,0,0,,Yeah!
 Dialogue: 0,0:10:51.96,0:10:53.71,Dialogue,,0,0,0,,Poor girl.
 Dialogue: 0,0:10:57.97,0:11:01.72,Dialogue,,0,0,0,,She visited you because she wanted to spend time with you.{I hate “get closer to”}
 Dialogue: 0,0:11:05.14,0:11:07.85,Dialogue,,0,0,0,,Your behavior was uncalled-for, wasn’t it?
@@ -662,7 +663,7 @@ Dialogue: 0,0:11:31.12,0:11:33.42,Dialogue,,0,0,0,,Did you snap after your girlf
 Dialogue: 0,0:11:49.56,0:11:50.98,Dialogue - Italic,,0,0,0,,I had forgotten...
 Dialogue: 0,0:11:53.94,0:11:58.15,Dialogue - Italic,,0,0,0,,I had forgotten about her... completely.
 Dialogue: 0,0:12:00.15,0:12:01.86,Dialogue - Italic,,0,0,0,,Damn it!
-Dialogue: 0,0:12:21.34,0:12:22.72,Dialogue,,0,0,0,,It’s so sweet!
+Dialogue: 0,0:12:21.34,0:12:22.76,Dialogue,,0,0,0,,It’s so sweet!
 Dialogue: 0,0:12:23.13,0:12:24.89,Dialogue,,0,0,0,,This is so good!
 Dialogue: 0,0:12:25.14,0:12:26.10,Dialogue,,0,0,0,,Isn’t it, isn’t it?{I KNOW RIGHT}
 Dialogue: 0,0:12:26.10,0:12:29.10,Dialogue,,0,0,0,,Chocolate caramel ice cream is definitely the best!
@@ -832,8 +833,8 @@ Dialogue: 1,0:23:19.21,0:23:25.46,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(
 Dialogue: 0,0:23:19.25,0:23:25.63,Next EP - Scrolling Text,,0,0,0,,{\move(1543.539,456.904,-339.088,456.904)\q2\blur0.703\c&HFBFDF8&}But, Nanoka is acting strange, and it makes Koshiro nervous.
 Dialogue: 1,0:23:19.25,0:23:25.63,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(1543.539,456.904,-339.088,456.904)\q2\blur0.703\4a&HFF&}But, Nanoka is acting strange, and it makes Koshiro nervous.
 Dialogue: 0,0:23:17.60,0:23:21.00,Dialogue - Alt,,0,0,0,,I do not intend to abuse my\Nposition as a marriage consultant!
-Dialogue: 0,0:23:21.00,0:23:26.92,Dialogue - Alt,,0,0,0,,I just want to honestly and legally get to know some high school girls!
-Dialogue: 0,0:23:27.40,0:23:28.47,Dialogue,,0,0,0,,Hide his glasses as punishment!
+Dialogue: 0,0:23:21.00,0:23:26.96,Dialogue - Alt,,0,0,0,,I just want to honestly and legally get to know some high school girls!
+Dialogue: 0,0:23:27.40,0:23:28.51,Dialogue,,0,0,0,,Hide his glasses as punishment!
 Dialogue: 1,0:23:27.13,0:23:28.47,Next EP - Verdict,,0,0,0,,{\pos(671,41.172)\bord1.004\blur0.502\bord0\c&H00000000&\4a&HFF&\fs36.151\iclip(579,-1,797,45)\t(27,900,\iclip(797,-1,797,45))}Hide his glasses
 Dialogue: 0,0:23:27.13,0:23:28.47,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\c&HFFFFFF&\pos(673.392,45.188)\fs36.151\\iclip(579,-1,797,45)\t(27,900,\iclip(797,-1,797,45))}Hide his glasses
-Dialogue: 0,0:23:29.10,0:23:29.97,Dialogue,,0,0,0,,Glasses!
+Dialogue: 0,0:23:29.10,0:23:30.01,Dialogue,,0,0,0,,Glasses!
