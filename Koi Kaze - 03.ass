@@ -20,11 +20,13 @@ YCbCr Matrix: TV.601
 Last Style Storage: Default
 Audio File: ../../../../../media/wyse/Media III/[WSE] Koi Kaze [DVD x264 478p 10bit FLAC-AC3][Dual Audio]/[WSE] Koi Kaze - 03 [DVD x264 478p 10bit FLAC-AC3][Dual Audio][B6789C9A]_JPN_Audio01.flac
 Video File: ../../../../../media/wyse/Media III/[WSE] Koi Kaze [raws wobbly-ivtc]/ep3.vpy.mkv
+Keyframes File: Scene Changes/ep3.txt
 Video AR Mode: 4
 Video AR Value: 1.779167
 Video Zoom Percent: 2.058333
-Active Line: 33
-Video Position: 2592
+Scroll Position: 6
+Active Line: 43
+Video Position: 29574
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -107,7 +109,7 @@ Dialogue: 0,0:04:09.15,0:04:13.16,Dialogue - Italic,,0,0,0,,We’ll call the bus
 Dialogue: 0,0:04:23.11,0:04:25.24,Dialogue - Italic,,0,0,0,,My poor boy...{urgh}
 Dialogue: 0,0:04:26.85,0:04:30.12,Dialogue - Italic,,0,0,0,,Just like Mom did for me back then,
 Dialogue: 0,0:04:31.45,0:04:34.62,Dialogue - Italic,,0,0,0,,I should do something nice for her.
-Dialogue: 0,0:04:35.71,0:04:38.46,Dialogue - Italic,,0,0,0,,Maybe then this strange feeling will go away.
+Dialogue: 0,0:04:35.71,0:04:38.50,Dialogue - Italic,,0,0,0,,Maybe then this strange feeling will go away.
 Dialogue: 0,0:04:39.85,0:04:41.51,Dialogue - Italic,,0,0,0,,That’s what I found myself thinking.{Editor’s note: this line seems to be the result of zealous editing? I don’t speak no nihongo but the r1 has a drastically different translation here. I like the flow of this better though. FUCK ACCURATE TRANSLATION}
 Dialogue: 0,0:04:44.75,0:04:47.46,Dialogue - Italic,,0,0,0,,Am I really that childish?
 Dialogue: 0,0:05:06.35,0:05:09.80,Dialogue - Italic,,0,0,0,,Perhaps her innocence is what makes her seem childlike?{he uses こども both times so I’m inclined to make sure they’re translated the same way... but innocence would make her childlike, not childish. Or at least I think that’d be the case. cf. "Childlike - Like a child; (of qualities, actions, etc.) like those of a child, characteristic of a child. Almost always in a good sense, with reference to the innocence, meekness, etc., of children; opposed to childish, which is generally used in a bad sense." (oed.com)}
@@ -117,7 +119,7 @@ Dialogue: 0,0:05:18.41,0:05:20.04,Dialogue,,0,0,0,,How cute!
 Dialogue: 0,0:05:20.98,0:05:22.80,Dialogue,,0,0,0,,Is this yours, Onii-chan?
 Dialogue: 0,0:05:23.95,0:05:26.53,Dialogue,,0,0,0,,Don’t just come into my room like that!
 Dialogue: 0,0:05:26.53,0:05:27.99,Dialogue,,0,0,0,,How surprising!
-Dialogue: 0,0:05:27.99,0:05:31.18,Dialogue,,0,0,0,,You treasure such a cute teddy bear?
+Dialogue: 0,0:05:27.99,0:05:31.22,Dialogue,,0,0,0,,You treasure such a cute teddy bear?
 Dialogue: 0,0:05:32.85,0:05:36.06,Dialogue,,0,0,0,,No, it’s not that I’m treasuring it.
 Dialogue: 0,0:05:36.06,0:05:38.12,Dialogue,,0,0,0,,Yes, you are!
 Dialogue: 0,0:05:38.12,0:05:40.76,Dialogue,,0,0,0,,You washed and cleaned him, right?
@@ -129,7 +131,7 @@ Dialogue: 0,0:05:56.95,0:05:57.85,Dialogue,,0,0,0,,But...
 Dialogue: 0,0:05:58.58,0:06:01.17,Dialogue,,0,0,0,,My mom made it for me when I was a kid.
 Dialogue: 0,0:06:01.17,0:06:03.13,Dialogue,,0,0,0,,It doesn’t really matter to me if you take it.
 Dialogue: 0,0:06:03.13,0:06:04.09,Dialogue,,0,0,0,,I’ll give it to you.
-Dialogue: 0,0:06:09.95,0:06:11.64,Dialogue,,0,0,0,,Wait a second!
+Dialogue: 0,0:06:09.95,0:06:11.60,Dialogue,,0,0,0,,Wait a second!
 Dialogue: 0,0:06:20.65,0:06:21.86,Dialogue,,0,0,0,,Here!
 Dialogue: 0,0:06:22.95,0:06:24.41,Dialogue,,0,0,0,,This one’s mine.
 Dialogue: 0,0:06:24.41,0:06:26.94,Dialogue,,0,0,0,,Mom made one for me too.
@@ -153,7 +155,7 @@ Dialogue: 0,0:08:01.46,0:08:02.62,Dialogue,,0,0,0,,What’d he look like?{"What 
 Dialogue: 0,0:08:02.62,0:08:04.30,Dialogue,,0,0,0,,He was pretty tall,
 Dialogue: 0,0:08:04.30,0:08:06.69,Dialogue,,0,0,0,,with fair skin and straight, shiny hair.{idk about those adjectives there but they were in the r1 so I stole them}
 Dialogue: 0,0:08:06.69,0:08:08.30,Dialogue,,0,0,0,,He also had amazing eyelashes!
-Dialogue: 0,0:08:08.30,0:08:10.84,Dialogue,,0,0,0,,He must be a high school student, since he was wearing a school uniform!
+Dialogue: 0,0:08:08.30,0:08:10.88,Dialogue,,0,0,0,,He must be a high school student, since he was wearing a school uniform!
 Dialogue: 0,0:08:11.14,0:08:12.60,Dialogue,,0,0,0,,Why was he on the train that late?
 Dialogue: 0,0:08:12.60,0:08:15.14,Dialogue,,0,0,0,,Yeah! That’s exactly the point!
 Dialogue: 0,0:08:15.14,0:08:16.31,Dialogue,,0,0,0,,The point?
@@ -238,7 +240,7 @@ Dialogue: 0,0:15:18.35,0:15:19.84,Dialogue - Italic,,0,0,0,,and in the afternoon
 Dialogue: 0,0:15:20.61,0:15:22.58,Dialogue,,0,0,0,,Aren’t you hungry?
 Dialogue: 0,0:15:34.60,0:15:36.87,Dialogue,,0,0,0,,Where are you going at this hour?
 Dialogue: 0,0:15:38.70,0:15:39.91,Dialogue,,0,0,0,,A walk.
-Dialogue: 0,0:15:39.91,0:15:42.25,Dialogue,,0,0,0,,What are you saying?\NYou’re not feeling well, right?
+Dialogue: 0,0:15:39.91,0:15:42.29,Dialogue,,0,0,0,,What are you saying?\NYou’re not feeling well, right?
 Dialogue: 0,0:15:46.30,0:15:48.44,Dialogue,,0,0,0,,I’m just having really bad menstrual cramps.{ｗｗ}
 Dialogue: 0,0:15:57.10,0:15:59.10,Dialogue,,0,0,0,,It’s the first time in three months?
 Dialogue: 0,0:15:59.10,0:16:01.06,Dialogue,,0,0,0,,Are you all right?
@@ -256,7 +258,7 @@ Dialogue: 0,0:17:47.57,0:17:51.21,Dialogue,,0,0,0,,I’m going to have you expla
 Dialogue: 0,0:17:51.21,0:17:53.99,Dialogue,,0,0,0,,There’s nothing to explain.
 Dialogue: 0,0:17:54.41,0:17:56.63,Dialogue,,0,0,0,,Where did you meet him?
 Dialogue: 0,0:17:57.41,0:18:00.14,Dialogue,,0,0,0,,In junior high. We went to the same cram school.
-Dialogue: 0,0:18:00.14,0:18:01.47,Dialogue,,0,0,0,,Cram school?!
+Dialogue: 0,0:18:00.14,0:18:01.51,Dialogue,,0,0,0,,Cram school?!
 Dialogue: 0,0:18:02.04,0:18:05.58,Dialogue,,0,0,0,,That’s the kind of place I’d never go!{interpretation: this vs. "I would never have thought to look for love at cram school" vs. "I missed my chance to compete with you there" vs "That has nothing to do with me". (muen) -> unrelated; without relations; unidentified; indifferent; (sekai) -> the world; society; the universe}{FUCK IT WE’LL GO WITH r1 BECAUSE I HAVE GIVEN UP}
 Dialogue: 0,0:18:06.81,0:18:07.60,Dialogue,,0,0,0,,Ouch!
 Dialogue: 0,0:18:14.80,0:18:17.05,Dialogue - Italic,,0,0,0,,I said something weird last night...
@@ -266,8 +268,8 @@ Dialogue: 0,0:18:29.01,0:18:32.80,Dialogue - Italic,,0,0,0,,When will I become a
 Dialogue: 0,0:18:38.80,0:18:41.77,Dialogue,,0,0,0,,I wish I could find myself some good romance.
 Dialogue: 0,0:18:43.26,0:18:44.56,Dialogue,,0,0,0,,What?
 Dialogue: 0,0:18:45.51,0:18:46.76,Dialogue,,0,0,0,,Is that strange?
-Dialogue: 0,0:18:48.33,0:18:49.48,Dialogue,,0,0,0,,Not really.
-Dialogue: 0,0:18:49.48,0:18:50.80,Dialogue,,0,0,0,,Right?
+Dialogue: 0,0:18:48.33,0:18:49.52,Dialogue,,0,0,0,,Not really.
+Dialogue: 0,0:18:49.52,0:18:50.80,Dialogue,,0,0,0,,Right?
 Dialogue: 0,0:19:01.23,0:19:02.37,Dialogue,,0,0,0,,Crap!
 Dialogue: 0,0:19:11.39,0:19:12.83,Dialogue,,0,0,0,,Shit...
 Dialogue: 0,0:19:33.81,0:19:35.52,Dialogue,,0,0,0,,It’ll probably stop soon.
