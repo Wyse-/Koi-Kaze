@@ -26,9 +26,9 @@ Keyframes File: Scene Changes/ep1.txt
 Video AR Mode: 4
 Video AR Value: 1.779167
 Video Zoom Percent: 2.058333
-Scroll Position: 329
-Active Line: 369
-Video Position: 11842
+Scroll Position: 592
+Active Line: 628
+Video Position: 33917
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -673,8 +673,8 @@ Dialogue: 1,0:23:16.62,0:23:17.12,Next EP - Rotating Text,,0,0,0,,{\blur0.603\po
 Dialogue: 0,0:23:18.00,0:23:20.46,Dialogue - Alt,,0,0,0,,The girl who dumped me came to my office, so I was kind of apprehensive.
 Dialogue: 0,0:23:20.46,0:23:22.58,Dialogue - Alt,,0,0,0,,I went on a date with a girl, not knowing she was my younger sister.
 Dialogue: 0,0:23:22.58,0:23:25.27,Dialogue - Alt,,0,0,0,,Even though I’m this old, I cried in front of a high school student.
-Dialogue: 0,0:23:25.53,0:23:26.63,Dialogue - Alt,,0,0,0,,Is that enough?!
-Dialogue: 0,0:23:26.63,0:23:28.30,Dialogue,,0,0,0,,Wrap him up and throw him in the river as punishment!{すまき流し}
+Dialogue: 0,0:23:25.53,0:23:26.67,Dialogue - Alt,,0,0,0,,Is that enough?!
+Dialogue: 0,0:23:26.67,0:23:28.38,Dialogue,,0,0,0,,Wrap him up and throw him in the river as punishment!{すまき流し}
 Dialogue: 1,0:23:26.84,0:23:28.30,Next EP - Verdict,,0,0,0,,{\pos(425.804,46.192)\bord1.004\blur0.502\bord0\c&H00000000&\4a&HFF&\fs36.151\iclip(175,3,709,52)\t(27,1020,\iclip(708,3,709,52))}Wrap him up and throw him in the river
 Dialogue: 0,0:23:26.84,0:23:28.30,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\c&HFFFFFF&\pos(428.196,50.209)\fs36.151\iclip(175,3,709,52)\t(27,1020,\iclip(708,3,709,52))}Wrap him up and throw him in the river
-Dialogue: 0,0:23:28.30,0:23:29.97,Dialogue,,0,0,0,,Why?!
+Dialogue: 0,0:23:28.38,0:23:30.01,Dialogue,,0,0,0,,Why?!
