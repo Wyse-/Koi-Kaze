@@ -19,11 +19,12 @@ Video Aspect Ratio: c1.78151
 Last Style Storage: Default
 Audio File: ../../../../../media/wyse/Media III/[WSE] Koi Kaze [DVD x264 478p 10bit FLAC-AC3][Dual Audio]/[WSE] Koi Kaze - 08 [DVD x264 478p 10bit FLAC-AC3][Dual Audio][EAA43AF5]_JPN_Audio01.flac
 Video File: ../../../../../media/wyse/Media III/[WSE] Koi Kaze [raws wobbly-ivtc]/ep8.vpy.mkv
+Keyframes File: Scene Changes/ep8.txt
 Video AR Mode: 4
 Video AR Value: 1.779167
 Video Zoom Percent: 2.058333
 Active Line: 1
-Video Position: 2591
+Video Position: 33714
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -82,8 +83,8 @@ Dialogue: 0,0:01:43.54,0:01:49.08,Title,,0,0,0,,{\c&H7982CE&\clip(m 233.875 422.
 Dialogue: 0,0:01:52.55,0:01:59.01,Dialogue,,0,0,0,,The conference members are basically selected after we do a strict examination.
 Dialogue: 0,0:01:59.01,0:02:03.55,Dialogue,,0,0,0,,There really aren’t any suspicious people, so to say...
 Dialogue: 0,0:02:03.55,0:02:05.98,Dialogue,,0,0,0,,or any people with problems.
-Dialogue: 0,0:02:05.98,0:02:09.48,Dialogue,,0,0,0,,If there are any conflicts between two members,
-Dialogue: 0,0:02:09.48,0:02:11.30,Dialogue,,0,0,0,,we’ll take responsibility...
+Dialogue: 0,0:02:05.98,0:02:09.52,Dialogue,,0,0,0,,If there are any conflicts between two members,
+Dialogue: 0,0:02:09.52,0:02:11.30,Dialogue,,0,0,0,,we’ll take responsibility...
 Dialogue: 0,0:02:11.30,0:02:14.04,Dialogue - Italic,,0,0,0,,It was a job I just chose to do,
 Dialogue: 0,0:02:14.85,0:02:20.30,Dialogue - Italic,,0,0,0,,because employment opportunities were limited for a third-class university graduate.
 Dialogue: 0,0:02:20.30,0:02:21.53,Dialogue - Italic,,0,0,0,,Or so I thought.
@@ -120,7 +121,7 @@ Dialogue: 0,0:06:27.03,0:06:28.42,Dialogue,,0,0,0,,Who cares!
 Dialogue: 0,0:06:39.67,0:06:42.31,Dialogue,,0,0,0,,You’re so helpless.
 Dialogue: 0,0:06:54.48,0:06:55.86,Dialogue,,0,0,0,,It wasn’t me!
 Dialogue: 0,0:06:55.86,0:06:57.43,Dialogue,,0,0,0,,That’s not it.
-Dialogue: 0,0:06:58.67,0:07:01.02,Dialogue,,0,0,0,,Will you come to the other room?
+Dialogue: 0,0:06:58.67,0:07:01.06,Dialogue,,0,0,0,,Will you come to the other room?
 Dialogue: 0,0:07:14.25,0:07:17.78,Dialogue,,0,0,0,,It’s not that we’re quarreling with each other,
 Dialogue: 0,0:07:17.78,0:07:19.62,Dialogue,,0,0,0,,or we got into a big fight or anything.
 Dialogue: 0,0:07:19.62,0:07:21.21,Dialogue,,0,0,0,,It’s just...
@@ -217,7 +218,7 @@ Dialogue: 0,0:14:40.96,0:14:41.90,Dialogue,,0,0,0,,what would you do?
 Dialogue: 0,0:14:44.57,0:14:45.90,Dialogue,,0,0,0,,If such a thing happened,
 Dialogue: 0,0:14:51.70,0:14:53.47,Dialogue,,0,0,0,,I wouldn’t let you get away with it.
 Dialogue: 0,0:14:59.80,0:15:01.28,Dialogue,,0,0,0,,Of course.
-Dialogue: 0,0:15:03.57,0:15:05.34,Dialogue,,0,0,0,,Weird kid.
+Dialogue: 0,0:15:03.57,0:15:05.30,Dialogue,,0,0,0,,Weird kid.
 Dialogue: 0,0:15:07.97,0:15:11.00,Dialogue,,0,0,0,,You still don’t seem to be very honest with yourself.
 Dialogue: 0,0:15:11.00,0:15:12.05,Dialogue,,0,0,0,,Really?
 Dialogue: 0,0:15:12.05,0:15:15.84,Dialogue,,0,0,0,,It means you haven’t grown up at all.
@@ -233,8 +234,8 @@ Dialogue: 0,0:15:36.56,0:15:40.53,Dialogue,,0,0,0,,Oh yes. Nanoka’s flavoring 
 Dialogue: 0,0:15:40.53,0:15:41.53,Dialogue,,0,0,0,,so tell her to be careful.
 Dialogue: 0,0:15:41.53,0:15:42.46,Dialogue,,0,0,0,,Yeah, I got it.
 Dialogue: 0,0:15:42.46,0:15:46.00,Dialogue,,0,0,0,,And don’t give her too much allowance.
-Dialogue: 0,0:15:46.00,0:15:47.63,Dialogue,,0,0,0,,I wouldn’t give her any even if she begged.
-Dialogue: 0,0:15:47.63,0:15:50.10,Dialogue,,0,0,0,,And tell her not to stay up too late.
+Dialogue: 0,0:15:46.00,0:15:47.67,Dialogue,,0,0,0,,I wouldn’t give her any even if she begged.
+Dialogue: 0,0:15:47.67,0:15:50.10,Dialogue,,0,0,0,,And tell her not to stay up too late.
 Dialogue: 0,0:15:50.10,0:15:52.62,Dialogue,,0,0,0,,I got it already. I’ll be late for my train.
 Dialogue: 0,0:15:52.62,0:15:53.60,Dialogue,,0,0,0,,But...
 Dialogue: 0,0:15:53.60,0:15:55.08,Dialogue,,0,0,0,,I know.
@@ -244,7 +245,7 @@ Dialogue: 0,0:16:04.77,0:16:07.93,Dialogue,,0,0,0,,Okay, bye.
 Dialogue: 0,0:16:08.41,0:16:10.79,Dialogue,,0,0,0,,Get along with her, okay?
 Dialogue: 0,0:16:11.73,0:16:12.70,Dialogue,,0,0,0,,Yeah.
 Dialogue: 0,0:19:03.57,0:19:04.70,Dialogue,,0,0,0,,I’m back.
-Dialogue: 0,0:19:05.05,0:19:07.25,Dialogue,,0,0,0,,Welcome home, Onii-chan.
+Dialogue: 0,0:19:05.05,0:19:07.20,Dialogue,,0,0,0,,Welcome home, Onii-chan.
 Dialogue: 0,0:19:08.53,0:19:10.71,Dialogue,,0,0,0,,I’m... home.
 Dialogue: 0,0:20:00.19,0:20:01.16,Dialogue,,0,0,0,,Want some?
 Dialogue: 0,0:20:01.55,0:20:02.47,Dialogue,,0,0,0,,Okay.
@@ -267,8 +268,8 @@ Dialogue: 0,0:20:58.77,0:20:59.96,Dialogue - Italic,,0,0,0,,So...
 Dialogue: 0,0:21:01.24,0:21:03.31,Dialogue,,0,0,0,,Don’t you have to get up early tomorrow?
 Dialogue: 0,0:21:03.84,0:21:04.64,Dialogue,,0,0,0,,Yeah.
 Dialogue: 0,0:21:05.17,0:21:06.50,Dialogue,,0,0,0,,But you too, Onii-chan.
-Dialogue: 0,0:21:06.50,0:21:08.95,Dialogue,,0,0,0,,I’ll take a smoke and then go to sleep.
-Dialogue: 0,0:21:08.95,0:21:10.06,Dialogue,,0,0,0,,So go to sleep.
+Dialogue: 0,0:21:06.50,0:21:08.99,Dialogue,,0,0,0,,I’ll take a smoke and then go to sleep.
+Dialogue: 0,0:21:08.99,0:21:10.06,Dialogue,,0,0,0,,So go to sleep.
 Dialogue: 0,0:21:10.85,0:21:11.76,Dialogue,,0,0,0,,Okay.
 Dialogue: 0,0:21:12.89,0:21:14.08,Dialogue,,0,0,0,,I’ll do it.
 Dialogue: 0,0:21:16.75,0:21:18.42,Dialogue,,0,0,0,,Good night then.
@@ -289,14 +290,14 @@ Dialogue: 1,0:23:16.66,0:23:16.70,Next EP - Rotating Text,,0,0,0,,{\blur0.603\po
 Dialogue: 0,0:23:16.70,0:23:17.20,Next EP - Rotating Text,,0,0,0,,{\blur0.603\pos(430.588,487.029)\fs60.251\bord3.013\3c&HFFFEFE&\c&HFFFEFE&}{\blur0.703}CHIDORI'S JUDGEMENT
 Dialogue: 1,0:23:16.70,0:23:17.20,Next EP - Rotating Text,,0,0,0,,{\blur0.603\pos(430.588,487.029)\fs60.251\bord0\c&H00000000&\4a&HFF&}{\blur0.703}CHIDORI'S JUDGEMENT
 Dialogue: 0,0:23:17.78,0:23:21.00,Dialogue - Alt,,0,0,0,,I’m Nanoka’s father Zenzo, who isn’t any good when I’m needed most.
-Dialogue: 0,0:23:21.00,0:23:25.13,Dialogue - Alt,,0,0,0,,Unable to stand that inconsiderate part of Makei-san, I resorted to this.
+Dialogue: 0,0:23:21.00,0:23:25.17,Dialogue - Alt,,0,0,0,,Unable to stand that inconsiderate part of Makei-san, I resorted to this.
 Dialogue: 0,0:23:25.55,0:23:25.59,Next EP - Verdict,,0,0,0,,{\fs52.218\bord3.026\blur3.026\c&HFFFFFF&\pos(331.314,63.264)}Play out the machine!
 Dialogue: 1,0:23:25.55,0:23:25.59,Next EP - Verdict,,0,0,0,,{\fs52.218\bord0\blur0.502\c&H101010&\pos(331.314,63.264)}Play out the machine!
 Dialogue: 0,0:23:25.59,0:23:25.63,Next EP - Verdict,,0,0,0,,{\fs47.197\bord3.026\blur3.026\c&HFFFFFF&\pos(340.882,80.335)\sx0.5}Play out the machine!
 Dialogue: 1,0:23:25.59,0:23:25.63,Next EP - Verdict,,0,0,0,,{\fs47.197\bord0\blur0.502\c&H101010&\pos(340.882,80.335)}Play out the machine!
 Dialogue: 0,0:23:25.63,0:23:27.26,Next EP - Verdict,,0,0,0,,{\fs54.226\bord3.026\blur3.026\c&HFFFFFF&\pos(331.314,57.238)}Play out the machine!
 Dialogue: 1,0:23:25.63,0:23:27.26,Next EP - Verdict,,0,0,0,,{\fs54.226\bord0\blur0.502\c&H101010&\pos(331.314,57.238)}Play out the machine!
-Dialogue: 0,0:23:25.59,0:23:27.26,Dialogue,,0,0,0,,Excrete red ball punishment!
+Dialogue: 0,0:23:25.59,0:23:27.30,Dialogue,,0,0,0,,Excrete red ball punishment!
 Dialogue: 0,0:23:18.08,0:23:21.42,Next EP - Scrolling Text,,0,0,0,,{\move(932.94,386.61,-490.39,386.61)\q2\blur0.703\c&HFBFDF8&}Next episode:
 Dialogue: 1,0:23:18.08,0:23:21.42,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(932.94,386.61,-490.39,386.61)\q2\blur0.703\4a&HFF&}Next episode:
 Dialogue: 0,0:23:18.08,0:23:21.42,Next EP - Scrolling Text,,0,0,0,,{\move(932.94,456.9,-499.96,456.9)\q2\blur0.703\c&HFBFDF8&}Wind flower
