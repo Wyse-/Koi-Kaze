@@ -17,12 +17,14 @@ YCbCr Matrix: TV.601
 [Aegisub Project Garbage]
 Last Style Storage: Default
 Audio File: ../../../../../media/wyse/Media III/[WSE] Koi Kaze [DVD x264 478p 10bit FLAC-AC3][Dual Audio]/[WSE] Koi Kaze - 10 [DVD x264 478p 10bit FLAC-AC3][Dual Audio][45172115]_JPN_Audio01.flac
-Video File: ../../../../../media/wyse/Media III/[WSE] Koi Kaze [raws v2]/ep10.vpy.mkv
+Video File: ../../../../../media/wyse/Media III/[WSE] Koi Kaze [raws wobbly-ivtc]/ep10.vpy.mkv
+Keyframes File: Scene Changes/ep10.txt
 Video AR Mode: 4
 Video AR Value: 1.779167
 Video Zoom Percent: 2.058333
-Active Line: 20
-Video Position: 10370
+Scroll Position: 268
+Active Line: 318
+Video Position: 33842
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -97,7 +99,7 @@ Dialogue: 0,0:03:42.53,0:03:45.00,Dialogue - Italic,,0,0,0,,Saying that you love
 Dialogue: 0,0:03:46.66,0:03:48.40,Dialogue - Italic,,0,0,0,,Something’s wrong with you.
 Dialogue: 0,0:03:50.79,0:03:54.25,Dialogue - Italic,,0,0,0,,I know that it’s strange.
 Dialogue: 0,0:04:05.60,0:04:08.14,Dialogue - Italic,,0,0,0,,I got a bit ahead of myself.
-Dialogue: 0,0:04:09.20,0:04:11.68,Dialogue - Italic,,0,0,0,,“What do you think of me?”
+Dialogue: 0,0:04:09.20,0:04:11.64,Dialogue - Italic,,0,0,0,,“What do you think of me?”
 Dialogue: 0,0:04:12.40,0:04:15.16,Dialogue - Italic,,0,0,0,,I shouldn’t have asked such a shameless question.
 Dialogue: 0,0:04:18.69,0:04:23.65,Dialogue - Italic,,0,0,0,,But then, why did he...?
 Dialogue: 0,0:04:39.42,0:04:42.60,Dialogue,,0,0,0,,You’re moving? Why?
@@ -108,14 +110,14 @@ Dialogue: 0,0:04:52.73,0:04:57.80,Dialogue,,0,0,0,,You... do understand how busy
 Dialogue: 0,0:04:57.98,0:05:01.80,Dialogue,,0,0,0,,We have a Christmas party, and end of the year party, a New Year’s party,
 Dialogue: 0,0:05:01.80,0:05:04.57,Dialogue,,0,0,0,,and in just a few more weeks there’s going to be a Valentine’s party.
 Dialogue: 0,0:05:04.57,0:05:06.86,Dialogue,,0,0,0,,In other words, it’s going to be a hellish time of party planning.
-Dialogue: 0,0:05:06.86,0:05:08.57,Dialogue,,0,0,0,,And you say you’re moving tomorrow?!
+Dialogue: 0,0:05:06.86,0:05:08.53,Dialogue,,0,0,0,,And you say you’re moving tomorrow?!
 Dialogue: 0,0:05:09.20,0:05:11.20,Dialogue,,0,0,0,,A lot happened.
 Dialogue: 0,0:05:11.20,0:05:13.08,Dialogue,,0,0,0,,So I guess you’ve already found your apartment?
 Dialogue: 0,0:05:13.70,0:05:14.75,Dialogue,,0,0,0,,Not yet.
 Dialogue: 0,0:05:14.75,0:05:15.96,Dialogue,,0,0,0,,Anywhere in mind?
 Dialogue: 0,0:05:15.96,0:05:16.90,Dialogue,,0,0,0,,None.
 Dialogue: 0,0:05:17.50,0:05:18.96,Dialogue,,0,0,0,,Well, what are you going to do?
-Dialogue: 0,0:05:18.96,0:05:19.80,Dialogue,,0,0,0,,Who knows?
+Dialogue: 0,0:05:18.96,0:05:19.84,Dialogue,,0,0,0,,Who knows?
 Dialogue: 0,0:05:24.13,0:05:28.26,Dialogue,,0,0,0,,Then decide now while we’re working outside!
 Dialogue: 0,0:05:28.26,0:05:29.68,Dialogue,,0,0,0,,Hey, stop.
 Dialogue: 0,0:05:35.60,0:05:37.10,Dialogue,,0,0,0,,What do you think?
@@ -143,7 +145,7 @@ Dialogue: 0,0:06:47.80,0:06:49.72,Dialogue,,0,0,0,,Did something happen?
 Dialogue: 0,0:06:49.74,0:06:51.60,Dialogue,,0,0,0,,You’ve seemed so lifeless since this morning.
 Dialogue: 0,0:06:51.59,0:06:53.01,Dialogue,,0,0,0,,I’m fine.
 Dialogue: 0,0:06:55.93,0:06:59.27,Dialogue,,0,0,0,,It’s just that I don’t really feel like going home.
-Dialogue: 0,0:07:00.48,0:07:03.52,Dialogue,,0,0,0,,That’s not “fine” at all, then!
+Dialogue: 0,0:07:00.48,0:07:03.48,Dialogue,,0,0,0,,That’s not “fine” at all, then!
 Dialogue: 0,0:07:12.98,0:07:14.70,Dialogue,,0,0,0,,Let’s play games as much as we want!
 Dialogue: 0,0:07:15.10,0:07:16.62,Dialogue,,0,0,0,,Let’s listen to CDs as much as we want!
 Dialogue: 0,0:07:17.62,0:07:19.00,Dialogue,,0,0,0,,Let’s eat snacks as much as we want!
@@ -162,8 +164,8 @@ Dialogue: 0,0:07:53.86,0:07:56.90,Dialogue,,0,0,0,,It’s a complicated issue th
 Dialogue: 0,0:07:56.90,0:08:01.50,Dialogue,,0,0,0,,Speaking of clothing, let me borrow that blue shirt.
 Dialogue: 0,0:07:56.90,0:08:01.50,TL Note,,0,0,0,,In Japanese, the words for “complicated” and “clothing” sound similar.
 Dialogue: 0,0:08:02.42,0:08:05.80,Dialogue,,0,0,0,,You said you gave it to me and would never wear it again!
-Dialogue: 0,0:08:05.80,0:08:08.17,Dialogue,,0,0,0,,I changed my mind now. Hand it back.
-Dialogue: 0,0:08:08.17,0:08:09.20,Dialogue,,0,0,0,,That’s so cheap!
+Dialogue: 0,0:08:05.80,0:08:08.21,Dialogue,,0,0,0,,I changed my mind now. Hand it back.
+Dialogue: 0,0:08:08.21,0:08:09.20,Dialogue,,0,0,0,,That’s so cheap!
 Dialogue: 0,0:08:09.20,0:08:10.66,Dialogue,,0,0,0,,Monster! Devil!
 Dialogue: 0,0:08:16.43,0:08:17.72,Dialogue,,0,0,0,,Are you sure it’s okay?
 Dialogue: 0,0:08:17.89,0:08:20.30,Dialogue,,0,0,0,,Huh? You’re moving tomorrow, right?
@@ -212,14 +214,14 @@ Dialogue: 0,0:11:23.74,0:11:25.65,Dialogue,,0,0,0,,Was that a call from her?
 Dialogue: 0,0:11:25.65,0:11:28.15,Dialogue,,0,0,0,,A-ah, yeah, sorry.
 Dialogue: 0,0:11:28.15,0:11:31.15,Dialogue,,0,0,0,,S-she said she’s staying at a friend’s house or something.
 Dialogue: 0,0:11:32.37,0:11:34.04,Dialogue,,0,0,0,,I see.
-Dialogue: 0,0:11:42.05,0:11:42.95,Dialogue,,0,0,0,,What’s the matter?
+Dialogue: 0,0:11:42.05,0:11:42.97,Dialogue,,0,0,0,,What’s the matter?
 Dialogue: 0,0:11:43.26,0:11:44.45,Dialogue,,0,0,0,,Nothing.
 Dialogue: 0,0:11:46.60,0:11:48.55,Dialogue,,0,0,0,,Hey, I’m...
-Dialogue: 0,0:11:53.85,0:11:55.81,Dialogue,,0,0,0,,I’ll get it.
+Dialogue: 0,0:11:53.85,0:11:55.77,Dialogue,,0,0,0,,I’ll get it.
 Dialogue: 0,0:12:01.10,0:12:03.28,Dialogue,,0,0,0,,Hello, this is the Saeki’s.
 Dialogue: 0,0:12:07.03,0:12:08.25,Dialogue,,0,0,0,,Hello.
 Dialogue: 0,0:12:10.30,0:12:11.65,Dialogue,,0,0,0,,Y-yo...
-Dialogue: 0,0:12:16.96,0:12:18.15,Dialogue,,0,0,0,,What’s up?
+Dialogue: 0,0:12:16.96,0:12:18.17,Dialogue,,0,0,0,,What’s up?
 Dialogue: 0,0:12:21.30,0:12:24.75,Dialogue,,0,0,0,,I’ll be staying at Futaba-chan’s home tonight.
 Dialogue: 0,0:12:24.76,0:12:26.80,Dialogue,,0,0,0,,O-okay...
 Dialogue: 0,0:12:26.81,0:12:29.25,Dialogue,,0,0,0,,Dad just told me that.
@@ -230,15 +232,15 @@ Dialogue: 0,0:12:47.50,0:12:48.62,Dialogue,,0,0,0,,-{\i1}You know...{\i0} \N -I.
 Dialogue: 0,0:12:50.24,0:12:52.20,Dialogue,,0,0,0,,-{\i0}Sorry. {\i1}\N -What?
 Dialogue: 0,0:12:58.96,0:13:00.09,Dialogue,,0,0,0,,Onii-chan.
 Dialogue: 0,0:13:03.55,0:13:04.85,Dialogue - Italic,,0,0,0,,You’re not angry?
-Dialogue: 0,0:13:05.97,0:13:07.22,Dialogue,,0,0,0,,About what?
+Dialogue: 0,0:13:05.97,0:13:07.18,Dialogue,,0,0,0,,About what?
 Dialogue: 0,0:13:08.76,0:13:10.47,Dialogue,,0,0,0,,About me asking what you thought about me.
 Dialogue: 0,0:13:10.47,0:13:12.25,Dialogue,,0,0,0,,We’ll be eating first, then.
 Dialogue: 0,0:13:12.25,0:13:13.35,Dialogue,,0,0,0,,O-okay.
 Dialogue: 0,0:13:18.27,0:13:20.80,Dialogue,,0,0,0,,I asked you such a weird question.
 Dialogue: 0,0:13:20.80,0:13:23.35,Dialogue - Italic,,0,0,0,,Ah, you did?
 Dialogue: 0,0:13:23.36,0:13:24.95,Dialogue,,0,0,0,,Yeah.
-Dialogue: 0,0:13:24.95,0:13:30.16,Dialogue,,0,0,0,,And then you said... I was weird.
-Dialogue: 0,0:13:30.16,0:13:33.41,Dialogue,,0,0,0,,Of course I didn’t mean it.
+Dialogue: 0,0:13:24.95,0:13:30.20,Dialogue,,0,0,0,,And then you said... I was weird.
+Dialogue: 0,0:13:30.20,0:13:33.41,Dialogue,,0,0,0,,Of course I didn’t mean it.
 Dialogue: 0,0:13:33.42,0:13:34.45,Dialogue - Italic,,0,0,0,,But...
 Dialogue: 0,0:13:35.21,0:13:38.92,Dialogue,,0,0,0,,You’re not weird and I’m not angry.
 Dialogue: 0,0:13:39.21,0:13:40.67,Dialogue,,0,0,0,,Really?
@@ -261,13 +263,13 @@ Dialogue: 0,0:14:25.11,0:14:27.67,Dialogue,,0,0,0,,No, nothing.
 Dialogue: 0,0:14:28.05,0:14:29.25,Dialogue,,0,0,0,,What is it?
 Dialogue: 0,0:14:29.70,0:14:31.39,Dialogue - Italic,,0,0,0,,I said nothing.
 Dialogue: 0,0:14:31.41,0:14:32.75,Dialogue,,0,0,0,,But I want to know.
-Dialogue: 0,0:14:33.11,0:14:34.89,Dialogue - Italic,,0,0,0,,Really, it’s nothing.
+Dialogue: 0,0:14:33.11,0:14:34.93,Dialogue - Italic,,0,0,0,,Really, it’s nothing.
 Dialogue: 0,0:14:36.85,0:14:38.10,Dialogue,,0,0,0,,Onii-chan.
 Dialogue: 0,0:14:41.30,0:14:42.65,Dialogue,,0,0,0,,I...
 Dialogue: 0,0:14:43.20,0:14:45.30,Dialogue - Italic,,0,0,0,,Maybe I’ll call off staying over here tonight.
 Dialogue: 0,0:14:47.51,0:14:49.61,Dialogue,,0,0,0,,What are you talking about? I’m hanging up.
 Dialogue: 0,0:14:49.99,0:14:51.05,Dialogue - Italic,,0,0,0,,Okay.
-Dialogue: 0,0:14:51.66,0:14:52.87,Dialogue,,0,0,0,,See you.
+Dialogue: 0,0:14:51.66,0:14:52.91,Dialogue,,0,0,0,,See you.
 Dialogue: 0,0:14:53.74,0:14:54.85,Dialogue,,0,0,0,,Okay.
 Dialogue: 0,0:15:11.10,0:15:13.15,Dialogue,,0,0,0,,The food’s going to be gone!
 Dialogue: 0,0:15:16.68,0:15:18.80,Dialogue,,0,0,0,,Onee, you eat too much.
@@ -280,9 +282,9 @@ Dialogue: 0,0:15:30.86,0:15:31.91,Dialogue,,0,0,0,,Nanoka?
 Dialogue: 0,0:15:33.80,0:15:36.15,Dialogue,,0,0,0,,What’s the matter? Not hungry?
 Dialogue: 0,0:15:36.60,0:15:38.25,Dialogue,,0,0,0,,Or does the food look nasty?
 Dialogue: 0,0:15:38.25,0:15:39.65,Dialogue,,0,0,0,,What did you say?!
-Dialogue: 0,0:15:40.08,0:15:41.83,Dialogue,,0,0,0,,Of course not.
-Dialogue: 0,0:15:41.83,0:15:44.29,Dialogue,,0,0,0,,Then eat up! It’s delicious.
-Dialogue: 0,0:15:44.29,0:15:46.94,Dialogue,,0,0,0,,That’s right. Hey Futaba, grab some for her.
+Dialogue: 0,0:15:40.08,0:15:41.87,Dialogue,,0,0,0,,Of course not.
+Dialogue: 0,0:15:41.87,0:15:44.25,Dialogue,,0,0,0,,Then eat up! It’s delicious.
+Dialogue: 0,0:15:44.25,0:15:46.94,Dialogue,,0,0,0,,That’s right. Hey Futaba, grab some for her.
 Dialogue: 0,0:15:46.92,0:15:48.95,Dialogue,,0,0,0,,I know already!
 Dialogue: 0,0:16:01.85,0:16:07.85,Dialogue,,0,0,0,,But man, it’s not like I’m saying no to you living alone.
 Dialogue: 0,0:16:07.85,0:16:10.28,Dialogue,,0,0,0,,I know this came out of the blue.
@@ -301,7 +303,7 @@ Dialogue: 0,0:16:51.94,0:16:54.95,Dialogue,,0,0,0,,I just felt like coming back.
 Dialogue: 0,0:16:55.98,0:16:57.55,Dialogue,,0,0,0,,So I came back.
 Dialogue: 0,0:17:01.21,0:17:04.35,Dialogue,,0,0,0,,What do you mean you’re moving out?
 Dialogue: 0,0:17:13.97,0:17:15.05,Dialogue,,0,0,0,,Here.
-Dialogue: 0,0:17:18.26,0:17:19.39,Dialogue,,0,0,0,,Thanks.
+Dialogue: 0,0:17:18.26,0:17:19.43,Dialogue,,0,0,0,,Thanks.
 Dialogue: 0,0:17:42.37,0:17:43.54,Dialogue,,0,0,0,,Come in.
 Dialogue: 0,0:17:50.96,0:17:52.25,Dialogue,,0,0,0,,What’s the matter?
 Dialogue: 0,0:18:01.11,0:18:03.65,Dialogue,,0,0,0,,Can we... sleep together?
@@ -328,7 +330,7 @@ Dialogue: 0,0:19:21.85,0:19:24.25,Dialogue,,0,0,0,,You’re not going somewhere 
 Dialogue: 0,0:19:26.47,0:19:28.25,Dialogue,,0,0,0,,That’s not right!
 Dialogue: 0,0:19:29.73,0:19:31.05,Dialogue,,0,0,0,,We’re siblings.
 Dialogue: 0,0:19:32.44,0:19:36.25,Dialogue,,0,0,0,,Yeah, we’re siblings.
-Dialogue: 0,0:19:48.25,0:19:49.79,Dialogue,,0,0,0,,I...
+Dialogue: 0,0:19:48.25,0:19:49.83,Dialogue,,0,0,0,,I...
 Dialogue: 0,0:19:53.67,0:19:56.80,Dialogue,,0,0,0,,I always had something I wanted to say, but couldn’t.
 Dialogue: 0,0:19:58.70,0:20:02.35,Dialogue,,0,0,0,,You remember when we rode on the ferris wheel?
 Dialogue: 0,0:20:04.20,0:20:06.97,Dialogue,,0,0,0,,Even though I wasn’t really sure back then,
@@ -350,7 +352,7 @@ Dialogue: 1,0:23:16.58,0:23:16.62,Next EP - Rotating Text,,0,0,0,,{\blur0.603\po
 Dialogue: 0,0:23:16.62,0:23:17.12,Next EP - Rotating Text,,0,0,0,,{\blur0.603\pos(430.588,487.029)\fs60.251\bord3.013\3c&HFFFEFE&\c&HFFFEFE&}{\blur0.703}CHIDORI'S JUDGEMENT
 Dialogue: 1,0:23:16.62,0:23:17.12,Next EP - Rotating Text,,0,0,0,,{\blur0.603\pos(430.588,487.029)\fs60.251\bord0\c&H00000000&\4a&HFF&}{\blur0.703}CHIDORI'S JUDGEMENT
 Dialogue: 0,0:23:17.58,0:23:21.83,Dialogue - Alt,,0,0,0,,Play games, listen to music, eat snacks,
-Dialogue: 0,0:23:21.83,0:23:25.13,Dialogue - Alt,,0,0,0,,play games again and chit-chat cheerfully!
+Dialogue: 0,0:23:21.83,0:23:25.17,Dialogue - Alt,,0,0,0,,play games again and chit-chat cheerfully!
 Dialogue: 0,0:23:18.04,0:23:21.12,Next EP - Scrolling Text,,0,0,0,,{\move(942.73,386.61,-145.71,386.61)\q2\blur0.703\c&HFBFDF8&}Next episode:
 Dialogue: 1,0:23:18.04,0:23:21.12,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(942.73,386.61,-145.71,386.61)\q2\blur0.703\4a&HFF&}Next episode:
 Dialogue: 0,0:23:18.04,0:23:21.12,Next EP - Scrolling Text,,0,0,0,,{\move(942.73,456.9,-145.71,456.9)\q2\blur0.703\c&HFBFDF8&}Lingering winter
@@ -361,7 +363,7 @@ Dialogue: 0,0:23:20.92,0:23:26.21,Next EP - Scrolling Text,,0,0,0,,{\move(1058.5
 Dialogue: 1,0:23:20.92,0:23:26.21,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(1058.529,456.904,-803.765,456.904)\q2\blur0.703\4a&HFF&}He wants to see Nanoka. Koshiro cries.
 Dialogue: 1,0:23:25.09,0:23:26.88,Next EP - Verdict,,0,0,0,,{\pos(621.961,56.234)\bord1.004\blur0.803\bord0\c&H00000000&\4a&HFF&\fs36.151\iclip(448,13,748,60)\t(27,1260,\iclip(748,13,748,60))\fnGochi Hand}Master Takahashi
 Dialogue: 0,0:23:25.09,0:23:26.88,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\c&HFFFFFF&\pos(621.961,60.251)\fs36.151\\iclip(448,13,748,60)\t(27,1260,\iclip(748,13,748,60))\fnGochi Hand}Master Takahashi
-Dialogue: 0,0:23:25.13,0:23:26.88,Dialogue,,0,0,0,,Master Takahashi’s punishment!
+Dialogue: 0,0:23:25.17,0:23:26.96,Dialogue,,0,0,0,,Master Takahashi’s punishment!
 Dialogue: 0,0:00:11.63,0:00:15.81,OP - Romaji,,0,0,0,fx,{\fad(300,200)\blur0.753}{\k39}ha{\k28}ji{\k31}me{\k30}te {\k31}no {\k95}ki{\k93}mo{\k51}chi
 Dialogue: 0,0:00:16.40,0:00:20.77,OP - Romaji,,0,0,0,fx,{\fad(300,200)\blur0.753}{\k42}sho{\k29}n{\k32}bo{\k32}ri {\k26}no {\k93}mu{\k98}ne {\k47}ni
 Dialogue: 0,0:00:20.77,0:00:29.87,OP - Romaji,,0,0,0,fx,{\fad(300,200)\blur0.753}{\k94}sot{\k85}to {\k71}na{\k94}ge{\k94}ra{\k62}re{\k154}ta {\k32}hi{\k33}da{\k32}ma{\k95}ri{\k49} ne
