@@ -18,11 +18,12 @@ YCbCr Matrix: TV.601
 Last Style Storage: Default
 Audio File: ../../../../../media/wyse/Media III/[WSE] Koi Kaze [DVD x264 478p 10bit FLAC-AC3][Dual Audio]/[WSE] Koi Kaze - 12 [DVD x264 478p 10bit FLAC-AC3][Dual Audio][7B2DF783]_JPN_Audio01.flac
 Video File: ../../../../../media/wyse/Media III/[WSE] Koi Kaze [raws wobbly-ivtc]/ep12.vpy.mkv
+Keyframes File: Scene Changes/ep12.txt
 Video AR Mode: 4
 Video AR Value: 1.779167
 Video Zoom Percent: 2.058333
 Active Line: 32
-Video Position: 7894
+Video Position: 33808
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -86,7 +87,7 @@ Dialogue: 0,0:01:45.66,0:01:47.30,Dialogue,,0,0,0,,S-sure.
 Dialogue: 0,0:02:07.02,0:02:09.25,Dialogue,,0,0,0,,Is this for me?
 Dialogue: 0,0:02:09.60,0:02:10.31,Dialogue,,0,0,0,,Yeah.
 Dialogue: 0,0:02:11.00,0:02:17.29,Dialogue,,0,0,0,,I thought your diet might be unbalanced from eating out too much.
-Dialogue: 0,0:02:17.66,0:02:19.07,Dialogue,,0,0,0,,I see.
+Dialogue: 0,0:02:17.66,0:02:19.03,Dialogue,,0,0,0,,I see.
 Dialogue: 0,0:02:20.79,0:02:22.15,Dialogue,,0,0,0,,Thanks.
 Dialogue: 0,0:02:24.36,0:02:25.35,Dialogue,,0,0,0,,Sure.
 Dialogue: 0,0:02:26.30,0:02:27.44,Dialogue,,0,0,0,,I’ll...
@@ -96,7 +97,7 @@ Dialogue: 0,0:02:49.80,0:02:52.25,Dialogue,,0,0,0,,Did it bother you?
 Dialogue: 0,0:02:56.46,0:02:57.55,Dialogue,,0,0,0,,The letter...
 Dialogue: 0,0:03:02.49,0:03:04.53,Dialogue,,0,0,0,,That’s not it! This is...
 Dialogue: 0,0:03:04.54,0:03:06.95,Dialogue,,0,0,0,,I’m sorry, I broke the promise.
-Dialogue: 0,0:03:06.95,0:03:09.12,Dialogue,,0,0,0,,No, that’s not it!
+Dialogue: 0,0:03:06.95,0:03:09.08,Dialogue,,0,0,0,,No, that’s not it!
 Dialogue: 0,0:03:09.35,0:03:11.55,Dialogue,,0,0,0,,I won’t ever come again.
 Dialogue: 0,0:03:23.31,0:03:25.05,Dialogue,,0,0,0,,That’s not it.
 Dialogue: 0,0:03:27.95,0:03:32.35,Dialogue,,0,0,0,,This isn’t what you think it is.
@@ -114,7 +115,7 @@ Dialogue: 0,0:04:50.35,0:04:52.05,Dialogue,,0,0,0,,You’re the one who invited 
 Dialogue: 0,0:04:52.68,0:04:53.83,Dialogue,,0,0,0,,Oh yeah!
 Dialogue: 0,0:04:53.81,0:04:56.23,Dialogue,,0,0,0,,He’s so cute!
 Dialogue: 0,0:04:56.24,0:04:57.90,Dialogue,,0,0,0,,You have bad taste.
-Dialogue: 0,0:04:57.90,0:04:58.98,Dialogue,,0,0,0,,No way...
+Dialogue: 0,0:04:57.90,0:04:59.02,Dialogue,,0,0,0,,No way...
 Dialogue: 0,0:05:07.72,0:05:10.99,Dialogue,,0,0,0,,Damn, he’s such a handful.
 Dialogue: 0,0:05:18.06,0:05:22.55,Dialogue,,0,0,0,,Why am I the only one who has to work in this dim room?
 Dialogue: 0,0:05:22.55,0:05:24.91,Dialogue,,0,0,0,,If only Koshiro-san didn’t take the day off.
@@ -122,12 +123,12 @@ Dialogue: 0,0:05:24.95,0:05:26.75,Dialogue,,0,0,0,,If only he didn’t take the 
 Dialogue: 0,0:05:27.51,0:05:29.22,Dialogue,,0,0,0,,Th-this is...!
 Dialogue: 0,0:05:35.65,0:05:37.73,Dialogue,,0,0,0,,So close.
 Dialogue: 0,0:05:54.75,0:05:56.55,Dialogue,,0,0,0,,Yes?
-Dialogue: 0,0:06:03.05,0:06:05.05,Dialogue,,0,0,0,,Thank goodness.
+Dialogue: 0,0:06:03.05,0:06:05.09,Dialogue,,0,0,0,,Thank goodness.
 Dialogue: 0,0:06:05.50,0:06:07.60,Dialogue,,0,0,0,,Thanks.
 Dialogue: 0,0:06:08.15,0:06:10.30,Dialogue,,0,0,0,,You want something to drink?
 Dialogue: 0,0:06:10.30,0:06:12.15,Dialogue,,0,0,0,,W-wait a second.
 Dialogue: 0,0:06:14.69,0:06:15.43,Dialogue,,0,0,0,,Ah...
-Dialogue: 0,0:06:23.44,0:06:25.30,Dialogue,,0,0,0,,I’ll go buy something!
+Dialogue: 0,0:06:23.48,0:06:25.30,Dialogue,,0,0,0,,I’ll go buy something!
 Dialogue: 0,0:06:25.28,0:06:26.65,Dialogue,,0,0,0,,J-just wait a little bit.
 Dialogue: 0,0:06:30.00,0:06:31.07,Dialogue,,0,0,0,,Onii-chan?
 Dialogue: 0,0:06:32.35,0:06:34.20,Dialogue,,0,0,0,,Do you want me to make you something?
@@ -138,8 +139,8 @@ Dialogue: 0,0:06:41.21,0:06:42.25,Dialogue,,0,0,0,,But...
 Dialogue: 0,0:06:42.25,0:06:43.40,Dialogue,,0,0,0,,Let’s go together!
 Dialogue: 0,0:06:45.30,0:06:46.95,Dialogue,,0,0,0,,I said don’t move!
 Dialogue: 0,0:06:47.82,0:06:50.41,Dialogue,,0,0,0,,I’ll go buy it, so write it down for me.
-Dialogue: 0,0:06:52.90,0:06:54.45,Dialogue,,0,0,0,,What do you want to eat?
-Dialogue: 0,0:06:54.45,0:06:56.85,Dialogue,,0,0,0,,Anything’s fine.
+Dialogue: 0,0:06:52.90,0:06:54.47,Dialogue,,0,0,0,,What do you want to eat?
+Dialogue: 0,0:06:54.47,0:06:56.85,Dialogue,,0,0,0,,Anything’s fine.
 Dialogue: 0,0:06:59.94,0:07:01.69,Dialogue,,0,0,0,,How about seasoned rice?
 Dialogue: 0,0:07:02.11,0:07:06.55,Dialogue,,0,0,0,,Uh... Yeah, but...
 Dialogue: 0,0:07:07.50,0:07:09.45,Dialogue,,0,0,0,,I don’t have a rice cooker...
@@ -195,7 +196,7 @@ Dialogue: 0,0:12:18.00,0:12:21.34,Dialogue,,0,0,0,,I won’t lose to anyone over
 Dialogue: 0,0:12:24.59,0:12:27.35,Dialogue,,0,0,0,,Siblings can’t fall in love with each other.
 Dialogue: 0,0:12:27.35,0:12:29.40,Dialogue,,0,0,0,,They can’t even get married!
 Dialogue: 0,0:12:29.40,0:12:30.80,Dialogue,,0,0,0,,Do you understand that?
-Dialogue: 0,0:12:31.26,0:12:32.27,Dialogue,,0,0,0,,It’s just temporary.
+Dialogue: 0,0:12:31.26,0:12:32.31,Dialogue,,0,0,0,,It’s just temporary.
 Dialogue: 0,0:12:32.64,0:12:36.50,Dialogue,,0,0,0,,You’re not able to see straight because there’s too much blood rushing to your head.
 Dialogue: 0,0:12:36.50,0:12:39.82,Dialogue,,0,0,0,,You’re probably only able to see your brother who is right in front of you.
 Dialogue: 0,0:12:39.82,0:12:42.53,Dialogue,,0,0,0,,But, I don’t think such things will last very long.
@@ -233,19 +234,19 @@ Dialogue: 0,0:15:12.39,0:15:16.72,Dialogue,,0,0,0,,But if that’s the case, the
 Dialogue: 0,0:15:17.26,0:15:18.50,Dialogue,,0,0,0,,I know...
 Dialogue: 0,0:15:18.50,0:15:20.06,Dialogue,,0,0,0,,You obviously don’t!
 Dialogue: 0,0:15:20.08,0:15:21.73,Dialogue,,0,0,0,,It’s fine already.
-Dialogue: 0,0:15:21.73,0:15:23.94,Dialogue,,0,0,0,,Wait! What’s fine?
-Dialogue: 0,0:15:23.94,0:15:25.30,Dialogue,,0,0,0,,It’s fine.
+Dialogue: 0,0:15:21.73,0:15:23.98,Dialogue,,0,0,0,,Wait! What’s fine?
+Dialogue: 0,0:15:23.98,0:15:25.30,Dialogue,,0,0,0,,It’s fine.
 Dialogue: 0,0:15:25.30,0:15:27.60,Dialogue,,0,0,0,,Have you thought about the future?
-Dialogue: 0,0:15:27.60,0:15:29.32,Dialogue,,0,0,0,,It doesn’t matter to you!
-Dialogue: 0,0:15:29.32,0:15:30.82,Dialogue,,0,0,0,,Whether it matters is not the point!
-Dialogue: 0,0:15:30.82,0:15:34.53,Dialogue,,0,0,0,,How can I leave someone alone who is about to become knee-deep in misery?!
+Dialogue: 0,0:15:27.60,0:15:29.36,Dialogue,,0,0,0,,It doesn’t matter to you!
+Dialogue: 0,0:15:29.36,0:15:30.82,Dialogue,,0,0,0,,Whether it matters is not the point!
+Dialogue: 0,0:15:30.82,0:15:34.49,Dialogue,,0,0,0,,How can I leave someone alone who is about to become knee-deep in misery?!
 Dialogue: 0,0:15:39.62,0:15:43.61,Dialogue,,0,0,0,,Don’t judge who is miserable and who is not.
 Dialogue: 0,0:15:54.75,0:15:59.02,Dialogue,,0,0,0,,I won’t ever involve myself in your affairs again.
 Dialogue: 0,0:15:59.02,0:16:01.64,Dialogue,,0,0,0,,I’m sorry I was so nosy from the beginning.
 Dialogue: 0,0:16:07.22,0:16:09.10,Dialogue - Italic,,0,0,0,,This is how it is.
-Dialogue: 0,0:16:10.49,0:16:13.80,Dialogue - Italic,,0,0,0,,Even though she seriously faced me like that,
+Dialogue: 0,0:16:10.53,0:16:13.80,Dialogue - Italic,,0,0,0,,Even though she seriously faced me like that,
 Dialogue: 0,0:16:14.44,0:16:17.49,Dialogue - Italic,,0,0,0,,I’ve finally lost her.
-Dialogue: 0,0:16:21.83,0:16:23.33,Dialogue,,0,0,0,,Welcome home!
+Dialogue: 0,0:16:21.83,0:16:23.37,Dialogue,,0,0,0,,Welcome home!
 Dialogue: 0,0:16:25.70,0:16:27.80,Dialogue - Italic,,0,0,0,,I can still go back.
 Dialogue: 0,0:16:29.20,0:16:30.38,Dialogue,,0,0,0,,I’m home.
 Dialogue: 0,0:16:35.31,0:16:39.10,Dialogue - Italic,,0,0,0,,If she really is precious to me,
@@ -323,10 +324,10 @@ Dialogue: 0,0:23:18.78,0:23:24.85,Next EP - Scrolling Text,,0,0,0,,{\move(1377.4
 Dialogue: 1,0:23:18.78,0:23:24.85,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(1377.45,386.61,-628.37,386.61)\q2\blur0.703\4a&HFF&}Koshiro took the wrong path. He lost so many things because of it and is greatly distressed.
 Dialogue: 0,0:23:19.41,0:23:25.63,Next EP - Scrolling Text,,0,0,0,,{\move(1377.45,456.9,-670.23,456.9)\q2\blur0.703\c&HFBFDF8&}But, he has genuine feelings for her, for the first time in his life. Koshiro is happy.
 Dialogue: 1,0:23:19.41,0:23:25.63,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(1377.45,456.9,-670.23,456.9)\q2\blur0.703\4a&HFF&}But, he has genuine feelings for her, for the first time in his life. Koshiro is happy.
-Dialogue: 0,0:23:25.49,0:23:27.17,Dialogue,,0,0,0,,Punishment: No role in the next episode!
+Dialogue: 0,0:23:25.49,0:23:27.21,Dialogue,,0,0,0,,Punishment: No role in the next episode!
 Dialogue: 1,0:23:26.34,0:23:27.17,Next EP - Verdict,,0,0,0,,{\pos(621.961,46.192)\bord1.004\blur0.502\bord0\c&H00000000&\4a&HFF&\fs36.151\fad(234,0)}Goodbye pervert
 Dialogue: 0,0:23:26.34,0:23:27.17,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\c&HFFFFFF&\pos(621.961,50.209)\fs36.151\fad(234,0)}Goodbye pervert
-Dialogue: 0,0:23:27.17,0:23:28.63,Dialogue,,0,0,0,,Oh, please at least one scene.
+Dialogue: 0,0:23:27.21,0:23:28.67,Dialogue,,0,0,0,,Oh, please at least one scene.
 Dialogue: 1,0:21:48.66,0:21:53.54,ED - Romaji,,0,0,0,,{\fad(300,200)\blur0.753}{\k108}ya{\k38}sa{\k33}shi{\k38}i {\k33}yu{\k17}me {\k117}ga
 Dialogue: 1,0:21:54.00,0:21:59.50,ED - Romaji,,0,0,0,,{\fad(300,200)\blur0.753}{\k17}so{\k13}t{\k46}to {\k58}{\k21}mu{\k21}ne {\k29}no {\k33}{\k38}ha{\k33}ru {\k33}wo {\k17}yo{\k96}bi
 Dialogue: 1,0:21:59.88,0:22:04.88,ED - Romaji,,0,0,0,,{\fad(300,200)\blur0.753}{\k96}ya{\k33}sa{\k33}shi{\k29}i {\k33}ka{\k38}ze {\k71}ni {\k75}na{\k54}ri
