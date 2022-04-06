@@ -18,12 +18,13 @@ YCbCr Matrix: TV.601
 Last Style Storage: Default
 Audio File: ../../../../../media/wyse/Media III/[WSE] Koi Kaze [DVD x264 478p 10bit FLAC-AC3][Dual Audio]/[WSE] Koi Kaze - 11 [DVD x264 478p 10bit FLAC-AC3][Dual Audio][C23C1133]_JPN_Audio01.flac
 Video File: ../../../../../media/wyse/Media III/[WSE] Koi Kaze [raws wobbly-ivtc]/ep11.vpy.mkv
+Keyframes File: Scene Changes/ep11.txt
 Video AR Mode: 4
 Video AR Value: 1.779167
 Video Zoom Percent: 2.058333
-Scroll Position: 143
-Active Line: 171
-Video Position: 3437
+Scroll Position: 261
+Active Line: 281
+Video Position: 16009
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -220,7 +221,7 @@ Dialogue: 0,0:06:44.09,0:06:46.59,Signs,,0,0,0,,{\fs35\frz345.3\c&H404445&\fax0.
 Dialogue: 0,0:06:44.09,0:06:46.59,Signs,,0,0,0,,{\fs28\c&H404445&\fax0.25\blur0.7\frz347.4\pos(380.779,365.688)}Shopping Mall
 Dialogue: 0,0:01:53.00,0:01:57.95,Dialogue - Italic,,0,0,0,,We celebrated the new year, then January passed and it became February.
 Dialogue: 0,0:02:02.95,0:02:09.75,Dialogue - Italic,,0,0,0,,The world keeps moving on so fast that I can’t believe I left my house only a month and a half ago.
-Dialogue: 0,0:02:11.40,0:02:14.86,Dialogue - Italic,,0,0,0,,During that time, I tried to concentrate only on my work.
+Dialogue: 0,0:02:11.36,0:02:14.86,Dialogue - Italic,,0,0,0,,During that time, I tried to concentrate only on my work.
 Dialogue: 0,0:02:15.14,0:02:18.86,Dialogue,,0,0,0,,The most popular is probably Italian.
 Dialogue: 0,0:02:18.86,0:02:20.55,Dialogue,,0,0,0,,For Chinese food, the turntable...
 Dialogue: 0,0:02:20.55,0:02:23.62,Dialogue - Italic,,0,0,0,,In reality, work was the only thing I had.
@@ -257,7 +258,7 @@ Dialogue: 0,0:05:18.00,0:05:19.42,Dialogue,,0,0,0,,Don’t worry.
 Dialogue: 0,0:05:23.20,0:05:25.66,Dialogue,,0,0,0,,You don’t have to hide it!
 Dialogue: 0,0:05:27.40,0:05:30.10,Dialogue,,0,0,0,,If there’s something making you suffer or troubling you,
 Dialogue: 0,0:05:30.11,0:05:32.14,Dialogue,,0,0,0,,you know you can tell me anything!
-Dialogue: 0,0:05:32.14,0:05:35.85,Dialogue,,0,0,0,,If there’s anything I can do, I’ll help you!
+Dialogue: 0,0:05:32.14,0:05:35.89,Dialogue,,0,0,0,,If there’s anything I can do, I’ll help you!
 Dialogue: 0,0:05:38.40,0:05:42.15,Dialogue,,0,0,0,,I don’t think you’d understand, Futaba-chan.
 Dialogue: 0,0:05:42.15,0:05:42.90,Dialogue,,0,0,0,,Probably...
 Dialogue: 0,0:05:46.00,0:05:47.41,Dialogue,,0,0,0,,I’m sorry.
@@ -275,10 +276,10 @@ Dialogue: 0,0:06:29.41,0:06:31.37,Dialogue,,0,0,0,,so I’ll be able to sleep in
 Dialogue: 0,0:06:31.37,0:06:32.55,Dialogue,,0,0,0,,Jeez.
 Dialogue: 0,0:06:34.10,0:06:38.00,Dialogue - Italic,,0,0,0,,That’s why I went to the front of Onii-chan’s office a couple of times and..
 Dialogue: 0,0:06:50.60,0:06:53.75,Dialogue - Italic,,0,0,0,,I also tried going to his house.
-Dialogue: 0,0:07:05.06,0:07:06.36,Dialogue - Italic,,0,0,0,,But...
+Dialogue: 0,0:07:05.06,0:07:06.32,Dialogue - Italic,,0,0,0,,But...
 Dialogue: 0,0:07:07.60,0:07:08.65,Dialogue - Italic,,0,0,0,,Let’s promise.
-Dialogue: 0,0:07:09.38,0:07:11.53,Dialogue - Italic,,0,0,0,,Today is the last day.
-Dialogue: 0,0:07:11.53,0:07:13.35,Dialogue - Italic,,0,0,0,,We won’t meet again.
+Dialogue: 0,0:07:09.38,0:07:11.57,Dialogue - Italic,,0,0,0,,Today is the last day.
+Dialogue: 0,0:07:11.57,0:07:13.35,Dialogue - Italic,,0,0,0,,We won’t meet again.
 Dialogue: 0,0:07:16.50,0:07:18.70,Dialogue - Italic,,0,0,0,,I remember my brother’s words and
 Dialogue: 0,0:07:18.71,0:07:20.83,Dialogue - Italic,,0,0,0,,I restrained myself.
 Dialogue: 0,0:07:26.54,0:07:27.85,Dialogue,,0,0,0,,Thank you for the food.
@@ -294,13 +295,13 @@ Dialogue: 0,0:08:24.21,0:08:27.05,Dialogue,,0,0,0,,I slept in a weird position, 
 Dialogue: 0,0:08:27.48,0:08:29.65,Dialogue,,0,0,0,,You slept over again?
 Dialogue: 0,0:08:29.65,0:08:32.07,Dialogue,,0,0,0,,Poor Koshiro-san.
 Dialogue: 0,0:08:32.90,0:08:34.07,Dialogue,,0,0,0,,Are you picking a fight with me?
-Dialogue: 0,0:08:34.07,0:08:38.62,Dialogue,,0,0,0,,If you keep on being his constant guest, he won’t have any time to bring in girls!
+Dialogue: 0,0:08:34.07,0:08:38.58,Dialogue,,0,0,0,,If you keep on being his constant guest, he won’t have any time to bring in girls!
 Dialogue: 0,0:08:39.00,0:08:41.75,Dialogue,,0,0,0,,I’m a girl too!
 Dialogue: 0,0:08:41.75,0:08:44.35,Dialogue,,0,0,0,,Is that your reason for being his constant guest?
 Dialogue: 0,0:08:44.35,0:08:46.21,Dialogue,,0,0,0,,What do you think?
 Dialogue: 0,0:08:47.00,0:08:48.63,Dialogue,,0,0,0,,I wonder why?
 Dialogue: 0,0:08:48.63,0:08:49.34,Dialogue,,0,0,0,,What?
-Dialogue: 0,0:08:49.91,0:08:53.55,Dialogue,,0,0,0,,Why he suddenly started living on his own.
+Dialogue: 0,0:08:49.91,0:08:53.59,Dialogue,,0,0,0,,Why he suddenly started living on his own.
 Dialogue: 0,0:08:54.10,0:08:56.55,Dialogue,,0,0,0,,I’m sure he has his reasons.
 Dialogue: 0,0:08:56.55,0:08:58.10,Dialogue,,0,0,0,,Like within his house.
 Dialogue: 0,0:08:59.20,0:08:59.81,Dialogue,,0,0,0,,Maybe he...!
@@ -325,10 +326,10 @@ Dialogue: 0,0:10:14.46,0:10:18.01,Dialogue,,0,0,0,,Because I haven’t heard any
 Dialogue: 0,0:10:19.00,0:10:21.90,Dialogue,,0,0,0,,I was talking with Odagiri today too, but...
 Dialogue: 0,0:10:22.47,0:10:25.47,Dialogue,,0,0,0,,Ah, wait a second, I’m going to go buy some cigarettes.
 Dialogue: 0,0:10:25.85,0:10:27.49,Dialogue,,0,0,0,,What’s she going on about?
-Dialogue: 0,0:11:00.97,0:11:03.26,Dialogue,,0,0,0,,Hey, isn’t that Nanoka-ch--
-Dialogue: 0,0:11:03.26,0:11:04.69,Dialogue,,0,0,0,,Ouch!
+Dialogue: 0,0:11:01.01,0:11:03.22,Dialogue,,0,0,0,,Hey, isn’t that Nanoka-ch-
+Dialogue: 0,0:11:03.22,0:11:04.69,Dialogue,,0,0,0,,Ouch!
 Dialogue: 0,0:11:04.68,0:11:05.72,Dialogue,,0,0,0,,What’s wrong with you?
-Dialogue: 0,0:11:46.20,0:11:48.06,Dialogue,,0,0,0,,Let go of me!
+Dialogue: 0,0:11:46.20,0:11:48.10,Dialogue,,0,0,0,,Let go of me!
 Dialogue: 0,0:11:50.64,0:11:53.45,Dialogue,,0,0,0,,What’s wrong? What are you thinking?!
 Dialogue: 0,0:11:53.45,0:11:56.82,Dialogue,,0,0,0,,My hair got all messed up!
 Dialogue: 0,0:11:56.82,0:11:59.82,Dialogue,,0,0,0,,Hey! Why don’t you say something?
@@ -342,8 +343,8 @@ Dialogue: 0,0:12:44.54,0:12:49.10,Dialogue,,0,0,0,,Forget it. I guess there are 
 Dialogue: 0,0:12:49.08,0:12:50.94,Dialogue,,0,0,0,,Odagiri was worried about you too.
 Dialogue: 0,0:12:50.95,0:12:54.62,Dialogue,,0,0,0,,He was saying maybe you sniffed your sister’s underwear.
 Dialogue: 0,0:12:54.62,0:12:56.96,Dialogue,,0,0,0,,Or you surprised her while she was asleep.
-Dialogue: 0,0:12:56.96,0:13:00.09,Dialogue,,0,0,0,,He says those things so seriously, too.
-Dialogue: 0,0:13:00.09,0:13:02.55,Dialogue,,0,0,0,,I didn’t do anything!
+Dialogue: 0,0:12:56.96,0:13:00.13,Dialogue,,0,0,0,,He says those things so seriously, too.
+Dialogue: 0,0:13:00.13,0:13:02.55,Dialogue,,0,0,0,,I didn’t do anything!
 Dialogue: 0,0:13:02.90,0:13:04.72,Dialogue,,0,0,0,,Before those things happen...
 Dialogue: 0,0:13:07.00,0:13:08.72,Dialogue,,0,0,0,,Why are you getting all serious?
 Dialogue: 0,0:13:13.20,0:13:14.75,Dialogue,,0,0,0,,I was just kidding!
@@ -378,22 +379,22 @@ Dialogue: 0,0:15:14.50,0:15:16.35,Dialogue - Italic,,0,0,0,,But I...
 Dialogue: 0,0:16:04.80,0:16:07.65,Dialogue - Italic,,0,0,0,,It was the first time I felt this way.
 Dialogue: 0,0:16:13.05,0:16:17.05,Dialogue - Italic,,0,0,0,,I... still love you, Onii-chan.
 Dialogue: 0,0:16:24.40,0:16:30.05,Dialogue - Italic,,0,0,0,,That’s why I want to see you, Onii-chan.
-Dialogue: 0,0:16:51.24,0:16:53.20,Dialogue,,0,0,0,,Good morning.
+Dialogue: 0,0:16:51.24,0:16:53.15,Dialogue,,0,0,0,,Good morning.
 Dialogue: 0,0:16:54.50,0:16:55.41,Dialogue,,0,0,0,,Where’s Koshiro?
 Dialogue: 0,0:16:55.70,0:16:58.71,Dialogue,,0,0,0,,He said he’s staying home because he’s not feeling well.
 Dialogue: 0,0:16:58.70,0:17:02.00,Dialogue,,0,0,0,,He called in with a voice sounding like he was about to die.
 Dialogue: 0,0:17:02.00,0:17:03.41,Dialogue,,0,0,0,,Poor condition, huh?
 Dialogue: 0,0:17:03.41,0:17:05.42,Dialogue,,0,0,0,,Do you know something?
-Dialogue: 0,0:17:05.42,0:17:08.96,Dialogue,,0,0,0,,Yeah, it’s really terrible.
-Dialogue: 0,0:17:08.96,0:17:11.80,Dialogue,,0,0,0,,So that’s why you didn’t stay over last night?
+Dialogue: 0,0:17:05.42,0:17:08.92,Dialogue,,0,0,0,,Yeah, it’s really terrible.
+Dialogue: 0,0:17:08.92,0:17:11.80,Dialogue,,0,0,0,,So that’s why you didn’t stay over last night?
 Dialogue: 0,0:17:12.80,0:17:14.05,Dialogue,,0,0,0,,It might not get better.
 Dialogue: 0,0:17:14.05,0:17:16.26,Dialogue,,0,0,0,,What? That bad?
 Dialogue: 0,0:17:17.70,0:17:19.55,Dialogue,,0,0,0,,That coward.
-Dialogue: 0,0:17:22.06,0:17:26.05,Dialogue - Italic,,0,0,0,,Unfortunately, I was not able to get a comment from Kanako-san.
+Dialogue: 0,0:17:22.02,0:17:26.05,Dialogue - Italic,,0,0,0,,Unfortunately, I was not able to get a comment from Kanako-san.
 Dialogue: 0,0:17:26.05,0:17:28.52,Dialogue - Italic,,0,0,0,,So that means it’s not for sure yet.
 Dialogue: 0,0:17:28.52,0:17:30.65,Dialogue - Italic,,0,0,0,,Yes, that is true, but...
 Dialogue: 0,0:17:30.65,0:17:32.65,Dialogue - Italic,,0,0,0,,So it means she was just looking at a female magazine.
-Dialogue: 0,0:17:32.65,0:17:33.03,Dialogue - Italic,,0,0,0,,Yes.
+Dialogue: 0,0:17:32.65,0:17:33.07,Dialogue - Italic,,0,0,0,,Yes.
 Dialogue: 0,0:17:33.15,0:17:36.50,Dialogue - Italic,,0,0,0,,Then she isn’t really able to give you any comment.
 Dialogue: 0,0:17:36.49,0:17:39.49,Dialogue - Italic,,0,0,0,,But I believe she could have given a little bit.
 Dialogue: 0,0:17:39.50,0:17:44.00,Dialogue - Italic,,0,0,0,,A little bit? But if it really is marriage, then at this time of year it’s a bit odd.
@@ -412,7 +413,7 @@ Dialogue: 0,0:19:13.17,0:19:16.17,Dialogue,,0,0,0,,U-umm...
 Dialogue: 0,0:19:57.70,0:20:01.25,Dialogue - Italic,,0,0,0,,What am I expecting?
 Dialogue: 0,0:20:06.80,0:20:08.35,Dialogue - Italic,,0,0,0,,I can’t even make up my mind.
 Dialogue: 0,0:20:09.00,0:20:10.60,Dialogue - Italic,,0,0,0,,But can’t give up.
-Dialogue: 0,0:20:16.80,0:20:21.07,Dialogue - Italic,,0,0,0,,Running away from her and running away from work.
+Dialogue: 0,0:20:16.80,0:20:21.11,Dialogue - Italic,,0,0,0,,Running away from her and running away from work.
 Dialogue: 0,0:20:21.85,0:20:24.70,Dialogue - Italic,,0,0,0,,I can’t even control my own emotions.
 Dialogue: 0,0:20:25.50,0:20:27.95,Dialogue - Italic,,0,0,0,,I look pitiful.
 Dialogue: 0,0:20:30.89,0:20:34.08,Dialogue - Italic,,0,0,0,,What am I?
@@ -433,7 +434,7 @@ Dialogue: 0,0:23:16.62,0:23:17.16,Next EP - Rotating Text,,0,0,0,,{\blur0.603\po
 Dialogue: 1,0:23:16.62,0:23:17.16,Next EP - Rotating Text,,0,0,0,,{\blur0.603\pos(430.588,487.029)\fs60.251\bord0\c&H00000000&\4a&HFF&}{\blur0.703}CHIDORI'S JUDGEMENT
 Dialogue: 0,0:23:17.54,0:23:19.33,Dialogue,,0,0,0,,I’m sorry I broke the promise.
 Dialogue: 0,0:23:19.33,0:23:21.68,Dialogue,,0,0,0,,I was worried if my brother was doing well.
-Dialogue: 0,0:23:21.68,0:23:22.92,Dialogue,,0,0,0,,Punishment of fighting spirit!
+Dialogue: 0,0:23:21.68,0:23:22.88,Dialogue,,0,0,0,,Punishment of fighting spirit!
 Dialogue: 1,0:23:21.92,0:23:21.96,Next EP - Verdict,,0,0,0,,{\bord1.004\blur0.803\bord0\c&H00000000&\4a&HFF&\fs36.151\fnGochi Hand\pos(564.377,417.852)}Punishment of fighting spirit
 Dialogue: 0,0:23:21.92,0:23:21.96,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\c&H1319DB&\fs36.854\\fnGochi Hand\pos(565.573,418.857)}Punishment of fighting spirit
 Dialogue: 1,0:23:21.96,0:23:22.00,Next EP - Verdict,,0,0,0,,{\bord1.004\blur0.803\bord0\c&H00000000&\4a&HFF&\fs33.138\fnGochi Hand\pos(551.201,400.686)}Punishment of fighting spirit
