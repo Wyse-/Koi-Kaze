@@ -23,9 +23,9 @@ Keyframes File: Scene Changes/ep2.txt
 Video AR Mode: 4
 Video AR Value: 1.779167
 Video Zoom Percent: 2.058333
-Scroll Position: 471
-Active Line: 489
-Video Position: 29878
+Scroll Position: 742
+Active Line: 790
+Video Position: 33846
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -835,6 +835,6 @@ Dialogue: 1,0:23:19.25,0:23:25.63,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(
 Dialogue: 0,0:23:17.60,0:23:21.00,Dialogue - Alt,,0,0,0,,I do not intend to abuse my\Nposition as a marriage consultant!
 Dialogue: 0,0:23:21.00,0:23:26.96,Dialogue - Alt,,0,0,0,,I just want to honestly and legally get to know some high school girls!
 Dialogue: 0,0:23:27.40,0:23:28.51,Dialogue,,0,0,0,,Hide his glasses as punishment!
-Dialogue: 1,0:23:27.13,0:23:28.47,Next EP - Verdict,,0,0,0,,{\pos(671,41.172)\bord1.004\blur0.502\bord0\c&H00000000&\4a&HFF&\fs36.151\iclip(579,-1,797,45)\t(27,900,\iclip(797,-1,797,45))}Hide his glasses
-Dialogue: 0,0:23:27.13,0:23:28.47,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\c&HFFFFFF&\pos(673.392,45.188)\fs36.151\\iclip(579,-1,797,45)\t(27,900,\iclip(797,-1,797,45))}Hide his glasses
+Dialogue: 1,0:23:27.17,0:23:28.51,Next EP - Verdict,,0,0,0,,{\pos(671,41.172)\bord1.004\blur0.502\bord0\c&H00000000&\4a&HFF&\fs36.151\iclip(579,-1,797,45)\t(27,900,\iclip(797,-1,797,45))}Hide his glasses
+Dialogue: 0,0:23:27.17,0:23:28.51,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\c&HFFFFFF&\pos(673.392,45.188)\fs36.151\\iclip(579,-1,797,45)\t(27,900,\iclip(797,-1,797,45))}Hide his glasses
 Dialogue: 0,0:23:29.10,0:23:30.01,Dialogue,,0,0,0,,Glasses!

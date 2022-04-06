@@ -22,8 +22,9 @@ Keyframes File: Scene Changes/ep12.txt
 Video AR Mode: 4
 Video AR Value: 1.779167
 Video Zoom Percent: 2.058333
-Active Line: 32
-Video Position: 33808
+Scroll Position: 249
+Active Line: 282
+Video Position: 33740
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -325,8 +326,8 @@ Dialogue: 1,0:23:18.78,0:23:24.85,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(
 Dialogue: 0,0:23:19.41,0:23:25.63,Next EP - Scrolling Text,,0,0,0,,{\move(1377.45,456.9,-670.23,456.9)\q2\blur0.703\c&HFBFDF8&}But, he has genuine feelings for her, for the first time in his life. Koshiro is happy.
 Dialogue: 1,0:23:19.41,0:23:25.63,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(1377.45,456.9,-670.23,456.9)\q2\blur0.703\4a&HFF&}But, he has genuine feelings for her, for the first time in his life. Koshiro is happy.
 Dialogue: 0,0:23:25.49,0:23:27.21,Dialogue,,0,0,0,,Punishment: No role in the next episode!
-Dialogue: 1,0:23:26.34,0:23:27.17,Next EP - Verdict,,0,0,0,,{\pos(621.961,46.192)\bord1.004\blur0.502\bord0\c&H00000000&\4a&HFF&\fs36.151\fad(234,0)}Goodbye pervert
-Dialogue: 0,0:23:26.34,0:23:27.17,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\c&HFFFFFF&\pos(621.961,50.209)\fs36.151\fad(234,0)}Goodbye pervert
+Dialogue: 1,0:23:26.42,0:23:27.21,Next EP - Verdict,,0,0,0,,{\pos(621.961,46.192)\bord1.004\blur0.502\bord0\c&H00000000&\4a&HFF&\fs36.151\fad(194,0)}Goodbye pervert
+Dialogue: 0,0:23:26.42,0:23:27.21,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\c&HFFFFFF&\pos(621.961,50.209)\fs36.151\fad(194,0)}Goodbye pervert
 Dialogue: 0,0:23:27.21,0:23:28.67,Dialogue,,0,0,0,,Oh, please at least one scene.
 Dialogue: 1,0:21:48.66,0:21:53.54,ED - Romaji,,0,0,0,,{\fad(300,200)\blur0.753}{\k108}ya{\k38}sa{\k33}shi{\k38}i {\k33}yu{\k17}me {\k117}ga
 Dialogue: 1,0:21:54.00,0:21:59.50,ED - Romaji,,0,0,0,,{\fad(300,200)\blur0.753}{\k17}so{\k13}t{\k46}to {\k58}{\k21}mu{\k21}ne {\k29}no {\k33}{\k38}ha{\k33}ru {\k33}wo {\k17}yo{\k96}bi

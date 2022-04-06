@@ -22,9 +22,9 @@ Keyframes File: Scene Changes/ep10.txt
 Video AR Mode: 4
 Video AR Value: 1.779167
 Video Zoom Percent: 2.058333
-Scroll Position: 268
+Scroll Position: 307
 Active Line: 318
-Video Position: 33842
+Video Position: 33912
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -361,8 +361,8 @@ Dialogue: 0,0:23:18.41,0:23:24.46,Next EP - Scrolling Text,,0,0,0,,{\move(1390.8
 Dialogue: 1,0:23:18.41,0:23:24.46,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(1390.82,386.61,-734.61,386.61)\q2\blur0.703\4a&HFF&}Koshiro decides to live right, but his feelings for Nanoka keep getting stronger.
 Dialogue: 0,0:23:20.92,0:23:26.21,Next EP - Scrolling Text,,0,0,0,,{\move(1058.529,456.904,-803.765,456.904)\q2\blur0.703\c&HFBFDF8&}He wants to see Nanoka. Koshiro cries.
 Dialogue: 1,0:23:20.92,0:23:26.21,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(1058.529,456.904,-803.765,456.904)\q2\blur0.703\4a&HFF&}He wants to see Nanoka. Koshiro cries.
-Dialogue: 1,0:23:25.09,0:23:26.88,Next EP - Verdict,,0,0,0,,{\pos(621.961,56.234)\bord1.004\blur0.803\bord0\c&H00000000&\4a&HFF&\fs36.151\iclip(448,13,748,60)\t(27,1260,\iclip(748,13,748,60))\fnGochi Hand}Master Takahashi
-Dialogue: 0,0:23:25.09,0:23:26.88,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\c&HFFFFFF&\pos(621.961,60.251)\fs36.151\\iclip(448,13,748,60)\t(27,1260,\iclip(748,13,748,60))\fnGochi Hand}Master Takahashi
+Dialogue: 1,0:23:25.17,0:23:26.96,Next EP - Verdict,,0,0,0,,{\pos(621.961,56.234)\bord1.004\blur0.803\bord0\c&H00000000&\4a&HFF&\fs36.151\iclip(448,13,748,60)\t(27,1260,\iclip(748,13,748,60))\fnGochi Hand}Master Takahashi
+Dialogue: 0,0:23:25.17,0:23:26.96,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\c&HFFFFFF&\pos(621.961,60.251)\fs36.151\\iclip(448,13,748,60)\t(27,1260,\iclip(748,13,748,60))\fnGochi Hand}Master Takahashi
 Dialogue: 0,0:23:25.17,0:23:26.96,Dialogue,,0,0,0,,Master Takahashi’s punishment!
 Dialogue: 0,0:00:11.63,0:00:15.81,OP - Romaji,,0,0,0,fx,{\fad(300,200)\blur0.753}{\k39}ha{\k28}ji{\k31}me{\k30}te {\k31}no {\k95}ki{\k93}mo{\k51}chi
 Dialogue: 0,0:00:16.40,0:00:20.77,OP - Romaji,,0,0,0,fx,{\fad(300,200)\blur0.753}{\k42}sho{\k29}n{\k32}bo{\k32}ri {\k26}no {\k93}mu{\k98}ne {\k47}ni

@@ -22,9 +22,9 @@ Keyframes File: Scene Changes/ep11.txt
 Video AR Mode: 4
 Video AR Value: 1.779167
 Video Zoom Percent: 2.058333
-Scroll Position: 261
-Active Line: 281
-Video Position: 16009
+Scroll Position: 382
+Active Line: 394
+Video Position: 33726
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -439,8 +439,8 @@ Dialogue: 1,0:23:21.92,0:23:21.96,Next EP - Verdict,,0,0,0,,{\bord1.004\blur0.80
 Dialogue: 0,0:23:21.92,0:23:21.96,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\c&H1319DB&\fs36.854\\fnGochi Hand\pos(565.573,418.857)}Punishment of fighting spirit
 Dialogue: 1,0:23:21.96,0:23:22.00,Next EP - Verdict,,0,0,0,,{\bord1.004\blur0.803\bord0\c&H00000000&\4a&HFF&\fs33.138\fnGochi Hand\pos(551.201,400.686)}Punishment of fighting spirit
 Dialogue: 0,0:23:21.96,0:23:22.00,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\c&H1319DB&\fs33.841\\fnGochi Hand\pos(552.397,401.691)}Punishment of fighting spirit
-Dialogue: 1,0:23:22.00,0:23:22.92,Next EP - Verdict,,0,0,0,,{\bord1.004\blur0.803\bord0\c&H00000000&\4a&HFF&\fs38.159\fnGochi Hand\pos(571.697,426.11)}Punishment of fighting spirit
-Dialogue: 0,0:23:22.00,0:23:22.92,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\c&H1319DB&\fs38.862\\fnGochi Hand\pos(572.893,427.116)}Punishment of fighting spirit
+Dialogue: 1,0:23:22.00,0:23:22.88,Next EP - Verdict,,0,0,0,,{\bord1.004\blur0.803\bord0\c&H00000000&\4a&HFF&\fs38.159\fnGochi Hand\pos(571.697,426.11)}Punishment of fighting spirit
+Dialogue: 0,0:23:22.00,0:23:22.88,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\c&H1319DB&\fs38.862\\fnGochi Hand\pos(572.893,427.116)}Punishment of fighting spirit
 Dialogue: 0,0:23:23.20,0:23:25.08,Dialogue - Alt,,0,0,0,,Brother, how are you doing?
 Dialogue: 0,0:23:25.09,0:23:26.96,Dialogue - Alt,,0,0,0,,If you have energy, you can do anything!
 Dialogue: 0,0:23:26.96,0:23:28.89,Dialogue - Alt,,0,0,0,,1, 2, 3, go!

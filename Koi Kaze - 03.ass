@@ -25,8 +25,8 @@ Video AR Mode: 4
 Video AR Value: 1.779167
 Video Zoom Percent: 2.058333
 Scroll Position: 303
-Active Line: 323
-Video Position: 33868
+Active Line: 327
+Video Position: 33876
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -374,8 +374,8 @@ Dialogue: 0,0:23:21.50,0:23:23.70,Dialogue - Alt,,0,0,0,,I ogled her underwear t
 Dialogue: 0,0:23:23.97,0:23:25.09,Dialogue - Alt,,0,0,0,,I can’t help it!
 Dialogue: 0,0:23:25.09,0:23:26.88,Dialogue - Alt,,0,0,0,,It’s only natural if you’re a man!
 Dialogue: 0,0:23:26.88,0:23:28.47,Dialogue,,0,0,0,,Innocent. No punishment.
-Dialogue: 1,0:23:27.01,0:23:28.42,Next EP - Verdict,,0,0,0,,{\an5\bord0\blur0.502\fs48.201\pos(655.451,30.126)\iclip(560,5,748,47)\t(-50,730,\iclip(748,5,748,47))}Innocent
-Dialogue: 0,0:23:27.01,0:23:28.42,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\c&HFFFFFF&\pos(655.451,24.1)\fsp1.305\an5\fs48.201\iclip(560,5,748,47)\t(-50,730,\iclip(748,5,748,47))}Innocent
+Dialogue: 1,0:23:27.09,0:23:28.47,Next EP - Verdict,,0,0,0,,{\an5\bord0\blur0.502\fs48.201\pos(655.451,30.126)\iclip(560,5,748,47)\t(-50,700,\iclip(748,5,748,47))}Innocent
+Dialogue: 0,0:23:27.09,0:23:28.47,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\c&HFFFFFF&\pos(655.451,24.1)\fsp1.305\an5\fs48.201\iclip(560,5,748,47)\t(-50,700,\iclip(748,5,748,47))}Innocent
 Dialogue: 0,0:23:17.58,0:23:20.92,Next EP - Scrolling Text,,0,0,0,,{\move(942.51,386.611,-71.765,386.611)\q2\blur0.703\c&HFBFDF8&}Next episode:
 Dialogue: 1,0:23:17.58,0:23:20.92,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(942.51,386.611,-71.765,386.611)\q2\blur0.703\4a&HFF&}Next episode:
 Dialogue: 0,0:23:17.58,0:23:20.92,Next EP - Scrolling Text,,0,0,0,,{\move(942.51,456.904,-71.765,456.904)\q2\blur0.703\c&HFBFDF8&}Evening Shower

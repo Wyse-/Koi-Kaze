@@ -23,8 +23,9 @@ Keyframes File: Scene Changes/ep8.txt
 Video AR Mode: 4
 Video AR Value: 1.779167
 Video Zoom Percent: 2.058333
-Active Line: 1
-Video Position: 33714
+Scroll Position: 236
+Active Line: 246
+Video Position: 33854
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -291,12 +292,12 @@ Dialogue: 0,0:23:16.70,0:23:17.20,Next EP - Rotating Text,,0,0,0,,{\blur0.603\po
 Dialogue: 1,0:23:16.70,0:23:17.20,Next EP - Rotating Text,,0,0,0,,{\blur0.603\pos(430.588,487.029)\fs60.251\bord0\c&H00000000&\4a&HFF&}{\blur0.703}CHIDORI'S JUDGEMENT
 Dialogue: 0,0:23:17.78,0:23:21.00,Dialogue - Alt,,0,0,0,,I’m Nanoka’s father Zenzo, who isn’t any good when I’m needed most.
 Dialogue: 0,0:23:21.00,0:23:25.17,Dialogue - Alt,,0,0,0,,Unable to stand that inconsiderate part of Makei-san, I resorted to this.
-Dialogue: 0,0:23:25.55,0:23:25.59,Next EP - Verdict,,0,0,0,,{\fs52.218\bord3.026\blur3.026\c&HFFFFFF&\pos(331.314,63.264)}Play out the machine!
-Dialogue: 1,0:23:25.55,0:23:25.59,Next EP - Verdict,,0,0,0,,{\fs52.218\bord0\blur0.502\c&H101010&\pos(331.314,63.264)}Play out the machine!
-Dialogue: 0,0:23:25.59,0:23:25.63,Next EP - Verdict,,0,0,0,,{\fs47.197\bord3.026\blur3.026\c&HFFFFFF&\pos(340.882,80.335)\sx0.5}Play out the machine!
-Dialogue: 1,0:23:25.59,0:23:25.63,Next EP - Verdict,,0,0,0,,{\fs47.197\bord0\blur0.502\c&H101010&\pos(340.882,80.335)}Play out the machine!
-Dialogue: 0,0:23:25.63,0:23:27.26,Next EP - Verdict,,0,0,0,,{\fs54.226\bord3.026\blur3.026\c&HFFFFFF&\pos(331.314,57.238)}Play out the machine!
-Dialogue: 1,0:23:25.63,0:23:27.26,Next EP - Verdict,,0,0,0,,{\fs54.226\bord0\blur0.502\c&H101010&\pos(331.314,57.238)}Play out the machine!
+Dialogue: 0,0:23:25.59,0:23:25.63,Next EP - Verdict,,0,0,0,,{\fs52.218\bord3.026\blur3.026\c&HFFFFFF&\pos(331.314,63.264)}Play out the machine!
+Dialogue: 1,0:23:25.59,0:23:25.63,Next EP - Verdict,,0,0,0,,{\fs52.218\bord0\blur0.502\c&H101010&\pos(331.314,63.264)}Play out the machine!
+Dialogue: 0,0:23:25.63,0:23:25.67,Next EP - Verdict,,0,0,0,,{\fs47.197\bord3.026\blur3.026\c&HFFFFFF&\pos(340.882,80.335)\sx0.5}Play out the machine!
+Dialogue: 1,0:23:25.63,0:23:25.67,Next EP - Verdict,,0,0,0,,{\fs47.197\bord0\blur0.502\c&H101010&\pos(340.882,80.335)}Play out the machine!
+Dialogue: 0,0:23:25.67,0:23:27.30,Next EP - Verdict,,0,0,0,,{\fs54.226\bord3.026\blur3.026\c&HFFFFFF&\pos(331.314,57.238)}Play out the machine!
+Dialogue: 1,0:23:25.67,0:23:27.30,Next EP - Verdict,,0,0,0,,{\fs54.226\bord0\blur0.502\c&H101010&\pos(331.314,57.238)}Play out the machine!
 Dialogue: 0,0:23:25.59,0:23:27.30,Dialogue,,0,0,0,,Excrete red ball punishment!
 Dialogue: 0,0:23:18.08,0:23:21.42,Next EP - Scrolling Text,,0,0,0,,{\move(932.94,386.61,-490.39,386.61)\q2\blur0.703\c&HFBFDF8&}Next episode:
 Dialogue: 1,0:23:18.08,0:23:21.42,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(932.94,386.61,-490.39,386.61)\q2\blur0.703\4a&HFF&}Next episode:

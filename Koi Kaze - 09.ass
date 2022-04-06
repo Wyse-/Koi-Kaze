@@ -22,9 +22,9 @@ Keyframes File: Scene Changes/ep9.txt
 Video AR Mode: 4
 Video AR Value: 1.779167
 Video Zoom Percent: 2.058333
-Scroll Position: 122
-Active Line: 173
-Video Position: 16544
+Scroll Position: 287
+Active Line: 301
+Video Position: 33892
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -346,8 +346,8 @@ Dialogue: 0,0:23:18.37,0:23:21.36,Dialogue - Alt,,0,0,0,,Dearest, it seems that 
 Dialogue: 0,0:23:21.36,0:23:25.20,Dialogue - Alt,,0,0,0,,I don’t care about Koshiro, but I definitely want to at least secure my daughter’s heart.
 Dialogue: 0,0:23:25.21,0:23:27.55,Dialogue - Alt,,0,0,0,,That is what I, Zenzo, am feeling in the Autumn of my 51st year.
 Dialogue: 0,0:23:27.55,0:23:29.05,Dialogue,,0,0,0,,Punishment of the Human Rocket!
-Dialogue: 1,0:23:27.01,0:23:29.05,Next EP - Verdict,,0,0,0,,{\pos(621.961,46.192)\bord1.004\blur0.502\bord0\c&H00000000&\4a&HFF&\fs42.176\iclip(389,3,748,50)\t(27,1850,\iclip(748,3,748,50))}Human Rocket
-Dialogue: 0,0:23:27.01,0:23:29.05,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\c&HFFFFFF&\pos(621.961,50.209)\fs42.176\\iclip(389,3,748,50)\t(27,1850,\iclip(748,3,748,50))}Human Rocket
+Dialogue: 1,0:23:27.05,0:23:29.05,Next EP - Verdict,,0,0,0,,{\pos(621.961,46.192)\bord1.004\blur0.502\bord0\c&H00000000&\4a&HFF&\fs42.176\iclip(389,3,748,50)\t(27,1850,\iclip(748,3,748,50))}Human Rocket
+Dialogue: 0,0:23:27.05,0:23:29.05,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\c&HFFFFFF&\pos(621.961,50.209)\fs42.176\\iclip(389,3,748,50)\t(27,1850,\iclip(748,3,748,50))}Human Rocket
 Dialogue: 0,0:23:19.21,0:23:22.38,Next EP - Scrolling Text,,0,0,0,,{\move(924.35,386.61,-76.76,386.61)\q2\blur0.703\c&HFBFDF8&}Next episode:
 Dialogue: 1,0:23:19.21,0:23:22.38,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(924.35,386.61,-76.76,386.61)\q2\blur0.703\4a&HFF&}Next episode:
 Dialogue: 0,0:23:19.21,0:23:22.38,Next EP - Scrolling Text,,0,0,0,,{\move(924.35,456.9,-76.76,456.9)\q2\blur0.703\c&HFBFDF8&}Wintry moon

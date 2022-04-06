@@ -25,8 +25,8 @@ Video AR Mode: 4
 Video AR Value: 1.779167
 Video Zoom Percent: 2.058333
 Scroll Position: 310
-Active Line: 331
-Video Position: 33606
+Active Line: 357
+Video Position: 33879
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -379,32 +379,32 @@ Dialogue: 0,0:23:24.63,0:23:26.21,Dialogue - Alt,,0,0,0,,I’m sorry I sniffed t
 Dialogue: 0,0:23:26.21,0:23:27.17,Dialogue,,0,0,0,,Innocent?!
 Dialogue: 0,0:23:27.17,0:23:28.51,Dialogue,,0,0,0,,Like hell!
 Dialogue: 0,0:23:28.51,0:23:30.01,Dialogue,,0,0,0,,I’m so sorry.
-Dialogue: 1,0:23:26.34,0:23:27.42,Next EP - Verdict,,0,0,0,,{\an5\bord0\blur0.502\fs48.201\pos(625.549,25.105)\iclip(526,0,718,42)\t(-50,487,\iclip(718,0,718,42))}Innocent
-Dialogue: 0,0:23:26.34,0:23:27.42,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\c&HFFFFFF&\pos(625.549,19.079)\fsp1.305\an5\fs48.201\iclip(526,0,718,42)\t(-50,487,\iclip(718,0,718,42))}Innocent
-Dialogue: 1,0:23:27.42,0:23:27.46,Next EP - Verdict,,0,0,0,,{\an5\bord0\blur0.502\fs48.201\pos(625.549,25.105)}Innocent
-Dialogue: 1,0:23:27.46,0:23:27.51,Next EP - Verdict,,0,0,0,,{\an5\bord0\blur0.502\fs48.201\pos(625.549,126.356)}Innocent
-Dialogue: 1,0:23:27.51,0:23:27.55,Next EP - Verdict,,0,0,0,,{\an5\bord0\blur0.502\fs48.201\pos(625.549,225.55)}Innocent
-Dialogue: 1,0:23:27.55,0:23:27.59,Next EP - Verdict,,0,0,0,,{\an5\bord0\blur0.502\fs48.201\pos(625.549,326.782)}Innocent
-Dialogue: 0,0:23:27.42,0:23:27.46,Next EP - Verdict,,0,0,0,,{\bord0\blur0.502\c&HFFFFFF&\pos(625.549,19.079)\fsp1.305\an5\fs48.201}Innocent
-Dialogue: 0,0:23:27.46,0:23:27.51,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\c&HFFFFFF&\pos(625.549,120.331)\fsp1.305\an5\fs48.201}Innocent
-Dialogue: 0,0:23:27.51,0:23:27.55,Next EP - Verdict,,0,0,0,,{\bord0\blur0.502\c&HFFFFFF&\pos(625.549,219.525)\fsp1.305\an5\fs48.201}Innocent
-Dialogue: 0,0:23:27.55,0:23:27.59,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\c&HFFFFFF&\pos(625.549,320.756)\fsp1.305\an5\fs48.201}Innocent
-Dialogue: 1,0:23:27.59,0:23:27.63,Next EP - Verdict,,0,0,0,,{\an5\bord0\blur0.502\fs48.201\pos(625.549,426.196)}Innocent
-Dialogue: 0,0:23:27.59,0:23:27.63,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\c&HFFFFFF&\pos(625.549,420.171)\fsp1.305\an5\fs48.201}Innocent
-Dialogue: 1,0:23:27.55,0:23:27.59,Next EP - Verdict,,0,0,0,,{\bord0\blur0.502\fs55.23\an5\pos(486.062,-197.242)}Like Hell
-Dialogue: 1,0:23:27.59,0:23:27.63,Next EP - Verdict,,0,0,0,,{\bord0\blur0.502\fs55.23\an5\pos(486.062,-123.173)}Like Hell
-Dialogue: 1,0:23:27.63,0:23:27.67,Next EP - Verdict,,0,0,0,,{\bord0\blur0.502\fs55.23\an5\pos(486.062,-50.621)}Like Hell
-Dialogue: 1,0:23:27.67,0:23:27.71,Next EP - Verdict,,0,0,0,,{\bord0\blur0.502\fs55.23\an5\pos(486.062,23.438)}Like Hell
-Dialogue: 1,0:23:27.71,0:23:27.76,Next EP - Verdict,,0,0,0,,{\bord0\blur0.502\fs55.23\fscy90\an5\pos(486.062,110.762)}Like Hell
-Dialogue: 1,0:23:27.76,0:23:27.80,Next EP - Verdict,,0,0,0,,{\bord0\blur0.502\fs55.23\an5\fscy110\pos(486.062,21.55)}Like Hell
-Dialogue: 0,0:23:27.55,0:23:27.59,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\fsp0.502\fs55.23\an4\c&HFFFFFF&\pos(407.863,-203.267)}Like Hell
-Dialogue: 0,0:23:27.59,0:23:27.63,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\fsp0.502\fs55.23\an4\c&HFFFFFF&\pos(407.863,-129.198)}Like Hell
-Dialogue: 0,0:23:27.63,0:23:27.67,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\fsp0.502\fs55.23\an4\c&HFFFFFF&\pos(407.863,-56.646)}Like Hell
-Dialogue: 0,0:23:27.67,0:23:27.71,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\fsp0.502\fs55.23\an4\c&HFFFFFF&\pos(391.118,28.117)}Like Hell
-Dialogue: 0,0:23:27.71,0:23:27.76,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\fsp0.502\fscy90\fs55.23\an4\c&HFFFFFF&\pos(391.118,115.481)}Like Hell
-Dialogue: 0,0:23:27.76,0:23:27.80,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\fsp0.502\fs55.23\fscy110\an4\c&HFFFFFF&\pos(391.118,26.109)}Like Hell
-Dialogue: 1,0:23:27.80,0:23:28.47,Next EP - Verdict,,0,0,0,,{\bord0\blur0.502\fs55.23\an5\pos(486.062,39.163)}Like Hell
-Dialogue: 0,0:23:27.80,0:23:28.47,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\fsp0.502\fs55.23\an4\c&HFFFFFF&\pos(391.118,44.184)}Like Hell
+Dialogue: 1,0:23:26.42,0:23:27.46,Next EP - Verdict,,0,0,0,,{\an5\bord0\blur0.502\fs48.201\pos(625.549,25.105)\iclip(526,0,718,42)\t(-50,486,\iclip(718,0,718,42))}Innocent
+Dialogue: 0,0:23:26.42,0:23:27.46,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\c&HFFFFFF&\pos(625.549,19.079)\fsp1.305\an5\fs48.201\iclip(526,0,718,42)\t(-50,486,\iclip(718,0,718,42))}Innocent
+Dialogue: 1,0:23:27.46,0:23:27.51,Next EP - Verdict,,0,0,0,,{\an5\bord0\blur0.502\fs48.201\pos(625.549,25.105)}Innocent
+Dialogue: 1,0:23:27.51,0:23:27.55,Next EP - Verdict,,0,0,0,,{\an5\bord0\blur0.502\fs48.201\pos(625.549,126.356)}Innocent
+Dialogue: 1,0:23:27.55,0:23:27.59,Next EP - Verdict,,0,0,0,,{\an5\bord0\blur0.502\fs48.201\pos(625.549,225.55)}Innocent
+Dialogue: 1,0:23:27.59,0:23:27.63,Next EP - Verdict,,0,0,0,,{\an5\bord0\blur0.502\fs48.201\pos(625.549,326.782)}Innocent
+Dialogue: 0,0:23:27.46,0:23:27.51,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\c&HFFFFFF&\pos(625.549,19.079)\fsp1.305\an5\fs48.201}Innocent
+Dialogue: 0,0:23:27.51,0:23:27.55,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\c&HFFFFFF&\pos(625.549,120.331)\fsp1.305\an5\fs48.201}Innocent
+Dialogue: 0,0:23:27.55,0:23:27.59,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\c&HFFFFFF&\pos(625.549,219.525)\fsp1.305\an5\fs48.201}Innocent
+Dialogue: 0,0:23:27.59,0:23:27.63,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\c&HFFFFFF&\pos(625.549,320.756)\fsp1.305\an5\fs48.201}Innocent
+Dialogue: 1,0:23:27.63,0:23:27.67,Next EP - Verdict,,0,0,0,,{\an5\bord0\blur0.502\fs48.201\pos(625.549,426.196)}Innocent
+Dialogue: 0,0:23:27.63,0:23:27.67,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\c&HFFFFFF&\pos(625.549,420.171)\fsp1.305\an5\fs48.201}Innocent
+Dialogue: 1,0:23:27.59,0:23:27.63,Next EP - Verdict,,0,0,0,,{\bord0\blur0.502\fs55.23\an5\pos(486.062,-197.242)}Like Hell
+Dialogue: 1,0:23:27.63,0:23:27.67,Next EP - Verdict,,0,0,0,,{\bord0\blur0.502\fs55.23\an5\pos(486.062,-123.173)}Like Hell
+Dialogue: 1,0:23:27.67,0:23:27.71,Next EP - Verdict,,0,0,0,,{\bord0\blur0.502\fs55.23\an5\pos(486.062,-50.621)}Like Hell
+Dialogue: 1,0:23:27.71,0:23:27.76,Next EP - Verdict,,0,0,0,,{\bord0\blur0.502\fs55.23\an5\pos(486.062,23.438)}Like Hell
+Dialogue: 1,0:23:27.76,0:23:27.80,Next EP - Verdict,,0,0,0,,{\bord0\blur0.502\fs55.23\fscy90\an5\pos(486.062,110.762)}Like Hell
+Dialogue: 1,0:23:27.80,0:23:27.84,Next EP - Verdict,,0,0,0,,{\bord0\blur0.502\fs55.23\an5\fscy110\pos(486.062,21.55)}Like Hell
+Dialogue: 0,0:23:27.59,0:23:27.63,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\fsp0.502\fs55.23\an4\c&HFFFFFF&\pos(407.863,-203.267)}Like Hell
+Dialogue: 0,0:23:27.63,0:23:27.67,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\fsp0.502\fs55.23\an4\c&HFFFFFF&\pos(407.863,-129.198)}Like Hell
+Dialogue: 0,0:23:27.67,0:23:27.71,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\fsp0.502\fs55.23\an4\c&HFFFFFF&\pos(407.863,-56.646)}Like Hell
+Dialogue: 0,0:23:27.71,0:23:27.76,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\fsp0.502\fs55.23\an4\c&HFFFFFF&\pos(391.118,28.117)}Like Hell
+Dialogue: 0,0:23:27.76,0:23:27.80,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\fsp0.502\fscy90\fs55.23\an4\c&HFFFFFF&\pos(391.118,115.481)}Like Hell
+Dialogue: 0,0:23:27.80,0:23:27.84,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\fsp0.502\fs55.23\fscy110\an4\c&HFFFFFF&\pos(391.118,26.109)}Like Hell
+Dialogue: 1,0:23:27.84,0:23:28.51,Next EP - Verdict,,0,0,0,,{\bord0\blur0.502\fs55.23\an5\pos(486.062,39.163)}Like Hell
+Dialogue: 0,0:23:27.84,0:23:28.51,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\fsp0.502\fs55.23\an4\c&HFFFFFF&\pos(391.118,44.184)}Like Hell
 Dialogue: 0,0:23:17.54,0:23:20.87,Next EP - Scrolling Text,,0,0,0,,{\move(948.49,386.611,-74.157,386.611)\q2\blur0.703\c&HFBFDF8&}Next episode:
 Dialogue: 1,0:23:17.54,0:23:20.87,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(948.49,386.611,-74.157,386.611)\q2\blur0.703\4a&HFF&}Next episode:
 Dialogue: 0,0:23:17.54,0:23:20.87,Next EP - Scrolling Text,,0,0,0,,{\move(948.49,456.904,-74.157,456.904)\q2\blur0.703\c&HFBFDF8&}Distant Thunder
