@@ -18,12 +18,13 @@ Video Aspect Ratio: c1.78151
 Last Style Storage: Default
 Audio File: ../../../../../media/wyse/Media III/[WSE] Koi Kaze [DVD x264 478p 10bit FLAC-AC3][Dual Audio]/[WSE] Koi Kaze - 06 [DVD x264 478p 10bit FLAC-AC3][Dual Audio][D3AB7C0A]_JPN_Audio01.flac
 Video File: ../../../../../media/wyse/Media III/[WSE] Koi Kaze [raws wobbly-ivtc]/ep6.vpy.mkv
+Keyframes File: Scene Changes/ep6.txt
 Video AR Mode: 4
 Video AR Value: 1.779167
 Video Zoom Percent: 2.058333
-Scroll Position: 41
-Active Line: 53
-Video Position: 2681
+Scroll Position: 296
+Active Line: 323
+Video Position: 33933
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -156,8 +157,8 @@ Dialogue: 1,0:17:06.54,0:17:08.54,Signs - Lamp - Main,,0,0,0,,{\pos(441.353,93.3
 Dialogue: 1,0:17:06.54,0:17:08.54,Signs - Lamp - Main,,0,0,0,,{\pos(456.902,103.431)\fs36.151\frz327.9\blur0.803}{43}a
 Dialogue: 0,0:01:52.17,0:01:54.31,Dialogue - Italic,,0,0,0,,We still have some eggs left,
 Dialogue: 0,0:01:54.31,0:01:56.49,Dialogue - Italic,,0,0,0,,so all we need is crab meat and {\i0}mitsuba{\i1}.{https://en.wikipedia.org/wiki/Cryptotaenia}
-Dialogue: 0,0:01:57.80,0:02:03.06,Dialogue - Italic,,0,0,0,,Yesterday I made rice with green peas for dinner, thinking it would be good dish for autumn,
-Dialogue: 0,0:02:03.06,0:02:07.11,Dialogue - Italic,,0,0,0,,but Onii-chan said it tasted like a school cafeteria lunch.
+Dialogue: 0,0:01:57.80,0:02:03.01,Dialogue - Italic,,0,0,0,,Yesterday I made rice with green peas for dinner, thinking it would be good dish for autumn,
+Dialogue: 0,0:02:03.01,0:02:07.11,Dialogue - Italic,,0,0,0,,but Onii-chan said it tasted like a school cafeteria lunch.
 Dialogue: 0,0:02:07.11,0:02:09.67,Dialogue - Italic,,0,0,0,,That’s why I’m going to make crab porridge for dinner tonight.
 Dialogue: 0,0:02:11.34,0:02:13.78,Dialogue - Italic,,0,0,0,,I’ve never seen it served in a cafeteria.
 Dialogue: 0,0:02:14.48,0:02:16.78,Dialogue - Italic,,0,0,0,,I’m sure Dad will enjoy it,
@@ -174,7 +175,7 @@ Dialogue: 0,0:02:56.06,0:02:57.16,Dialogue,,0,0,0,,Oh, thank you.
 Dialogue: 0,0:02:59.71,0:03:03.24,Dialogue,,0,0,0,,Even though we’re the executive committee, we have to do the janitorial work.
 Dialogue: 0,0:03:03.92,0:03:05.03,Dialogue,,0,0,0,,Yeah.
 Dialogue: 0,0:03:05.03,0:03:06.54,Dialogue,,0,0,0,,Doesn’t it suck?
-Dialogue: 0,0:03:08.30,0:03:09.96,Dialogue,,0,0,0,,It’s not that bad.
+Dialogue: 0,0:03:08.30,0:03:10.00,Dialogue,,0,0,0,,It’s not that bad.
 Dialogue: 0,0:03:14.66,0:03:17.55,Dialogue,,0,0,0,,Miyauchi, your class is doing a haunted house, right?
 Dialogue: 0,0:03:17.55,0:03:19.47,Dialogue,,0,0,0,,That’s what Tamaki-chan said.
 Dialogue: 0,0:03:19.47,0:03:20.38,Dialogue,,0,0,0,,Yeah.
@@ -199,7 +200,7 @@ Dialogue: 0,0:04:40.80,0:04:44.95,Dialogue,,0,0,0,,Is going to the movies or sho
 Dialogue: 0,0:04:45.91,0:04:48.97,Dialogue,,0,0,0,,It’s true that I like my brother, but...
 Dialogue: 0,0:04:50.61,0:04:52.52,Dialogue,,0,0,0,,Don’t let the rumors get to you.
 Dialogue: 0,0:04:58.51,0:05:00.23,Dialogue,,0,0,0,,Don’t worry about them.
-Dialogue: 0,0:05:05.96,0:05:12.25,Dialogue - Italic,,0,0,0,,And... As for me, nothing has changed.
+Dialogue: 0,0:05:05.96,0:05:12.29,Dialogue - Italic,,0,0,0,,And... As for me, nothing has changed.
 Dialogue: 0,0:05:13.96,0:05:18.29,Dialogue - Italic,,0,0,0,,The feelings of guilt gradually went away over time.
 Dialogue: 0,0:05:18.66,0:05:20.63,Dialogue - Italic,,0,0,0,,Again I...
 Dialogue: 0,0:05:41.61,0:05:44.15,Dialogue - Italic,,0,0,0,,I’m not trying to shift the blame or anything,
@@ -220,8 +221,8 @@ Dialogue: 0,0:06:35.11,0:06:40.88,Dialogue,,0,0,0,,But isn’t it kind of pathet
 Dialogue: 0,0:06:41.21,0:06:43.22,Dialogue,,0,0,0,,Do you know if she has a boyfriend?
 Dialogue: 0,0:06:43.22,0:06:46.61,Dialogue,,0,0,0,,She’s so childish there’s no way she would.
 Dialogue: 0,0:06:46.61,0:06:49.88,Dialogue,,0,0,0,,Maybe you’re the only one who thinks that.
-Dialogue: 0,0:06:52.74,0:06:54.68,Dialogue - Italic,,0,0,0,,A boyfriend...
-Dialogue: 0,0:07:30.44,0:07:33.55,Dialogue - Italic,,0,0,0,,“Onii-chan”...
+Dialogue: 0,0:06:52.74,0:06:54.64,Dialogue - Italic,,0,0,0,,A boyfriend...
+Dialogue: 0,0:07:30.44,0:07:33.51,Dialogue - Italic,,0,0,0,,“Onii-chan”...
 Dialogue: 0,0:07:39.36,0:07:41.66,Dialogue - Italic,,0,0,0,,She won’t cling on to me for much longer.{idfk}
 Dialogue: 0,0:07:45.63,0:07:46.76,Dialogue,,0,0,0,,Oh, really?
 Dialogue: 0,0:07:48.19,0:07:53.76,Dialogue,,0,0,0,,Yeah. That’s why my brother’s last name is Saeki, but mine is Kohinata.
@@ -370,7 +371,7 @@ Dialogue: 1,0:23:16.70,0:23:17.20,Next EP - Rotating Text,,0,0,0,,{\blur0.603\po
 Dialogue: 0,0:23:17.41,0:23:18.58,Dialogue - Alt,,0,0,0,,I’m so sorry.
 Dialogue: 0,0:23:18.58,0:23:21.46,Dialogue - Alt,,0,0,0,,I couldn’t touch her because she was always with her big boyfriend.
 Dialogue: 0,0:23:21.46,0:23:24.59,Dialogue - Alt,,0,0,0,,She was alone today, so I tried to console her...
-Dialogue: 0,0:23:24.59,0:23:26.00,Dialogue - Alt,,0,0,0,,And I touched her!{something tells me he isn’t talking about his dakimakura =O}{but maybe he is!}
+Dialogue: 0,0:23:24.59,0:23:26.05,Dialogue - Alt,,0,0,0,,And I touched her!{something tells me he isn’t talking about his dakimakura =O}{but maybe he is!}
 Dialogue: 0,0:23:18.16,0:23:21.51,Next EP - Scrolling Text,,0,0,0,,{\move(943.49,386.61,-75.57,386.61)\q2\blur0.703\c&HFBFDF8&}Next episode:
 Dialogue: 1,0:23:18.16,0:23:21.51,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(943.49,386.61,-75.57,386.61)\q2\blur0.703\4a&HFF&}Next episode:
 Dialogue: 0,0:23:18.16,0:23:21.51,Next EP - Scrolling Text,,0,0,0,,{\move(943.49,456.9,-75.57,456.9)\q2\blur0.703\c&HFBFDF8&}First Storm
@@ -379,7 +380,7 @@ Dialogue: 0,0:23:18.91,0:23:25.46,Next EP - Scrolling Text,,0,0,0,,{\move(1171.9
 Dialogue: 1,0:23:18.91,0:23:25.46,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(1171.94,386.61,-812.35,386.61)\q2\blur0.703\4a&HFF&}Nanoka gets a love letter. Koshiro is extremely worried...
 Dialogue: 0,0:23:19.44,0:23:26.13,Next EP - Scrolling Text,,0,0,0,,{\move(1439.86,456.9,-600.65,456.9)\q2\blur0.703\c&HFBFDF8&}but pretends he's not affected, and gives her some mature advice. Koshiro walks with heavy feet.
 Dialogue: 1,0:23:19.44,0:23:26.13,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(1439.86,456.9,-600.65,456.9)\q2\blur0.703\4a&HFF&}but pretends he's not affected, and gives her some mature advice. Koshiro walks with heavy feet.
-Dialogue: 0,0:23:26.00,0:23:27.67,Dialogue,,0,0,0,,Go to hell!
+Dialogue: 0,0:23:26.05,0:23:27.76,Dialogue,,0,0,0,,Go to hell!
 Dialogue: 0,0:00:11.63,0:00:15.81,OP - Romaji,,0,0,0,fx,{\fad(300,200)\blur0.753}{\k39}ha{\k28}ji{\k31}me{\k30}te {\k31}no {\k95}ki{\k93}mo{\k51}chi
 Dialogue: 0,0:00:16.40,0:00:20.77,OP - Romaji,,0,0,0,fx,{\fad(300,200)\blur0.753}{\k42}sho{\k29}n{\k32}bo{\k32}ri {\k26}no {\k93}mu{\k98}ne {\k47}ni
 Dialogue: 0,0:00:20.77,0:00:29.87,OP - Romaji,,0,0,0,fx,{\fad(300,200)\blur0.753}{\k94}sot{\k85}to {\k71}na{\k94}ge{\k94}ra{\k62}re{\k154}ta {\k32}hi{\k33}da{\k32}ma{\k95}ri{\k49} ne
