@@ -19,10 +19,11 @@ Original Translation: minidora07 (TLC - SkyPilot)
 [Aegisub Project Garbage]
 Last Style Storage: Default
 Audio File: ../../../../../media/wyse/Media III/[WSE] Koi Kaze [DVD x264 478p 10bit FLAC-AC3][Dual Audio]/[WSE] Koi Kaze - 04 [DVD x264 478p 10bit FLAC-AC3][Dual Audio][9D6F95F1]_JPN_Audio01.flac
-Video File: ../../../../../media/wyse/Media III/[WSE] Koi Kaze [raws v2]/ep4.vpy.mkv
+Video File: ../../../../../media/wyse/Media III/[WSE] Koi Kaze [raws wobbly-ivtc]/ep4.vpy.mkv
+Keyframes File: Scene Changes/ep4.txt
 Video AR Mode: 4
 Video AR Value: 1.779167
-Video Zoom Percent: 2.768750
+Video Zoom Percent: 2.058333
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -36,10 +37,11 @@ Style: ED - Eng,Amaranth,30,&H32A1F0F3,&H7D585858,&H0028A8EE,&H00010108,0,0,0,0,
 Style: Next EP - Scrolling Text,Patrick Hand,35,&H00DC1DE8,&H000019FF,&H00FBFDF8,&HBE000000,0,0,0,0,119.109,100,0,0,1,2.51046,0,5,0,0,0,1
 Style: Next EP - Rotating Text,teen spirit,20,&H0000FFFF,&H0000FFFF,&H0056465B,&H0056465B,-1,-1,0,0,119.109,100,0,0,1,2.00837,0,2,6,6,5,0
 Style: Next EP - Static Text,Balsoon,40,&H00070606,&H000019FF,&H00FFFEFE,&HBE000000,0,0,0,0,119.109,100,0,0,1,1.70711,0,2,0,0,0,1
+Style: TL Note,LTFinnegan Medium,28,&H00D8D4C7,&H000019FF,&H00101010,&HBE000000,0,-1,0,0,100.052,100,0,0,1,1.40586,0.702929,8,38,38,23,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:01:43.58,0:01:48.96,Title,,0,0,0,<Ag>(#bdbbeb.#8f3fb9),{\t(3444,4990,0.7,\blur7.058)\1a&HFF&\t(-5,607,\1a&H00)\fad(0,1500)\frz25\p1\pos(275.871,317.648)\c&H000000&}m 0 0 l 302.125 0 302.125 146.25 0 146.25
+Comment: 0,0:01:43.58,0:01:48.96,Title,,0,0,0,<Ag>(#bdbbeb.#8f3fb9),{\t(3444,4990,0.7,\blur7.058)\1a&HFF&\t(-5,647,\1a&H00)\fad(50,1500)\frz25\p1\pos(275.871,317.648)\c&H000000&}m 0 0 l 302.125 0 302.125 146.25 0 146.25
 Comment: 0,0:01:44.66,0:01:44.75,Title,,0,0,0,,{\pos(275.871,317.648)\c&H000000&}Evening Shower
 Comment: 0,0:01:44.66,0:01:46.66,Title,,0,0,0,,{\fscx119.109\p1\pos(427,298.488)}m 0 0 l 717 0 717 2 0 2
 Comment: 0,0:01:44.66,0:01:46.66,Title,,0,0,0,,{\fscx119.109\p1\pos(427,332.774)}m 0 0 l 717 0 717 2 0 2
@@ -52,42 +54,42 @@ Comment: 1,0:02:42.76,0:02:47.77,Signs,,0,0,0,,{\blur0.603\frz-11\fax0.25\c&H585
 Comment: 0,0:16:52.99,0:16:56.49,Signs,,0,0,0,,{\frz20\fs40.336\blur1.008\c&H464D4E&\xshad3.026\yshad1.008\4c&HACB1B3&\pos(373.625,81.25)}Unforgettable Love Scene
 Comment: 0,0:16:52.99,0:16:56.49,Signs,,0,0,0,,{\frz20\fs40.336\blur1.008\c&H464D4E&\xshad3.026\yshad1.008\4c&HACB1B3&\pos(373.625,81.25)}Unforgettable Love Scene
 Comment: 0,0:16:52.99,0:16:56.49,Signs,,0,0,0,,{\fscx119.109\an7\p1\pos(19.156,15.126)}m 89.625 255.25 b 255.875 127 431 89.75 574 94.75 l 350.5 181.5
-Dialogue: 0,0:01:43.58,0:01:48.96,Title,,0,0,0,,{\c&HEAB8BC&\clip(m 116.375 304.5 l 392.125 196.75 395.75 203.75 119.875 311.5)\pos(291.425,317.644)\blur0.803\t(3444,4990,0.7,\blur7.058)\1a&HFF&\t(-5,607,\1a&H00)\fad(0,1500)}Evening Shower
-Dialogue: 1,0:01:43.58,0:01:48.96,Title,,0,0,0,,{\c&HE8B4BB&\clip(m 118.75 308.5 l 394.5 199.75 398.125 207.75 122.25 315.75)\pos(291.425,317.644)\blur0.803\t(3444,4990,0.7,\blur7.058)\1a&HFF&\t(-5,607,\1a&H00)\fad(0,1500)}Evening Shower
-Dialogue: 2,0:01:43.58,0:01:48.96,Title,,0,0,0,,{\c&HE7B1B9&\clip(m 119.875 311.5 l 395.75 203.75 400.5 210.75 124.75 318.75)\pos(291.425,317.644)\blur0.803\t(3444,4990,0.7,\blur7.058)\1a&HFF&\t(-5,607,\1a&H00)\fad(0,1500)}Evening Shower
-Dialogue: 3,0:01:43.58,0:01:48.96,Title,,0,0,0,,{\c&HE6AEB8&\clip(m 122.25 315.75 l 398.125 207.75 401.75 214.75 125.875 322.75)\pos(291.425,317.644)\blur0.803\t(3444,4990,0.7,\blur7.058)\1a&HFF&\t(-5,607,\1a&H00)\fad(0,1500)}Evening Shower
-Dialogue: 4,0:01:43.58,0:01:48.96,Title,,0,0,0,,{\c&HE4AAB7&\clip(m 124.75 318.75 l 400.5 210.75 404.125 218.75 128.25 326.75)\pos(291.425,317.644)\blur0.803\t(3444,4990,0.7,\blur7.058)\1a&HFF&\t(-5,607,\1a&H00)\fad(0,1500)}Evening Shower
-Dialogue: 5,0:01:43.58,0:01:48.96,Title,,0,0,0,,{\c&HE3A7B6&\clip(m 125.875 322.75 l 401.75 214.75 406.5 221.75 130.625 329.75)\pos(291.425,317.644)\blur0.803\t(3444,4990,0.7,\blur7.058)\1a&HFF&\t(-5,607,\1a&H00)\fad(0,1500)}Evening Shower
-Dialogue: 6,0:01:43.58,0:01:48.96,Title,,0,0,0,,{\c&HE2A4B4&\clip(m 128.25 326.75 l 404.125 218.75 407.75 226 133.125 333.75)\pos(291.425,317.644)\blur0.803\t(3444,4990,0.7,\blur7.058)\1a&HFF&\t(-5,607,\1a&H00)\fad(0,1500)}Evening Shower
-Dialogue: 7,0:01:43.58,0:01:48.96,Title,,0,0,0,,{\c&HE0A0B3&\clip(m 130.625 329.75 l 406.5 221.75 410.125 229 134.25 337.75)\pos(291.425,317.644)\blur0.803\t(3444,4990,0.7,\blur7.058)\1a&HFF&\t(-5,607,\1a&H00)\fad(0,1500)}Evening Shower
-Dialogue: 8,0:01:43.58,0:01:48.96,Title,,0,0,0,,{\c&HDF9DB2&\clip(m 133.125 333.75 l 407.75 226 412.5 233 136.625 340.75)\pos(291.425,317.644)\blur0.803\t(3444,4990,0.7,\blur7.058)\1a&HFF&\t(-5,607,\1a&H00)\fad(0,1500)}Evening Shower
-Dialogue: 9,0:01:43.58,0:01:48.96,Title,,0,0,0,,{\c&HDD99B1&\clip(m 134.25 337.75 l 410.125 229 413.75 237 139 344.875)\pos(291.425,317.644)\blur0.803\t(3444,4990,0.7,\blur7.058)\1a&HFF&\t(-5,607,\1a&H00)\fad(0,1500)}Evening Shower
-Dialogue: 10,0:01:43.58,0:01:48.96,Title,,0,0,0,,{\c&HDC96AF&\clip(m 136.625 340.75 l 412.5 233 416.25 240 140.25 348)\pos(291.425,317.644)\blur0.803\t(3444,4990,0.7,\blur7.058)\1a&HFF&\t(-5,607,\1a&H00)\fad(0,1500)}Evening Shower
-Dialogue: 11,0:01:43.58,0:01:48.96,Title,,0,0,0,,{\c&HDB93AE&\clip(m 139 344.875 l 413.75 237 418.625 244 142.625 352)\pos(291.425,317.644)\blur0.803\t(3444,4990,0.7,\blur7.058)\1a&HFF&\t(-5,607,\1a&H00)\fad(0,1500)}Evening Shower
-Dialogue: 12,0:01:43.58,0:01:48.96,Title,,0,0,0,,{\c&HD98FAD&\clip(m 140.25 348 l 416.25 240 421 248 145 356)\pos(291.425,317.644)\blur0.803\t(3444,4990,0.7,\blur7.058)\1a&HFF&\t(-5,607,\1a&H00)\fad(0,1500)}Evening Shower
-Dialogue: 13,0:01:43.58,0:01:48.96,Title,,0,0,0,,{\c&HD88CAC&\clip(m 142.625 352 l 418.625 244 422.25 251 146.25 359)\pos(291.425,317.644)\blur0.803\t(3444,4990,0.7,\blur7.058)\1a&HFF&\t(-5,607,\1a&H00)\fad(0,1500)}Evening Shower
-Dialogue: 14,0:01:43.58,0:01:48.96,Title,,0,0,0,,{\c&HD789AA&\clip(m 145 356 l 421 248 424.625 255.25 148.625 363)\pos(291.425,317.644)\blur0.803\t(3444,4990,0.7,\blur7.058)\1a&HFF&\t(-5,607,\1a&H00)\fad(0,1500)}Evening Shower
-Dialogue: 15,0:01:43.58,0:01:48.96,Title,,0,0,0,,{\c&HD585A9&\clip(m 146.25 359 l 422.25 251 427 258.25 151.125 367)\pos(291.425,317.644)\blur0.803\t(3444,4990,0.7,\blur7.058)\1a&HFF&\t(-5,607,\1a&H00)\fad(0,1500)}Evening Shower
-Dialogue: 16,0:01:43.58,0:01:48.96,Title,,0,0,0,,{\c&HD482A8&\clip(m 148.625 363 l 424.625 255.25 428.25 262.25 152.375 370)\pos(291.425,317.644)\blur0.803\t(3444,4990,0.7,\blur7.058)\1a&HFF&\t(-5,607,\1a&H00)\fad(0,1500)}Evening Shower
-Dialogue: 17,0:01:43.58,0:01:48.96,Title,,0,0,0,,{\c&HD37FA7&\clip(m 151.125 367 l 427 258.25 430.625 266.25 154.75 374)\pos(291.425,317.644)\blur0.803\t(3444,4990,0.7,\blur7.058)\1a&HFF&\t(-5,607,\1a&H00)\fad(0,1500)}Evening Shower
-Dialogue: 18,0:01:43.58,0:01:48.96,Title,,0,0,0,,{\c&HD17BA5&\clip(m 152.375 370 l 428.25 262.25 433 269.25 157.125 377.25)\pos(291.425,317.644)\blur0.803\t(3444,4990,0.7,\blur7.058)\1a&HFF&\t(-5,607,\1a&H00)\fad(0,1500)}Evening Shower
-Dialogue: 19,0:01:43.58,0:01:48.96,Title,,0,0,0,,{\c&HD078A4&\clip(m 154.75 374 l 430.625 266.25 434.125 273.25 158.375 381.25)\pos(291.425,317.644)\blur0.803\t(3444,4990,0.7,\blur7.058)\1a&HFF&\t(-5,607,\1a&H00)\fad(0,1500)}Evening Shower
-Dialogue: 20,0:01:43.58,0:01:48.96,Title,,0,0,0,,{\c&HCF75A3&\clip(m 157.125 377.25 l 433 269.25 436.625 277.25 160.75 385.25)\pos(291.425,317.644)\blur0.803\t(3444,4990,0.7,\blur7.058)\1a&HFF&\t(-5,607,\1a&H00)\fad(0,1500)}Evening Shower
-Dialogue: 21,0:01:43.58,0:01:48.96,Title,,0,0,0,,{\c&HCD71A2&\clip(m 158.375 381.25 l 434.125 273.25 439 280.25 163.125 388.25)\pos(291.425,317.644)\blur0.803\t(3444,4990,0.7,\blur7.058)\1a&HFF&\t(-5,607,\1a&H00)\fad(0,1500)}Evening Shower
-Dialogue: 22,0:01:43.58,0:01:48.96,Title,,0,0,0,,{\c&HCC6EA0&\clip(m 160.75 385.25 l 436.625 277.25 440.125 284.375 165.5 392.25)\pos(291.425,317.644)\blur0.803\t(3444,4990,0.7,\blur7.058)\1a&HFF&\t(-5,607,\1a&H00)\fad(0,1500)}Evening Shower
-Dialogue: 23,0:01:43.58,0:01:48.96,Title,,0,0,0,,{\c&HCB6B9F&\clip(m 163.125 388.25 l 439 280.25 442.5 287.5 166.75 396.25)\pos(291.425,317.644)\blur0.803\t(3444,4990,0.7,\blur7.058)\1a&HFF&\t(-5,607,\1a&H00)\fad(0,1500)}Evening Shower
-Dialogue: 24,0:01:43.58,0:01:48.96,Title,,0,0,0,,{\c&HC9679E&\clip(m 165.5 392.25 l 440.125 284.375 445 291.5 169.125 399.25)\pos(291.425,317.644)\blur0.803\t(3444,4990,0.7,\blur7.058)\1a&HFF&\t(-5,607,\1a&H00)\fad(0,1500)}Evening Shower
-Dialogue: 25,0:01:43.58,0:01:48.96,Title,,0,0,0,,{\c&HC8649D&\clip(m 166.75 396.25 l 442.5 287.5 447.375 295.5 171.5 403.25)\pos(291.425,317.644)\blur0.803\t(3444,4990,0.7,\blur7.058)\1a&HFF&\t(-5,607,\1a&H00)\fad(0,1500)}Evening Shower
-Dialogue: 26,0:01:43.58,0:01:48.96,Title,,0,0,0,,{\c&HC7619B&\clip(m 169.125 399.25 l 445 291.5 448.5 298.5 172.75 406.5)\pos(291.425,317.644)\blur0.803\t(3444,4990,0.7,\blur7.058)\1a&HFF&\t(-5,607,\1a&H00)\fad(0,1500)}Evening Shower
-Dialogue: 27,0:01:43.58,0:01:48.96,Title,,0,0,0,,{\c&HC55D9A&\clip(m 171.5 403.25 l 447.375 295.5 450.875 302.5 175.125 410.5)\pos(291.425,317.644)\blur0.803\t(3444,4990,0.7,\blur7.058)\1a&HFF&\t(-5,607,\1a&H00)\fad(0,1500)}Evening Shower
-Dialogue: 28,0:01:43.58,0:01:48.96,Title,,0,0,0,,{\c&HC45A99&\clip(m 172.75 406.5 l 448.5 298.5 453.375 306.5 177.5 414.5)\pos(291.425,317.644)\blur0.803\t(3444,4990,0.7,\blur7.058)\1a&HFF&\t(-5,607,\1a&H00)\fad(0,1500)}Evening Shower
-Dialogue: 29,0:01:43.58,0:01:48.96,Title,,0,0,0,,{\c&HC25698&\clip(m 175.125 410.5 l 450.875 302.5 454.5 309.5 178.625 417.5)\pos(291.425,317.644)\blur0.803\t(3444,4990,0.7,\blur7.058)\1a&HFF&\t(-5,607,\1a&H00)\fad(0,1500)}Evening Shower
-Dialogue: 30,0:01:43.58,0:01:48.96,Title,,0,0,0,,{\c&HC15396&\clip(m 177.5 414.5 l 453.375 306.5 456.875 313.5 181 421.5)\pos(291.425,317.644)\blur0.803\t(3444,4990,0.7,\blur7.058)\1a&HFF&\t(-5,607,\1a&H00)\fad(0,1500)}Evening Shower
-Dialogue: 31,0:01:43.58,0:01:48.96,Title,,0,0,0,,{\c&HC05095&\clip(m 178.625 417.5 l 454.5 309.5 459.25 316.75 183.5 425.5)\pos(291.425,317.644)\blur0.803\t(3444,4990,0.7,\blur7.058)\1a&HFF&\t(-5,607,\1a&H00)\fad(0,1500)}Evening Shower
-Dialogue: 32,0:01:43.58,0:01:48.96,Title,,0,0,0,,{\c&HBE4C94&\clip(m 181 421.5 l 456.875 313.5 460.5 320.75 184.625 428.5)\pos(291.425,317.644)\blur0.803\t(3444,4990,0.7,\blur7.058)\1a&HFF&\t(-5,607,\1a&H00)\fad(0,1500)}Evening Shower
-Dialogue: 33,0:01:43.58,0:01:48.96,Title,,0,0,0,,{\c&HBD4993&\clip(m 183.5 425.5 l 459.25 316.75 462.875 324.75 187 432.5)\pos(291.425,317.644)\blur0.803\t(3444,4990,0.7,\blur7.058)\1a&HFF&\t(-5,607,\1a&H00)\fad(0,1500)}Evening Shower
-Dialogue: 34,0:01:43.58,0:01:48.96,Title,,0,0,0,,{\c&HBC4691&\clip(m 184.625 428.5 l 460.5 320.75 465.25 327.75 189.375 435.75)\pos(291.425,317.644)\blur0.803\t(3444,4990,0.7,\blur7.058)\1a&HFF&\t(-5,607,\1a&H00)\fad(0,1500)}Evening Shower
-Dialogue: 35,0:01:43.58,0:01:48.96,Title,,0,0,0,,{\c&HBA4290&\clip(m 187 432.5 l 462.875 324.75 466.5 331.75 191.875 439.75)\pos(291.425,317.644)\blur0.803\t(3444,4990,0.7,\blur7.058)\1a&HFF&\t(-5,607,\1a&H00)\fad(0,1500)}Evening Shower
+Dialogue: 0,0:01:43.54,0:01:49.08,Title,,0,0,0,,{\c&HEAB8BC&\clip(m 116.375 304.5 l 392.125 196.75 395.75 203.75 119.875 311.5)\pos(291.425,317.644)\blur0.803\t(3500,4990,0.7,\blur7.058)\1a&HFF&\t(-5,647,\1a&H00)\fad(50,1500)}Evening Shower
+Dialogue: 1,0:01:43.54,0:01:49.08,Title,,0,0,0,,{\c&HE8B4BB&\clip(m 118.75 308.5 l 394.5 199.75 398.125 207.75 122.25 315.75)\pos(291.425,317.644)\blur0.803\t(3500,4990,0.7,\blur7.058)\1a&HFF&\t(-5,647,\1a&H00)\fad(50,1500)}Evening Shower
+Dialogue: 2,0:01:43.54,0:01:49.08,Title,,0,0,0,,{\c&HE7B1B9&\clip(m 119.875 311.5 l 395.75 203.75 400.5 210.75 124.75 318.75)\pos(291.425,317.644)\blur0.803\t(3500,4990,0.7,\blur7.058)\1a&HFF&\t(-5,647,\1a&H00)\fad(50,1500)}Evening Shower
+Dialogue: 3,0:01:43.54,0:01:49.08,Title,,0,0,0,,{\c&HE6AEB8&\clip(m 122.25 315.75 l 398.125 207.75 401.75 214.75 125.875 322.75)\pos(291.425,317.644)\blur0.803\t(3500,4990,0.7,\blur7.058)\1a&HFF&\t(-5,647,\1a&H00)\fad(50,1500)}Evening Shower
+Dialogue: 4,0:01:43.54,0:01:49.08,Title,,0,0,0,,{\c&HE4AAB7&\clip(m 124.75 318.75 l 400.5 210.75 404.125 218.75 128.25 326.75)\pos(291.425,317.644)\blur0.803\t(3500,4990,0.7,\blur7.058)\1a&HFF&\t(-5,647,\1a&H00)\fad(50,1500)}Evening Shower
+Dialogue: 5,0:01:43.54,0:01:49.08,Title,,0,0,0,,{\c&HE3A7B6&\clip(m 125.875 322.75 l 401.75 214.75 406.5 221.75 130.625 329.75)\pos(291.425,317.644)\blur0.803\t(3500,4990,0.7,\blur7.058)\1a&HFF&\t(-5,647,\1a&H00)\fad(50,1500)}Evening Shower
+Dialogue: 6,0:01:43.54,0:01:49.08,Title,,0,0,0,,{\c&HE2A4B4&\clip(m 128.25 326.75 l 404.125 218.75 407.75 226 133.125 333.75)\pos(291.425,317.644)\blur0.803\t(3500,4990,0.7,\blur7.058)\1a&HFF&\t(-5,647,\1a&H00)\fad(50,1500)}Evening Shower
+Dialogue: 7,0:01:43.54,0:01:49.08,Title,,0,0,0,,{\c&HE0A0B3&\clip(m 130.625 329.75 l 406.5 221.75 410.125 229 134.25 337.75)\pos(291.425,317.644)\blur0.803\t(3500,4990,0.7,\blur7.058)\1a&HFF&\t(-5,647,\1a&H00)\fad(50,1500)}Evening Shower
+Dialogue: 8,0:01:43.54,0:01:49.08,Title,,0,0,0,,{\c&HDF9DB2&\clip(m 133.125 333.75 l 407.75 226 412.5 233 136.625 340.75)\pos(291.425,317.644)\blur0.803\t(3500,4990,0.7,\blur7.058)\1a&HFF&\t(-5,647,\1a&H00)\fad(50,1500)}Evening Shower
+Dialogue: 9,0:01:43.54,0:01:49.08,Title,,0,0,0,,{\c&HDD99B1&\clip(m 134.25 337.75 l 410.125 229 413.75 237 139 344.875)\pos(291.425,317.644)\blur0.803\t(3500,4990,0.7,\blur7.058)\1a&HFF&\t(-5,647,\1a&H00)\fad(50,1500)}Evening Shower
+Dialogue: 10,0:01:43.54,0:01:49.08,Title,,0,0,0,,{\c&HDC96AF&\clip(m 136.625 340.75 l 412.5 233 416.25 240 140.25 348)\pos(291.425,317.644)\blur0.803\t(3500,4990,0.7,\blur7.058)\1a&HFF&\t(-5,647,\1a&H00)\fad(50,1500)}Evening Shower
+Dialogue: 11,0:01:43.54,0:01:49.08,Title,,0,0,0,,{\c&HDB93AE&\clip(m 139 344.875 l 413.75 237 418.625 244 142.625 352)\pos(291.425,317.644)\blur0.803\t(3500,4990,0.7,\blur7.058)\1a&HFF&\t(-5,647,\1a&H00)\fad(50,1500)}Evening Shower
+Dialogue: 12,0:01:43.54,0:01:49.08,Title,,0,0,0,,{\c&HD98FAD&\clip(m 140.25 348 l 416.25 240 421 248 145 356)\pos(291.425,317.644)\blur0.803\t(3500,4990,0.7,\blur7.058)\1a&HFF&\t(-5,647,\1a&H00)\fad(50,1500)}Evening Shower
+Dialogue: 13,0:01:43.54,0:01:49.08,Title,,0,0,0,,{\c&HD88CAC&\clip(m 142.625 352 l 418.625 244 422.25 251 146.25 359)\pos(291.425,317.644)\blur0.803\t(3500,4990,0.7,\blur7.058)\1a&HFF&\t(-5,647,\1a&H00)\fad(50,1500)}Evening Shower
+Dialogue: 14,0:01:43.54,0:01:49.08,Title,,0,0,0,,{\c&HD789AA&\clip(m 145 356 l 421 248 424.625 255.25 148.625 363)\pos(291.425,317.644)\blur0.803\t(3500,4990,0.7,\blur7.058)\1a&HFF&\t(-5,647,\1a&H00)\fad(50,1500)}Evening Shower
+Dialogue: 15,0:01:43.54,0:01:49.08,Title,,0,0,0,,{\c&HD585A9&\clip(m 146.25 359 l 422.25 251 427 258.25 151.125 367)\pos(291.425,317.644)\blur0.803\t(3500,4990,0.7,\blur7.058)\1a&HFF&\t(-5,647,\1a&H00)\fad(50,1500)}Evening Shower
+Dialogue: 16,0:01:43.54,0:01:49.08,Title,,0,0,0,,{\c&HD482A8&\clip(m 148.625 363 l 424.625 255.25 428.25 262.25 152.375 370)\pos(291.425,317.644)\blur0.803\t(3500,4990,0.7,\blur7.058)\1a&HFF&\t(-5,647,\1a&H00)\fad(50,1500)}Evening Shower
+Dialogue: 17,0:01:43.54,0:01:49.08,Title,,0,0,0,,{\c&HD37FA7&\clip(m 151.125 367 l 427 258.25 430.625 266.25 154.75 374)\pos(291.425,317.644)\blur0.803\t(3500,4990,0.7,\blur7.058)\1a&HFF&\t(-5,647,\1a&H00)\fad(50,1500)}Evening Shower
+Dialogue: 18,0:01:43.54,0:01:49.08,Title,,0,0,0,,{\c&HD17BA5&\clip(m 152.375 370 l 428.25 262.25 433 269.25 157.125 377.25)\pos(291.425,317.644)\blur0.803\t(3500,4990,0.7,\blur7.058)\1a&HFF&\t(-5,647,\1a&H00)\fad(50,1500)}Evening Shower
+Dialogue: 19,0:01:43.54,0:01:49.08,Title,,0,0,0,,{\c&HD078A4&\clip(m 154.75 374 l 430.625 266.25 434.125 273.25 158.375 381.25)\pos(291.425,317.644)\blur0.803\t(3500,4990,0.7,\blur7.058)\1a&HFF&\t(-5,647,\1a&H00)\fad(50,1500)}Evening Shower
+Dialogue: 20,0:01:43.54,0:01:49.08,Title,,0,0,0,,{\c&HCF75A3&\clip(m 157.125 377.25 l 433 269.25 436.625 277.25 160.75 385.25)\pos(291.425,317.644)\blur0.803\t(3500,4990,0.7,\blur7.058)\1a&HFF&\t(-5,647,\1a&H00)\fad(50,1500)}Evening Shower
+Dialogue: 21,0:01:43.54,0:01:49.08,Title,,0,0,0,,{\c&HCD71A2&\clip(m 158.375 381.25 l 434.125 273.25 439 280.25 163.125 388.25)\pos(291.425,317.644)\blur0.803\t(3500,4990,0.7,\blur7.058)\1a&HFF&\t(-5,647,\1a&H00)\fad(50,1500)}Evening Shower
+Dialogue: 22,0:01:43.54,0:01:49.08,Title,,0,0,0,,{\c&HCC6EA0&\clip(m 160.75 385.25 l 436.625 277.25 440.125 284.375 165.5 392.25)\pos(291.425,317.644)\blur0.803\t(3500,4990,0.7,\blur7.058)\1a&HFF&\t(-5,647,\1a&H00)\fad(50,1500)}Evening Shower
+Dialogue: 23,0:01:43.54,0:01:49.08,Title,,0,0,0,,{\c&HCB6B9F&\clip(m 163.125 388.25 l 439 280.25 442.5 287.5 166.75 396.25)\pos(291.425,317.644)\blur0.803\t(3500,4990,0.7,\blur7.058)\1a&HFF&\t(-5,647,\1a&H00)\fad(50,1500)}Evening Shower
+Dialogue: 24,0:01:43.54,0:01:49.08,Title,,0,0,0,,{\c&HC9679E&\clip(m 165.5 392.25 l 440.125 284.375 445 291.5 169.125 399.25)\pos(291.425,317.644)\blur0.803\t(3500,4990,0.7,\blur7.058)\1a&HFF&\t(-5,647,\1a&H00)\fad(50,1500)}Evening Shower
+Dialogue: 25,0:01:43.54,0:01:49.08,Title,,0,0,0,,{\c&HC8649D&\clip(m 166.75 396.25 l 442.5 287.5 447.375 295.5 171.5 403.25)\pos(291.425,317.644)\blur0.803\t(3500,4990,0.7,\blur7.058)\1a&HFF&\t(-5,647,\1a&H00)\fad(50,1500)}Evening Shower
+Dialogue: 26,0:01:43.54,0:01:49.08,Title,,0,0,0,,{\c&HC7619B&\clip(m 169.125 399.25 l 445 291.5 448.5 298.5 172.75 406.5)\pos(291.425,317.644)\blur0.803\t(3500,4990,0.7,\blur7.058)\1a&HFF&\t(-5,647,\1a&H00)\fad(50,1500)}Evening Shower
+Dialogue: 27,0:01:43.54,0:01:49.08,Title,,0,0,0,,{\c&HC55D9A&\clip(m 171.5 403.25 l 447.375 295.5 450.875 302.5 175.125 410.5)\pos(291.425,317.644)\blur0.803\t(3500,4990,0.7,\blur7.058)\1a&HFF&\t(-5,647,\1a&H00)\fad(50,1500)}Evening Shower
+Dialogue: 28,0:01:43.54,0:01:49.08,Title,,0,0,0,,{\c&HC45A99&\clip(m 172.75 406.5 l 448.5 298.5 453.375 306.5 177.5 414.5)\pos(291.425,317.644)\blur0.803\t(3500,4990,0.7,\blur7.058)\1a&HFF&\t(-5,647,\1a&H00)\fad(50,1500)}Evening Shower
+Dialogue: 29,0:01:43.54,0:01:49.08,Title,,0,0,0,,{\c&HC25698&\clip(m 175.125 410.5 l 450.875 302.5 454.5 309.5 178.625 417.5)\pos(291.425,317.644)\blur0.803\t(3500,4990,0.7,\blur7.058)\1a&HFF&\t(-5,647,\1a&H00)\fad(50,1500)}Evening Shower
+Dialogue: 30,0:01:43.54,0:01:49.08,Title,,0,0,0,,{\c&HC15396&\clip(m 177.5 414.5 l 453.375 306.5 456.875 313.5 181 421.5)\pos(291.425,317.644)\blur0.803\t(3500,4990,0.7,\blur7.058)\1a&HFF&\t(-5,647,\1a&H00)\fad(50,1500)}Evening Shower
+Dialogue: 31,0:01:43.54,0:01:49.08,Title,,0,0,0,,{\c&HC05095&\clip(m 178.625 417.5 l 454.5 309.5 459.25 316.75 183.5 425.5)\pos(291.425,317.644)\blur0.803\t(3500,4990,0.7,\blur7.058)\1a&HFF&\t(-5,647,\1a&H00)\fad(50,1500)}Evening Shower
+Dialogue: 32,0:01:43.54,0:01:49.08,Title,,0,0,0,,{\c&HBE4C94&\clip(m 181 421.5 l 456.875 313.5 460.5 320.75 184.625 428.5)\pos(291.425,317.644)\blur0.803\t(3500,4990,0.7,\blur7.058)\1a&HFF&\t(-5,647,\1a&H00)\fad(50,1500)}Evening Shower
+Dialogue: 33,0:01:43.54,0:01:49.08,Title,,0,0,0,,{\c&HBD4993&\clip(m 183.5 425.5 l 459.25 316.75 462.875 324.75 187 432.5)\pos(291.425,317.644)\blur0.803\t(3500,4990,0.7,\blur7.058)\1a&HFF&\t(-5,647,\1a&H00)\fad(50,1500)}Evening Shower
+Dialogue: 34,0:01:43.54,0:01:49.08,Title,,0,0,0,,{\c&HBC4691&\clip(m 184.625 428.5 l 460.5 320.75 465.25 327.75 189.375 435.75)\pos(291.425,317.644)\blur0.803\t(3500,4990,0.7,\blur7.058)\1a&HFF&\t(-5,647,\1a&H00)\fad(50,1500)}Evening Shower
+Dialogue: 35,0:01:43.54,0:01:49.08,Title,,0,0,0,,{\c&HBA4290&\clip(m 187 432.5 l 462.875 324.75 466.5 331.75 191.875 439.75)\pos(291.425,317.644)\blur0.803\t(3500,4990,0.7,\blur7.058)\1a&HFF&\t(-5,647,\1a&H00)\fad(50,1500)}Evening Shower
 Dialogue: 1,0:02:42.76,0:02:47.77,Signs,,0,0,0,,{\c&H585C62&\bord0\t(3031,4949,\alpha&HFF&)\4a&HFF&\frz351\move(612.906,79.999,820.432,136.458,0,4991)}{\blur1.004\fs20.084\fax0.18\b1}Party Meeting Room{出会いパーティー会場}
 Dialogue: 1,0:02:42.76,0:02:47.77,Signs,,0,0,0,,{\c&H585C62&\bord0\t(3031,4949,\alpha&HFF&)\4a&HFF&\frz351\move(612.906,79.999,820.432,136.458,0,4991)}{\blur1.004\fs20.084\fax0.18\b1}Party Meeting Room{出会いパーティー会場}
 Dialogue: 1,0:02:42.76,0:02:47.77,Signs,,0,0,0,,{\c&H585C62&\bord0\t(3031,4949,\alpha&HFF&)\4a&HFF&\move(651.635,426.986,855.196,484.017,0,4949)\frz356.8}{\blur0.904\fs19.079\b1\fax0.11.5}Machida\NMarriage\NConsulting
@@ -189,32 +191,32 @@ Dialogue: 0,0:23:16.58,0:23:16.62,Next EP - Rotating Text,,0,0,0,,{\blur0.603\po
 Dialogue: 1,0:23:16.58,0:23:16.62,Next EP - Rotating Text,,0,0,0,,{\blur0.603\pos(430.588,487.029)\fs60.251\bord0\c&H00000000&\4a&HFF&}{\blur0.703\iclip(m 417.375 388.625 l 418.625 477 748.75 476 742.75 382.625 m 594.5 406.75 l 637.5 402.625 b 642.25 420.75 643.5 455.875 641.125 473 l 599.25 472)}CHIDORI'S JUDGEMENT
 Dialogue: 0,0:23:16.62,0:23:17.12,Next EP - Rotating Text,,0,0,0,,{\blur0.603\pos(430.588,487.029)\fs60.251\bord3.013\3c&HFFFEFE&\c&HFFFEFE&}{\blur0.703}CHIDORI'S JUDGEMENT
 Dialogue: 1,0:23:16.62,0:23:17.12,Next EP - Rotating Text,,0,0,0,,{\blur0.603\pos(430.588,487.029)\fs60.251\bord0\c&H00000000&\4a&HFF&}{\blur0.703}CHIDORI'S JUDGEMENT
-Dialogue: 1,0:23:26.34,0:23:27.42,Next EP - Verdict,,0,0,0,,{\an5\bord0\blur0.502\fs48.201\pos(625.549,25.105)\iclip(526,0,718,42)\t(-50,487,\iclip(718,0,718,42))}Innocent
-Dialogue: 0,0:23:26.34,0:23:27.42,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\c&HFFFFFF&\pos(625.549,19.079)\fsp1.305\an5\fs48.201\iclip(526,0,718,42)\t(-50,487,\iclip(718,0,718,42))}Innocent
-Dialogue: 1,0:23:27.42,0:23:27.46,Next EP - Verdict,,0,0,0,,{\an5\bord0\blur0.502\fs48.201\pos(625.549,25.105)}Innocent
-Dialogue: 1,0:23:27.46,0:23:27.51,Next EP - Verdict,,0,0,0,,{\an5\bord0\blur0.502\fs48.201\pos(625.549,126.356)}Innocent
-Dialogue: 1,0:23:27.51,0:23:27.55,Next EP - Verdict,,0,0,0,,{\an5\bord0\blur0.502\fs48.201\pos(625.549,225.55)}Innocent
-Dialogue: 1,0:23:27.55,0:23:27.59,Next EP - Verdict,,0,0,0,,{\an5\bord0\blur0.502\fs48.201\pos(625.549,326.782)}Innocent
-Dialogue: 0,0:23:27.42,0:23:27.46,Next EP - Verdict,,0,0,0,,{\bord0\blur0.502\c&HFFFFFF&\pos(625.549,19.079)\fsp1.305\an5\fs48.201}Innocent
-Dialogue: 0,0:23:27.46,0:23:27.51,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\c&HFFFFFF&\pos(625.549,120.331)\fsp1.305\an5\fs48.201}Innocent
-Dialogue: 0,0:23:27.51,0:23:27.55,Next EP - Verdict,,0,0,0,,{\bord0\blur0.502\c&HFFFFFF&\pos(625.549,219.525)\fsp1.305\an5\fs48.201}Innocent
-Dialogue: 0,0:23:27.55,0:23:27.59,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\c&HFFFFFF&\pos(625.549,320.756)\fsp1.305\an5\fs48.201}Innocent
-Dialogue: 1,0:23:27.59,0:23:27.63,Next EP - Verdict,,0,0,0,,{\an5\bord0\blur0.502\fs48.201\pos(625.549,426.196)}Innocent
-Dialogue: 0,0:23:27.59,0:23:27.63,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\c&HFFFFFF&\pos(625.549,420.171)\fsp1.305\an5\fs48.201}Innocent
-Dialogue: 1,0:23:27.55,0:23:27.59,Next EP - Verdict,,0,0,0,,{\bord0\blur0.502\fs55.23\an5\pos(486.062,-197.242)}Like Hell
-Dialogue: 1,0:23:27.59,0:23:27.63,Next EP - Verdict,,0,0,0,,{\bord0\blur0.502\fs55.23\an5\pos(486.062,-123.173)}Like Hell
-Dialogue: 1,0:23:27.63,0:23:27.67,Next EP - Verdict,,0,0,0,,{\bord0\blur0.502\fs55.23\an5\pos(486.062,-50.621)}Like Hell
-Dialogue: 1,0:23:27.67,0:23:27.71,Next EP - Verdict,,0,0,0,,{\bord0\blur0.502\fs55.23\an5\pos(486.062,23.438)}Like Hell
-Dialogue: 1,0:23:27.71,0:23:27.76,Next EP - Verdict,,0,0,0,,{\bord0\blur0.502\fs55.23\fscy90\an5\pos(486.062,110.762)}Like Hell
-Dialogue: 1,0:23:27.76,0:23:27.80,Next EP - Verdict,,0,0,0,,{\bord0\blur0.502\fs55.23\an5\fscy110\pos(486.062,21.55)}Like Hell
-Dialogue: 0,0:23:27.55,0:23:27.59,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\fsp0.502\fs55.23\an4\c&HFFFFFF&\pos(407.863,-203.267)}Like Hell
-Dialogue: 0,0:23:27.59,0:23:27.63,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\fsp0.502\fs55.23\an4\c&HFFFFFF&\pos(407.863,-129.198)}Like Hell
-Dialogue: 0,0:23:27.63,0:23:27.67,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\fsp0.502\fs55.23\an4\c&HFFFFFF&\pos(407.863,-56.646)}Like Hell
-Dialogue: 0,0:23:27.67,0:23:27.71,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\fsp0.502\fs55.23\an4\c&HFFFFFF&\pos(391.118,28.117)}Like Hell
-Dialogue: 0,0:23:27.71,0:23:27.76,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\fsp0.502\fscy90\fs55.23\an4\c&HFFFFFF&\pos(391.118,115.481)}Like Hell
-Dialogue: 0,0:23:27.76,0:23:27.80,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\fsp0.502\fs55.23\fscy110\an4\c&HFFFFFF&\pos(391.118,26.109)}Like Hell
-Dialogue: 1,0:23:27.80,0:23:28.47,Next EP - Verdict,,0,0,0,,{\bord0\blur0.502\fs55.23\an5\pos(486.062,39.163)}Like Hell
-Dialogue: 0,0:23:27.80,0:23:28.47,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\fsp0.502\fs55.23\an4\c&HFFFFFF&\pos(391.118,44.184)}Like Hell
+Dialogue: 1,0:23:26.42,0:23:27.46,Next EP - Verdict,,0,0,0,,{\an5\bord0\blur0.502\fs48.201\pos(625.549,25.105)\iclip(526,0,718,42)\t(-50,486,\iclip(718,0,718,42))}Innocent
+Dialogue: 0,0:23:26.42,0:23:27.46,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\c&HFFFFFF&\pos(625.549,19.079)\fsp1.305\an5\fs48.201\iclip(526,0,718,42)\t(-50,486,\iclip(718,0,718,42))}Innocent
+Dialogue: 1,0:23:27.46,0:23:27.51,Next EP - Verdict,,0,0,0,,{\an5\bord0\blur0.502\fs48.201\pos(625.549,25.105)}Innocent
+Dialogue: 1,0:23:27.51,0:23:27.55,Next EP - Verdict,,0,0,0,,{\an5\bord0\blur0.502\fs48.201\pos(625.549,126.356)}Innocent
+Dialogue: 1,0:23:27.55,0:23:27.59,Next EP - Verdict,,0,0,0,,{\an5\bord0\blur0.502\fs48.201\pos(625.549,225.55)}Innocent
+Dialogue: 1,0:23:27.59,0:23:27.63,Next EP - Verdict,,0,0,0,,{\an5\bord0\blur0.502\fs48.201\pos(625.549,326.782)}Innocent
+Dialogue: 0,0:23:27.46,0:23:27.51,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\c&HFFFFFF&\pos(625.549,19.079)\fsp1.305\an5\fs48.201}Innocent
+Dialogue: 0,0:23:27.51,0:23:27.55,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\c&HFFFFFF&\pos(625.549,120.331)\fsp1.305\an5\fs48.201}Innocent
+Dialogue: 0,0:23:27.55,0:23:27.59,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\c&HFFFFFF&\pos(625.549,219.525)\fsp1.305\an5\fs48.201}Innocent
+Dialogue: 0,0:23:27.59,0:23:27.63,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\c&HFFFFFF&\pos(625.549,320.756)\fsp1.305\an5\fs48.201}Innocent
+Dialogue: 1,0:23:27.63,0:23:27.67,Next EP - Verdict,,0,0,0,,{\an5\bord0\blur0.502\fs48.201\pos(625.549,426.196)}Innocent
+Dialogue: 0,0:23:27.63,0:23:27.67,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\c&HFFFFFF&\pos(625.549,420.171)\fsp1.305\an5\fs48.201}Innocent
+Dialogue: 1,0:23:27.59,0:23:27.63,Next EP - Verdict,,0,0,0,,{\bord0\blur0.502\fs55.23\an5\pos(486.062,-197.242)}Like Hell
+Dialogue: 1,0:23:27.63,0:23:27.67,Next EP - Verdict,,0,0,0,,{\bord0\blur0.502\fs55.23\an5\pos(486.062,-123.173)}Like Hell
+Dialogue: 1,0:23:27.67,0:23:27.71,Next EP - Verdict,,0,0,0,,{\bord0\blur0.502\fs55.23\an5\pos(486.062,-50.621)}Like Hell
+Dialogue: 1,0:23:27.71,0:23:27.76,Next EP - Verdict,,0,0,0,,{\bord0\blur0.502\fs55.23\an5\pos(486.062,23.438)}Like Hell
+Dialogue: 1,0:23:27.76,0:23:27.80,Next EP - Verdict,,0,0,0,,{\bord0\blur0.502\fs55.23\fscy90\an5\pos(486.062,110.762)}Like Hell
+Dialogue: 1,0:23:27.80,0:23:27.84,Next EP - Verdict,,0,0,0,,{\bord0\blur0.502\fs55.23\an5\fscy110\pos(486.062,21.55)}Like Hell
+Dialogue: 0,0:23:27.59,0:23:27.63,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\fsp0.502\fs55.23\an4\c&HFFFFFF&\pos(407.863,-203.267)}Like Hell
+Dialogue: 0,0:23:27.63,0:23:27.67,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\fsp0.502\fs55.23\an4\c&HFFFFFF&\pos(407.863,-129.198)}Like Hell
+Dialogue: 0,0:23:27.67,0:23:27.71,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\fsp0.502\fs55.23\an4\c&HFFFFFF&\pos(407.863,-56.646)}Like Hell
+Dialogue: 0,0:23:27.71,0:23:27.76,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\fsp0.502\fs55.23\an4\c&HFFFFFF&\pos(391.118,28.117)}Like Hell
+Dialogue: 0,0:23:27.76,0:23:27.80,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\fsp0.502\fscy90\fs55.23\an4\c&HFFFFFF&\pos(391.118,115.481)}Like Hell
+Dialogue: 0,0:23:27.80,0:23:27.84,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\fsp0.502\fs55.23\fscy110\an4\c&HFFFFFF&\pos(391.118,26.109)}Like Hell
+Dialogue: 1,0:23:27.84,0:23:28.51,Next EP - Verdict,,0,0,0,,{\bord0\blur0.502\fs55.23\an5\pos(486.062,39.163)}Like Hell
+Dialogue: 0,0:23:27.84,0:23:28.51,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\fsp0.502\fs55.23\an4\c&HFFFFFF&\pos(391.118,44.184)}Like Hell
 Dialogue: 0,0:23:17.54,0:23:20.87,Next EP - Scrolling Text,,0,0,0,,{\move(948.49,386.611,-74.157,386.611)\q2\blur0.703\c&HFBFDF8&}Next episode:
 Dialogue: 1,0:23:17.54,0:23:20.87,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(948.49,386.611,-74.157,386.611)\q2\blur0.703\4a&HFF&}Next episode:
 Dialogue: 0,0:23:17.54,0:23:20.87,Next EP - Scrolling Text,,0,0,0,,{\move(948.49,456.904,-74.157,456.904)\q2\blur0.703\c&HFBFDF8&}Distant Thunder

@@ -16,14 +16,15 @@ YCbCr Matrix: TV.601
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: ../../../../../../media/wyse/Media III/[WSE] Koi Kaze [DVD x264 478p 10bit FLAC-AC3][Dual Audio]/[WSE] Koi Kaze - 09 [DVD x264 478p 10bit FLAC-AC3][Dual Audio][0A9626CF]_ENG_Audio02.ac3
-Video File: ../../../../../../media/wyse/Media III/[WSE] Koi Kaze [raws v2]/ep9.vpy.mkv
+Audio File: ../../../../../media/wyse/Media III/[WSE] Koi Kaze [DVD x264 478p 10bit FLAC-AC3][Dual Audio]/[WSE] Koi Kaze - 09 [DVD x264 478p 10bit FLAC-AC3][Dual Audio][0A9626CF]_JPN_Audio01.flac
+Video File: ../../../../../media/wyse/Media III/[WSE] Koi Kaze [raws wobbly-ivtc]/ep9.vpy.mkv
+Keyframes File: Scene Changes/ep9.txt
 Video AR Mode: 4
 Video AR Value: 1.779167
-Video Zoom Percent: 2.768750
-Scroll Position: 79
-Active Line: 97
-Video Position: 33842
+Video Zoom Percent: 2.058333
+Scroll Position: 92
+Active Line: 99
+Video Position: 31623
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -37,6 +38,7 @@ Style: ED - Eng,Amaranth,30,&H32A1F0F3,&H7D585858,&H0028A8EE,&H00010108,0,0,0,0,
 Style: Next EP - Scrolling Text,Patrick Hand,35,&H00DC1DE8,&H000019FF,&H00FBFDF8,&HBE000000,0,0,0,0,119.109,100,0,0,1,2.51046,0,5,0,0,0,1
 Style: Next EP - Rotating Text,teen spirit,20,&H0000FFFF,&H0000FFFF,&H0056465B,&H0056465B,-1,-1,0,0,119.109,100,0,0,1,2.00837,0,2,6,6,5,0
 Style: Next EP - Static Text,Balsoon,40,&H00070606,&H000019FF,&H00FFFEFE,&HBE000000,0,0,0,0,119.109,100,0,0,1,1.70711,0,2,0,0,0,1
+Style: TL Note,LTFinnegan Medium,28,&H00D8D4C7,&H000019FF,&H00101010,&HBE000000,0,-1,0,0,100.052,100,0,0,1,1.40586,0.702929,8,38,38,23,1
 Style: Signs - Letter,Shadows Into Light,29,&H00000000,&H000000FF,&H00000000,&H00000000,-1,0,0,0,119.109,100,0,0,1,0,0,5,12,12,10,1
 Style: Signs - Lamp - Glow,Itim,40,&H96FFFFFF,&H000000FF,&H96FFFFFF,&H00000000,-1,0,0,0,100.052,100,0,0,1,3.01255,0,5,12,12,10,1
 Style: Signs - Lamp - Main,Itim,40,&H32516B9F,&H000000FF,&H96FFFFFF,&H00000000,-1,0,0,0,100.052,100,0,0,1,0,0,5,12,12,10,1
@@ -44,32 +46,33 @@ Style: Signs - Lamp - Main,Itim,40,&H32516B9F,&H000000FF,&H96FFFFFF,&H00000000,-
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:21:17.02,0:23:16.39,Preview,,0,0,0,,
-Dialogue: 8,0:01:43.58,0:01:48.96,Title,,0,0,0,,{\c&HF4F5F4&\clip(m 35 333.75 l 309.625 226 314.375 233 38.625 340.75)\pos(193.346,317.644)\blur0.803\t(3444,4990,0.7,\blur7.058)\1a&HFF&\t(-5,607,\1a&H00)\fad(0,1500)}Wind flower
-Dialogue: 9,0:01:43.58,0:01:48.96,Title,,0,0,0,,{\c&HF2EDED&\clip(m 36.125 337.75 l 312 229 315.625 237 41 344.875)\pos(193.346,317.644)\blur0.803\t(3444,4990,0.7,\blur7.058)\1a&HFF&\t(-5,607,\1a&H00)\fad(0,1500)}Wind flower
-Dialogue: 10,0:01:43.58,0:01:48.96,Title,,0,0,0,,{\c&HF0E6E7&\clip(m 38.625 340.75 l 314.375 233 318.125 240 42.125 348)\pos(193.346,317.644)\blur0.803\t(3444,4990,0.7,\blur7.058)\1a&HFF&\t(-5,607,\1a&H00)\fad(0,1500)}Wind flower
-Dialogue: 11,0:01:43.58,0:01:48.96,Title,,0,0,0,,{\c&HEEDEE0&\clip(m 41 344.875 l 315.625 237 320.5 244 44.5 352)\pos(193.346,317.644)\blur0.803\t(3444,4990,0.7,\blur7.058)\1a&HFF&\t(-5,607,\1a&H00)\fad(0,1500)}Wind flower
-Dialogue: 12,0:01:43.58,0:01:48.96,Title,,0,0,0,,{\c&HECD7DA&\clip(m 42.125 348 l 318.125 240 323 248 47 356)\pos(193.346,317.644)\blur0.803\t(3444,4990,0.7,\blur7.058)\1a&HFF&\t(-5,607,\1a&H00)\fad(0,1500)}Wind flower
-Dialogue: 13,0:01:43.58,0:01:48.96,Title,,0,0,0,,{\c&HE8C8CD&\clip(m 44.5 352 l 320.5 244 324.125 251 48.125 359)\pos(193.346,317.644)\blur0.803\t(3444,4990,0.7,\blur7.058)\1a&HFF&\t(-5,607,\1a&H00)\fad(0,1500)}Wind flower
-Dialogue: 14,0:01:43.58,0:01:48.96,Title,,0,0,0,,{\c&HE8C8CD&\clip(m 47 356 l 323 248 326.5 255.25 50.5 363)\pos(193.346,317.644)\blur0.803\t(3444,4990,0.7,\blur7.058)\1a&HFF&\t(-5,607,\1a&H00)\fad(0,1500)}Wind flower
-Dialogue: 15,0:01:43.58,0:01:48.96,Title,,0,0,0,,{\c&HE6C1C6&\clip(m 48.125 359 l 324.125 251 328.875 258.25 53.125 367)\pos(193.346,317.644)\blur0.803\t(3444,4990,0.7,\blur7.058)\1a&HFF&\t(-5,607,\1a&H00)\fad(0,1500)}Wind flower
-Dialogue: 16,0:01:43.58,0:01:48.96,Title,,0,0,0,,{\c&HE4B9C0&\clip(m 50.5 363 l 326.5 255.25 330.125 262.25 54.25 370)\pos(193.346,317.644)\blur0.803\t(3444,4990,0.7,\blur7.058)\1a&HFF&\t(-5,607,\1a&H00)\fad(0,1500)}Wind flower
-Dialogue: 17,0:01:43.58,0:01:48.96,Title,,0,0,0,,{\c&HE2B2B9&\clip(m 53.125 367 l 328.875 258.25 332.5 266.25 56.625 374)\pos(193.346,317.644)\blur0.803\t(3444,4990,0.7,\blur7.058)\1a&HFF&\t(-5,607,\1a&H00)\fad(0,1500)}Wind flower
-Dialogue: 18,0:01:43.58,0:01:48.96,Title,,0,0,0,,{\c&HE0ABB3&\clip(m 54.25 370 l 330.125 262.25 334.875 269.25 59 377.25)\pos(193.346,317.644)\blur0.803\t(3444,4990,0.7,\blur7.058)\1a&HFF&\t(-5,607,\1a&H00)\fad(0,1500)}Wind flower
-Dialogue: 19,0:01:43.58,0:01:48.96,Title,,0,0,0,,{\c&HDEA3AD&\clip(m 56.625 374 l 332.5 266.25 336.125 273.25 60.25 381.25)\pos(193.346,317.644)\blur0.803\t(3444,4990,0.7,\blur7.058)\1a&HFF&\t(-5,607,\1a&H00)\fad(0,1500)}Wind flower
-Dialogue: 20,0:01:43.58,0:01:48.96,Title,,0,0,0,,{\c&HDC9CA6&\clip(m 59 377.25 l 334.875 269.25 338.5 277.25 62.625 385.25)\pos(193.346,317.644)\blur0.803\t(3444,4990,0.7,\blur7.058)\1a&HFF&\t(-5,607,\1a&H00)\fad(0,1500)}Wind flower
-Dialogue: 21,0:01:43.58,0:01:48.96,Title,,0,0,0,,{\c&HDA95A0&\clip(m 60.25 381.25 l 336.125 273.25 340.875 280.25 65 388.25)\pos(193.346,317.644)\blur0.803\t(3444,4990,0.7,\blur7.058)\1a&HFF&\t(-5,607,\1a&H00)\fad(0,1500)}Wind flower
-Dialogue: 22,0:01:43.58,0:01:48.96,Title,,0,0,0,,{\c&HD88D99&\clip(m 62.625 385.25 l 338.5 277.25 342.125 284.375 67.375 392.25)\pos(193.346,317.644)\blur0.803\t(3444,4990,0.7,\blur7.058)\1a&HFF&\t(-5,607,\1a&H00)\fad(0,1500)}Wind flower
-Dialogue: 23,0:01:43.58,0:01:48.96,Title,,0,0,0,,{\c&HD68693&\clip(m 65 388.25 l 340.875 280.25 344.5 287.5 68.625 396.25)\pos(193.346,317.644)\blur0.803\t(3444,4990,0.7,\blur7.058)\1a&HFF&\t(-5,607,\1a&H00)\fad(0,1500)}Wind flower
-Dialogue: 24,0:01:43.58,0:01:48.96,Title,,0,0,0,,{\c&HD47E8C&\clip(m 67.375 392.25 l 342.125 284.375 346.875 291.5 71 399.25)\pos(193.346,317.644)\blur0.803\t(3444,4990,0.7,\blur7.058)\1a&HFF&\t(-5,607,\1a&H00)\fad(0,1500)}Wind flower
-Dialogue: 25,0:01:43.58,0:01:48.96,Title,,0,0,0,,{\c&HD27786&\clip(m 68.625 396.25 l 344.5 287.5 349.25 295.5 73.375 403.25)\pos(193.346,317.644)\blur0.803\t(3444,4990,0.7,\blur7.058)\1a&HFF&\t(-5,607,\1a&H00)\fad(0,1500)}Wind flower
-Dialogue: 26,0:01:43.58,0:01:48.96,Title,,0,0,0,,{\c&HD0707F&\clip(m 71 399.25 l 346.875 291.5 350.5 298.5 74.625 406.5)\pos(193.346,317.644)\blur0.803\t(3444,4990,0.7,\blur7.058)\1a&HFF&\t(-5,607,\1a&H00)\fad(0,1500)}Wind flower
-Dialogue: 0,0:07:25.50,0:07:28.53,Signs - Letter,,0,0,0,,{\frz-4\fax-0.35\pos(266.357,118.69)\blur0.803\c&H434C50&}To Nanoka
-Dialogue: 0,0:07:25.50,0:07:28.53,Signs - Letter,,0,0,0,,{\fax-0.2\frz354.5\blur0.803\c&H434C50&\pos(372.637,166.562)}I'm going to eat
-Dialogue: 0,0:07:25.50,0:07:28.53,Signs - Letter,,0,0,0,,{\frz-6.5\fax-0.35\blur0.803\c&H434C50&\pos(330.539,253.183)}with Yamada-san and company.
-Dialogue: 0,0:07:25.50,0:07:28.53,Signs - Letter,,0,0,0,,{\frz-5\fax-0.35\blur0.803\c&H434C50&\pos(284.848,337.137)}Your lunch is the fried-rice
-Dialogue: 0,0:07:25.50,0:07:28.53,Signs - Letter,,0,0,0,,{\frz-5\fax-0.35\blur0.803\c&H434C50&\pos(255.568,353.905)}pack in the freezer.
-Dialogue: 0,0:07:25.50,0:07:28.53,Signs - Letter,,0,0,0,,{\frz-5\fax-0.35\blur0.803\c&H434C50&\pos(243.222,374.446)}Heat it up and eat it.
-Dialogue: 0,0:07:25.50,0:07:28.53,Signs - Letter,,0,0,0,,{\fax-0.27\frz354.9\blur0.803\c&H434C50&\pos(358.368,399.356)}Dad
+Dialogue: 8,0:01:43.54,0:01:49.13,Title,,0,0,0,,{\c&HF4F5F4&\clip(m 35 333.75 l 309.625 226 314.375 233 38.625 340.75)\pos(193.346,317.644)\blur0.803\t(3500,4990,0.7,\blur7.058)\1a&HFF&\t(12,607,\1a&H00)\fad(0,1500)}Wind flower
+Dialogue: 9,0:01:43.54,0:01:49.13,Title,,0,0,0,,{\c&HF2EDED&\clip(m 36.125 337.75 l 312 229 315.625 237 41 344.875)\pos(193.346,317.644)\blur0.803\t(3500,4990,0.7,\blur7.058)\1a&HFF&\t(12,607,\1a&H00)\fad(0,1500)}Wind flower
+Dialogue: 10,0:01:43.54,0:01:49.13,Title,,0,0,0,,{\c&HF0E6E7&\clip(m 38.625 340.75 l 314.375 233 318.125 240 42.125 348)\pos(193.346,317.644)\blur0.803\t(3500,4990,0.7,\blur7.058)\1a&HFF&\t(12,607,\1a&H00)\fad(0,1500)}Wind flower
+Dialogue: 11,0:01:43.54,0:01:49.13,Title,,0,0,0,,{\c&HEEDEE0&\clip(m 41 344.875 l 315.625 237 320.5 244 44.5 352)\pos(193.346,317.644)\blur0.803\t(3500,4990,0.7,\blur7.058)\1a&HFF&\t(12,607,\1a&H00)\fad(0,1500)}Wind flower
+Dialogue: 12,0:01:43.54,0:01:49.13,Title,,0,0,0,,{\c&HECD7DA&\clip(m 42.125 348 l 318.125 240 323 248 47 356)\pos(193.346,317.644)\blur0.803\t(3500,4990,0.7,\blur7.058)\1a&HFF&\t(12,607,\1a&H00)\fad(0,1500)}Wind flower
+Dialogue: 13,0:01:43.54,0:01:49.13,Title,,0,0,0,,{\c&HE8C8CD&\clip(m 44.5 352 l 320.5 244 324.125 251 48.125 359)\pos(193.346,317.644)\blur0.803\t(3500,4990,0.7,\blur7.058)\1a&HFF&\t(12,607,\1a&H00)\fad(0,1500)}Wind flower
+Dialogue: 14,0:01:43.54,0:01:49.13,Title,,0,0,0,,{\c&HE8C8CD&\clip(m 47 356 l 323 248 326.5 255.25 50.5 363)\pos(193.346,317.644)\blur0.803\t(3500,4990,0.7,\blur7.058)\1a&HFF&\t(12,607,\1a&H00)\fad(0,1500)}Wind flower
+Dialogue: 15,0:01:43.54,0:01:49.13,Title,,0,0,0,,{\c&HE6C1C6&\clip(m 48.125 359 l 324.125 251 328.875 258.25 53.125 367)\pos(193.346,317.644)\blur0.803\t(3500,4990,0.7,\blur7.058)\1a&HFF&\t(12,607,\1a&H00)\fad(0,1500)}Wind flower
+Dialogue: 16,0:01:43.54,0:01:49.13,Title,,0,0,0,,{\c&HE4B9C0&\clip(m 50.5 363 l 326.5 255.25 330.125 262.25 54.25 370)\pos(193.346,317.644)\blur0.803\t(3500,4990,0.7,\blur7.058)\1a&HFF&\t(12,607,\1a&H00)\fad(0,1500)}Wind flower
+Dialogue: 17,0:01:43.54,0:01:49.13,Title,,0,0,0,,{\c&HE2B2B9&\clip(m 53.125 367 l 328.875 258.25 332.5 266.25 56.625 374)\pos(193.346,317.644)\blur0.803\t(3500,4990,0.7,\blur7.058)\1a&HFF&\t(12,607,\1a&H00)\fad(0,1500)}Wind flower
+Dialogue: 18,0:01:43.54,0:01:49.13,Title,,0,0,0,,{\c&HE0ABB3&\clip(m 54.25 370 l 330.125 262.25 334.875 269.25 59 377.25)\pos(193.346,317.644)\blur0.803\t(3500,4990,0.7,\blur7.058)\1a&HFF&\t(12,607,\1a&H00)\fad(0,1500)}Wind flower
+Dialogue: 19,0:01:43.54,0:01:49.13,Title,,0,0,0,,{\c&HDEA3AD&\clip(m 56.625 374 l 332.5 266.25 336.125 273.25 60.25 381.25)\pos(193.346,317.644)\blur0.803\t(3500,4990,0.7,\blur7.058)\1a&HFF&\t(12,607,\1a&H00)\fad(0,1500)}Wind flower
+Dialogue: 20,0:01:43.54,0:01:49.13,Title,,0,0,0,,{\c&HDC9CA6&\clip(m 59 377.25 l 334.875 269.25 338.5 277.25 62.625 385.25)\pos(193.346,317.644)\blur0.803\t(3500,4990,0.7,\blur7.058)\1a&HFF&\t(12,607,\1a&H00)\fad(0,1500)}Wind flower
+Dialogue: 21,0:01:43.54,0:01:49.13,Title,,0,0,0,,{\c&HDA95A0&\clip(m 60.25 381.25 l 336.125 273.25 340.875 280.25 65 388.25)\pos(193.346,317.644)\blur0.803\t(3500,4990,0.7,\blur7.058)\1a&HFF&\t(12,607,\1a&H00)\fad(0,1500)}Wind flower
+Dialogue: 22,0:01:43.54,0:01:49.13,Title,,0,0,0,,{\c&HD88D99&\clip(m 62.625 385.25 l 338.5 277.25 342.125 284.375 67.375 392.25)\pos(193.346,317.644)\blur0.803\t(3500,4990,0.7,\blur7.058)\1a&HFF&\t(12,607,\1a&H00)\fad(0,1500)}Wind flower
+Dialogue: 23,0:01:43.54,0:01:49.13,Title,,0,0,0,,{\c&HD68693&\clip(m 65 388.25 l 340.875 280.25 344.5 287.5 68.625 396.25)\pos(193.346,317.644)\blur0.803\t(3500,4990,0.7,\blur7.058)\1a&HFF&\t(12,607,\1a&H00)\fad(0,1500)}Wind flower
+Dialogue: 24,0:01:43.54,0:01:49.13,Title,,0,0,0,,{\c&HD47E8C&\clip(m 67.375 392.25 l 342.125 284.375 346.875 291.5 71 399.25)\pos(193.346,317.644)\blur0.803\t(3500,4990,0.7,\blur7.058)\1a&HFF&\t(12,607,\1a&H00)\fad(0,1500)}Wind flower
+Dialogue: 25,0:01:43.54,0:01:49.13,Title,,0,0,0,,{\c&HD27786&\clip(m 68.625 396.25 l 344.5 287.5 349.25 295.5 73.375 403.25)\pos(193.346,317.644)\blur0.803\t(3500,4990,0.7,\blur7.058)\1a&HFF&\t(12,607,\1a&H00)\fad(0,1500)}Wind flower
+Dialogue: 26,0:01:43.54,0:01:49.13,Title,,0,0,0,,{\c&HD0707F&\clip(m 71 399.25 l 346.875 291.5 350.5 298.5 74.625 406.5)\pos(193.346,317.644)\blur0.803\t(3500,4990,0.7,\blur7.058)\1a&HFF&\t(12,607,\1a&H00)\fad(0,1500)}Wind flower
+Dialogue: 0,0:02:54.73,0:02:57.49,Signs,,0,0,0,,{\fnKG Shadow of the Day\frz15.63\fax-0.25\fs35\pos(428.083,145.011)\c&HA0A3A5&\blur0.8}SCIENCE LAB
+Dialogue: 0,0:07:25.54,0:07:28.55,Signs - Letter,,0,0,0,,{\frz-4\fax-0.35\pos(266.357,118.69)\blur0.803\c&H434C50&}To Nanoka
+Dialogue: 0,0:07:25.54,0:07:28.55,Signs - Letter,,0,0,0,,{\fax-0.2\frz354.5\blur0.803\c&H434C50&\pos(372.637,166.562)}I'm going to eat
+Dialogue: 0,0:07:25.54,0:07:28.55,Signs - Letter,,0,0,0,,{\frz-6.5\fax-0.35\blur0.803\c&H434C50&\pos(330.539,253.183)}with Yamada-san and company.
+Dialogue: 0,0:07:25.54,0:07:28.55,Signs - Letter,,0,0,0,,{\frz-5\fax-0.35\blur0.803\c&H434C50&\pos(284.848,337.137)}Your lunch is the fried-rice
+Dialogue: 0,0:07:25.54,0:07:28.55,Signs - Letter,,0,0,0,,{\frz-5\fax-0.35\blur0.803\c&H434C50&\pos(255.568,353.905)}pack in the freezer.
+Dialogue: 0,0:07:25.54,0:07:28.55,Signs - Letter,,0,0,0,,{\frz-5\fax-0.35\blur0.803\c&H434C50&\pos(243.222,374.446)}Heat it up and eat it.
+Dialogue: 0,0:07:25.54,0:07:28.55,Signs - Letter,,0,0,0,,{\fax-0.27\frz354.9\blur0.803\c&H434C50&\pos(358.368,399.356)}Dad
 Dialogue: 1,0:17:27.48,0:17:30.48,Signs - Lamp - Glow,,0,0,0,,{\pos(326.529,49.205)\frz-15\blur0.803}{43}K
 Dialogue: 1,0:17:27.48,0:17:30.48,Signs - Lamp - Glow,,0,0,0,,{\pos(350.451,55.23)\frz-18\blur0.803}{43}u
 Dialogue: 1,0:17:27.48,0:17:30.48,Signs - Lamp - Glow,,0,0,0,,{\pos(370.784,62.259)\frz-21\blur0.803}{43}r
@@ -86,6 +89,7 @@ Dialogue: 1,0:17:27.48,0:17:30.48,Signs - Lamp - Main,,0,0,0,,{\pos(412.647,78.3
 Dialogue: 1,0:17:27.48,0:17:30.48,Signs - Lamp - Main,,0,0,0,,{\pos(427,85.356)\fs38.159\frz338.8\blur0.803}{43}i
 Dialogue: 1,0:17:27.48,0:17:30.48,Signs - Lamp - Main,,0,0,0,,{\pos(441.353,93.389)\fs37.155\frz333\blur0.803}{43}y
 Dialogue: 1,0:17:27.48,0:17:30.48,Signs - Lamp - Main,,0,0,0,,{\pos(456.902,103.431)\fs36.151\frz327.9\blur0.803}{43}a
+Dialogue: 0,0:08:28.02,0:08:31.44,Signs,,0,0,0,,{\fnFrancois One\c&H687070&\fs35\frz352.9\fax0.15\pos(494.526,130.203)\blur0.7}Asajigaoka Station
 Dialogue: 0,0:23:16.04,0:23:17.62,Next EP - Static Text,,0,0,0,,{\blur0.603\pos(598.039,90.377)\c&HF5FCFC&}{\blur0.402}AN EPIC SERIES PREVIEW
 Dialogue: 1,0:23:16.04,0:23:17.62,Next EP - Static Text,,0,0,0,,{\bord0\blur0.603\pos(598.039,90.377)\4a&HFF&}{\blur0.402}AN EPIC SERIES PREVIEW
 Dialogue: 0,0:23:16.45,0:23:17.62,Next EP - Rotating Text,,0,0,0,,{\blur0.603\pos(430.588,487.029)\fs60.251\bord3.013\3c&HFFFEFE&\c&HFFFEFE&\frx25}{\t(0,620,\frx0)}{\blur0.703}CHIDORI'S JUDGEMENT
@@ -100,8 +104,8 @@ Dialogue: 0,0:23:17.66,0:23:17.70,Next EP - Rotating Text,,0,0,0,,{\blur0.603\po
 Dialogue: 1,0:23:17.66,0:23:17.70,Next EP - Rotating Text,,0,0,0,,{\blur0.603\pos(430.588,487.029)\fs60.251\bord0\c&H00000000&\4a&HFF&}{\blur0.703\iclip(m 417.375 388.625 l 418.625 477 748.75 476 742.75 382.625 m 594.5 406.75 l 637.5 402.625 b 642.25 420.75 643.5 455.875 641.125 473 l 599.25 472)}CHIDORI'S JUDGEMENT
 Dialogue: 0,0:23:17.70,0:23:18.20,Next EP - Rotating Text,,0,0,0,,{\blur0.603\pos(430.588,487.029)\fs60.251\bord3.013\3c&HFFFEFE&\c&HFFFEFE&}{\blur0.703}CHIDORI'S JUDGEMENT
 Dialogue: 1,0:23:17.70,0:23:18.20,Next EP - Rotating Text,,0,0,0,,{\blur0.603\pos(430.588,487.029)\fs60.251\bord0\c&H00000000&\4a&HFF&}{\blur0.703}CHIDORI'S JUDGEMENT
-Dialogue: 1,0:23:27.01,0:23:29.05,Next EP - Verdict,,0,0,0,,{\pos(621.961,46.192)\bord1.004\blur0.502\bord0\c&H00000000&\4a&HFF&\fs42.176\iclip(389,3,748,50)\t(27,1850,\iclip(748,3,748,50))}Human Rocket
-Dialogue: 0,0:23:27.01,0:23:29.05,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\c&HFFFFFF&\pos(621.961,50.209)\fs42.176\\iclip(389,3,748,50)\t(27,1850,\iclip(748,3,748,50))}Human Rocket
+Dialogue: 1,0:23:27.05,0:23:29.05,Next EP - Verdict,,0,0,0,,{\pos(621.961,46.192)\bord1.004\blur0.502\bord0\c&H00000000&\4a&HFF&\fs42.176\iclip(389,3,748,50)\t(27,1850,\iclip(748,3,748,50))}Human Rocket
+Dialogue: 0,0:23:27.05,0:23:29.05,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\c&HFFFFFF&\pos(621.961,50.209)\fs42.176\\iclip(389,3,748,50)\t(27,1850,\iclip(748,3,748,50))}Human Rocket
 Dialogue: 0,0:23:19.21,0:23:22.38,Next EP - Scrolling Text,,0,0,0,,{\move(924.35,386.61,-76.76,386.61)\q2\blur0.703\c&HFBFDF8&}Next episode:
 Dialogue: 1,0:23:19.21,0:23:22.38,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(924.35,386.61,-76.76,386.61)\q2\blur0.703\4a&HFF&}Next episode:
 Dialogue: 0,0:23:19.21,0:23:22.38,Next EP - Scrolling Text,,0,0,0,,{\move(924.35,456.9,-76.76,456.9)\q2\blur0.703\c&HFBFDF8&}Wintry moon

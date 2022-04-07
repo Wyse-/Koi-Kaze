@@ -17,10 +17,11 @@ YCbCr Matrix: TV.601
 [Aegisub Project Garbage]
 Last Style Storage: Default
 Audio File: ../../../../../media/wyse/Media III/[WSE] Koi Kaze [DVD x264 478p 10bit FLAC-AC3][Dual Audio]/[WSE] Koi Kaze - 10 [DVD x264 478p 10bit FLAC-AC3][Dual Audio][45172115]_JPN_Audio01.flac
-Video File: ../../../../../media/wyse/Media III/[WSE] Koi Kaze [raws v2]/ep10.vpy.mkv
+Video File: ../../../../../media/wyse/Media III/[WSE] Koi Kaze [raws wobbly-ivtc]/ep10.vpy.mkv
+Keyframes File: Scene Changes/ep10.txt
 Video AR Mode: 4
 Video AR Value: 1.779167
-Video Zoom Percent: 2.768750
+Video Zoom Percent: 2.058333
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -34,29 +35,41 @@ Style: ED - Eng,Amaranth,30,&H32A1F0F3,&H7D585858,&H0028A8EE,&H00010108,0,0,0,0,
 Style: Next EP - Scrolling Text,Patrick Hand,35,&H00DC1DE8,&H000019FF,&H00FBFDF8,&HBE000000,0,0,0,0,119.109,100,0,0,1,2.51046,0,5,0,0,0,1
 Style: Next EP - Rotating Text,teen spirit,20,&H0000FFFF,&H0000FFFF,&H0056465B,&H0056465B,-1,-1,0,0,119.109,100,0,0,1,2.00837,0,2,6,6,5,0
 Style: Next EP - Static Text,Balsoon,40,&H00070606,&H000019FF,&H00FFFEFE,&HBE000000,0,0,0,0,119.109,100,0,0,1,1.70711,0,2,0,0,0,1
+Style: TL Note,LTFinnegan Medium,28,&H00D8D4C7,&H000019FF,&H00101010,&HBE000000,0,-1,0,0,100.052,100,0,0,1,1.40586,0.702929,8,38,38,23,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:20:25.15,0:23:15.40,Preview,,0,0,0,,
-Dialogue: 8,0:02:07.60,0:02:12.98,Title,,0,0,0,,{\c&HF4F5F4&\clip(m 153.375 333.75 l 428 226 432.875 233 157 340.75)\pos(311.758,317.644)\blur0.803\t(3444,4990,0.7,\blur7.058)\1a&HFF&\t(-5,607,\1a&H00)\fad(0,1500)}Wintry moon
-Dialogue: 9,0:02:07.60,0:02:12.98,Title,,0,0,0,,{\c&HF2EDED&\clip(m 154.625 337.75 l 430.5 229 434 237 159.375 344.875)\pos(311.758,317.644)\blur0.803\t(3444,4990,0.7,\blur7.058)\1a&HFF&\t(-5,607,\1a&H00)\fad(0,1500)}Wintry moon
-Dialogue: 10,0:02:07.60,0:02:12.98,Title,,0,0,0,,{\c&HF0E6E7&\clip(m 157 340.75 l 432.875 233 436.625 240 160.625 348)\pos(311.758,317.644)\blur0.803\t(3444,4990,0.7,\blur7.058)\1a&HFF&\t(-5,607,\1a&H00)\fad(0,1500)}Wintry moon
-Dialogue: 11,0:02:07.60,0:02:12.98,Title,,0,0,0,,{\c&HEEDEE0&\clip(m 159.375 344.875 l 434 237 439 244 163 352)\pos(311.758,317.644)\blur0.803\t(3444,4990,0.7,\blur7.058)\1a&HFF&\t(-5,607,\1a&H00)\fad(0,1500)}Wintry moon
-Dialogue: 12,0:02:07.60,0:02:12.98,Title,,0,0,0,,{\c&HECD7DA&\clip(m 160.625 348 l 436.625 240 441.375 248 165.375 356)\pos(311.758,317.644)\blur0.803\t(3444,4990,0.7,\blur7.058)\1a&HFF&\t(-5,607,\1a&H00)\fad(0,1500)}Wintry moon
-Dialogue: 13,0:02:07.60,0:02:12.98,Title,,0,0,0,,{\c&HE8C8CD&\clip(m 163 352 l 439 244 442.5 251 166.5 359)\pos(311.758,317.644)\blur0.803\t(3444,4990,0.7,\blur7.058)\1a&HFF&\t(-5,607,\1a&H00)\fad(0,1500)}Wintry moon
-Dialogue: 14,0:02:07.60,0:02:12.98,Title,,0,0,0,,{\c&HE8C8CD&\clip(m 165.375 356 l 441.375 248 445 255.25 169 363)\pos(311.758,317.644)\blur0.803\t(3444,4990,0.7,\blur7.058)\1a&HFF&\t(-5,607,\1a&H00)\fad(0,1500)}Wintry moon
-Dialogue: 15,0:02:07.60,0:02:12.98,Title,,0,0,0,,{\c&HE6C1C6&\clip(m 166.5 359 l 442.5 251 447.375 258.25 171.5 367)\pos(311.758,317.644)\blur0.803\t(3444,4990,0.7,\blur7.058)\1a&HFF&\t(-5,607,\1a&H00)\fad(0,1500)}Wintry moon
-Dialogue: 16,0:02:07.60,0:02:12.98,Title,,0,0,0,,{\c&HE4B9C0&\clip(m 169 363 l 445 255.25 448.5 262.25 172.75 370)\pos(311.758,317.644)\blur0.803\t(3444,4990,0.7,\blur7.058)\1a&HFF&\t(-5,607,\1a&H00)\fad(0,1500)}Wintry moon
-Dialogue: 17,0:02:07.60,0:02:12.98,Title,,0,0,0,,{\c&HE2B2B9&\clip(m 171.5 367 l 447.375 258.25 450.875 266.25 175.125 374)\pos(311.758,317.644)\blur0.803\t(3444,4990,0.7,\blur7.058)\1a&HFF&\t(-5,607,\1a&H00)\fad(0,1500)}Wintry moon
-Dialogue: 18,0:02:07.60,0:02:12.98,Title,,0,0,0,,{\c&HE0ABB3&\clip(m 172.75 370 l 448.5 262.25 453.375 269.25 177.5 377.25)\pos(311.758,317.644)\blur0.803\t(3444,4990,0.7,\blur7.058)\1a&HFF&\t(-5,607,\1a&H00)\fad(0,1500)}Wintry moon
-Dialogue: 19,0:02:07.60,0:02:12.98,Title,,0,0,0,,{\c&HDEA3AD&\clip(m 175.125 374 l 450.875 266.25 454.5 273.25 178.625 381.25)\pos(311.758,317.644)\blur0.803\t(3444,4990,0.7,\blur7.058)\1a&HFF&\t(-5,607,\1a&H00)\fad(0,1500)}Wintry moon
-Dialogue: 20,0:02:07.60,0:02:12.98,Title,,0,0,0,,{\c&HDC9CA6&\clip(m 177.5 377.25 l 453.375 269.25 456.875 277.25 181 385.25)\pos(311.758,317.644)\blur0.803\t(3444,4990,0.7,\blur7.058)\1a&HFF&\t(-5,607,\1a&H00)\fad(0,1500)}Wintry moon
-Dialogue: 21,0:02:07.60,0:02:12.98,Title,,0,0,0,,{\c&HDA95A0&\clip(m 178.625 381.25 l 454.5 273.25 459.25 280.25 183.5 388.25)\pos(311.758,317.644)\blur0.803\t(3444,4990,0.7,\blur7.058)\1a&HFF&\t(-5,607,\1a&H00)\fad(0,1500)}Wintry moon
-Dialogue: 22,0:02:07.60,0:02:12.98,Title,,0,0,0,,{\c&HD88D99&\clip(m 181 385.25 l 456.875 277.25 460.5 284.375 185.875 392.25)\pos(311.758,317.644)\blur0.803\t(3444,4990,0.7,\blur7.058)\1a&HFF&\t(-5,607,\1a&H00)\fad(0,1500)}Wintry moon
-Dialogue: 23,0:02:07.60,0:02:12.98,Title,,0,0,0,,{\c&HD68693&\clip(m 183.5 388.25 l 459.25 280.25 462.875 287.5 187 396.25)\pos(311.758,317.644)\blur0.803\t(3444,4990,0.7,\blur7.058)\1a&HFF&\t(-5,607,\1a&H00)\fad(0,1500)}Wintry moon
-Dialogue: 24,0:02:07.60,0:02:12.98,Title,,0,0,0,,{\c&HD47E8C&\clip(m 185.875 392.25 l 460.5 284.375 465.25 291.5 189.375 399.25)\pos(311.758,317.644)\blur0.803\t(3444,4990,0.7,\blur7.058)\1a&HFF&\t(-5,607,\1a&H00)\fad(0,1500)}Wintry moon
-Dialogue: 25,0:02:07.60,0:02:12.98,Title,,0,0,0,,{\c&HD27786&\clip(m 187 396.25 l 462.875 287.5 467.625 295.5 191.875 403.25)\pos(311.758,317.644)\blur0.803\t(3444,4990,0.7,\blur7.058)\1a&HFF&\t(-5,607,\1a&H00)\fad(0,1500)}Wintry moon
-Dialogue: 26,0:02:07.60,0:02:12.98,Title,,0,0,0,,{\c&HD0707F&\clip(m 189.375 399.25 l 465.25 291.5 468.875 298.5 193 406.5)\pos(311.758,317.644)\blur0.803\t(3444,4990,0.7,\blur7.058)\1a&HFF&\t(-5,607,\1a&H00)\fad(0,1500)}Wintry moon
+Dialogue: 8,0:02:07.56,0:02:13.11,Title,,0,0,0,,{\c&HF4F5F4&\clip(m 153.375 333.75 l 428 226 432.875 233 157 340.75)\pos(311.758,317.644)\blur0.803\t(3500,4990,0.7,\blur7.058)\1a&HFF&\t(20,607,\1a&H00)\fad(0,1500)}Wintry moon
+Dialogue: 9,0:02:07.56,0:02:13.11,Title,,0,0,0,,{\c&HF2EDED&\clip(m 154.625 337.75 l 430.5 229 434 237 159.375 344.875)\pos(311.758,317.644)\blur0.803\t(3500,4990,0.7,\blur7.058)\1a&HFF&\t(20,607,\1a&H00)\fad(0,1500)}Wintry moon
+Dialogue: 10,0:02:07.56,0:02:13.11,Title,,0,0,0,,{\c&HF0E6E7&\clip(m 157 340.75 l 432.875 233 436.625 240 160.625 348)\pos(311.758,317.644)\blur0.803\t(3500,4990,0.7,\blur7.058)\1a&HFF&\t(20,607,\1a&H00)\fad(0,1500)}Wintry moon
+Dialogue: 11,0:02:07.56,0:02:13.11,Title,,0,0,0,,{\c&HEEDEE0&\clip(m 159.375 344.875 l 434 237 439 244 163 352)\pos(311.758,317.644)\blur0.803\t(3500,4990,0.7,\blur7.058)\1a&HFF&\t(20,607,\1a&H00)\fad(0,1500)}Wintry moon
+Dialogue: 12,0:02:07.56,0:02:13.11,Title,,0,0,0,,{\c&HECD7DA&\clip(m 160.625 348 l 436.625 240 441.375 248 165.375 356)\pos(311.758,317.644)\blur0.803\t(3500,4990,0.7,\blur7.058)\1a&HFF&\t(20,607,\1a&H00)\fad(0,1500)}Wintry moon
+Dialogue: 13,0:02:07.56,0:02:13.11,Title,,0,0,0,,{\c&HE8C8CD&\clip(m 163 352 l 439 244 442.5 251 166.5 359)\pos(311.758,317.644)\blur0.803\t(3500,4990,0.7,\blur7.058)\1a&HFF&\t(20,607,\1a&H00)\fad(0,1500)}Wintry moon
+Dialogue: 14,0:02:07.56,0:02:13.11,Title,,0,0,0,,{\c&HE8C8CD&\clip(m 165.375 356 l 441.375 248 445 255.25 169 363)\pos(311.758,317.644)\blur0.803\t(3500,4990,0.7,\blur7.058)\1a&HFF&\t(20,607,\1a&H00)\fad(0,1500)}Wintry moon
+Dialogue: 15,0:02:07.56,0:02:13.11,Title,,0,0,0,,{\c&HE6C1C6&\clip(m 166.5 359 l 442.5 251 447.375 258.25 171.5 367)\pos(311.758,317.644)\blur0.803\t(3500,4990,0.7,\blur7.058)\1a&HFF&\t(20,607,\1a&H00)\fad(0,1500)}Wintry moon
+Dialogue: 16,0:02:07.56,0:02:13.11,Title,,0,0,0,,{\c&HE4B9C0&\clip(m 169 363 l 445 255.25 448.5 262.25 172.75 370)\pos(311.758,317.644)\blur0.803\t(3500,4990,0.7,\blur7.058)\1a&HFF&\t(20,607,\1a&H00)\fad(0,1500)}Wintry moon
+Dialogue: 17,0:02:07.56,0:02:13.11,Title,,0,0,0,,{\c&HE2B2B9&\clip(m 171.5 367 l 447.375 258.25 450.875 266.25 175.125 374)\pos(311.758,317.644)\blur0.803\t(3500,4990,0.7,\blur7.058)\1a&HFF&\t(20,607,\1a&H00)\fad(0,1500)}Wintry moon
+Dialogue: 18,0:02:07.56,0:02:13.11,Title,,0,0,0,,{\c&HE0ABB3&\clip(m 172.75 370 l 448.5 262.25 453.375 269.25 177.5 377.25)\pos(311.758,317.644)\blur0.803\t(3500,4990,0.7,\blur7.058)\1a&HFF&\t(20,607,\1a&H00)\fad(0,1500)}Wintry moon
+Dialogue: 19,0:02:07.56,0:02:13.11,Title,,0,0,0,,{\c&HDEA3AD&\clip(m 175.125 374 l 450.875 266.25 454.5 273.25 178.625 381.25)\pos(311.758,317.644)\blur0.803\t(3500,4990,0.7,\blur7.058)\1a&HFF&\t(20,607,\1a&H00)\fad(0,1500)}Wintry moon
+Dialogue: 20,0:02:07.56,0:02:13.11,Title,,0,0,0,,{\c&HDC9CA6&\clip(m 177.5 377.25 l 453.375 269.25 456.875 277.25 181 385.25)\pos(311.758,317.644)\blur0.803\t(3500,4990,0.7,\blur7.058)\1a&HFF&\t(20,607,\1a&H00)\fad(0,1500)}Wintry moon
+Dialogue: 21,0:02:07.56,0:02:13.11,Title,,0,0,0,,{\c&HDA95A0&\clip(m 178.625 381.25 l 454.5 273.25 459.25 280.25 183.5 388.25)\pos(311.758,317.644)\blur0.803\t(3500,4990,0.7,\blur7.058)\1a&HFF&\t(20,607,\1a&H00)\fad(0,1500)}Wintry moon
+Dialogue: 22,0:02:07.56,0:02:13.11,Title,,0,0,0,,{\c&HD88D99&\clip(m 181 385.25 l 456.875 277.25 460.5 284.375 185.875 392.25)\pos(311.758,317.644)\blur0.803\t(3500,4990,0.7,\blur7.058)\1a&HFF&\t(20,607,\1a&H00)\fad(0,1500)}Wintry moon
+Dialogue: 23,0:02:07.56,0:02:13.11,Title,,0,0,0,,{\c&HD68693&\clip(m 183.5 388.25 l 459.25 280.25 462.875 287.5 187 396.25)\pos(311.758,317.644)\blur0.803\t(3500,4990,0.7,\blur7.058)\1a&HFF&\t(20,607,\1a&H00)\fad(0,1500)}Wintry moon
+Dialogue: 24,0:02:07.56,0:02:13.11,Title,,0,0,0,,{\c&HD47E8C&\clip(m 185.875 392.25 l 460.5 284.375 465.25 291.5 189.375 399.25)\pos(311.758,317.644)\blur0.803\t(3500,4990,0.7,\blur7.058)\1a&HFF&\t(20,607,\1a&H00)\fad(0,1500)}Wintry moon
+Dialogue: 25,0:02:07.56,0:02:13.11,Title,,0,0,0,,{\c&HD27786&\clip(m 187 396.25 l 462.875 287.5 467.625 295.5 191.875 403.25)\pos(311.758,317.644)\blur0.803\t(3500,4990,0.7,\blur7.058)\1a&HFF&\t(20,607,\1a&H00)\fad(0,1500)}Wintry moon
+Dialogue: 26,0:02:07.56,0:02:13.11,Title,,0,0,0,,{\c&HD0707F&\clip(m 189.375 399.25 l 465.25 291.5 468.875 298.5 193 406.5)\pos(311.758,317.644)\blur0.803\t(3500,4990,0.7,\blur7.058)\1a&HFF&\t(20,607,\1a&H00)\fad(0,1500)}Wintry moon
+Dialogue: 0,0:07:10.03,0:07:12.53,Signs,,0,0,0,gradient @67f 1,{\clip(288,213,298,243)\pos(343,228)\1c&H0E1318&\fnSF Action Man\frz355.4\fax0.15\blur0.8\fs34}{\\k0}ANZAI
+Dialogue: 0,0:07:10.03,0:07:12.53,Signs,,0,0,0,gradient @67f 2,{\clip(298,213,308,243)\pos(343,228)\1c&H0E1419&\fnSF Action Man\frz355.4\fax0.15\blur0.8\fs34}{\\k0}ANZAI
+Dialogue: 0,0:07:10.03,0:07:12.53,Signs,,0,0,0,gradient @67f 3,{\clip(308,213,318,243)\pos(343,228)\1c&H0F151B&\fnSF Action Man\frz355.4\fax0.15\blur0.8\fs34}{\\k0}ANZAI
+Dialogue: 0,0:07:10.03,0:07:12.53,Signs,,0,0,0,gradient @67f 4,{\clip(318,213,328,243)\pos(343,228)\1c&H10171D&\fnSF Action Man\frz355.4\fax0.15\blur0.8\fs34}{\\k0}ANZAI
+Dialogue: 0,0:07:10.03,0:07:12.53,Signs,,0,0,0,gradient @67f 5,{\clip(328,213,338,243)\pos(343,228)\1c&H11181F&\fnSF Action Man\frz355.4\fax0.15\blur0.8\fs34}{\\k0}ANZAI
+Dialogue: 0,0:07:10.03,0:07:12.53,Signs,,0,0,0,gradient @67f 6,{\clip(338,213,348,243)\pos(343,228)\1c&H121A21&\fnSF Action Man\frz355.4\fax0.15\blur0.8\fs34}{\\k0}ANZAI
+Dialogue: 0,0:07:10.03,0:07:12.53,Signs,,0,0,0,gradient @67f 7,{\clip(348,213,358,243)\pos(343,228)\1c&H121B22&\fnSF Action Man\frz355.4\fax0.15\blur0.8\fs34}{\\k0}ANZAI
+Dialogue: 0,0:07:10.03,0:07:12.53,Signs,,0,0,0,gradient @67f 8,{\clip(358,213,368,253)\pos(343,228)\1c&H131C24&\fnSF Action Man\frz355.4\fax0.15\blur0.8\fs34}{\\k0}ANZAI
+Dialogue: 0,0:07:10.03,0:07:12.53,Signs,,0,0,0,gradient @67f 9,{\clip(368,213,378,253)\pos(343,228)\1c&H141E26&\fnSF Action Man\frz355.4\fax0.15\blur0.8\fs34}{\\k0}ANZAI
+Dialogue: 0,0:07:10.03,0:07:12.53,Signs,,0,0,0,gradient @67f 10,{\clip(378,213,388,253)\pos(343,228)\1c&H151F28&\fnSF Action Man\frz355.4\fax0.15\blur0.8\fs34}{\\k0}ANZAI
+Dialogue: 0,0:07:10.03,0:07:12.53,Signs,,0,0,0,gradient @67f 11,{\clip(388,213,398,253)\pos(343,228)\1c&H16212A&\fnSF Action Man\frz355.4\fax0.15\blur0.8\fs34}{\\k0}ANZAI
 Dialogue: 0,0:23:14.95,0:23:16.54,Next EP - Static Text,,0,0,0,,{\blur0.603\pos(598.039,90.377)\c&HF5FCFC&}{\blur0.402}AN EPIC SERIES PREVIEW
 Dialogue: 1,0:23:14.95,0:23:16.54,Next EP - Static Text,,0,0,0,,{\bord0\blur0.603\pos(598.039,90.377)\4a&HFF&}{\blur0.402}AN EPIC SERIES PREVIEW
 Dialogue: 0,0:23:15.37,0:23:16.54,Next EP - Rotating Text,,0,0,0,,{\blur0.603\pos(430.588,487.029)\fs60.251\bord3.013\3c&HFFFEFE&\c&HFFFEFE&\frx25}{\t(0,620,\frx0)}{\blur0.703}CHIDORI'S JUDGEMENT
@@ -79,8 +92,8 @@ Dialogue: 0,0:23:18.41,0:23:24.46,Next EP - Scrolling Text,,0,0,0,,{\move(1390.8
 Dialogue: 1,0:23:18.41,0:23:24.46,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(1390.82,386.61,-734.61,386.61)\q2\blur0.703\4a&HFF&}Koshiro decides to live right, but his feelings for Nanoka keep getting stronger.
 Dialogue: 0,0:23:20.92,0:23:26.21,Next EP - Scrolling Text,,0,0,0,,{\move(1058.529,456.904,-803.765,456.904)\q2\blur0.703\c&HFBFDF8&}He wants to see Nanoka. Koshiro cries.
 Dialogue: 1,0:23:20.92,0:23:26.21,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(1058.529,456.904,-803.765,456.904)\q2\blur0.703\4a&HFF&}He wants to see Nanoka. Koshiro cries.
-Dialogue: 1,0:23:25.09,0:23:26.88,Next EP - Verdict,,0,0,0,,{\pos(621.961,56.234)\bord1.004\blur0.803\bord0\c&H00000000&\4a&HFF&\fs36.151\iclip(448,13,748,60)\t(27,1260,\iclip(748,13,748,60))\fnGochi Hand}Master Takahashi
-Dialogue: 0,0:23:25.09,0:23:26.88,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\c&HFFFFFF&\pos(621.961,60.251)\fs36.151\\iclip(448,13,748,60)\t(27,1260,\iclip(748,13,748,60))\fnGochi Hand}Master Takahashi
+Dialogue: 1,0:23:25.17,0:23:26.96,Next EP - Verdict,,0,0,0,,{\pos(621.961,56.234)\bord1.004\blur0.803\bord0\c&H00000000&\4a&HFF&\fs36.151\iclip(448,13,748,60)\t(27,1260,\iclip(748,13,748,60))\fnGochi Hand}Master Takahashi
+Dialogue: 0,0:23:25.17,0:23:26.96,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\c&HFFFFFF&\pos(621.961,60.251)\fs36.151\\iclip(448,13,748,60)\t(27,1260,\iclip(748,13,748,60))\fnGochi Hand}Master Takahashi
 Dialogue: 0,0:00:11.63,0:00:15.81,OP - Romaji,,0,0,0,fx,{\fad(300,200)\blur0.753}{\k39}ha{\k28}ji{\k31}me{\k30}te {\k31}no {\k95}ki{\k93}mo{\k51}chi
 Dialogue: 0,0:00:16.40,0:00:20.77,OP - Romaji,,0,0,0,fx,{\fad(300,200)\blur0.753}{\k42}sho{\k29}n{\k32}bo{\k32}ri {\k26}no {\k93}mu{\k98}ne {\k47}ni
 Dialogue: 0,0:00:20.77,0:00:29.87,OP - Romaji,,0,0,0,fx,{\fad(300,200)\blur0.753}{\k94}sot{\k85}to {\k71}na{\k94}ge{\k94}ra{\k62}re{\k154}ta {\k32}hi{\k33}da{\k32}ma{\k95}ri{\k49} ne

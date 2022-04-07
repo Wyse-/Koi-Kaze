@@ -18,10 +18,11 @@ YCbCr Matrix: TV.601
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Video File: ../../../../../media/wyse/Media III/[WSE] Koi Kaze [raws v2]/ep2.vpy.mkv
+Video File: ../../../../../media/wyse/Media III/[WSE] Koi Kaze [raws wobbly-ivtc]/ep2.vpy.mkv
+Keyframes File: Scene Changes/ep2.txt
 Video AR Mode: 4
 Video AR Value: 1.779167
-Video Zoom Percent: 2.768750
+Video Zoom Percent: 2.058333
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -35,47 +36,48 @@ Style: ED - Eng,Amaranth,30,&H32A1F0F3,&H7D585858,&H0028A8EE,&H00010108,0,0,0,0,
 Style: Next EP - Scrolling Text,Patrick Hand,35,&H00DC1DE8,&H000019FF,&H00FBFDF8,&HBE000000,0,0,0,0,119.109,100,0,0,1,2.51046,0,5,0,0,0,1
 Style: Next EP - Rotating Text,teen spirit,20,&H0000FFFF,&H0000FFFF,&H0056465B,&H0056465B,-1,-1,0,0,119.109,100,0,0,1,2.00837,0,2,6,6,5,0
 Style: Next EP - Static Text,Balsoon,40,&H00070606,&H000019FF,&H00FFFEFE,&HBE000000,0,0,0,0,119.109,100,0,0,1,1.70711,0,2,0,0,0,1
+Style: TL Note,LTFinnegan Medium,28,&H00D8D4C7,&H000019FF,&H00101010,&HBE000000,0,-1,0,0,100.052,100,0,0,1,1.40586,0.702929,8,38,38,23,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:01:43.58,0:01:48.75,Title,,0,0,0,,{\t(3484,5660,0.7,\blur10.084)\1a&HFF&\t(-5,607,\1a&H00)\fad(0,550)\pos(287.865,335.798)\frz25\p1}m 0 0 l 302.125 0 302.125 146.25 0 146.25
-Comment: 0,0:01:43.58,0:01:48.75,Title,,0,0,0,,{\t(3484,5660,0.7,\blur10.084)\1a&HFF&\t(-5,607,\1a&H00)\fad(0,550)\pos(287.865,335.798)}Spring Blues
+Comment: 0,0:01:43.58,0:01:48.75,Title,,0,0,0,,{\t(3542,5660,0.7,\blur10.084)\1a&HFF&\t(-5,607,\1a&H00)\fad(0,550)\pos(287.865,335.798)\frz25\p1}m 0 0 l 302.125 0 302.125 146.25 0 146.25
+Comment: 0,0:01:43.58,0:01:48.75,Title,,0,0,0,,{\t(3542,5660,0.7,\blur10.084)\1a&HFF&\t(-5,607,\1a&H00)\fad(0,550)\pos(287.865,335.798)}Spring Blues
 Comment: 0,0:01:44.62,0:01:48.75,Title,,0,0,0,,{\fscx119.109\p1\pos(427,353.95)}m 0 0 l 717 0 717 1 0 1
 Comment: 0,0:01:43.58,0:01:48.75,Title,,0,0,0,,{\t(3525,5660,\blur10.084)\fad(671,550)\pos(289.031,331.764)}Spring Blues
 Comment: 0,0:03:04.83,0:03:06.99,TL Note,,0,0,0,,{\a6}nitsuke = japanese boiled and seasoned food{sugoi, we’re doing another show about jp food names~}
 Comment: 0,0:05:01.82,0:05:02.65,Dialogue,,0,0,0,,Yes?{does not sound inquisitive. at all.}
-Dialogue: 0,0:01:43.58,0:01:48.75,Title,,0,0,0,,{\c&HEBE8F0&\clip(m 152.25 329.75 l 428 221.75 432.875 229 157 336.75)\pos(323.743,335.799)\blur0.803\t(3484,5660,0.7,\blur10.084)\1a&HFF&\t(5,607,\1a&H00)\fad(0,550)}Spring Blues
-Dialogue: 0,0:01:43.58,0:01:48.75,Title,,0,0,0,,{\c&HEAE5F0&\clip(m 154.625 333.75 l 430.5 226 434 233 158.125 340.75)\pos(323.743,335.799)\blur0.803\t(3484,5660,0.7,\blur10.084)\1a&HFF&\t(5,607,\1a&H00)\fad(0,550)}Spring Blues
-Dialogue: 0,0:01:43.58,0:01:48.75,Title,,0,0,0,,{\c&HE8E3F0&\clip(m 157 336.75 l 432.875 229 436.625 237 160.625 344.875)\pos(323.743,335.799)\blur0.803\t(3484,5660,0.7,\blur10.084)\1a&HFF&\t(5,607,\1a&H00)\fad(0,550)}Spring Blues
-Dialogue: 0,0:01:43.58,0:01:48.75,Title,,0,0,0,,{\c&HE7E0F0&\clip(m 158.125 340.75 l 434 233 439 240 163 348)\pos(323.743,335.799)\blur0.803\t(3484,5660,0.7,\blur10.084)\1a&HFF&\t(5,607,\1a&H00)\fad(0,550)}Spring Blues
-Dialogue: 0,0:01:43.58,0:01:48.75,Title,,0,0,0,,{\c&HE5DDEF&\clip(m 160.625 344.875 l 436.625 237 440.125 244 165.375 352)\pos(323.743,335.799)\blur0.803\t(3484,5660,0.7,\blur10.084)\1a&HFF&\t(5,607,\1a&H00)\fad(0,550)}Spring Blues
-Dialogue: 0,0:01:43.58,0:01:48.75,Title,,0,0,0,,{\c&HE4DBEF&\clip(m 163 348 l 439 240 442.5 247 166.5 356)\pos(323.743,335.799)\blur0.803\t(3484,5660,0.7,\blur10.084)\1a&HFF&\t(5,607,\1a&H00)\fad(0,550)}Spring Blues
-Dialogue: 0,0:01:43.58,0:01:48.75,Title,,0,0,0,,{\c&HE2D8EF&\clip(m 165.375 352 l 440.125 244 445 251 169 359)\pos(323.743,335.799)\blur0.803\t(3484,5660,0.7,\blur10.084)\1a&HFF&\t(5,607,\1a&H00)\fad(0,550)}Spring Blues
-Dialogue: 0,0:01:43.58,0:01:48.75,Title,,0,0,0,,{\c&HE1D6EF&\clip(m 166.5 356 l 442.5 247 446.125 255.25 171.5 363)\pos(323.743,335.799)\blur0.803\t(3484,5660,0.7,\blur10.084)\1a&HFF&\t(5,607,\1a&H00)\fad(0,550)}Spring Blues
-Dialogue: 0,0:01:43.58,0:01:48.75,Title,,0,0,0,,{\c&HDFD3EF&\clip(m 169 359 l 445 251 448.5 258.25 172.75 366)\pos(323.743,335.799)\blur0.803\t(3484,5660,0.7,\blur10.084)\1a&HFF&\t(5,607,\1a&H00)\fad(0,550)}Spring Blues
-Dialogue: 0,0:01:43.58,0:01:48.75,Title,,0,0,0,,{\c&HDED0EF&\clip(m 171.5 363 l 446.125 255.25 450.875 262.25 175.125 370)\pos(323.743,335.799)\blur0.803\t(3484,5660,0.7,\blur10.084)\1a&HFF&\t(5,607,\1a&H00)\fad(0,550)}Spring Blues
-Dialogue: 0,0:01:43.58,0:01:48.75,Title,,0,0,0,,{\c&HDCCEEF&\clip(m 172.75 366 l 448.5 258.25 453.375 266.25 177.5 374)\pos(323.743,335.799)\blur0.803\t(3484,5660,0.7,\blur10.084)\1a&HFF&\t(5,607,\1a&H00)\fad(0,550)}Spring Blues
-Dialogue: 0,0:01:43.58,0:01:48.75,Title,,0,0,0,,{\c&HDACBEF&\clip(m 175.125 370 l 450.875 262.25 454.5 269.25 178.625 377.25)\pos(323.743,335.799)\blur0.803\t(3484,5660,0.7,\blur10.084)\1a&HFF&\t(5,607,\1a&H00)\fad(0,550)}Spring Blues
-Dialogue: 0,0:01:43.58,0:01:48.75,Title,,0,0,0,,{\c&HD9C8EF&\clip(m 177.5 374 l 453.375 266.25 456.875 273.25 181 381.25)\pos(323.743,335.799)\blur0.803\t(3484,5660,0.7,\blur10.084)\1a&HFF&\t(5,607,\1a&H00)\fad(0,550)}Spring Blues
-Dialogue: 0,0:01:43.58,0:01:48.75,Title,,0,0,0,,{\c&HD7C6EF&\clip(m 178.625 377.25 l 454.5 269.25 459.25 276.25 183.5 385.25)\pos(323.743,335.799)\blur0.803\t(3484,5660,0.7,\blur10.084)\1a&HFF&\t(5,607,\1a&H00)\fad(0,550)}Spring Blues
-Dialogue: 0,0:01:43.58,0:01:48.75,Title,,0,0,0,,{\c&HD6C3EF&\clip(m 181 381.25 l 456.875 273.25 460.5 280.25 184.625 388.25)\pos(323.743,335.799)\blur0.803\t(3484,5660,0.7,\blur10.084)\1a&HFF&\t(5,607,\1a&H00)\fad(0,550)}Spring Blues
-Dialogue: 0,0:01:43.58,0:01:48.75,Title,,0,0,0,,{\c&HD4C0EF&\clip(m 183.5 385.25 l 459.25 276.25 462.875 284.375 187 392.25)\pos(323.743,335.799)\blur0.803\t(3484,5660,0.7,\blur10.084)\1a&HFF&\t(5,607,\1a&H00)\fad(0,550)}Spring Blues
-Dialogue: 0,0:01:43.58,0:01:48.75,Title,,0,0,0,,{\c&HD3BEEE&\clip(m 184.625 388.25 l 460.5 280.25 465.25 287.5 189.375 395.25)\pos(323.743,335.799)\blur0.803\t(3484,5660,0.7,\blur10.084)\1a&HFF&\t(5,607,\1a&H00)\fad(0,550)}Spring Blues
-Dialogue: 0,0:01:43.58,0:01:48.75,Title,,0,0,0,,{\c&HD1BBEE&\clip(m 187 392.25 l 462.875 284.375 466.5 291.5 190.625 399.25)\pos(323.743,335.799)\blur0.803\t(3484,5660,0.7,\blur10.084)\1a&HFF&\t(5,607,\1a&H00)\fad(0,550)}Spring Blues
-Dialogue: 0,0:01:43.58,0:01:48.75,Title,,0,0,0,,{\c&HD0B8EE&\clip(m 189.375 395.25 l 465.25 287.5 468.875 295.5 193 403.25)\pos(323.743,335.799)\blur0.803\t(3484,5660,0.7,\blur10.084)\1a&HFF&\t(5,607,\1a&H00)\fad(0,550)}Spring Blues
-Dialogue: 0,0:01:43.58,0:01:48.75,Title,,0,0,0,,{\c&HCEB6EE&\clip(m 190.625 399.25 l 466.5 291.5 471.25 298.5 195.375 406.5)\pos(323.743,335.799)\blur0.803\t(3484,5660,0.7,\blur10.084)\1a&HFF&\t(5,607,\1a&H00)\fad(0,550)}Spring Blues
-Dialogue: 0,0:01:43.58,0:01:48.75,Title,,0,0,0,,{\c&HCDB3EE&\clip(m 193 403.25 l 468.875 295.5 472.5 302.5 197.75 410.5)\pos(323.743,335.799)\blur0.803\t(3484,5660,0.7,\blur10.084)\1a&HFF&\t(5,607,\1a&H00)\fad(0,550)}Spring Blues
-Dialogue: 0,0:01:43.58,0:01:48.75,Title,,0,0,0,,{\c&HCBB0EE&\clip(m 195.375 406.5 l 471.25 298.5 474.875 305.5 199 414.5)\pos(323.743,335.799)\blur0.803\t(3484,5660,0.7,\blur10.084)\1a&HFF&\t(5,607,\1a&H00)\fad(0,550)}Spring Blues
-Dialogue: 0,0:01:43.58,0:01:48.75,Title,,0,0,0,,{\c&HC9AEEE&\clip(m 197.75 410.5 l 472.5 302.5 477.25 309.5 201.375 417.5)\pos(323.743,335.799)\blur0.803\t(3484,5660,0.7,\blur10.084)\1a&HFF&\t(5,607,\1a&H00)\fad(0,550)}Spring Blues
-Dialogue: 0,0:01:43.58,0:01:48.75,Title,,0,0,0,,{\c&HC8ABEE&\clip(m 199 414.5 l 474.875 305.5 479.625 313.5 203.75 421.5)\pos(323.743,335.799)\blur0.803\t(3484,5660,0.7,\blur10.084)\1a&HFF&\t(5,607,\1a&H00)\fad(0,550)}Spring Blues
-Dialogue: 0,0:01:43.58,0:01:48.75,Title,,0,0,0,,{\c&HC6A8EE&\clip(m 201.375 417.5 l 477.25 309.5 480.875 316.75 205 424.5)\pos(323.743,335.799)\blur0.803\t(3484,5660,0.7,\blur10.084)\1a&HFF&\t(5,607,\1a&H00)\fad(0,550)}Spring Blues
-Dialogue: 0,0:01:43.58,0:01:48.75,Title,,0,0,0,,{\c&HC5A6EE&\clip(m 203.75 421.5 l 479.625 313.5 483.25 320.75 207.375 428.5)\pos(323.743,335.799)\blur0.803\t(3484,5660,0.7,\blur10.084)\1a&HFF&\t(5,607,\1a&H00)\fad(0,550)}Spring Blues
-Dialogue: 0,0:01:43.58,0:01:48.75,Title,,0,0,0,,{\c&HC3A3EE&\clip(m 205 424.5 l 480.875 316.75 485.625 324.75 209.75 432.5)\pos(323.743,335.799)\blur0.803\t(3484,5660,0.7,\blur10.084)\1a&HFF&\t(5,607,\1a&H00)\fad(0,550)}Spring Blues
-Dialogue: 0,0:01:43.58,0:01:48.75,Title,,0,0,0,,{\c&HC2A1EE&\clip(m 207.375 428.5 l 483.25 320.75 486.75 327.75 211 435.75)\pos(323.743,335.799)\blur0.803\t(3484,5660,0.7,\blur10.084)\1a&HFF&\t(5,607,\1a&H00)\fad(0,550)}Spring Blues
-Dialogue: 0,0:01:43.58,0:01:48.75,Title,,0,0,0,,{\c&HC09EED&\clip(m 209.75 432.5 l 485.625 324.75 489.25 331.75 213.375 439.75)\pos(323.743,335.799)\blur0.803\t(3484,5660,0.7,\blur10.084)\1a&HFF&\t(5,607,\1a&H00)\fad(0,550)}Spring Blues
-Dialogue: 0,0:01:43.58,0:01:48.75,Title,,0,0,0,,{\c&HBF9BED&\clip(m 211 435.75 l 486.75 327.75 491.75 334.75 215.75 443.75)\pos(323.743,335.799)\blur0.803\t(3484,5660,0.7,\blur10.084)\1a&HFF&\t(5,607,\1a&H00)\fad(0,550)}Spring Blues
-Dialogue: 0,0:01:43.58,0:01:48.75,Title,,0,0,0,,{\c&HBD99ED&\clip(m 213.375 439.75 l 489.25 331.75 493 338.75 217 446.75)\pos(323.743,335.799)\blur0.803\t(3484,5660,0.7,\blur10.084)\1a&HFF&\t(5,607,\1a&H00)\fad(0,550)}Spring Blues
-Dialogue: 0,0:01:43.58,0:01:48.75,Title,,0,0,0,,{\c&HBC96ED&\clip(m 215.75 443.75 l 491.75 334.75 495.375 342.75 219.375 450.75)\pos(323.743,335.799)\blur0.803\t(3484,5660,0.7,\blur10.084)\1a&HFF&\t(5,607,\1a&H00)\fad(0,550)}Spring Blues
+Dialogue: 0,0:01:43.54,0:01:48.88,Title,,0,0,0,,{\c&HEBE8F0&\clip(m 152.25 329.75 l 428 221.75 432.875 229 157 336.75)\pos(323.743,335.799)\blur0.803\t(3542,5660,0.7,\blur10.084)\1a&HFF&\t(-15,647,\1a&H00)\fad(50,550)}Spring Blues
+Dialogue: 0,0:01:43.54,0:01:48.88,Title,,0,0,0,,{\c&HEAE5F0&\clip(m 154.625 333.75 l 430.5 226 434 233 158.125 340.75)\pos(323.743,335.799)\blur0.803\t(3542,5660,0.7,\blur10.084)\1a&HFF&\t(-15,647,\1a&H00)\fad(50,550)}Spring Blues
+Dialogue: 0,0:01:43.54,0:01:48.88,Title,,0,0,0,,{\c&HE8E3F0&\clip(m 157 336.75 l 432.875 229 436.625 237 160.625 344.875)\pos(323.743,335.799)\blur0.803\t(3542,5660,0.7,\blur10.084)\1a&HFF&\t(-15,647,\1a&H00)\fad(50,550)}Spring Blues
+Dialogue: 0,0:01:43.54,0:01:48.88,Title,,0,0,0,,{\c&HE7E0F0&\clip(m 158.125 340.75 l 434 233 439 240 163 348)\pos(323.743,335.799)\blur0.803\t(3542,5660,0.7,\blur10.084)\1a&HFF&\t(-15,647,\1a&H00)\fad(50,550)}Spring Blues
+Dialogue: 0,0:01:43.54,0:01:48.88,Title,,0,0,0,,{\c&HE5DDEF&\clip(m 160.625 344.875 l 436.625 237 440.125 244 165.375 352)\pos(323.743,335.799)\blur0.803\t(3542,5660,0.7,\blur10.084)\1a&HFF&\t(-15,647,\1a&H00)\fad(50,550)}Spring Blues
+Dialogue: 0,0:01:43.54,0:01:48.88,Title,,0,0,0,,{\c&HE4DBEF&\clip(m 163 348 l 439 240 442.5 247 166.5 356)\pos(323.743,335.799)\blur0.803\t(3542,5660,0.7,\blur10.084)\1a&HFF&\t(-15,647,\1a&H00)\fad(50,550)}Spring Blues
+Dialogue: 0,0:01:43.54,0:01:48.88,Title,,0,0,0,,{\c&HE2D8EF&\clip(m 165.375 352 l 440.125 244 445 251 169 359)\pos(323.743,335.799)\blur0.803\t(3542,5660,0.7,\blur10.084)\1a&HFF&\t(-15,647,\1a&H00)\fad(50,550)}Spring Blues
+Dialogue: 0,0:01:43.54,0:01:48.88,Title,,0,0,0,,{\c&HE1D6EF&\clip(m 166.5 356 l 442.5 247 446.125 255.25 171.5 363)\pos(323.743,335.799)\blur0.803\t(3542,5660,0.7,\blur10.084)\1a&HFF&\t(-15,647,\1a&H00)\fad(50,550)}Spring Blues
+Dialogue: 0,0:01:43.54,0:01:48.88,Title,,0,0,0,,{\c&HDFD3EF&\clip(m 169 359 l 445 251 448.5 258.25 172.75 366)\pos(323.743,335.799)\blur0.803\t(3542,5660,0.7,\blur10.084)\1a&HFF&\t(-15,647,\1a&H00)\fad(50,550)}Spring Blues
+Dialogue: 0,0:01:43.54,0:01:48.88,Title,,0,0,0,,{\c&HDED0EF&\clip(m 171.5 363 l 446.125 255.25 450.875 262.25 175.125 370)\pos(323.743,335.799)\blur0.803\t(3542,5660,0.7,\blur10.084)\1a&HFF&\t(-15,647,\1a&H00)\fad(50,550)}Spring Blues
+Dialogue: 0,0:01:43.54,0:01:48.88,Title,,0,0,0,,{\c&HDCCEEF&\clip(m 172.75 366 l 448.5 258.25 453.375 266.25 177.5 374)\pos(323.743,335.799)\blur0.803\t(3542,5660,0.7,\blur10.084)\1a&HFF&\t(-15,647,\1a&H00)\fad(50,550)}Spring Blues
+Dialogue: 0,0:01:43.54,0:01:48.88,Title,,0,0,0,,{\c&HDACBEF&\clip(m 175.125 370 l 450.875 262.25 454.5 269.25 178.625 377.25)\pos(323.743,335.799)\blur0.803\t(3542,5660,0.7,\blur10.084)\1a&HFF&\t(-15,647,\1a&H00)\fad(50,550)}Spring Blues
+Dialogue: 0,0:01:43.54,0:01:48.88,Title,,0,0,0,,{\c&HD9C8EF&\clip(m 177.5 374 l 453.375 266.25 456.875 273.25 181 381.25)\pos(323.743,335.799)\blur0.803\t(3542,5660,0.7,\blur10.084)\1a&HFF&\t(-15,647,\1a&H00)\fad(50,550)}Spring Blues
+Dialogue: 0,0:01:43.54,0:01:48.88,Title,,0,0,0,,{\c&HD7C6EF&\clip(m 178.625 377.25 l 454.5 269.25 459.25 276.25 183.5 385.25)\pos(323.743,335.799)\blur0.803\t(3542,5660,0.7,\blur10.084)\1a&HFF&\t(-15,647,\1a&H00)\fad(50,550)}Spring Blues
+Dialogue: 0,0:01:43.54,0:01:48.88,Title,,0,0,0,,{\c&HD6C3EF&\clip(m 181 381.25 l 456.875 273.25 460.5 280.25 184.625 388.25)\pos(323.743,335.799)\blur0.803\t(3542,5660,0.7,\blur10.084)\1a&HFF&\t(-15,647,\1a&H00)\fad(50,550)}Spring Blues
+Dialogue: 0,0:01:43.54,0:01:48.88,Title,,0,0,0,,{\c&HD4C0EF&\clip(m 183.5 385.25 l 459.25 276.25 462.875 284.375 187 392.25)\pos(323.743,335.799)\blur0.803\t(3542,5660,0.7,\blur10.084)\1a&HFF&\t(-15,647,\1a&H00)\fad(50,550)}Spring Blues
+Dialogue: 0,0:01:43.54,0:01:48.88,Title,,0,0,0,,{\c&HD3BEEE&\clip(m 184.625 388.25 l 460.5 280.25 465.25 287.5 189.375 395.25)\pos(323.743,335.799)\blur0.803\t(3542,5660,0.7,\blur10.084)\1a&HFF&\t(-15,647,\1a&H00)\fad(50,550)}Spring Blues
+Dialogue: 0,0:01:43.54,0:01:48.88,Title,,0,0,0,,{\c&HD1BBEE&\clip(m 187 392.25 l 462.875 284.375 466.5 291.5 190.625 399.25)\pos(323.743,335.799)\blur0.803\t(3542,5660,0.7,\blur10.084)\1a&HFF&\t(-15,647,\1a&H00)\fad(50,550)}Spring Blues
+Dialogue: 0,0:01:43.54,0:01:48.88,Title,,0,0,0,,{\c&HD0B8EE&\clip(m 189.375 395.25 l 465.25 287.5 468.875 295.5 193 403.25)\pos(323.743,335.799)\blur0.803\t(3542,5660,0.7,\blur10.084)\1a&HFF&\t(-15,647,\1a&H00)\fad(50,550)}Spring Blues
+Dialogue: 0,0:01:43.54,0:01:48.88,Title,,0,0,0,,{\c&HCEB6EE&\clip(m 190.625 399.25 l 466.5 291.5 471.25 298.5 195.375 406.5)\pos(323.743,335.799)\blur0.803\t(3542,5660,0.7,\blur10.084)\1a&HFF&\t(-15,647,\1a&H00)\fad(50,550)}Spring Blues
+Dialogue: 0,0:01:43.54,0:01:48.88,Title,,0,0,0,,{\c&HCDB3EE&\clip(m 193 403.25 l 468.875 295.5 472.5 302.5 197.75 410.5)\pos(323.743,335.799)\blur0.803\t(3542,5660,0.7,\blur10.084)\1a&HFF&\t(-15,647,\1a&H00)\fad(50,550)}Spring Blues
+Dialogue: 0,0:01:43.54,0:01:48.88,Title,,0,0,0,,{\c&HCBB0EE&\clip(m 195.375 406.5 l 471.25 298.5 474.875 305.5 199 414.5)\pos(323.743,335.799)\blur0.803\t(3542,5660,0.7,\blur10.084)\1a&HFF&\t(-15,647,\1a&H00)\fad(50,550)}Spring Blues
+Dialogue: 0,0:01:43.54,0:01:48.88,Title,,0,0,0,,{\c&HC9AEEE&\clip(m 197.75 410.5 l 472.5 302.5 477.25 309.5 201.375 417.5)\pos(323.743,335.799)\blur0.803\t(3542,5660,0.7,\blur10.084)\1a&HFF&\t(-15,647,\1a&H00)\fad(50,550)}Spring Blues
+Dialogue: 0,0:01:43.54,0:01:48.88,Title,,0,0,0,,{\c&HC8ABEE&\clip(m 199 414.5 l 474.875 305.5 479.625 313.5 203.75 421.5)\pos(323.743,335.799)\blur0.803\t(3542,5660,0.7,\blur10.084)\1a&HFF&\t(-15,647,\1a&H00)\fad(50,550)}Spring Blues
+Dialogue: 0,0:01:43.54,0:01:48.88,Title,,0,0,0,,{\c&HC6A8EE&\clip(m 201.375 417.5 l 477.25 309.5 480.875 316.75 205 424.5)\pos(323.743,335.799)\blur0.803\t(3542,5660,0.7,\blur10.084)\1a&HFF&\t(-15,647,\1a&H00)\fad(50,550)}Spring Blues
+Dialogue: 0,0:01:43.54,0:01:48.88,Title,,0,0,0,,{\c&HC5A6EE&\clip(m 203.75 421.5 l 479.625 313.5 483.25 320.75 207.375 428.5)\pos(323.743,335.799)\blur0.803\t(3542,5660,0.7,\blur10.084)\1a&HFF&\t(-15,647,\1a&H00)\fad(50,550)}Spring Blues
+Dialogue: 0,0:01:43.54,0:01:48.88,Title,,0,0,0,,{\c&HC3A3EE&\clip(m 205 424.5 l 480.875 316.75 485.625 324.75 209.75 432.5)\pos(323.743,335.799)\blur0.803\t(3542,5660,0.7,\blur10.084)\1a&HFF&\t(-15,647,\1a&H00)\fad(50,550)}Spring Blues
+Dialogue: 0,0:01:43.54,0:01:48.88,Title,,0,0,0,,{\c&HC2A1EE&\clip(m 207.375 428.5 l 483.25 320.75 486.75 327.75 211 435.75)\pos(323.743,335.799)\blur0.803\t(3542,5660,0.7,\blur10.084)\1a&HFF&\t(-15,647,\1a&H00)\fad(50,550)}Spring Blues
+Dialogue: 0,0:01:43.54,0:01:48.88,Title,,0,0,0,,{\c&HC09EED&\clip(m 209.75 432.5 l 485.625 324.75 489.25 331.75 213.375 439.75)\pos(323.743,335.799)\blur0.803\t(3542,5660,0.7,\blur10.084)\1a&HFF&\t(-15,647,\1a&H00)\fad(50,550)}Spring Blues
+Dialogue: 0,0:01:43.54,0:01:48.88,Title,,0,0,0,,{\c&HBF9BED&\clip(m 211 435.75 l 486.75 327.75 491.75 334.75 215.75 443.75)\pos(323.743,335.799)\blur0.803\t(3542,5660,0.7,\blur10.084)\1a&HFF&\t(-15,647,\1a&H00)\fad(50,550)}Spring Blues
+Dialogue: 0,0:01:43.54,0:01:48.88,Title,,0,0,0,,{\c&HBD99ED&\clip(m 213.375 439.75 l 489.25 331.75 493 338.75 217 446.75)\pos(323.743,335.799)\blur0.803\t(3542,5660,0.7,\blur10.084)\1a&HFF&\t(-15,647,\1a&H00)\fad(50,550)}Spring Blues
+Dialogue: 0,0:01:43.54,0:01:48.88,Title,,0,0,0,,{\c&HBC96ED&\clip(m 215.75 443.75 l 491.75 334.75 495.375 342.75 219.375 450.75)\pos(323.743,335.799)\blur0.803\t(3542,5660,0.7,\blur10.084)\1a&HFF&\t(-15,647,\1a&H00)\fad(50,550)}Spring Blues
 Dialogue: 0,0:14:10.28,0:14:13.29,Signs,,0,0,0,,{\c&H526169&\blur0.504\b1\frz23\fax-0.43\pos(312.25,158.431)}{\blur0.703\fnFredoka One}Karaoke
 Dialogue: 0,0:16:29.76,0:16:29.80,Signs,,0,0,0,,{\blur0.603\pos(-66.808,219.742)\xbord0.222\ybord0.202\fax-0.05\fs16.134\fscx77.421\3c&H2A2C2E&\c&H2A2C2E&\frz2\fry10}{\blur0.502}Watch out for {\bord2.016\3c&H323644&\c&H323644&}molesters!
 Dialogue: 1,0:16:29.76,0:16:29.80,Signs,,0,0,0,,{\bord0\blur0.603\pos(-66.808,219.742)\fax-0.05\fs16.134\fscx77.421\c&H2A2C2E&\frz2\fry10\4a&HFF&}{\blur0.502}Watch out for {\c&H2E535D&\bord0}molesters!
@@ -629,5 +631,5 @@ Dialogue: 0,0:23:19.21,0:23:25.46,Next EP - Scrolling Text,,0,0,0,,{\move(1133.8
 Dialogue: 1,0:23:19.21,0:23:25.46,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(1133.882,386.611,-714.059,386.611)\q2\blur0.703\4a&HFF&}They exchange teddy bears. Getting in a good mood.
 Dialogue: 0,0:23:19.25,0:23:25.63,Next EP - Scrolling Text,,0,0,0,,{\move(1543.539,456.904,-339.088,456.904)\q2\blur0.703\c&HFBFDF8&}But, Nanoka is acting strange, and it makes Koshiro nervous.
 Dialogue: 1,0:23:19.25,0:23:25.63,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(1543.539,456.904,-339.088,456.904)\q2\blur0.703\4a&HFF&}But, Nanoka is acting strange, and it makes Koshiro nervous.
-Dialogue: 1,0:23:27.13,0:23:28.47,Next EP - Verdict,,0,0,0,,{\pos(671,41.172)\bord1.004\blur0.502\bord0\c&H00000000&\4a&HFF&\fs36.151\iclip(579,-1,797,45)\t(27,900,\iclip(797,-1,797,45))}Hide his glasses
-Dialogue: 0,0:23:27.13,0:23:28.47,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\c&HFFFFFF&\pos(673.392,45.188)\fs36.151\\iclip(579,-1,797,45)\t(27,900,\iclip(797,-1,797,45))}Hide his glasses
+Dialogue: 1,0:23:27.17,0:23:28.51,Next EP - Verdict,,0,0,0,,{\pos(671,41.172)\bord1.004\blur0.502\bord0\c&H00000000&\4a&HFF&\fs36.151\iclip(579,-1,797,45)\t(27,900,\iclip(797,-1,797,45))}Hide his glasses
+Dialogue: 0,0:23:27.17,0:23:28.51,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\c&HFFFFFF&\pos(673.392,45.188)\fs36.151\\iclip(579,-1,797,45)\t(27,900,\iclip(797,-1,797,45))}Hide his glasses
