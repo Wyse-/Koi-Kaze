@@ -23,8 +23,9 @@ Keyframes File: Scene Changes/ep5.txt
 Video AR Mode: 4
 Video AR Value: 1.779167
 Video Zoom Percent: 2.058333
-Active Line: 294
-Video Position: 33916
+Scroll Position: 430
+Active Line: 470
+Video Position: 33750
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -509,14 +510,14 @@ Dialogue: 0,0:23:21.42,0:23:22.62,Dialogue - Alt,,0,0,0,,Is that a crime?
 Dialogue: 0,0:23:22.62,0:23:23.95,Dialogue - Alt,,0,0,0,,Is that something to be ashamed of?
 Dialogue: 0,0:23:23.95,0:23:26.63,Dialogue - Alt,,0,0,0,,Then, as we’re fighting over TV channels, we’ll start to fall in love...
 Dialogue: 0,0:23:26.63,0:23:28.51,Dialogue,,0,0,0,,Sentenced to a flogging!
-Dialogue: 0,0:23:18.16,0:23:21.48,Next EP - Scrolling Text,,0,0,0,,{\move(938.49,386.61,-82.96,386.61)\q2\blur0.703\c&HFBFDF8&}Next episode:
-Dialogue: 1,0:23:18.16,0:23:21.48,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(938.49,386.61,-82.96,386.61)\q2\blur0.703\4a&HFF&}Next episode:
-Dialogue: 0,0:23:18.08,0:23:21.58,Next EP - Scrolling Text,,0,0,0,,{\move(963.61,456.9,-111.67,456.9)\q2\blur0.703\c&HFBFDF8&}Autumn Melancholy
-Dialogue: 1,0:23:18.08,0:23:21.58,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(963.61,456.9,-111.67,456.9)\q2\blur0.703\4a&HFF&}Autumn Melancholy
+Dialogue: 0,0:23:18.16,0:23:21.48,Next EP - Scrolling Text,,0,0,0,,{\move(942.49,386.61,-78.96,386.61)\q2\blur0.703\c&HFBFDF8&}Next episode:
+Dialogue: 1,0:23:18.16,0:23:21.48,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(942.49,386.61,-78.96,386.61)\q2\blur0.703\4a&HFF&}Next episode:
+Dialogue: 0,0:23:18.08,0:23:21.58,Next EP - Scrolling Text,,0,0,0,,{\move(967.61,456.9,-107.67,456.9)\q2\blur0.703\c&HFBFDF8&}Autumn Melancholy
+Dialogue: 1,0:23:18.08,0:23:21.58,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(967.61,456.9,-107.67,456.9)\q2\blur0.703\4a&HFF&}Autumn Melancholy
 Dialogue: 0,0:23:18.91,0:23:25.46,Next EP - Scrolling Text,,0,0,0,,{\move(1430.08,386.61,-582.92,386.61)\q2\blur0.703\c&HFBFDF8&}My adorable little sister has a boyfriend? I totally misunderstand and put myself in an awkward situation.
 Dialogue: 1,0:23:18.91,0:23:25.46,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(1430.08,386.61,-582.92,386.61)\q2\blur0.703\4a&HFF&}My adorable little sister has a boyfriend? I totally misunderstand and put myself in an awkward situation.
-Dialogue: 0,0:23:19.44,0:23:26.13,Next EP - Scrolling Text,,0,0,0,,{\move(1434.86,456.9,-624.61,456.9)\q2\blur0.703\c&HFBFDF8&}Big brother and little sister get into a fight. Koshiro trembles.
-Dialogue: 1,0:23:19.44,0:23:26.13,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(1434.86,456.9,-624.61,456.9)\q2\blur0.703\4a&HFF&}Big brother and little sister get into a fight. Koshiro trembles.
+Dialogue: 0,0:23:19.44,0:23:26.13,Next EP - Scrolling Text,,0,0,0,,{\move(1466.86,456.9,-592.61,456.9)\q2\blur0.703\c&HFBFDF8&}Big brother and little sister get into a fight. Koshiro trembles.
+Dialogue: 1,0:23:19.44,0:23:26.13,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(1466.86,456.9,-592.61,456.9)\q2\blur0.703\4a&HFF&}Big brother and little sister get into a fight. Koshiro trembles.
 Dialogue: 0,0:00:11.63,0:00:15.81,OP - Romaji,,0,0,0,fx,{\fad(300,200)\blur0.753}{\k39}ha{\k28}ji{\k31}me{\k30}te {\k31}no {\k95}ki{\k93}mo{\k51}chi
 Dialogue: 0,0:00:16.40,0:00:20.77,OP - Romaji,,0,0,0,fx,{\fad(300,200)\blur0.753}{\k42}sho{\k29}n{\k32}bo{\k32}ri {\k26}no {\k93}mu{\k98}ne {\k47}ni
 Dialogue: 0,0:00:20.77,0:00:29.87,OP - Romaji,,0,0,0,fx,{\fad(300,200)\blur0.753}{\k94}sot{\k85}to {\k71}na{\k94}ge{\k94}ra{\k62}re{\k154}ta {\k32}hi{\k33}da{\k32}ma{\k95}ri{\k49} ne

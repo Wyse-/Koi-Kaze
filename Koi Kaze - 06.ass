@@ -24,7 +24,7 @@ Video AR Value: 1.779167
 Video Zoom Percent: 2.058333
 Scroll Position: 296
 Active Line: 323
-Video Position: 33933
+Video Position: 33754
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -378,8 +378,8 @@ Dialogue: 0,0:23:18.16,0:23:21.51,Next EP - Scrolling Text,,0,0,0,,{\move(943.49
 Dialogue: 1,0:23:18.16,0:23:21.51,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(943.49,456.9,-75.57,456.9)\q2\blur0.703\4a&HFF&}First Storm
 Dialogue: 0,0:23:18.91,0:23:25.46,Next EP - Scrolling Text,,0,0,0,,{\move(1171.94,386.61,-812.35,386.61)\q2\blur0.703\c&HFBFDF8&}Nanoka gets a love letter. Koshiro is extremely worried...
 Dialogue: 1,0:23:18.91,0:23:25.46,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(1171.94,386.61,-812.35,386.61)\q2\blur0.703\4a&HFF&}Nanoka gets a love letter. Koshiro is extremely worried...
-Dialogue: 0,0:23:19.44,0:23:26.13,Next EP - Scrolling Text,,0,0,0,,{\move(1439.86,456.9,-600.65,456.9)\q2\blur0.703\c&HFBFDF8&}but pretends he's not affected, and gives her some mature advice. Koshiro walks with heavy feet.
-Dialogue: 1,0:23:19.44,0:23:26.13,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(1439.86,456.9,-600.65,456.9)\q2\blur0.703\4a&HFF&}but pretends he's not affected, and gives her some mature advice. Koshiro walks with heavy feet.
+Dialogue: 0,0:23:19.44,0:23:26.13,Next EP - Scrolling Text,,0,0,0,,{\move(1399.86,456.9,-640.65,456.9)\q2\blur0.703\c&HFBFDF8&}but pretends he's not affected, and gives her some mature advice. Koshiro walks with heavy feet.
+Dialogue: 1,0:23:19.44,0:23:26.13,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(1399.86,456.9,-640.65,456.9)\q2\blur0.703\4a&HFF&}but pretends he's not affected, and gives her some mature advice. Koshiro walks with heavy feet.
 Dialogue: 0,0:23:26.05,0:23:27.76,Dialogue,,0,0,0,,Go to hell!
 Dialogue: 0,0:00:11.63,0:00:15.81,OP - Romaji,,0,0,0,fx,{\fad(300,200)\blur0.753}{\k39}ha{\k28}ji{\k31}me{\k30}te {\k31}no {\k95}ki{\k93}mo{\k51}chi
 Dialogue: 0,0:00:16.40,0:00:20.77,OP - Romaji,,0,0,0,fx,{\fad(300,200)\blur0.753}{\k42}sho{\k29}n{\k32}bo{\k32}ri {\k26}no {\k93}mu{\k98}ne {\k47}ni

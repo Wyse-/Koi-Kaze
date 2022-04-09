@@ -23,8 +23,8 @@ Video AR Mode: 4
 Video AR Value: 1.779167
 Video Zoom Percent: 2.058333
 Scroll Position: 287
-Active Line: 301
-Video Position: 33892
+Active Line: 307
+Video Position: 33831
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -354,8 +354,8 @@ Dialogue: 0,0:23:19.21,0:23:22.38,Next EP - Scrolling Text,,0,0,0,,{\move(924.35
 Dialogue: 1,0:23:19.21,0:23:22.38,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(924.35,456.9,-76.76,456.9)\q2\blur0.703\4a&HFF&}Wintry moon
 Dialogue: 0,0:23:19.87,0:23:26.30,Next EP - Scrolling Text,,0,0,0,,{\move(1379.078,386.611,-654.255,386.611)\q2\blur0.703\c&HFBFDF8&}Koshiro realized that his feelings for her are serious. So he's decided to separate from Nanoka.
 Dialogue: 1,0:23:19.87,0:23:26.30,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(1379.078,386.611,-654.255,386.611)\q2\blur0.703\4a&HFF&}Koshiro realized that his feelings for her are serious. So he's decided to separate from Nanoka.
-Dialogue: 0,0:23:22.50,0:23:28.13,Next EP - Scrolling Text,,0,0,0,,{\move(1034.608,456.904,-743.961,456.904)\q2\blur0.703\c&HFBFDF8&}Koshiro sneaks away in the dark.
-Dialogue: 1,0:23:22.50,0:23:28.13,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(1034.608,456.904,-743.961,456.904)\q2\blur0.703\4a&HFF&}Koshiro sneaks away in the dark.
+Dialogue: 0,0:23:22.50,0:23:28.13,Next EP - Scrolling Text,,0,0,0,,{\move(1050.61,456.9,-729.96,456.9)\q2\blur0.703\c&HFBFDF8&}Koshiro sneaks away in the dark.
+Dialogue: 1,0:23:22.50,0:23:28.13,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(1050.61,456.9,-729.96,456.9)\q2\blur0.703\4a&HFF&}Koshiro sneaks away in the dark.
 Dialogue: 0,0:00:11.63,0:00:15.81,OP - Romaji,,0,0,0,fx,{\fad(300,200)\blur0.753}{\k39}ha{\k28}ji{\k31}me{\k30}te {\k31}no {\k95}ki{\k93}mo{\k51}chi
 Dialogue: 0,0:00:16.40,0:00:20.77,OP - Romaji,,0,0,0,fx,{\fad(300,200)\blur0.753}{\k42}sho{\k29}n{\k32}bo{\k32}ri {\k26}no {\k93}mu{\k98}ne {\k47}ni
 Dialogue: 0,0:00:20.77,0:00:29.87,OP - Romaji,,0,0,0,fx,{\fad(300,200)\blur0.753}{\k94}sot{\k85}to {\k71}na{\k94}ge{\k94}ra{\k62}re{\k154}ta {\k32}hi{\k33}da{\k32}ma{\k95}ri{\k49} ne
