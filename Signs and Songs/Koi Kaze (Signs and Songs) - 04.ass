@@ -37,7 +37,6 @@ Style: ED - Eng,Amaranth,30,&H32A1F0F3,&H7D585858,&H0028A8EE,&H00010108,0,0,0,0,
 Style: Next EP - Scrolling Text,Patrick Hand,35,&H00DC1DE8,&H000019FF,&H00FBFDF8,&HBE000000,0,0,0,0,119.109,100,0,0,1,2.51046,0,5,0,0,0,1
 Style: Next EP - Rotating Text,teen spirit,20,&H0000FFFF,&H0000FFFF,&H0056465B,&H0056465B,-1,-1,0,0,119.109,100,0,0,1,2.00837,0,2,6,6,5,0
 Style: Next EP - Static Text,Balsoon,40,&H00070606,&H000019FF,&H00FFFEFE,&HBE000000,0,0,0,0,119.109,100,0,0,1,1.70711,0,2,0,0,0,1
-Style: TL Note,LTFinnegan Medium,28,&H00D8D4C7,&H000019FF,&H00101010,&HBE000000,0,-1,0,0,100.052,100,0,0,1,1.40586,0.702929,8,38,38,23,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -217,11 +216,11 @@ Dialogue: 0,0:23:27.76,0:23:27.80,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\fs
 Dialogue: 0,0:23:27.80,0:23:27.84,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\fsp0.502\fs55.23\fscy110\an4\c&HFFFFFF&\pos(391.118,26.109)}Like Hell
 Dialogue: 1,0:23:27.84,0:23:28.51,Next EP - Verdict,,0,0,0,,{\bord0\blur0.502\fs55.23\an5\pos(486.062,39.163)}Like Hell
 Dialogue: 0,0:23:27.84,0:23:28.51,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\fsp0.502\fs55.23\an4\c&HFFFFFF&\pos(391.118,44.184)}Like Hell
-Dialogue: 0,0:23:17.54,0:23:20.87,Next EP - Scrolling Text,,0,0,0,,{\move(948.49,386.611,-74.157,386.611)\q2\blur0.703\c&HFBFDF8&}Next episode:
-Dialogue: 1,0:23:17.54,0:23:20.87,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(948.49,386.611,-74.157,386.611)\q2\blur0.703\4a&HFF&}Next episode:
-Dialogue: 0,0:23:17.54,0:23:20.87,Next EP - Scrolling Text,,0,0,0,,{\move(948.49,456.904,-74.157,456.904)\q2\blur0.703\c&HFBFDF8&}Distant Thunder
-Dialogue: 1,0:23:17.54,0:23:20.87,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(948.49,456.904,-74.157,456.904)\q2\blur0.703\4a&HFF&}Distant Thunder
+Dialogue: 0,0:23:17.54,0:23:20.87,Next EP - Scrolling Text,,0,0,0,,{\move(956.49,386.61,-66.16,386.61)\q2\blur0.703\c&HFBFDF8&}Next episode:
+Dialogue: 1,0:23:17.54,0:23:20.87,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(956.49,386.61,-66.16,386.61)\q2\blur0.703\4a&HFF&}Next episode:
+Dialogue: 0,0:23:17.54,0:23:20.87,Next EP - Scrolling Text,,0,0,0,,{\move(956.49,456.9,-66.16,456.9)\q2\blur0.703\c&HFBFDF8&}Distant Thunder
+Dialogue: 1,0:23:17.54,0:23:20.87,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(956.49,456.9,-66.16,456.9)\q2\blur0.703\4a&HFF&}Distant Thunder
 Dialogue: 0,0:23:18.33,0:23:24.96,Next EP - Scrolling Text,,0,0,0,,{\move(1435.294,386.611,-596.843,386.611)\q2\blur0.703\c&HFBFDF8&}Every man has trash that he doesn't want other people to find. Nanoka was being nice trying to clean it up.
 Dialogue: 1,0:23:18.33,0:23:24.96,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(1435.294,386.611,-596.843,386.611)\q2\blur0.703\4a&HFF&}Every man has trash that he doesn't want other people to find. Nanoka was being nice trying to clean it up.
-Dialogue: 0,0:23:18.91,0:23:25.71,Next EP - Scrolling Text,,0,0,0,,{\move(1459.216,456.904,-618.373,456.904)\q2\blur0.703\c&HFBFDF8&}Koshiro's face twitches, because he can't get mad at her.
-Dialogue: 1,0:23:18.91,0:23:25.71,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(1459.216,456.904,-618.373,456.904)\q2\blur0.703\4a&HFF&}Koshiro's face twitches, because he can't get mad at her.
+Dialogue: 0,0:23:18.91,0:23:25.71,Next EP - Scrolling Text,,0,0,0,,{\move(1477.22,456.9,-600.37,456.9)\q2\blur0.703\c&HFBFDF8&}Koshiro's face twitches, because he can't get mad at her.
+Dialogue: 1,0:23:18.91,0:23:25.71,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(1477.22,456.9,-600.37,456.9)\q2\blur0.703\4a&HFF&}Koshiro's face twitches, because he can't get mad at her.

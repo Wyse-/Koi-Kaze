@@ -39,7 +39,6 @@ Style: ED - Eng,Amaranth,30,&H32A1F0F3,&H7D585858,&H0028A8EE,&H00010108,0,0,0,0,
 Style: Next EP - Scrolling Text,Patrick Hand,35,&H00DC1DE8,&H000019FF,&H00FBFDF8,&HBE000000,0,0,0,0,119.109,100,0,0,1,2.51046,0,5,0,0,0,1
 Style: Next EP - Rotating Text,teen spirit,20,&H0000FFFF,&H0000FFFF,&H0056465B,&H0056465B,-1,-1,0,0,119.109,100,0,0,1,2.00837,0,2,6,6,5,0
 Style: Next EP - Static Text,Balsoon,40,&H00070606,&H000019FF,&H00FFFEFE,&HBE000000,0,0,0,0,119.109,100,0,0,1,1.70711,0,2,0,0,0,1
-Style: TL Note,LTFinnegan Medium,28,&H00D8D4C7,&H000019FF,&H00101010,&HBE000000,0,-1,0,0,100.052,100,0,0,1,1.40586,0.702929,8,38,38,23,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -413,14 +412,14 @@ Dialogue: 0,0:22:46.58,0:22:51.28,ED - Eng,,0,0,0,,{\fad(300,200)\blur0.753}We j
 Dialogue: 0,0:22:52.04,0:22:56.40,ED - Eng,,0,0,0,,{\fad(300,200)\blur0.753}to the peaceful sky.
 Dialogue: 0,0:22:57.56,0:23:03.55,ED - Eng,,0,0,0,,{\fad(300,200)\blur0.753}Hope that we’ll see each other again tomorrow
 Dialogue: 0,0:23:05.30,0:23:11.44,ED - Eng,,0,0,0,,{\fad(300,200)\blur0.753}to the peaceful sky.
-Dialogue: 0,0:23:18.71,0:23:22.21,Next EP - Scrolling Text,,0,0,0,,{\move(916.96,386.61,-87.74,386.61)\q2\blur0.703\c&HFBFDF8&}Next episode:
-Dialogue: 1,0:23:18.71,0:23:22.21,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(916.96,386.61,-87.74,386.61)\q2\blur0.703\4a&HFF&}Next episode:
-Dialogue: 0,0:23:18.71,0:23:22.21,Next EP - Scrolling Text,,0,0,0,,{\move(916.96,456.9,-87.74,456.9)\q2\blur0.703\c&HFBFDF8&}Spring Blues
-Dialogue: 1,0:23:18.71,0:23:22.21,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(916.96,456.9,-87.74,456.9)\q2\blur0.703\4a&HFF&}Spring Blues
-Dialogue: 0,0:23:19.48,0:23:25.75,Next EP - Scrolling Text,,0,0,0,,{\move(1138.23,386.61,-661.86,386.61)\q2\blur0.703\c&HFBFDF8&}Nanoka, who is Koshiro's sister, starts to live with him.
-Dialogue: 1,0:23:19.48,0:23:25.75,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(1138.23,386.61,-661.86,386.61)\q2\blur0.703\4a&HFF&}Nanoka, who is Koshiro's sister, starts to live with him.
-Dialogue: 0,0:23:19.48,0:23:25.75,Next EP - Scrolling Text,,0,0,0,,{\move(1434.27,456.9,-365.83,456.9)\q2\blur0.703\c&HFBFDF8&}Nanoka calls him "big brother", and Koshiro gets into a quandary.
-Dialogue: 1,0:23:19.48,0:23:25.75,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(1434.27,456.9,-365.83,456.9)\q2\blur0.703\4a&HFF&}Nanoka calls him "big brother", and Koshiro gets into a quandary.
+Dialogue: 0,0:23:18.71,0:23:22.21,Next EP - Scrolling Text,,0,0,0,,{\move(922.96,386.61,-81.74,386.61)\q2\blur0.703\c&HFBFDF8&}Next episode:
+Dialogue: 1,0:23:18.71,0:23:22.21,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(922.96,386.61,-81.74,386.61)\q2\blur0.703\4a&HFF&}Next episode:
+Dialogue: 0,0:23:18.71,0:23:22.21,Next EP - Scrolling Text,,0,0,0,,{\move(922.96,456.9,-81.74,456.9)\q2\blur0.703\c&HFBFDF8&}Spring Blues
+Dialogue: 1,0:23:18.71,0:23:22.21,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(922.96,456.9,-81.74,456.9)\q2\blur0.703\4a&HFF&}Spring Blues
+Dialogue: 0,0:23:19.48,0:23:25.75,Next EP - Scrolling Text,,0,0,0,,{\move(1144.23,386.61,-655.86,386.61)\q2\blur0.703\c&HFBFDF8&}Nanoka, who is Koshiro's sister, starts to live with him.
+Dialogue: 1,0:23:19.48,0:23:25.75,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(1144.23,386.61,-655.86,386.61)\q2\blur0.703\4a&HFF&}Nanoka, who is Koshiro's sister, starts to live with him.
+Dialogue: 0,0:23:19.48,0:23:25.75,Next EP - Scrolling Text,,0,0,0,,{\move(1440.27,456.9,-359.83,456.9)\q2\blur0.703\c&HFBFDF8&}Nanoka calls him "big brother", and Koshiro gets into a quandary.
+Dialogue: 1,0:23:19.48,0:23:25.75,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(1440.27,456.9,-359.83,456.9)\q2\blur0.703\4a&HFF&}Nanoka calls him "big brother", and Koshiro gets into a quandary.
 Dialogue: 0,0:23:14.97,0:23:16.54,Next EP - Static Text,,0,0,0,,{\blur0.603\pos(598.039,90.377)\c&HF5FCFC&}{\blur0.402}AN EPIC SERIES PREVIEW
 Dialogue: 1,0:23:14.97,0:23:16.54,Next EP - Static Text,,0,0,0,,{\bord0\blur0.603\pos(598.039,90.377)\4a&HFF&}{\blur0.402}AN EPIC SERIES PREVIEW
 Dialogue: 0,0:23:15.37,0:23:16.54,Next EP - Rotating Text,,0,0,0,,{\blur0.603\pos(430.588,487.029)\fs60.251\bord3.013\3c&HFFFEFE&\c&HFFFEFE&\frx25}{\t(0,620,\frx0)}{\blur0.703}CHIDORI'S JUDGEMENT

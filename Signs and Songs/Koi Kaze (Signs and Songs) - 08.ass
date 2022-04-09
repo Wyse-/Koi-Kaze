@@ -36,7 +36,6 @@ Style: ED - Eng,Amaranth,30,&H32A1F0F3,&H7D585858,&H0028A8EE,&H00010108,0,0,0,0,
 Style: Next EP - Scrolling Text,Patrick Hand,35,&H00DC1DE8,&H000019FF,&H00FBFDF8,&HBE000000,0,0,0,0,119.109,100,0,0,1,2.51046,0,5,0,0,0,1
 Style: Next EP - Rotating Text,teen spirit,20,&H0000FFFF,&H0000FFFF,&H0056465B,&H0056465B,-1,-1,0,0,119.109,100,0,0,1,2.00837,0,2,6,6,5,0
 Style: Next EP - Static Text,Balsoon,40,&H00070606,&H000019FF,&H00FFFEFE,&HBE000000,0,0,0,0,119.109,100,0,0,1,1.70711,0,2,0,0,0,1
-Style: TL Note,LTFinnegan Medium,28,&H00D8D4C7,&H000019FF,&H00101010,&HBE000000,0,-1,0,0,100.052,100,0,0,1,1.40586,0.702929,8,38,38,23,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -95,14 +94,14 @@ Dialogue: 0,0:23:25.63,0:23:25.67,Next EP - Verdict,,0,0,0,,{\fs47.197\bord3.026
 Dialogue: 1,0:23:25.63,0:23:25.67,Next EP - Verdict,,0,0,0,,{\fs47.197\bord0\blur0.502\c&H101010&\pos(340.882,80.335)}Play out the machine!
 Dialogue: 0,0:23:25.67,0:23:27.30,Next EP - Verdict,,0,0,0,,{\fs54.226\bord3.026\blur3.026\c&HFFFFFF&\pos(331.314,57.238)}Play out the machine!
 Dialogue: 1,0:23:25.67,0:23:27.30,Next EP - Verdict,,0,0,0,,{\fs54.226\bord0\blur0.502\c&H101010&\pos(331.314,57.238)}Play out the machine!
-Dialogue: 0,0:23:18.08,0:23:21.42,Next EP - Scrolling Text,,0,0,0,,{\move(932.94,386.61,-490.39,386.61)\q2\blur0.703\c&HFBFDF8&}Next episode:
-Dialogue: 1,0:23:18.08,0:23:21.42,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(932.94,386.61,-490.39,386.61)\q2\blur0.703\4a&HFF&}Next episode:
-Dialogue: 0,0:23:18.08,0:23:21.42,Next EP - Scrolling Text,,0,0,0,,{\move(932.94,456.9,-499.96,456.9)\q2\blur0.703\c&HFBFDF8&}Wind flower
-Dialogue: 1,0:23:18.08,0:23:21.42,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(932.94,456.9,-499.96,456.9)\q2\blur0.703\4a&HFF&}Wind flower
-Dialogue: 0,0:23:18.64,0:23:25.46,Next EP - Scrolling Text,,0,0,0,,{\move(1332.77,386.61,-1568.92,386.61)\q2\blur0.703\c&HFBFDF8&}Koshiro starts keeping distance from Nanoka and begins to act more like her big brother.
-Dialogue: 1,0:23:18.64,0:23:25.46,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(1332.77,386.61,-1568.92,386.61)\q2\blur0.703\4a&HFF&}Koshiro starts keeping distance from Nanoka and begins to act more like her big brother.
-Dialogue: 0,0:23:19.84,0:23:27.09,Next EP - Scrolling Text,,0,0,0,,{\move(1164.12,456.9,-1935.73,456.9)\q2\blur0.703\c&HFBFDF8&}So, Nanoka starts trusting Koshiro more. Koshiro is happy.
-Dialogue: 1,0:23:19.84,0:23:27.09,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(1164.12,456.9,-1935.74,456.9)\q2\blur0.703\4a&HFF&}So, Nanoka starts trusting Koshiro more. Koshiro is happy.
+Dialogue: 0,0:23:18.08,0:23:21.42,Next EP - Scrolling Text,,0,0,0,,{\move(956.94,386.61,-466.39,386.61)\q2\blur0.703\c&HFBFDF8&}Next episode:
+Dialogue: 1,0:23:18.08,0:23:21.42,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(956.94,386.61,-466.39,386.61)\q2\blur0.703\4a&HFF&}Next episode:
+Dialogue: 0,0:23:18.08,0:23:21.42,Next EP - Scrolling Text,,0,0,0,,{\move(958.94,456.9,-473.96,456.9)\q2\blur0.703\c&HFBFDF8&}Wind flower
+Dialogue: 1,0:23:18.08,0:23:21.42,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(958.94,456.9,-473.96,456.9)\q2\blur0.703\4a&HFF&}Wind flower
+Dialogue: 0,0:23:18.64,0:23:25.46,Next EP - Scrolling Text,,0,0,0,,{\move(1352.77,386.61,-1548.92,386.61)\q2\blur0.703\c&HFBFDF8&}Koshiro starts keeping distance from Nanoka and begins to act more like her big brother.
+Dialogue: 1,0:23:18.64,0:23:25.46,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(1352.77,386.61,-1548.92,386.61)\q2\blur0.703\4a&HFF&}Koshiro starts keeping distance from Nanoka and begins to act more like her big brother.
+Dialogue: 0,0:23:19.84,0:23:27.09,Next EP - Scrolling Text,,0,0,0,,{\move(1196.12,456.9,-1907.73,456.9)\q2\blur0.703\c&HFBFDF8&}So, Nanoka starts trusting Koshiro more. Koshiro is happy.
+Dialogue: 1,0:23:19.84,0:23:27.09,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(1196.12,456.9,-1907.74,456.9)\q2\blur0.703\4a&HFF&}So, Nanoka starts trusting Koshiro more. Koshiro is happy.
 Dialogue: 0,0:00:11.63,0:00:15.81,OP - Romaji,,0,0,0,fx,{\fad(300,200)\blur0.753}{\k39}ha{\k28}ji{\k31}me{\k30}te {\k31}no {\k95}ki{\k93}mo{\k51}chi
 Dialogue: 0,0:00:16.40,0:00:20.77,OP - Romaji,,0,0,0,fx,{\fad(300,200)\blur0.753}{\k42}sho{\k29}n{\k32}bo{\k32}ri {\k26}no {\k93}mu{\k98}ne {\k47}ni
 Dialogue: 0,0:00:20.77,0:00:29.87,OP - Romaji,,0,0,0,fx,{\fad(300,200)\blur0.753}{\k94}sot{\k85}to {\k71}na{\k94}ge{\k94}ra{\k62}re{\k154}ta {\k32}hi{\k33}da{\k32}ma{\k95}ri{\k49} ne

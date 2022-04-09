@@ -35,7 +35,6 @@ Style: ED - Eng,Amaranth,30,&H32A1F0F3,&H7D585858,&H0028A8EE,&H00010108,0,0,0,0,
 Style: Next EP - Scrolling Text,Patrick Hand,35,&H00DC1DE8,&H000019FF,&H00FBFDF8,&HBE000000,0,0,0,0,119.109,100,0,0,1,2.51046,0,5,0,0,0,1
 Style: Next EP - Rotating Text,teen spirit,20,&H0000FFFF,&H0000FFFF,&H0056465B,&H0056465B,-1,-1,0,0,119.109,100,0,0,1,2.00837,0,2,6,6,5,0
 Style: Next EP - Static Text,Balsoon,40,&H00070606,&H000019FF,&H00FFFEFE,&HBE000000,0,0,0,0,119.109,100,0,0,1,1.70711,0,2,0,0,0,1
-Style: TL Note,LTFinnegan Medium,28,&H00D8D4C7,&H000019FF,&H00101010,&HBE000000,0,-1,0,0,100.052,100,0,0,1,1.40586,0.702929,8,38,38,23,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -84,14 +83,14 @@ Dialogue: 0,0:23:16.58,0:23:16.62,Next EP - Rotating Text,,0,0,0,,{\blur0.603\po
 Dialogue: 1,0:23:16.58,0:23:16.62,Next EP - Rotating Text,,0,0,0,,{\blur0.603\pos(430.588,487.029)\fs60.251\bord0\c&H00000000&\4a&HFF&}{\blur0.703\iclip(m 417.375 388.625 l 418.625 477 748.75 476 742.75 382.625 m 594.5 406.75 l 637.5 402.625 b 642.25 420.75 643.5 455.875 641.125 473 l 599.25 472)}CHIDORI'S JUDGEMENT
 Dialogue: 0,0:23:16.62,0:23:17.12,Next EP - Rotating Text,,0,0,0,,{\blur0.603\pos(430.588,487.029)\fs60.251\bord3.013\3c&HFFFEFE&\c&HFFFEFE&}{\blur0.703}CHIDORI'S JUDGEMENT
 Dialogue: 1,0:23:16.62,0:23:17.12,Next EP - Rotating Text,,0,0,0,,{\blur0.603\pos(430.588,487.029)\fs60.251\bord0\c&H00000000&\4a&HFF&}{\blur0.703}CHIDORI'S JUDGEMENT
-Dialogue: 0,0:23:18.04,0:23:21.12,Next EP - Scrolling Text,,0,0,0,,{\move(942.73,386.61,-145.71,386.61)\q2\blur0.703\c&HFBFDF8&}Next episode:
-Dialogue: 1,0:23:18.04,0:23:21.12,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(942.73,386.61,-145.71,386.61)\q2\blur0.703\4a&HFF&}Next episode:
-Dialogue: 0,0:23:18.04,0:23:21.12,Next EP - Scrolling Text,,0,0,0,,{\move(942.73,456.9,-145.71,456.9)\q2\blur0.703\c&HFBFDF8&}Lingering winter
-Dialogue: 1,0:23:18.04,0:23:21.12,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(942.73,456.9,-145.71,456.9)\q2\blur0.703\4a&HFF&}Lingering winter
-Dialogue: 0,0:23:18.41,0:23:24.46,Next EP - Scrolling Text,,0,0,0,,{\move(1390.82,386.61,-734.61,386.61)\q2\blur0.703\c&HFBFDF8&}Koshiro decides to live right, but his feelings for Nanoka keep getting stronger.
-Dialogue: 1,0:23:18.41,0:23:24.46,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(1390.82,386.61,-734.61,386.61)\q2\blur0.703\4a&HFF&}Koshiro decides to live right, but his feelings for Nanoka keep getting stronger.
-Dialogue: 0,0:23:20.92,0:23:26.21,Next EP - Scrolling Text,,0,0,0,,{\move(1058.529,456.904,-803.765,456.904)\q2\blur0.703\c&HFBFDF8&}He wants to see Nanoka. Koshiro cries.
-Dialogue: 1,0:23:20.92,0:23:26.21,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(1058.529,456.904,-803.765,456.904)\q2\blur0.703\4a&HFF&}He wants to see Nanoka. Koshiro cries.
+Dialogue: 0,0:23:18.04,0:23:21.12,Next EP - Scrolling Text,,0,0,0,,{\move(962.73,386.61,-125.71,386.61)\q2\blur0.703\c&HFBFDF8&}Next episode:
+Dialogue: 1,0:23:18.04,0:23:21.12,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(962.73,386.61,-125.71,386.61)\q2\blur0.703\4a&HFF&}Next episode:
+Dialogue: 0,0:23:18.04,0:23:21.12,Next EP - Scrolling Text,,0,0,0,,{\move(962.73,456.9,-125.71,456.9)\q2\blur0.703\c&HFBFDF8&}Lingering winter
+Dialogue: 1,0:23:18.04,0:23:21.12,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(962.73,456.9,-125.71,456.9)\q2\blur0.703\4a&HFF&}Lingering winter
+Dialogue: 0,0:23:18.41,0:23:24.46,Next EP - Scrolling Text,,0,0,0,,{\move(1406.82,386.61,-718.61,386.61)\q2\blur0.703\c&HFBFDF8&}Koshiro decides to live right, but his feelings for Nanoka keep getting stronger.
+Dialogue: 1,0:23:18.41,0:23:24.46,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(1406.82,386.61,-718.61,386.61)\q2\blur0.703\4a&HFF&}Koshiro decides to live right, but his feelings for Nanoka keep getting stronger.
+Dialogue: 0,0:23:20.92,0:23:26.21,Next EP - Scrolling Text,,0,0,0,,{\move(1083.53,456.9,-778.76,456.9)\q2\blur0.703\c&HFBFDF8&}He wants to see Nanoka. Koshiro cries.
+Dialogue: 1,0:23:20.92,0:23:26.21,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(1083.53,456.9,-778.76,456.9)\q2\blur0.703\4a&HFF&}He wants to see Nanoka. Koshiro cries.
 Dialogue: 1,0:23:25.17,0:23:26.96,Next EP - Verdict,,0,0,0,,{\pos(621.961,56.234)\bord1.004\blur0.803\bord0\c&H00000000&\4a&HFF&\fs36.151\iclip(448,13,748,60)\t(27,1260,\iclip(748,13,748,60))\fnGochi Hand}Master Takahashi
 Dialogue: 0,0:23:25.17,0:23:26.96,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\c&HFFFFFF&\pos(621.961,60.251)\fs36.151\\iclip(448,13,748,60)\t(27,1260,\iclip(748,13,748,60))\fnGochi Hand}Master Takahashi
 Dialogue: 0,0:00:11.63,0:00:15.81,OP - Romaji,,0,0,0,fx,{\fad(300,200)\blur0.753}{\k39}ha{\k28}ji{\k31}me{\k30}te {\k31}no {\k95}ki{\k93}mo{\k51}chi

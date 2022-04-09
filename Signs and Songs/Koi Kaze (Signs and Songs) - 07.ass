@@ -36,7 +36,6 @@ Style: ED - Eng,Amaranth,30,&H32A1F0F3,&H7D585858,&H0028A8EE,&H00010108,0,0,0,0,
 Style: Next EP - Scrolling Text,Patrick Hand,35,&H00DC1DE8,&H000019FF,&H00FBFDF8,&HBE000000,0,0,0,0,119.109,100,0,0,1,2.51046,0,5,0,0,0,1
 Style: Next EP - Rotating Text,teen spirit,20,&H0000FFFF,&H0000FFFF,&H0056465B,&H0056465B,-1,-1,0,0,119.109,100,0,0,1,2.00837,0,2,6,6,5,0
 Style: Next EP - Static Text,Balsoon,40,&H00070606,&H000019FF,&H00FFFEFE,&HBE000000,0,0,0,0,119.109,100,0,0,1,1.70711,0,2,0,0,0,1
-Style: TL Note,LTFinnegan Medium,28,&H00D8D4C7,&H000019FF,&H00101010,&HBE000000,0,-1,0,0,100.052,100,0,0,1,1.40586,0.702929,8,38,38,23,1
 Style: Signs - Handwriting,Desyrel,35,&H007D8683,&H000000FF,&H00000000,&H00000000,0,0,0,0,100.052,100,0,0,1,0,0,5,12,12,10,1
 
 [Events]
@@ -216,8 +215,8 @@ Dialogue: 0,0:23:18.16,0:23:21.48,Next EP - Scrolling Text,,0,0,0,,{\move(926.53
 Dialogue: 1,0:23:18.16,0:23:21.48,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(926.53,456.9,-221.71,456.9)\q2\blur0.703\4a&HFF&}Dew frost
 Dialogue: 0,0:23:18.81,0:23:25.46,Next EP - Scrolling Text,,0,0,0,,{\move(1294.92,386.61,-1005.14,386.61)\q2\blur0.703\c&HFBFDF8&}Koshiro goes to see his mother... to reconcile his feelings toward his little sister.
 Dialogue: 1,0:23:18.81,0:23:25.46,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(1294.92,386.61,-1005.14,386.61)\q2\blur0.703\4a&HFF&}Koshiro goes to see his mother... to reconcile his feelings toward his little sister.
-Dialogue: 0,0:23:20.11,0:23:27.09,Next EP - Scrolling Text,,0,0,0,,{\move(1304.49,456.9,-1106.8,456.9)\q2\blur0.703\c&HFBFDF8&}But, Koshiro can't get rid of that feeling.
-Dialogue: 1,0:23:20.11,0:23:27.09,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(1304.49,456.9,-1106.8,456.9)\q2\blur0.703\4a&HFF&}But, Koshiro can't get rid of that feeling.
+Dialogue: 0,0:23:20.11,0:23:27.09,Next EP - Scrolling Text,,0,0,0,,{\move(1328.49,456.9,-1082.8,456.9)\q2\blur0.703\c&HFBFDF8&}But, Koshiro can't get rid of that feeling.
+Dialogue: 1,0:23:20.11,0:23:27.09,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(1328.49,456.9,-1082.8,456.9)\q2\blur0.703\4a&HFF&}But, Koshiro can't get rid of that feeling.
 Dialogue: 0,0:00:11.63,0:00:15.81,OP - Romaji,,0,0,0,fx,{\fad(300,200)\blur0.753}{\k39}ha{\k28}ji{\k31}me{\k30}te {\k31}no {\k95}ki{\k93}mo{\k51}chi
 Dialogue: 0,0:00:16.40,0:00:20.77,OP - Romaji,,0,0,0,fx,{\fad(300,200)\blur0.753}{\k42}sho{\k29}n{\k32}bo{\k32}ri {\k26}no {\k93}mu{\k98}ne {\k47}ni
 Dialogue: 0,0:00:20.77,0:00:29.87,OP - Romaji,,0,0,0,fx,{\fad(300,200)\blur0.753}{\k94}sot{\k85}to {\k71}na{\k94}ge{\k94}ra{\k62}re{\k154}ta {\k32}hi{\k33}da{\k32}ma{\k95}ri{\k49} ne

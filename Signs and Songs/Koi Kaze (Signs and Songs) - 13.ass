@@ -34,7 +34,6 @@ Style: ED - Eng,Amaranth,30,&H32A1F0F3,&H7D585858,&H0028A8EE,&H00010108,0,0,0,0,
 Style: Next EP - Scrolling Text,Patrick Hand,35,&H00DC1DE8,&H000019FF,&H00FBFDF8,&HBE000000,0,0,0,0,119.109,100,0,0,1,2.51046,0,5,0,0,0,1
 Style: Next EP - Rotating Text,teen spirit,20,&H0000FFFF,&H0000FFFF,&H0056465B,&H0056465B,-1,-1,0,0,119.109,100,0,0,1,2.00837,0,2,6,6,5,0
 Style: Next EP - Static Text,Balsoon,40,&H00070606,&H000019FF,&H00FFFEFE,&HBE000000,0,0,0,0,119.109,100,0,0,1,1.70711,0,2,0,0,0,1
-Style: TL Note,LTFinnegan Medium,28,&H00D8D4C7,&H000019FF,&H00101010,&HBE000000,0,-1,0,0,100.052,100,0,0,1,1.40586,0.702929,8,38,38,23,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -65,6 +64,9 @@ Dialogue: 0,0:06:26.82,0:06:26.94,Signs,,0,0,0,,{\fs30\fnRancho\c&H263343&\blur0
 Dialogue: 0,0:06:26.94,0:06:27.95,Signs,,0,0,0,,{\fs30\fnRancho\c&H263343&\blur0.9\frz0.5\fax0.29\pos(518.899,415.385)}MEMORIES
 Dialogue: 0,0:10:54.92,0:10:57.30,Signs,,0,0,0,,{\fnYeseva One\fs20\c&H9BA2A3&\blur0.8\pos(415.827,194.818)}MANAGER'S OFFICE
 Dialogue: 0,0:10:57.32,0:10:59.05,Signs,,0,0,0,,{\fs24.1\fax0.2\frz15.1\pos(353.488,82.011)\fnPatua One\c&H38464E&\blur0.803}Resignation
+Dialogue: 0,0:13:52.68,0:13:54.68,Signs,,0,0,0,,{\fnFake Serif\c&H3D4750&\fax-0.1\blur0.703\frz9.913\fs8\pos(625.611,203.85)}Kohinata Nanoka
+Dialogue: 0,0:13:52.68,0:13:54.68,Signs,,0,0,0,,{\fnFake Serif\c&H3D4750&\fax-0.05\blur0.703\frz4.846\fs10\pos(653.796,261.212)}Koshiro
+Dialogue: 0,0:13:52.68,0:13:54.68,Signs,,0,0,0,,{\fnFake Serif\c&H3D4750&\fax-0.1\blur0.703\fs10\frz9.464\pos(706.883,189.168)}Saeki Zenzo
 Dialogue: 0,0:13:54.67,0:14:01.20,Signs,,0,0,0,,{\fnFake Serif\c&H3D4750&\fax0.5\pos(372.52,123.2)\blur0.703\frz348.2}Kohinata Nanoka
 Dialogue: 0,0:13:54.67,0:14:01.20,Signs,,0,0,0,,{\frz-12\fnFake Serif\c&H3D4750&\fax0.45\blur0.703\pos(459.485,250.039)}Koshiro
 Dialogue: 0,0:13:54.67,0:14:01.20,Signs,,0,0,0,,{\frz-12\fnFake Serif\c&H3D4750&\fax0.45\blur0.703\pos(601.954,175.078)}Saeki Zenzo

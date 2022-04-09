@@ -36,7 +36,6 @@ Style: ED - Eng,Amaranth,30,&H32A1F0F3,&H7D585858,&H0028A8EE,&H00010108,0,0,0,0,
 Style: Next EP - Scrolling Text,Patrick Hand,35,&H00DC1DE8,&H000019FF,&H00FBFDF8,&HBE000000,0,0,0,0,119.109,100,0,0,1,2.51046,0,5,0,0,0,1
 Style: Next EP - Rotating Text,teen spirit,20,&H0000FFFF,&H0000FFFF,&H0056465B,&H0056465B,-1,-1,0,0,119.109,100,0,0,1,2.00837,0,2,6,6,5,0
 Style: Next EP - Static Text,Balsoon,40,&H00070606,&H000019FF,&H00FFFEFE,&HBE000000,0,0,0,0,119.109,100,0,0,1,1.70711,0,2,0,0,0,1
-Style: TL Note,LTFinnegan Medium,28,&H00D8D4C7,&H000019FF,&H00101010,&HBE000000,0,-1,0,0,100.052,100,0,0,1,1.40586,0.702929,8,38,38,23,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -623,13 +622,13 @@ Dialogue: 0,0:23:16.58,0:23:16.62,Next EP - Rotating Text,,0,0,0,,{\blur0.603\po
 Dialogue: 1,0:23:16.58,0:23:16.62,Next EP - Rotating Text,,0,0,0,,{\blur0.603\pos(430.588,487.029)\fs60.251\bord0\c&H00000000&\4a&HFF&}{\blur0.703\iclip(m 417.375 388.625 l 418.625 477 748.75 476 742.75 382.625 m 594.5 406.75 l 637.5 402.625 b 642.25 420.75 643.5 455.875 641.125 473 l 599.25 472)}CHIDORI'S JUDGEMENT
 Dialogue: 0,0:23:16.62,0:23:17.12,Next EP - Rotating Text,,0,0,0,,{\blur0.603\pos(430.588,487.029)\fs60.251\bord3.013\3c&HFFFEFE&\c&HFFFEFE&}{\blur0.703}CHIDORI'S JUDGEMENT
 Dialogue: 1,0:23:16.62,0:23:17.12,Next EP - Rotating Text,,0,0,0,,{\blur0.603\pos(430.588,487.029)\fs60.251\bord0\c&H00000000&\4a&HFF&}{\blur0.703}CHIDORI'S JUDGEMENT
-Dialogue: 0,0:23:18.46,0:23:21.96,Next EP - Scrolling Text,,0,0,0,,{\move(926.961,386.611,-105.255,386.611)\q2\blur0.703\c&HFBFDF8&}Next episode:
-Dialogue: 1,0:23:18.46,0:23:21.96,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(926.961,386.611,-105.255,386.611)\q2\blur0.703\4a&HFF&}Next episode:
-Dialogue: 0,0:23:18.46,0:23:21.96,Next EP - Scrolling Text,,0,0,0,,{\move(926.961,456.904,-105.255,456.904)\q2\blur0.703\c&HFBFDF8&}Gentle Breeze
-Dialogue: 1,0:23:18.46,0:23:21.96,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(926.961,456.904,-105.255,456.904)\q2\blur0.703\4a&HFF&}Gentle Breeze
-Dialogue: 0,0:23:19.21,0:23:25.46,Next EP - Scrolling Text,,0,0,0,,{\move(1133.882,386.611,-714.059,386.611)\q2\blur0.703\c&HFBFDF8&}They exchange teddy bears. Getting in a good mood.
-Dialogue: 1,0:23:19.21,0:23:25.46,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(1133.882,386.611,-714.059,386.611)\q2\blur0.703\4a&HFF&}They exchange teddy bears. Getting in a good mood.
-Dialogue: 0,0:23:19.25,0:23:25.63,Next EP - Scrolling Text,,0,0,0,,{\move(1543.539,456.904,-339.088,456.904)\q2\blur0.703\c&HFBFDF8&}But, Nanoka is acting strange, and it makes Koshiro nervous.
-Dialogue: 1,0:23:19.25,0:23:25.63,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(1543.539,456.904,-339.088,456.904)\q2\blur0.703\4a&HFF&}But, Nanoka is acting strange, and it makes Koshiro nervous.
+Dialogue: 0,0:23:18.46,0:23:21.96,Next EP - Scrolling Text,,0,0,0,,{\move(931.96,386.61,-100.25,386.61)\q2\blur0.703\c&HFBFDF8&}Next episode:
+Dialogue: 1,0:23:18.46,0:23:21.96,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(931.96,386.61,-100.25,386.61)\q2\blur0.703\4a&HFF&}Next episode:
+Dialogue: 0,0:23:18.46,0:23:21.96,Next EP - Scrolling Text,,0,0,0,,{\move(931.96,456.9,-100.25,456.9)\q2\blur0.703\c&HFBFDF8&}Gentle Breeze
+Dialogue: 1,0:23:18.46,0:23:21.96,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(931.96,456.9,-100.25,456.9)\q2\blur0.703\4a&HFF&}Gentle Breeze
+Dialogue: 0,0:23:19.21,0:23:25.46,Next EP - Scrolling Text,,0,0,0,,{\move(1138.88,386.61,-709.06,386.61)\q2\blur0.703\c&HFBFDF8&}They exchange teddy bears. Getting in a good mood.
+Dialogue: 1,0:23:19.21,0:23:25.46,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(1138.88,386.61,-709.06,386.61)\q2\blur0.703\4a&HFF&}They exchange teddy bears. Getting in a good mood.
+Dialogue: 0,0:23:19.25,0:23:25.63,Next EP - Scrolling Text,,0,0,0,,{\move(1540.54,456.9,-342.09,456.9)\q2\blur0.703\c&HFBFDF8&}But, Nanoka is acting strange, and it makes Koshiro nervous.
+Dialogue: 1,0:23:19.25,0:23:25.63,Next EP - Scrolling Text,,0,0,0,,{\bord0\move(1540.54,456.9,-342.09,456.9)\q2\blur0.703\4a&HFF&}But, Nanoka is acting strange, and it makes Koshiro nervous.
 Dialogue: 1,0:23:27.17,0:23:28.51,Next EP - Verdict,,0,0,0,,{\pos(671,41.172)\bord1.004\blur0.502\bord0\c&H00000000&\4a&HFF&\fs36.151\iclip(579,-1,797,45)\t(27,900,\iclip(797,-1,797,45))}Hide his glasses
 Dialogue: 0,0:23:27.17,0:23:28.51,Next EP - Verdict,,0,0,0,,{\bord0\blur2.008\c&HFFFFFF&\pos(673.392,45.188)\fs36.151\\iclip(579,-1,797,45)\t(27,900,\iclip(797,-1,797,45))}Hide his glasses
