@@ -25,10 +25,10 @@ Video File: ../../../../../media/wyse/Media III/[WSE] Koi Kaze [raws wobbly-ivtc
 Keyframes File: Scene Changes/ep1.txt
 Video AR Mode: 4
 Video AR Value: 1.779167
-Video Zoom Percent: 2.058333
-Scroll Position: 580
-Active Line: 599
-Video Position: 33817
+Video Zoom Percent: 2.056250
+Scroll Position: 194
+Active Line: 235
+Video Position: 13377
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -278,13 +278,13 @@ Dialogue: 0,0:06:15.06,0:06:18.06,Signs,,0,0,0,,{\blur0.803\fs18.152\fax0.17\b1\
 Dialogue: 0,0:06:15.06,0:06:18.06,Signs,,0,0,0,,{\blur0.803\c&H4F565A&\frz-3\fax0.07\fs20.168\pos(420.954,269.042)\fnKlee One}The toilet is
 Dialogue: 0,0:06:15.06,0:06:18.06,Signs,,0,0,0,,{\blur0.803\c&H4F565A&\frz-3\fax0.07\fs20.168\pos(420.954,283.16)\fnKlee One}in the front.{おトイレは入口を出て正面です}
 Dialogue: 0,0:09:10.27,0:09:12.65,Signs,,0,0,0,,{\blur0.803\frz-16\fax0.55\fs30.252\fscx71.466\fsp1.008\fscy120\fry9\c&H353E46&\pos(295.678,17.027)\fnFredoka One}Machida Marriage Consulting{町田結婚談所}
-Dialogue: 0,0:09:12.65,0:09:12.78,Signs,,0,0,0,,{\blur0.803\frz-20\fax0.75\fs30.252\fscx65.51\fsp1.008\fscy120\fry9\c&H353E46&\pos(278.069,24.378)\fnFredoka One}Machida Marriage Consulting
-Dialogue: 0,0:09:12.78,0:09:12.90,Signs,,0,0,0,,{\blur0.803\fax0.88\fs30.252\fscx61.937\fsp1.008\fscy120\fry9\c&H353E46&\pos(268.669,27.739)\fnFredoka One\frz338.6}Machida Marriage Consulting
-Dialogue: 0,0:09:12.90,0:09:13.03,Signs,,0,0,0,,{\blur0.803\frz-23\fax0.95\fs30.252\fscx60.746\fsp1.008\fscy120\fry9\c&H353E46&\pos(262.627,30.428)\fnFredoka One}Machida Marriage Consulting
-Dialogue: 0,0:09:13.03,0:09:13.15,Signs,,0,0,0,,{\blur0.803\frz-23.5\fax0.96\fs30.252\fscx58.364\fsp1.008\fscy115\fry9\c&H353E46&\pos(252.554,30.428)\fnFredoka One}Machida Marriage Consulting
-Dialogue: 0,0:09:13.15,0:09:13.28,Signs,,0,0,0,,{\blur0.803\frz-24.7\fax1.05\fs30.252\fscx55.981\fsp1.008\fscy115\fry9\c&H353E46&\pos(245.842,31.1)\fnFredoka One}Machida Marriage Consulting
-Dialogue: 0,0:09:13.28,0:09:13.40,Signs,,0,0,0,,{\blur0.803\frz-25.7\fax1.04\fs30.252\fscx54.79\fsp1.008\fscy110\fry9\c&H353E46&\pos(240.47,31.771)\fnFredoka One}Machida Marriage Consulting
-Dialogue: 0,0:09:13.40,0:09:13.49,Signs,,0,0,0,,{\blur0.803\frz-27\fax1.148\fs30.252\fscx53.599\fsp1.008\fscy110\fry9\c&H353E46&\pos(234.429,33.116)\fnFredoka One}Machida Marriage Consulting
+Dialogue: 0,0:09:12.65,0:09:12.78,Signs,,0,0,0,,{\blur0.803\frz-20\fax0.72\fs30.252\fscx65.51\fsp1.008\fscy120\fry9\c&H353E46&\pos(278.069,24.378)\fnFredoka One}Machida Marriage Consulting
+Dialogue: 0,0:09:12.78,0:09:12.90,Signs,,0,0,0,,{\blur0.803\fax0.83\fs30.252\fscx63.2\fsp1.008\fscy120\fry9\c&H353E46&\pos(268.669,27.739)\fnFredoka One\frz338.6}Machida Marriage Consulting
+Dialogue: 0,0:09:12.90,0:09:13.03,Signs,,0,0,0,,{\blur0.803\frz-23\fax0.88\fs30.252\fscx61.746\fsp1.008\fscy120\fry9\c&H353E46&\pos(262.627,30.428)\fnFredoka One}Machida Marriage Consulting
+Dialogue: 0,0:09:13.03,0:09:13.15,Signs,,0,0,0,,{\blur0.803\frz-23.5\fax0.9\fs30.252\fscx60.1\fsp1.008\fscy115\fry9\c&H353E46&\pos(252.554,30.428)\fnFredoka One}Machida Marriage Consulting
+Dialogue: 0,0:09:13.15,0:09:13.28,Signs,,0,0,0,,{\blur0.803\frz-24.7\fax0.96\fs30.352\fscx57.981\fsp1.008\fscy115\fry9\c&H353E46&\pos(245.842,31.1)\fnFredoka One}Machida Marriage Consulting
+Dialogue: 0,0:09:13.28,0:09:13.40,Signs,,0,0,0,,{\blur0.803\frz-25.7\fax1.01\fs30.252\fscx55.5\fsp1.008\fscy110\fry9\c&H353E46&\pos(240.47,31.771)\fnFredoka One}Machida Marriage Consulting
+Dialogue: 0,0:09:13.40,0:09:13.49,Signs,,0,0,0,,{\blur0.803\frz-27\fax1.115\fs30.252\fscx54.87\fsp1.008\fscy110\fry9\c&H353E46&\pos(234.429,33.116)\fnFredoka One}Machida Marriage Consulting
 Dialogue: 0,0:11:35.63,0:11:35.75,Signs,,0,0,0,,{\blur0.803\frz60.92\fscx83.377\fs26.218\fsp1.008\fax0.45\bord1.008\3c&H5A4D6C&\c&H5A4D6C&\pos(602.511,-31.035)}Sakuragaoka Amusement Park{さくらがおか遊園地}{？いっぱい}
 Dialogue: 1,0:11:35.63,0:11:35.75,Signs,,0,0,0,,{\blur0.803\frz60.92\fscx83.377\fs26.218\fsp1.008\fax0.45\c&H6D519E&\bord0\pos(602.511,-31.035)\4a&HFF&}Sakuragaoka Amusement Park{さくらがおか遊園地}{？いっぱい}
 Dialogue: 0,0:11:35.75,0:11:35.88,Signs,,0,0,0,,{\blur0.803\frz57.15\fscx83.377\fs26.218\fsp1.008\fax0.45\bord1.008\3c&H5A4D6C&\c&H5A4D6C&\pos(554.24,0.845)}Sakuragaoka Amusement Park{さくらがおか遊園地}{？いっぱい}
